@@ -1,0 +1,45 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1,h2,h3,h4,h5, p {
+  margin-bottom:0.5em;
+}
+
+h1, h2 {
+  font-weight: 300;
+  font-size: 2.3rem;
+}
+
+.sub /* sub heading style */ {
+    text-transform: uppercase;
+    color: rgb(120,120,120);
+}
+/* Other elements */
+
+hr {
+  border: none;
+  border-bottom: 2px solid $color-featured;
+  width: 3.5rem;
+  margin: 1rem 0;
+}
+hr.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* buttons */
+
+.button {
+  padding: 0.5em 1em;
+  margin: 0.5em 0;
+  border: 1px solid $color-featured;
+  color: $color-featured;
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.button:hover {
+  border-color: $color-dark;
+  color: $color-dark;
+}

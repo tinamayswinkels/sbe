@@ -1,0 +1,18 @@
+---
+---
+
+$font-body: "macho",'Lato', sans-serif;
+$font-heading: "macho",'Lato', sans-serif;
+
+$color-body: #41414D;
+$color-featured: #59b350;
+$color-featured-f: white;
+$color-dark: #41414D;
+$color-dark-f: white;
+$color-light: #fafafc;
+$color-light-f: rgb(80,80,80);
+
+@import 'reset';
+@import 'nav';
+@import 'universal';
+@import 'typography';

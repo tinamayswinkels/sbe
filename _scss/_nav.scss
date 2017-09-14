@@ -1,0 +1,53 @@
+header {
+  position: relative;
+  padding: 0 5%;
+}
+header.grid > div {
+  padding: 1%;
+}
+
+.sub-menu {
+  visibility: hidden;
+  position: absolute;
+  width: 100%;
+  padding: 1% 5%;
+  background-color: rgb(240,240,240);
+  transition: opacity 0.3s;
+  opacity: 0;
+  left: 0;
+  z-index: 5;
+}
+
+.menu li {
+  list-style: none;
+  display: inline-block;
+}
+.menu li:hover > .sub-menu {
+  opacity: 1;
+  overflow: visible;
+  visibility: visible;
+}
+
+.menu a,
+footer nav a {
+  display: block;
+  text-decoration: none;
+  padding: 0.2rem;
+}
+
+.menu a:hover,
+footer nav a:hover {
+  color: $color-featured;
+}
+
+
+/* Footer */
+
+footer {
+  background-color: $color-dark;
+  color: white;
+}
+
+footer nav a {
+  font-size: 0.9rem;
+}

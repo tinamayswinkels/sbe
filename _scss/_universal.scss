@@ -1,0 +1,89 @@
+/* utility classes */
+
+.left {     text-align: left;   }
+.right {    text-align: right;  }
+.center {   text-align: center; }
+
+.padded {     padding: 5%;  }
+.padded-2 {   padding: 2%;  }
+.no-padding { padding: 0;   }
+
+
+/* Banners */
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  min-height: 90vh;
+  position: relative;
+  z-index: -1;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.overlay:after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.3);
+  z-index: -1;
+}
+
+.banner-inner {
+  color: white;
+  text-align: center;
+}
+
+.text-banner {
+  padding: 5%;
+  text-align: center;
+  background-color: rgb(250,250,250);
+}
+
+/* Image block with text overlay */
+
+.image {
+  background-size: cover;
+  background-position: center;
+  padding-bottom: 25%;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid white;
+}
+.text-overlay {
+  position: absolute;
+  bottom:  -10px;
+  font-size: 13vw;
+  line-height: 0.8;
+  right: 1rem;
+  color: rgba(255,255,255,0.8);
+  font-weight: 300;
+  margin:0;
+}
+
+
+/* alternating services loop */
+
+.services-loop > .grid:nth-of-type(odd)  {
+  flex-direction: row-reverse;
+}
+
+.services-loop .grid {
+  padding: 10vh 0;
+}
+
+/* project page */
+
+.project-info {
+    margin: 0;
+    margin-bottom: 1rem;
+    border-top: 1px solid rgb(150,150,150);
+    border-bottom: 1px solid rgb(150,150,150);
+}
+
+.project-info > div {
+  padding: 1%;
+}

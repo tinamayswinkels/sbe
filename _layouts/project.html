@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<section class="project">
+  <div class="grid">
+      <div class="col-6 padded">
+        <h3 class="sub">{{page.category}}</h3>
+        <h1> {{page.name}}</h1>
+
+        <div class="grid project-info">
+            <div class="col-5">
+              <h4 class="sub"> ARCHITECT </h4>
+              <p> {{page.architect}}</p>
+            </div>
+            <div class="col">
+              <h4 class="sub"> CLIENT </h4>
+              <p> {{page.client}}</p>
+            </div>
+            <div class="col">
+              <h4 class="sub"> DATE </h4>
+              <p> {{page.date | date: "%b %Y"}}</p>
+            </div>
+        </div>
+
+        {{content}}
+
+      </div>
+      <div class="col-6 image" style="background-image:url('{{page.images[0].image_path}}');">
+
+      </div>
+      <!-- second row -->
+
+      <div class="col-4 image" style="background-image:url('{{page.images[1].image_path}}');">
+
+      </div>
+      <div class="col-4 image" style="background-image:url('{{page.images[2].image_path}}');">
+
+      </div>
+      <div class="col-4 image" style="background-image:url('{{page.images[3].image_path}}');">
+
+      </div>
+</section>

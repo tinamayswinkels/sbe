@@ -1,0 +1,70 @@
+<header class="grid">
+   <div class="col-4-middle logo padded">
+      <!-- <img src="images/logo.png" alt="SBE"/> -->
+      <h3> SBE </h3>
+   </div>
+   <div class="col-8-middle right">
+     <nav class="menu">
+       <li> <a href="#"> Home </a> </li>
+      <li> <a href="#"> About </a> </li>
+      <li>
+         <a href="#"> Services </a>
+         <div class="sub-menu grid left padded">
+           <div class="col-3">
+             <h3> OUR SERVICES </h3>
+             <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+           </div>
+           <div class="col-3"> <!-- empty div --> </div>
+           <div class="col-3">
+                {% for service in site.services limit: 4 %}
+                <a href="{{service.url}}"> {{service.name}}</a>
+                {% endfor %}
+            </div>
+            <div class="col-3">
+              {% for service in site.services offset:4 %}
+              <a href="{{service.url}}"> {{service.name}}</a>
+              {% endfor %}
+            </div>
+         </div>
+      </li>
+      <li>
+        <a href="#"> Projects </a>
+        <div class="sub-menu grid left padded">
+          <div class="col-3">
+            <h3> OUR PROJECTS </h3>
+            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          </div>
+          <div class="col-3"> <!-- empty div --> </div>
+          <div class="col-3">
+            <a href="#"> Aquatic sports and leisure </a>
+            <a href="#"> Commercial </a>
+            <a href="#"> Educational </a>
+            <a href="#"> Eco-tourism </a>
+           </div>
+           <div class="col-3">
+             <a href="#"> Guidelines and Policy </a>
+             <a href="#"> Sustainable Master Planning </a>
+             <a href="#"> Residential </a>
+             <a href="#"> Other </a>
+           </div>
+        </div>
+      </li>
+      <li>
+          <a href="#"> Blog </a>
+      </li>
+      <li>
+          <a href="#"> Contact </a>
+      </li>
+     </nav>
+   </div>
+</header>
+
+<!-- This is the mobile menu button -->
+
+<!-- This is the mobile menu
+<div>
+
+
+</div>
+
+-->

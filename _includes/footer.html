@@ -1,0 +1,36 @@
+<footer class="grid">
+    <div class="col-3 padded-2">
+        <h3> Sustainable Built Environment</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+    </div>
+    <div class="col-3 padded-2">
+      <h4> OUR SERVICES </h4>
+      <nav>
+          {% for service in site.services %}
+          <a href="{{service.url}}"> {{service.name}}</a>
+          {% endfor %}
+      </nav>
+    </div>
+    <div class="col-3 padded-2">
+      <h4> OUR PROJECTS </h4>
+      <nav>
+        <a href="#"> Aquatic sports and leisure </a>
+        <a href="#"> Commercial </a>
+        <a href="#"> Educational </a>
+        <a href="#"> Eco-tourism </a>
+        <a href="#"> Guidelines and Policy </a>
+        <a href="#"> Sustainable Master Planning </a>
+        <a href="#"> Residential </a>
+        <a href="#"> Other </a>
+      </nav>
+    </div>
+    <div class="col-3 padded-2">
+      <h4> OTHER LINKS </h4>
+        <nav>
+          <a href="#"> Home </a>
+          <a href="#"> About </a>
+          <a href="#"> Blog </a>
+          <a href="#"> Contact </a>
+        </nav>
+    </div>
+</footer>

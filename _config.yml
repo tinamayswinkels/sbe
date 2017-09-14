@@ -1,0 +1,18 @@
+collections:
+  projects:
+    output: true
+  services:
+    output: true
+
+sass:
+    sass_dir: _scss
+
+categories:
+  - aquatic-sports-and-leisure
+  - commercial
+  - educational
+  - eco-tourism
+  - guidelines-and-policy
+  - sustainable-master-planning
+  - residential
+  - other
