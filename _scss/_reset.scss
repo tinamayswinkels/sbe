@@ -2,11 +2,13 @@
   box-sizing  : border-box;
   margin      : 0;
   padding     : 0;
+
   // border: 1px solid rgb(240,240,240);
 }
 html {
   overflow-x: hidden;
   font-size: 14px;
+    color: rgb(60,60,60);
 }
 
 img {
@@ -16,10 +18,13 @@ img {
 li {
   list-style-position: inside;
   font-weight: 300;
-  font-size: 17px;
 }
 
 a {
   display: inline-block;
   color: inherit;
+}
+p, li {
+  font-weight: 400;
+  font-size: 1.1rem;
 }

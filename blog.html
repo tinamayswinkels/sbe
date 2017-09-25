@@ -1,0 +1,27 @@
+---
+layout: default
+title: SBE Home Page
+banner-image_path: /images/building.jpg
+---
+
+<section class="posts padded">
+  <div class="center">
+      <h2> Recent Posts </h2>
+      <p> Thoughts and insights from the SBE team </p>
+      <hr class="center">
+  </div>
+
+
+  {% for post in site.posts %}
+  <div class="grid padded-2">
+      <div class="post-image col-4" style="background-image:url('{{post.image_path}}')"></div>
+      <div class="col-8 padded-2">
+          <h3> {{post.title}}</h3>
+          <p> {{post.excerpt}} </p>
+          <a href="{{post.url}}" class="button"> Read More </a>
+      </div>
+    </div>
+  {% endfor %}
+
+
+</section>

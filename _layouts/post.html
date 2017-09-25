@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
+  <div class="banner-inner">
+      <h1> {{page.title}} </h1>
+      <p> {{page.subtitle}} </p>
+  </div>
+</section>
+
+<section class="padded grid post">
+  <div class="col-8">
+   {{content}}
+  </div>
+
+
+  <div class="col-4 padded-2 sidebar">
+    <h2> Recent Posts</h2>
+    <hr />
+
+    {% for post in site.posts %}
+
+      <a href="{{post.url}}" class="padded-2 block">
+        <h3> {{post.title}}</h3>
+        <div class="sidebar-image" style="background-image:url('{{post.image_path}}')"></div>
+
+      </a>
+    {% endfor %}
+
+    </div>
+
+
+
+</section>
+
+<section class="text-banner">
+  <h2> this is a call to action</h2>
+  <hr class="center">
+  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <a href="#" class="button">Explore</a>
+</section>

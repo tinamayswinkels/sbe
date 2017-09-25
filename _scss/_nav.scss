@@ -1,6 +1,7 @@
 header {
   position: relative;
   padding: 0 5%;
+  border-bottom: 1px solid rgb(240,240,240);
 }
 header.grid > div {
   padding: 1%;
@@ -32,7 +33,9 @@ header.grid > div {
 footer nav a {
   display: block;
   text-decoration: none;
-  padding: 0.2rem;
+  padding: 0.2rem 0.5rem;
+  font-size: 1.1rem;
+  font-weight: 400;
 }
 
 .menu a:hover,
@@ -46,8 +49,10 @@ footer nav a:hover {
 footer {
   background-color: $color-dark;
   color: white;
+  padding: 1% 5%;
 }
 
 footer nav a {
   font-size: 0.9rem;
+  padding: 0.2rem 0;
 }

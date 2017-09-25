@@ -3,13 +3,18 @@ body {
 }
 
 h1,h2,h3,h4,h5, p {
-  margin-bottom:0.5em;
+  margin:1em 0 0.5em;
 }
 
 h1, h2 {
   font-weight: 300;
   font-size: 2.3rem;
 }
+
+a {
+  text-decoration: none
+}
+
 
 .sub /* sub heading style */ {
     text-transform: uppercase;
@@ -42,4 +47,9 @@ hr.center {
 .button:hover {
   border-color: $color-dark;
   color: $color-dark;
+}
+
+
+.post h2 {
+  font-size: 1.8rem;
 }

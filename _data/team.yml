@@ -1,0 +1,12 @@
+- name: John
+  title: director
+  image_path: /images/person1.jpg
+- name: Sarah
+  title: owner
+  image_path: /images/person2.jpg
+- name: Daniel
+  title: team member
+  image_path: /images/person3.jpg
+- name: Mary
+  title: team member
+  image_path: /images/person4.jpg

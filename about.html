@@ -1,0 +1,92 @@
+---
+layout: default
+title: About SBE
+subtitle: The best company in the whole wide world
+banner-image_path: /images/building.jpg
+---
+
+<section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
+  <div class="banner-inner">
+      <h1> {{page.title}} </h1>
+      <p> {{page.subtitle}} </p>
+  </div>
+</section>
+<section class="padded center">
+  <h2> Our Philosophy</h2>
+  <hr  class="center">
+  <div class="columns left">
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+    <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+
+</section>
+
+<section class="padded center">
+  <h2> Our Team </h2>
+  <hr  class="center">
+
+<div class="grid">
+
+  {% for person in site.data.team %}
+    <div class="col-3_sm-6 image about" style="background-image:url('{{person.image_path}}');">
+    <div class="hover-overlay">
+      <div class="text-overlay">
+        <span class="name">{{person.name}}</span>
+        <span class="title">{{person.title}}</span>
+      </div>
+      </div>
+    </div>
+  {% endfor %}
+</div>
+
+</section>
+
+<section class="text-banner">
+  <h2> testimonials</h2>
+  <hr class="center">
+  <p> "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+</section>
+
+<section class="padded">
+  <div class="center">
+    <h2> Awards </h2>
+    <hr class="center">
+  </div>
+  <div class="border-left padded-2 margin-2">
+    <h2> 2017 </h2>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+  <div class="border-left padded-2 margin-2">
+    <h2> 2016 </h2>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+  <div class="border-left padded-2 margin-2">
+    <h2> 2015 </h2>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <h4> Award Title </h4>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  </div>
+</section>
