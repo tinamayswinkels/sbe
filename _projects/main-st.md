@@ -7,7 +7,7 @@ client: Small Giants
 date: 2012-09-07 00:00:00
 images:
   - title: Big Image 3
-    image_path: /images/building.jpg
+    image_path: /uploads/commons-1.JPG
   - title: Big Image 3
     image_path: /images/building.jpg
 ---
