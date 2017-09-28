@@ -1,13 +1,19 @@
 ---
 layout: service
 name: Environmental Computer Modelling
-blurb: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: >-
+  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+  aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
+  voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 image_path: /images/building.jpg
-number: 02
+number: 2
 ---
+
 
 ### Service Subheading
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Sustainable Master Planning involves considering the future by integrating sustainability and regenerative strategies into all phases of a master plan.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+To ensure successful sustainable project outcomes are achieved, SBE recommends that an ESD framework be developed at early concept planning design phase to guide the evolution of the master plan. This framework is then developed and refined through the planning, design, construction and operation or management phases of the project.
+
+SBE has developed a matrix that we can use to develop a framework specific to your project. Alternatively we can use official frameworks such as [One Planet Living](http://www.bioregional.com/oneplanetliving/), [Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sustainable-development-goals/), and [EnviroDevelopment](http://www.envirodevelopment.com.au/default.asp) to guide the project towards the desired ESD outcome.
