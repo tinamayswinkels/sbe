@@ -3,9 +3,8 @@ header {
   padding: 0 5%;
   border-bottom: 1px solid rgb(240,240,240);
 }
-header.grid > div {
-  padding: 1%;
-}
+header.grid > div {   padding: 0;   }
+header h3 { margin:0;  }
 
 .sub-menu {
   visibility: hidden;
@@ -27,6 +26,10 @@ header.grid > div {
   opacity: 1;
   overflow: visible;
   visibility: visible;
+}
+
+.menu > li > a {
+    padding: 2rem 0.5rem;
 }
 
 .menu a,
@@ -55,4 +58,12 @@ footer {
 footer nav a {
   font-size: 0.9rem;
   padding: 0.2rem 0;
+}
+
+.sub-footer {
+  background-color: #35353f;
+  color: rgb(220,220,220);
+  padding: 0.5%;
+  text-align: center;
+  font-size: 0.8rem;
 }

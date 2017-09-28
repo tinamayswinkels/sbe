@@ -33,6 +33,22 @@
   border-left: 2px solid $color-featured;
 }
 
+.offset-left {
+  border: 1px solid rgb(250,250,250);
+  background: white;
+  margin: 2rem -2rem;
+}
+
+.offset-top {
+  border: 1px solid rgb(250,250,250);
+  background: white;
+  margin: -2rem 1rem 0 1rem;
+}
+
+.light-bg {
+  background-color: rgb(250,250,250);
+}
+
 /* Banners */
 
 .banner {
@@ -65,21 +81,20 @@
 .text-banner {
   padding: 5%;
   text-align: center;
-  background-color: rgb(250,250,250);
 }
+
 
 /* Image block with text overlay */
 
 .image,
 .post-image,
-.sidebar-image {
+.sidebar-image,
+.tall-image {
   background-position: center;
   background-size: cover;
 }
 
 .image {
-  background-size: cover;
-  background-position: center;
   padding-bottom: 25%;
   position: relative;
   overflow: hidden;
@@ -99,7 +114,8 @@
 .post-image {
   padding-bottom: 25%;
 }
-.sidebar-image {
+.sidebar-image,
+.tall-image {
   padding-bottom: 50%;
 }
 
@@ -133,6 +149,11 @@
 .sidebar {
   border: 1px solid rgb(240,240,240);
   color: rgb(90,90,90);
+}
+
+.sidebar h2,
+.sidebar h3 {
+  margin-top:0;
 }
 
 
@@ -173,4 +194,15 @@
 
 .border-left h2 {
   margin-top:0;
+}
+
+/* Map section */
+
+.map {
+  background-image: url('/images/map.png');
+  background-size: cover;
+  background-position: center;
+  display: block;
+  min-height: 50vh;
+  z-index: 1;
 }

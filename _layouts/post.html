@@ -15,20 +15,26 @@ layout: default
   </div>
 
 
-  <div class="col-4 padded-2 sidebar">
-    <h2> Recent Posts</h2>
-    <hr />
-
-    {% for post in site.posts %}
-
-      <a href="{{post.url}}" class="padded-2 block">
-        <h3> {{post.title}}</h3>
-        <div class="sidebar-image" style="background-image:url('{{post.image_path}}')"></div>
-
-      </a>
-    {% endfor %}
-
+  <div class="col-4">
+    <div class="margin-2 padded sidebar">
+      <h2> About SBE </h2>
+      <hr />
+      <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </div>
+    <div class="margin-2 padded sidebar">
+      <h2> Recent Posts</h2>
+      <hr />
+
+      {% for post in site.posts %}
+
+        <a href="{{post.url}}" class="padded-2 block">
+          <h3> {{post.title}}</h3>
+          <div class="sidebar-image" style="background-image:url('{{post.image_path}}')"></div>
+
+        </a>
+      {% endfor %}
+    </div>
+
 
 
 

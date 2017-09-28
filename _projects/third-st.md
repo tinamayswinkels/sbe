@@ -1,6 +1,6 @@
 ---
 layout: project
-name: 31 Main Street
+name: 25 Circle Ave
 architect: Professional Architects
 category: commercial
 client: John Smith

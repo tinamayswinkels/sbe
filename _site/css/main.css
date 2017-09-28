@@ -29,7 +29,10 @@ header {
   border-bottom: 1px solid #f0f0f0; }
 
 header.grid > div {
-  padding: 1%; }
+  padding: 0; }
+
+header h3 {
+  margin: 0; }
 
 .sub-menu {
   visibility: hidden;
@@ -50,6 +53,9 @@ header.grid > div {
   opacity: 1;
   overflow: visible;
   visibility: visible; }
+
+.menu > li > a {
+  padding: 2rem 0.5rem; }
 
 .menu a,
 footer nav a {
@@ -72,6 +78,13 @@ footer {
 footer nav a {
   font-size: 0.9rem;
   padding: 0.2rem 0; }
+
+.sub-footer {
+  background-color: #35353f;
+  color: gainsboro;
+  padding: 0.5%;
+  text-align: center;
+  font-size: 0.8rem; }
 
 /* utility classes */
 .left {
@@ -117,6 +130,19 @@ footer nav a {
 .border-left {
   border-left: 2px solid #59b350; }
 
+.offset-left {
+  border: 1px solid #fafafa;
+  background: white;
+  margin: 2rem -2rem; }
+
+.offset-top {
+  border: 1px solid #fafafa;
+  background: white;
+  margin: -2rem 1rem 0 1rem; }
+
+.light-bg {
+  background-color: #fafafa; }
+
 /* Banners */
 .banner {
   background-size: cover;
@@ -145,19 +171,17 @@ footer nav a {
 
 .text-banner {
   padding: 5%;
-  text-align: center;
-  background-color: #fafafa; }
+  text-align: center; }
 
 /* Image block with text overlay */
 .image,
 .post-image,
-.sidebar-image {
+.sidebar-image,
+.tall-image {
   background-position: center;
   background-size: cover; }
 
 .image {
-  background-size: cover;
-  background-position: center;
   padding-bottom: 25%;
   position: relative;
   overflow: hidden;
@@ -176,7 +200,8 @@ footer nav a {
 .post-image {
   padding-bottom: 25%; }
 
-.sidebar-image {
+.sidebar-image,
+.tall-image {
   padding-bottom: 50%; }
 
 /* alternating services loop */
@@ -200,6 +225,10 @@ footer nav a {
 .sidebar {
   border: 1px solid #f0f0f0;
   color: #5a5a5a; }
+
+.sidebar h2,
+.sidebar h3 {
+  margin-top: 0; }
 
 /* About Page */
 .hover-overlay {
@@ -236,11 +265,24 @@ footer nav a {
 .border-left h2 {
   margin-top: 0; }
 
+/* Map section */
+.map {
+  background-image: url("/images/map.png");
+  background-size: cover;
+  background-position: center;
+  display: block;
+  min-height: 50vh;
+  z-index: 1; }
+
 body {
   font-family: 'Open Sans', sans-serif; }
 
 h1, h2, h3, h4, h5, p {
   margin: 1em 0 0.5em; }
+
+h2:first-child,
+h3:first-child {
+  margin-top: 0; }
 
 h1, h2 {
   font-weight: 300;

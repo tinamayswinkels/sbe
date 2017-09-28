@@ -1,6 +1,6 @@
 ---
 layout: project
-name: 31 Main Street
+name: 18 Second Street
 architect: Professional Architects
 category: commercial
 client: John Smith
