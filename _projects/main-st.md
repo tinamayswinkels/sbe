@@ -1,15 +1,11 @@
 ---
 layout: project
-name: 31 Main Street
-architect: Professional Architects
-category: commercial
-client: John Smith
-date: Jan 2017
+name: The Commons
+architect: Breathe Architects
+category: residential
+client: Small Giants
+date: 2012-09-07 00:00:00
 images:
-  - title: Big Image
-    image_path: /images/building.jpg
-  - title: Big Image 2
-    image_path: /images/building.jpg
   - title: Big Image 3
     image_path: /images/building.jpg
   - title: Big Image 3
