@@ -1,9 +1,9 @@
 ---
 layout: service
-name: Environmental Service
-blurb: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+name: Voluntary Certification
+blurb: Achieving leadership in the built environment with third-party certification
 image_path: /images/building.jpg
-number: 07
+number: 7
 ---
 
 ### Service Subheading
