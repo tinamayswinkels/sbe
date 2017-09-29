@@ -14,19 +14,11 @@ Our research ability covers a broad range of topics including materials, climate
 Some of our research projects include:
 
 * Climate Change Impacts on Buildings Energy Performance
-
 * Better Apartment Design Guide
-
 * DEH ESD Design Guide
-
 * DEH ESD Operations Guide
-
 * Greening Your Building: Improving Asset Performance
-
 * Your Building
-
 * Doncaster Hill Precinct Energy Plan
-
 * ESD Guidelines and thermal comfort studies for the Victorian Department of Education and Training
-
 * International Comparison of House Energy Rating tools
