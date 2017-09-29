@@ -9,8 +9,6 @@ number: 3
 ---
 
 
-### &nbsp;
-
 Compliance with Energy Efficiency requirements of the [National Construction Code](http://www.abcb.gov.au/Resources/NCC) is an integral part of the building permit process. Where a building is proposed to comply with Section J or Part 2.6 of the NCC two methods are generally available to meet the Performance Requirements:
 
 * **Deemed-to-Satisfy (DTS) Solution** – A DTS Solution uses the DTS Provisions and any referenced documents contained within the NCC. These provisions include prescriptive examples of materials, components, design factors, construction and installation methods, which if followed in full, are deemed to comply with the Performance Requirements of the NCC.
