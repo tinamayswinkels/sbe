@@ -3,7 +3,7 @@ layout: service
 name: Voluntary Certification
 blurb: Achieving leadership in the built environment with third-party certification
 image_path: /images/building.jpg
-number: 7
+number: 4
 ---
 
 ### Service Subheading
