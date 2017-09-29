@@ -3,7 +3,7 @@ layout: service
 name: Energy Audits
 blurb: Investigating the operation of buildings to increase performance
 image_path: /images/building.jpg
-number: 2
+number: 7
 ---
 
 ### Service Subheading
