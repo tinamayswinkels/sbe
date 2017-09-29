@@ -1,9 +1,7 @@
 ---
 layout: service
 name: Research
-blurb: >-
-  Demonstrating compliance with energy efficiency provisions for all type of
-  buildings
+blurb: Leading innovation through research
 image_path: /images/building.jpg
 number: 8
 ---
