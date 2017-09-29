@@ -6,8 +6,11 @@ image_path: /images/building.jpg
 number: 4
 ---
 
-### Service Subheading
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+### &nbsp;
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Achieving third party sustainable building certification is an excellent way to demonstrate a project’s robust sustainability credentials. Certified sustainable buildings regularly outperform other non-certified buildings in social, economic and environmental indicators, and can benefit building owners by allowing them to market their assets as industry leading facilities.
+
+SBE has extensive knowledge and experience in delivering voluntary certification services under a number of third party schemes including [Green Star](http://new.gbca.org.au/), [LEED](https://new.usgbc.org/leed), [WELL](https://www.wellcertified.com/en/start-a-project)and the [Living Building Challenge](https://living-future.org/lbc/).
+
+When working on a certification project, our staff will provide consulting services throughout the concept, planning, design and construction phases in order to guide the design team towards an holistic environmental design which achieves the client’s desired target.
