@@ -1,9 +1,7 @@
 ---
 layout: service
 name: Energy Audits
-blurb: >-
-  Demonstrating compliance with energy efficiency provisions for all type of
-  buildings
+blurb: Analysing buildings during operation to improve performance
 image_path: /images/building.jpg
 number: 7
 ---
