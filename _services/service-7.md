@@ -3,7 +3,7 @@ layout: service
 name: Building Physics
 blurb: Applying the principles of physics to the built environment
 image_path: /images/building.jpg
-number: 1
+number: 6
 ---
 
 ### Service Subheading
