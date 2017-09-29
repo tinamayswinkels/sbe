@@ -3,7 +3,7 @@ layout: service
 name: Sustainable Master Planning
 blurb: Designing thriving spaces in harmony with nature and communities
 image_path: /images/building.jpg
-number: 2
+number: 1
 ---
 
 
