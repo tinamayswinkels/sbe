@@ -6,8 +6,14 @@ image_path: /images/building.jpg
 number: 5
 ---
 
-### Service Subheading
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+SBE provides a comprehensive suite of building simulation services designed to assess and optimise building performance. Some of these services include:
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+* Thermal and energy modelling
+* Daylighting, glare and shading analysis
+* Computational Fluid Dynamics
+* Natural ventilation optimisation
+* HVAC validations
+* Resource efficiency opportunities
+
+Depending on the project’s requirement, the results obtained from simulations can be used to compare design solutions, validate design choices, predict performance outcomes, and report performance outcomes to relevant authorities and bodies.
