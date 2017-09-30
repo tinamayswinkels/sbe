@@ -13,8 +13,15 @@ banner-image_path: /images/building.jpg
 <section class="text-banner">
   <h2 class="center">Our customers love us... </h2>
   <hr class="center">
-  ADD 5 STARS
+
   <p>"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+  <span class="stars">
+    <i class="fa fa-star"></i>
+    <i class="fa fa-star"></i>
+    <i class="fa fa-star"></i>
+    <i class="fa fa-star"></i>
+    <i class="fa fa-star"></i>
+  </span>
   <p>- A grateful client</p>
 </section>
 
@@ -23,8 +30,8 @@ banner-image_path: /images/building.jpg
   <h2 class="center"> Recent Projects </h2>
   <hr class="center">
   <div class="grid">
-  {% for project in site.projects %}
-      <div class="col-4 padded-2">
+  {% for project in site.projects limit:3 %}
+      <div class="col-4_sm-12 padded-2">
         <div class="tall-image" style="background-image:url('{{project.images[0].image_path}}');">
         </div>
         <a href="{{project.url}}" class="offset-top padded">
@@ -44,7 +51,7 @@ banner-image_path: /images/building.jpg
 
         {% for service in site.services %}
 
-            <div class="col-3 padded-2">
+            <div class="col-3_sm-6_xs-12 padded-2">
                <h3 class="center">{{service.name}}</h3>
                <p>{{service.blurb}}</p>
             </div>

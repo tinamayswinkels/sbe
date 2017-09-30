@@ -4,7 +4,7 @@
       <h3> SBE </h3>
    </div>
    <div class="col-8-middle right">
-     <nav class="menu">
+     <nav class="menu mob-hide">
        <li> <a href="/index.html"> Home </a> </li>
       <li> <a href="/about"> About </a> </li>
       <li>
@@ -12,40 +12,38 @@
          <div class="sub-menu grid left padded">
            <div class="col-3">
              <h3> OUR SERVICES </h3>
-             <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+             <p class="editable"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
            </div>
            <div class="col-3"> <!-- empty div --> </div>
            <div class="col-3">
-                {% for service in site.services limit: 4 %}
+                {% for service in site.services limit:6 %}
                 <a href="{{service.url}}"> {{service.name}}</a>
                 {% endfor %}
             </div>
             <div class="col-3">
-              {% for service in site.services offset:4 %}
+              {% for service in site.services offset:6 %}
               <a href="{{service.url}}"> {{service.name}}</a>
               {% endfor %}
             </div>
          </div>
       </li>
       <li>
-        <a href="#"> Projects </a>
+        <a href="/projects"> Projects </a>
         <div class="sub-menu grid left padded">
           <div class="col-3">
             <h3> OUR PROJECTS </h3>
-            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="editable"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           </div>
           <div class="col-3"> <!-- empty div --> </div>
           <div class="col-3">
-            <a href="#"> Aquatic sports and leisure </a>
-            <a href="#"> Commercial </a>
-            <a href="#"> Educational </a>
-            <a href="#"> Eco-tourism </a>
+              {% for project in site.projects limit:6 %}
+              <a href="{{project.url}}"> {{project.name}}</a>
+              {% endfor %}
            </div>
            <div class="col-3">
-             <a href="#"> Guidelines and Policy </a>
-             <a href="#"> Sustainable Master Planning </a>
-             <a href="#"> Residential </a>
-             <a href="#"> Other </a>
+             {% for project in site.projects offset:6 %}
+             <a href="{{project.url}}"> {{project.name}}</a>
+             {% endfor %}
            </div>
         </div>
       </li>
@@ -53,18 +51,26 @@
           <a href="/blog"> Blog </a>
       </li>
       <li>
-          <a href="#"> Contact </a>
+          <a href="/contact"> Contact </a>
       </li>
      </nav>
+
+
+
    </div>
 </header>
 
-<!-- This is the mobile menu button -->
+<!-- Mobile Nav -->
+ <div class="mobile-menu-button">
+     <i class="fa fa-bars"></i>
+     <i class="fa fa-times"></i> <!-- this only appears on when the nav is open -->
+ </div>
 
-<!-- This is the mobile menu
-<div>
-
-
-</div>
-
--->
+ <nav class="mobile-nav">
+  <a href="/index.html"> Home </a>
+  <a href="/about"> About </a>
+  <a href="/services"> Services </a>
+  <a href="/projects"> Projects </a>
+  <a href="/blog"> Blog </a>
+  <a href="/contact"> Contact </a>
+ </nav>

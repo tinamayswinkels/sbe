@@ -8,7 +8,7 @@ date: Jan 2017
 blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 images:
   - title: Big Image
-    image_path: /images/building.jpg
+    image_path: /images/building2.png
   - title: Big Image 2
     image_path: /images/building.jpg
   - title: Big Image 3

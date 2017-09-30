@@ -8,6 +8,7 @@
 
 <!--  Links to stylesheets -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css" rel="stylesheet" >
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
 <link href="/css/main.css" rel="stylesheet">
 
@@ -33,7 +34,7 @@
       <h3> SBE </h3>
    </div>
    <div class="col-8-middle right">
-     <nav class="menu">
+     <nav class="menu mob-hide">
        <li> <a href="/index.html"> Home </a> </li>
       <li> <a href="/about"> About </a> </li>
       <li>
@@ -41,52 +42,52 @@
          <div class="sub-menu grid left padded">
            <div class="col-3">
              <h3> OUR SERVICES </h3>
-             <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+             <p class="editable"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
            </div>
            <div class="col-3"> <!-- empty div --> </div>
            <div class="col-3">
                 
-                <a href="/services/environmental-computer-modelling.html"> Environmental Computer Modelling</a>
+                <a href="/services/building-permit.html"> Building Permit</a>
                 
-                <a href="/services/esd-consulting.html"> ESD Consulting</a>
+                <a href="/services/building-physics.html"> Voluntary Certification</a>
                 
-                <a href="/services/esd-planning-reports.html"> ESD Planning Reports</a>
+                <a href="/services/building-simulation.html"> Research</a>
                 
-                <a href="/services/service-5.html"> Environmental Service</a>
+                <a href="/services/energy-audits.html"> Building Simulation</a>
+                
+                <a href="/services/research.html"> Building Physics</a>
+                
+                <a href="/services/sustainable-master-planning.html"> Town Planning</a>
                 
             </div>
             <div class="col-3">
               
-              <a href="/services/service-6.html"> Efficiency Consulting</a>
+              <a href="/services/town-planning.html"> Sustainable Master Planning</a>
               
-              <a href="/services/service-7.html"> ESD Consulting</a>
-              
-              <a href="/services/service-8.html"> Energy Consulting</a>
-              
-              <a href="/services/sustainable-master-planning.html"> Sustainable Master Planning</a>
+              <a href="/services/voluntary-certification.html"> Energy Audits</a>
               
             </div>
          </div>
       </li>
       <li>
-        <a href="#"> Projects </a>
+        <a href="/projects"> Projects </a>
         <div class="sub-menu grid left padded">
           <div class="col-3">
             <h3> OUR PROJECTS </h3>
-            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p class="editable"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
           </div>
           <div class="col-3"> <!-- empty div --> </div>
           <div class="col-3">
-            <a href="#"> Aquatic sports and leisure </a>
-            <a href="#"> Commercial </a>
-            <a href="#"> Educational </a>
-            <a href="#"> Eco-tourism </a>
+              
+              <a href="/projects/main-st.html"> The Commons</a>
+              
+              <a href="/projects/second-st.html"> 18 Second Street</a>
+              
+              <a href="/projects/third-st.html"> 25 Circle Ave</a>
+              
            </div>
            <div class="col-3">
-             <a href="#"> Guidelines and Policy </a>
-             <a href="#"> Sustainable Master Planning </a>
-             <a href="#"> Residential </a>
-             <a href="#"> Other </a>
+             
            </div>
         </div>
       </li>
@@ -94,21 +95,29 @@
           <a href="/blog"> Blog </a>
       </li>
       <li>
-          <a href="#"> Contact </a>
+          <a href="/contact"> Contact </a>
       </li>
      </nav>
+
+
+
    </div>
 </header>
 
-<!-- This is the mobile menu button -->
+<!-- Mobile Nav -->
+ <div class="mobile-menu-button">
+     <i class="fa fa-bars"></i>
+     <i class="fa fa-times"></i> <!-- this only appears on when the nav is open -->
+ </div>
 
-<!-- This is the mobile menu
-<div>
-
-
-</div>
-
--->
+ <nav class="mobile-nav">
+  <a href="/index.html"> Home </a>
+  <a href="/about"> About </a>
+  <a href="/services"> Services </a>
+  <a href="/projects"> Projects </a>
+  <a href="/blog"> Blog </a>
+  <a href="/contact"> Contact </a>
+ </nav>
 
 
       <section class="banner overlay" style="background-image:url('/images/building.jpg');">
@@ -118,9 +127,9 @@
   </div>
 </section>
 <section class="padded center">
-  <h2> Our Philosophy</h2>
+  <h2 class="editable"> Our Philosophy</h2>
   <hr  class="center">
-  <div class="columns left">
+  <div class="columns left editable">
     <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
     <p> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
@@ -132,7 +141,7 @@
 </section>
 
 <section class="padded center">
-  <h2> Our Team </h2>
+  <h2 class="editable"> Our Team </h2>
   <hr  class="center">
 
 <div class="grid">
@@ -178,81 +187,92 @@
 
 </section>
 
-<section class="text-banner">
-  <h2> testimonials</h2>
+<section class="text-banner light-bg">
+  <h2 class="editable"> testimonials</h2>
   <hr class="center">
-  <p> "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+  <p class="editable"> "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
 </section>
 
 <section class="padded">
   <div class="center">
-    <h2> Awards </h2>
+    <h2 class="rotate"> Awards </h2>
     <hr class="center">
   </div>
-  <div class="border-left padded-2 margin-2">
-    <h2> 2017 </h2>
+  <div class="border-left">
+    <h2 class="rotate"> 2017 </h2>
+    
     <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    
     <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    
     <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    
+
   </div>
-  <div class="border-left padded-2 margin-2">
-    <h2> 2016 </h2>
+  <div class="border-left">
+    <h2 class="rotate"> 2016 </h2>
+
+    
     <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    
     <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    
     <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    
+
   </div>
-  <div class="border-left padded-2 margin-2">
-    <h2> 2015 </h2>
+  <div class="border-left">
+    <h2 class="rotate"> 2015 </h2>
+
+    
     <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    
     <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    
     <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-    <h4> Award Title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    
+
   </div>
 </section>
 
 
       <footer class="grid">
-    <div class="col-3 padded-2">
+    <div class="col-3_sm-12 padded-2">
         <h3> Sustainable Built Environment</h3>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
     </div>
-    <div class="col-3 padded-2">
+    <div class="col-3_sm-12 padded-2">
       <h4> OUR SERVICES </h4>
       <nav>
           
-          <a href="/services/environmental-computer-modelling.html"> Environmental Computer Modelling</a>
+          <a href="/services/building-permit.html"> Building Permit</a>
           
-          <a href="/services/esd-consulting.html"> ESD Consulting</a>
+          <a href="/services/building-physics.html"> Voluntary Certification</a>
           
-          <a href="/services/esd-planning-reports.html"> ESD Planning Reports</a>
+          <a href="/services/building-simulation.html"> Research</a>
           
-          <a href="/services/service-5.html"> Environmental Service</a>
+          <a href="/services/energy-audits.html"> Building Simulation</a>
           
-          <a href="/services/service-6.html"> Efficiency Consulting</a>
+          <a href="/services/research.html"> Building Physics</a>
           
-          <a href="/services/service-7.html"> ESD Consulting</a>
+          <a href="/services/sustainable-master-planning.html"> Town Planning</a>
           
-          <a href="/services/service-8.html"> Energy Consulting</a>
+          <a href="/services/town-planning.html"> Sustainable Master Planning</a>
           
-          <a href="/services/sustainable-master-planning.html"> Sustainable Master Planning</a>
+          <a href="/services/voluntary-certification.html"> Energy Audits</a>
           
       </nav>
     </div>
-    <div class="col-3 padded-2">
+    <div class="col-3_sm-12 padded-2">
       <h4> OUR PROJECTS </h4>
       <nav>
         <a href="#"> Aquatic sports and leisure </a>
@@ -265,7 +285,7 @@
         <a href="#"> Other </a>
       </nav>
     </div>
-    <div class="col-3 padded-2">
+    <div class="col-3_sm-12 padded-2">
       <h4> OTHER LINKS </h4>
         <nav>
           <a href="#"> Home </a>
@@ -280,6 +300,20 @@
 </div>
 
       
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+
+<script>
+
+$('.mobile-menu-button').click(function() {
+  $('.mobile-menu-button').toggleClass("nav-open");
+  $('.mobile-nav').slideToggle(200, function() {
+    // Animation complete.
+  });
+
+});
+
+</script>
+
 
   </body>
 </html>

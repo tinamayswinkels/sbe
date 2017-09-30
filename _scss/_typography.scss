@@ -58,3 +58,9 @@ hr.center {
 .post h2 {
   font-size: 1.8rem;
 }
+
+@media(max-width: 768px) {
+  h1, h2 {
+    font-size: 2rem;
+  }
+}

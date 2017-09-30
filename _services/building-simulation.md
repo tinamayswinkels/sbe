@@ -2,7 +2,7 @@
 layout: service
 name: Research
 blurb: Leading innovation through research
-image_path: /images/building.jpg
+image_path: /images/building2.png
 number: 8
 ---
 

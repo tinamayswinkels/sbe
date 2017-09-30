@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SBE Services
-banner-image_path: /images/building.jpg
+banner-image_path: /images/building2.png
 ---
 
 <section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
@@ -15,13 +15,13 @@ banner-image_path: /images/building.jpg
 
   {% for service in site.services limit:4 %}
   <div class="grid">
-      <div class="col-7-middle padded">
+      <div class="col-7_xs-12-middle padded">
          <h3>{{service.name}}</h3>
          <hr />
          <p>{{service.blurb}}</p>
          <a href="{{service.url}}" class="button"> READ MORE </a>
       </div>
-      <div class="col-5 image" style="background-image:url('{{page.banner-image_path}}');">
+      <div class="col-5_xs-12 image" style="background-image:url('{{page.banner-image_path}}');">
           <p class="text-overlay">{{service.number}}</p>
       </div>
   </div>
@@ -29,7 +29,7 @@ banner-image_path: /images/building.jpg
 
 </section>
 
-<section class="text-banner">
+<section class="text-banner light-bg">
   <h2> our customers love us</h2>
   <hr class="center">
   <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
@@ -39,13 +39,13 @@ banner-image_path: /images/building.jpg
 
   {% for service in site.services offset:4 %}
   <div class="grid">
-      <div class="col-7 padded">
+      <div class="col-7_xs-12 padded">
          <h3>{{service.name}}</h3>
          <hr />
          <p>{{service.blurb}}</p>
          <a href="{{service.url}}" class="button"> READ MORE </a>
       </div>
-      <div class="col-5 image" style="background-image:url('{{page.banner-image_path}}');">
+      <div class="col-5_xs-12 image" style="background-image:url('{{page.banner-image_path}}');">
           <p class="text-overlay">{{service.number}}</p>
       </div>
   </div>
