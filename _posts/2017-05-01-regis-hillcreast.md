@@ -1,7 +1,7 @@
 ---
-title: This is my first test post
-subtitle: This is a witty subtitle
-image_path: /images/building2.png
+title: Regis Hillcreast
+subtitle: Reaching for the stars
+image_path: /images/Regis Hillcrest.jpg
 layout: post
 banner-image_path: /images/building2.png
 ---
