@@ -3,7 +3,7 @@ title: Regis Hillcreast
 subtitle: Reaching for the stars
 image_path: /images/Regis Hillcrest.jpg
 layout: post
-banner-image_path: /images/building2.png
+banner-image_path: /images/Regis Hillcrest.jpg
 ---
 
 
