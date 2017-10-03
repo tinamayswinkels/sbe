@@ -1,8 +1,8 @@
-- name: John
-  title: director
+- name: Sean McArdle
+  title: Associate Director
   image_path: /images/person1.jpg
-- name: Sarah
-  title: owner
+- name: Roberto Petruzzi
+  title: ESD Engineer
   image_path: /images/person2.jpg
 - name: Daniel
   title: team member
