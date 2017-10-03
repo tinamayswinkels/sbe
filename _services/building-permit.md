@@ -4,7 +4,7 @@ name: Building Permit
 blurb: >-
   Demonstrating compliance with energy efficiency provisions for all type of
   buildings
-image_path: /images/Building Permit.jpg
+image_path: /uploads/NatHERS.jpg
 number: 3
 ---
 
