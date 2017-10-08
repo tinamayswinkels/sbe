@@ -39,7 +39,7 @@ banner-image_path: /images/building2.png
 
 <section class="services-loop">
 
-  {% for service in site.services offset:4 %}
+  {% for service in sorted_services limit:4 %}
   <div class="grid">
       <div class="col-7_xs-12 padded">
          <h3>{{service.name}}</h3>
