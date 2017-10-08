@@ -14,8 +14,8 @@ banner-image_path: /images/building2.png
 <section class="services-loop">
 
     
-{% assign sorted = site.services | sort: 'number' %}
-  {% for service in site.sorted limit:4 %}
+{% assign sorted_services = site.services | sort: 'number' %}
+  {% for service in sorted_services limit:4 %}
   <div class="grid">
       <div class="col-7_xs-12-middle padded">
          <h3>{{service.name}}</h3>
