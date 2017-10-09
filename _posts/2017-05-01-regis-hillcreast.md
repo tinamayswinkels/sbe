@@ -13,6 +13,8 @@ The Regis Hillcrest project is an aged cared development located in Western Aust
 
 A magnificent heritage listed ‘Hillcrest Residence’ is located in the south-eastern portion of the site and has been refurbished and incorporated into the redevelopment resulting in a significant improvement of the heritage value of the site.
 
+![](/uploads/versions/image-2---x----946-653x---.jpg)
+
 The development has been awarded 4 Star Green Star design under the Healthcare Design v1 tool and is now targeting as-built certification. The building has been designed to maximise views to the outdoor for occupants and building users, with 81% of internal spaces (excluding basement, ensuites and plant rooms) offering a direct line of sight to the external environment. Some other features that contributed to the Green Star rating include high efficiency air-conditioning and lighting, as well as low-flow sanitary fixtures and fittings, sustainable building materials, and low VOC interiors.
 
 ### Lessons learnt
