@@ -6,7 +6,7 @@ category: residential
 client: Small Giants
 date: 2012-09-07 00:00:00
 images:
-  - title: pic no 1
+  - title: The Commons SBE
     image_path: /uploads/commons-1.JPG
   - title: pic no 2
     image_path: /uploads/photo-1a-1.JPG
