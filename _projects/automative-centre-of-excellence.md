@@ -17,10 +17,8 @@ images:
 ---
 
 
-### Project Goals
+The Kangan Institute’s Automotive Centre of Excellence is the largest automotive training facility in the southern hemisphere and the first educational institution granted a 5 Star Green Star rating from the Green Building Council of Australia.
 
-Large grid connected photovoltaic array The west fa&ccedil;ade will have a second skin of Wonderglas (Ampelite polycarbonate) battened off the exterior wall that is open at the top and bottom.
+As the Accredited Green Star Professional on the project, SBE collaborated with the integrated design team to develop the range of sustainability solutions that characterised this facility. BATISO active mass cooling and night sky cooling, together with chilled beams, thermal chimneys and natural ventilation are some of the initiatives that have been implemented and have contributed to a 68% reduction in HVAC energy demand.
 
-This second skin will breathe and reduce undesirable afternoon solar gains on the main fa&ccedil;ade from the west.
-
-https://architectureau.com/articles/2014-houses-awards-sustainability/?utm_source=ArchitectureAU&utm_campaign=3296e896a5-AAU_2014_08_04&utm_medium=email&utm_term=0_e3604e2a4a-3296e896a5-39644110
+Waterless urinals, a 130,000 litre rainwater tank, use of low VOC materials, and recycling of construction and demolition waste are some of the other initiatives that contributed to its Green Star rating.
