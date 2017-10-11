@@ -1,19 +1,21 @@
 ---
 layout: default
 title: SBE Home Page
-description: This is your description which will appear in search engines like google for each page. Make sure it's relevant and engaging. 
+description: >-
+  This is your description which will appear in search engines like google for
+  each page. Make sure it's relevant and engaging.
 banner-image_path: /images/building.jpg
 ---
 
 <section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
   <div class="banner-inner">
       <h1 class="editable"> Sustainable Built Environments </h1>
-      <p class="editable"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+      <p class="editable">Innovative Ideas / Collaborative Design / Practical Solutions</p>
   </div>
 </section>
 <section class="text-banner">
   <h2 class="center editable">Our customers love us... </h2>
-  <hr class="center">
+  <hr class="center" />
 
   <p class="editable">"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
   <span class="stars">
@@ -29,7 +31,7 @@ banner-image_path: /images/building.jpg
 <section class="padded light-bg">
 
   <h2 class="center"> Recent Projects </h2>
-  <hr class="center">
+  <hr class="center" />
   <div class="grid">
   {% for project in site.projects limit:3 %}
       <div class="col-4_sm-12 padded-2">
@@ -47,7 +49,7 @@ banner-image_path: /images/building.jpg
 
 <section class="padded center">
   <h2 class="editable">We are experts at... </h2>
-  <hr class="center">
+  <hr class="center" />
     <div class="grid left">
 
         {% for service in site.services %}
