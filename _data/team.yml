@@ -1,12 +1,6 @@
 - name: Sean McArdle
   title: Associate Director
-  image_path: /images/person1.jpg
+  image_path: /images/SeanMcardle_Portrait.jpg
 - name: Roberto Petruzzi
   title: ESD Engineer
   image_path: /images/person2.jpg
-- name: Daniel
-  title: team member
-  image_path: /images/person3.jpg
-- name: Mary
-  title: team member
-  image_path: /images/person4.jpg
