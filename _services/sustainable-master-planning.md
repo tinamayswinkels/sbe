@@ -2,7 +2,7 @@
 layout: service
 name: Town Planning
 blurb: 'Balancing environmental, economic and social outcomes in the built environment'
-image_path: /images/building2.png
+image_path: /images/Town Planning.jpg
 number: 2
 ---
 
