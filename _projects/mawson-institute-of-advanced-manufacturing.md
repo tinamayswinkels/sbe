@@ -1,11 +1,13 @@
 ---
 layout: project
-name: 18 Second Street
-architect: Professional Architects
-category: commercial
-client: John Smith
-date: Jan 2017
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+name: Mawson Institute Of Advanced Manufacturing
+architect: Russell & Yelland and Guida Mosely Brown
+category: educational
+client: University of South Australia
+date: 2016-12-31 13:00:00
+blurb: >-
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua
 images:
   - title: Big Image
     image_path: /images/building2.png
@@ -17,8 +19,5 @@ images:
     image_path: /images/building.jpg
 ---
 
-### Project Goals
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This state-of-the-art teaching facility is located on the University of South Australia Mawson Lakes Campus. SBE was involved in the project since early stages and used the Green Star Education Pilot tool to guide the building’s design process which integrated passive measures such as optimised orientation, shading and insulation, as well as efficient active systems including chilled beams to achieve high levels of thermal comfort and energy efficiency.
