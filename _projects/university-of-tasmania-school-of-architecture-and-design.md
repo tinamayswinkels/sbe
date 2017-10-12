@@ -15,3 +15,6 @@ images:
   - title:
     image_path: /uploads/photo-5-1.JPG
 ---
+
+
+SBE worked as architects in collaboration with Six Degrees Architects to produce a design that exemplifies the School of Architecture and Design’s commitment to ecologically sustainable development. As a result of this integrative and multi-disciplinary approach to design, the project won a number of awards including the National Architecture Institute of Australia Sustainable Architecture Award 2007, the Tasmanian Architecture Institute Sustainable Architecture, Heritage and Public Architecture Award 2007, and the Lachlan Macquarie Award for Heritage 2007.
