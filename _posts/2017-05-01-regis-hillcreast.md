@@ -7,8 +7,6 @@ banner-image_path: /images/Regis Hillcrest.jpg
 ---
 
 
-### The project
-
 The Regis Hillcrest project is an aged cared development located in Western Australia comprising of 101 care rooms and 8 larger apartments. The development provides a significant upgrade to the current facility thus allowing Hillcrest to continue to offer high quality care to the ageing community of North Fremantle.
 
 A magnificent heritage listed ‘Hillcrest Residence’ is located in the south-eastern portion of the site and has been refurbished and incorporated into the redevelopment resulting in a significant improvement of the heritage value of the site.
