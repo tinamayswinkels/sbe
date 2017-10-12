@@ -4,7 +4,7 @@ name: Mawson Institute Of Advanced Manufacturing
 architect: Russell & Yelland and Guida Mosely Brown
 category: educational
 client: University of South Australia
-date: 2016-12-31 13:00:00
+date: 2011-03-31 13:00:00
 blurb: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua
