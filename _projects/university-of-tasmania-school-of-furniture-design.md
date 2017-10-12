@@ -15,3 +15,8 @@ images:
   - title:
     image_path: /uploads/photo-5-1.JPG
 ---
+
+
+The University of Tasmania School of Furniture Design is a sister facility to the School of Architecture and Design, and houses furniture workshops, machinery and studios, as well as teaching and resource spaces.
+
+SBE worked as architects in collaboration with Six Degrees Architects to integrate a number of passive design initiatives including a large solar air heater. The innovative and thoughtful design awarded the project the Australian Institute of Architects (Tasmanian Chapter) 2010 Sustainable Architecture Award, and the Australian Institute of Architects (Tasmanian Chapter) 2010 Public Architecture Award.
