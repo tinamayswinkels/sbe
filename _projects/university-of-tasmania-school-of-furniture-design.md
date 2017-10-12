@@ -1,10 +1,10 @@
 ---
 layout: project
 name: University of Tasmania School of Furniture Design
-architect: Breathe Architects
-category: residential
-client: Small Giants
-date: 2012-09-07 00:00:00
+architect: Six Degrees Architects
+category: educational
+client: University of Tasmania
+date: 2009-07-30 00:00:00
 images:
   - title: The Commons SBE
     image_path: /uploads/commons-1.JPG
