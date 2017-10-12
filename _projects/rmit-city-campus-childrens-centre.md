@@ -1,10 +1,10 @@
 ---
 layout: project
 name: RMIT City Campus Children's Centre
-architect: Breathe Architects
-category: residential
-client: Small Giants
-date: 2012-09-07 00:00:00
+architect: Peddle Thorp
+category: educational
+client: RMIT University
+date: 2017-01-25 00:00:00
 images:
   - title: The Commons SBE
     image_path: /uploads/commons-1.JPG
@@ -15,3 +15,8 @@ images:
   - title:
     image_path: /uploads/photo-5-1.JPG
 ---
+
+
+The RMIT City Campus Children’s Centre on Lygon Street provides a brand new facility enabling children to learn and develop skills through the process of exploration and play-based learning.
+
+SBE provided ESD consultancy throughout the Design Development stage and completed a Section J Energy Efficiency Assessment following the Performance Solution JV3 pathway.
