@@ -1,7 +1,7 @@
 ---
 title: What is an eco-city?
 subtitle: Our take on what makes cities eco
-image_path: /images/building.jpg
+image_path: /uploads/image-3.jpg
 layout: post
 banner-image_path: /images/building.jpg
 ---
