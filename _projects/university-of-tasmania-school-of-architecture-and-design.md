@@ -1,9 +1,9 @@
 ---
 layout: project
 name: University of Tasmania School of Architecture and Design
-architect: Breathe Architects
-category: residential
-client: Small Giants
+architect: Six Degrees Architects
+category: educational
+client: University of Tasmania
 date: 2012-09-07 00:00:00
 images:
   - title: The Commons SBE
