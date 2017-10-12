@@ -24,7 +24,7 @@ In practice an eco-city, similarly to a ‘traditional’ city, should provide a
 
 ###### (The Cheonggyecheon Project in Seoul, Korea)
 
-###
+## #
 
 ### Cities as ecosystems
 
@@ -36,12 +36,10 @@ Translating these concepts into the design of a city is no doubt a huge challeng
 
 ###### (The Gary Comer Youth Centre Roof Garden in Chicago)
 
-Examples of this shift already exist at various levels in various countries. Urban agriculture is becoming popular in many cities around the globe including [Montreal](http://www.rooftopgardens.alternatives.ca/), [Melbourne](http://www.mysmartgarden.org.au/), [Puerto Madonado](http://caminoverde.org/), [Canberra](http://www.urbanagriculture.org.au/canberra-city-farm/), [Detroit](http://detroitdirt.org/), [Paris](https://www.paris.fr/services-et-infos-pratiques) and many others. An increasing number of existing and proposed buildings are installing solar photovoltaic panels on their roofs to reduce their reliance on the energy grid and reduce greenhouse gas emissions. [Public transport](http://reneweconomy.com.au/adelaide-creates-worlds-first-solar-powered-public-transport-system-32530/) are becoming more efficient, and [car](http://theconversation.com/1-000-cars-and-no-garage-why-car-sharing-works-31179) and [bikes](http://www.icebike.org/bike-share-programs/) sharing schemes are been implemented continuously. Further, businesses are continuously coming up with ideas that help minimise waste by [mimicking ecosystems](https://www.theguardian.com/uk/2003/feb/12/helencarter).
+Examples of this shift already exist at various levels in various countries. Urban agriculture is becoming popular in many cities around the globe including&nbsp;[Montreal](http://www.rooftopgardens.alternatives.ca/),&nbsp;[Melbourne](http://www.mysmartgarden.org.au/),&nbsp;[Puerto Madonado](http://caminoverde.org/),&nbsp;[Canberra](http://www.urbanagriculture.org.au/canberra-city-farm/),&nbsp;[Detroit](http://detroitdirt.org/),&nbsp;[Paris](https://www.paris.fr/services-et-infos-pratiques)&nbsp;and many others. An increasing number of existing and proposed buildings are installing solar photovoltaic panels on their roofs to reduce their reliance on the energy grid and reduce greenhouse gas emissions.&nbsp;[Public transport](http://reneweconomy.com.au/adelaide-creates-worlds-first-solar-powered-public-transport-system-32530/) are becoming more efficient, and&nbsp;[car](http://theconversation.com/1-000-cars-and-no-garage-why-car-sharing-works-31179)&nbsp;and&nbsp;[bikes](http://www.icebike.org/bike-share-programs/) sharing schemes are been implemented continuously. Further, businesses are continuously coming up with ideas that help minimise waste by&nbsp;[mimicking ecosystems](https://www.theguardian.com/uk/2003/feb/12/helencarter).
 
 These are only some examples of how cities can become more ecosystem-like, and as designers and citizens involved in the shaping of the urban form we have the potential to assist transforming our cities into thriving places that offer equal opportunities to all its dwellers, foster a strong sense of community, and instil a sense of care, ownership and responsibility for place.
 
 ### <br>Measuring the eco-city
 
 For existing and proposed cities that wish to become an eco-city, the Sustainable Development Goals developed by the United Nations provides a useful framework to explore their potential and monitor their achievements. The Sustainable Development Goals includes a total of 17 goals, each outlining specific targets to be achieved over a period of 15 years. The goals range from ending poverty in all its forms to protect marine life. By achieving all the goals, a city gets closer to what may be defined as been an eco-city – a city where all of its inhabitants (living and non-living) thrive in harmony with the natural environment.
-
-![](/uploads/versions/image-3---x----930-419x---.jpg)
