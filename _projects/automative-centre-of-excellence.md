@@ -6,14 +6,16 @@ category: educational
 client: Kangan Institute
 date: 2011-11-30 00:00:00
 images:
-  - title: The Commons SBE
+  - title: Roof top deck and green roof
     image_path: /uploads/IMG_0220.JPG
-  - title: pic no 2
+  - title: Entire building Greenhosue Gas Emissions breakdown
+    image_path: /uploads/graph.png
+  - title: Courtyard
     image_path: /uploads/IMG_0235.JPG
-  - title:
-    image_path: /uploads/photo-3a.JPG
-  - title:
-    image_path: /uploads/photo-5-1.JPG
+  - title: >-
+      The building was modleled in IES VE using the Model IT, Apache HVAC,
+      Macroflow and Radiance packanges.
+    image_path: /uploads/3d model.jpg
 ---
 
 
