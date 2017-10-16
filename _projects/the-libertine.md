@@ -14,12 +14,14 @@ images:
     image_path: /uploads/lightwell.JPG
   - title:
     image_path: /uploads/20171014_131633.jpg
+  - title: aerial photo
+    image_path: /uploads/libertine site.JPG
 ---
 
 
 The project consists of a 4 storey development containing 34 apartments with integrated car and bike parking, a balcony for each apartment and a roof top deck for common access.
 
-SBE was appointed to provide full ESD Consultancy services from Town Planning through to Building Permit and final energy ratings.&nbsp; &nbsp;
+SBE was appointed to provide full ESD Consultancy services from Town Planning through to Building Permit and final energy ratings.
 
 * Energy – 28% improvement over conventional practice (25% minimum required).
 * Greenhouse Gas Emissions – The benchmark emissions for an equivalent conventional development are 7,727 kg/CO2/dwelling. The emissions target is 5,795 kg/CO2/dwelling and this development exceeds this with total emissions of 5,584 kg/CO2/dwelling.
