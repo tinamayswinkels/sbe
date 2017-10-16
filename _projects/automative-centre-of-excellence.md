@@ -8,7 +8,7 @@ date: 2011-11-30 00:00:00
 images:
   - title: Roof top deck and green roof
     image_path: /uploads/IMG_0220.JPG
-  - title: Entire building Greenhosue Gas Emissions breakdown
+  - title: Entire building Greenhouse Gas Emissions breakdown
     image_path: /uploads/graph.png
   - title: Courtyard
     image_path: /uploads/IMG_0235.JPG
