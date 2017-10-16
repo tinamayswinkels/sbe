@@ -16,6 +16,8 @@ images:
       The building was modelled in IES VE using the Model IT, Apache HVAC,
       Macroflow and Radiance packanges.
     image_path: /uploads/IMG_0229.JPG
+  - title:
+    image_path: /uploads/3d model.jpg
 ---
 
 
