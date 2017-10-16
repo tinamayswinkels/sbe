@@ -11,9 +11,9 @@ images:
   - title: pic no 2
     image_path: /uploads/wood plan.JPG
   - title:
-    image_path: /uploads/pie2.jpg
+    image_path: /uploads/wood3.JPG
   - title:
-    image_path: /uploads/photo-5-1.JPG
+    image_path: /uploads/pie2.jpg
 ---
 
 
