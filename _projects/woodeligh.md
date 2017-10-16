@@ -7,17 +7,17 @@ client: Woodleigh
 date: 2011-11-30 00:00:00
 images:
   - title: The Commons SBE
-    image_path: /uploads/commons-1.JPG
+    image_path: /uploads/wood1.JPG
   - title: pic no 2
-    image_path: /uploads/photo-1a-1.JPG
+    image_path: /uploads/wood plan.JPG
   - title:
-    image_path: /uploads/photo-3a.JPG
+    image_path: /uploads/pie2.jpg
   - title:
     image_path: /uploads/photo-5-1.JPG
 ---
 
 
-A new building for the Junior Campus to introduce the 5-6 students to the concept of 'house' and collective informal learning.&nbsp; These are important experiences for the students destined to move on to the Woodleigh secondary school.
+A new building for the Junior Campus to introduce the 5-6 students to the concept of 'house' and collective informal learning.  These are important experiences for the students destined to move on to the Woodleigh secondary school.
 
 In addition to achieving good daylighting and increased guaranteed ventilation rates the design demonstrated significant savings in terms of energy consumption, green house gas emissions and operating costs.
 
