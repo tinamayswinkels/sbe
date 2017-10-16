@@ -1,6 +1,6 @@
 ---
 layout: project
-name: 'Automative Centre Of Excellence, Stage 2'
+name: 'Automative Centre of Excellence, Stage 2'
 architect: Gray Puksand
 category: educational
 client: Kangan Institute
