@@ -21,9 +21,9 @@ images:
 ---
 
 
-The Kangan Institute’s Automotive Centre of Excellence is the largest automotive training facility in the southern hemisphere and one of the first institutions granted a 5 Star Green Star Educational rating from the Green Building Council of Australia.
+With a usable Floor Area of 11,328 m&sup2;, the Kangan Institute’s Automotive Centre of Excellence is the largest &nbsp;automotive training facility in the southern hemisphere and one of the first institutions granted a 5 Star Green Star Educational rating from the Green Building Council of Australia.
 
-SBE was the ESD Consultant and Accredited Green Star Professional on the project, collaborating closely with Gray Puksand Architects from the project pitch right through to the completion of construction. The Useable Floor Area is 11,328 m&sup2;.
+SBE was the ESD Consultant and Accredited Green Star Professional on the project, collaborating closely with Gray Puksand Architects from the project pitch right through to the completion of construction.
 
 The building contains office spaces, teaching spaces and a large series of state of the art workshops and facilities designed to teach automotive industry apprentices about every stage of car development, maintenance and repair.&nbsp; There is even a large truck dyno located on the south side of the facility.
 
