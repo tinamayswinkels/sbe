@@ -1,9 +1,9 @@
 ---
 layout: project
-name: Mt Clear Earth Education Centre
-architect: Hassell Group
-category: commercial
-client: Lend Lease
+name: 'Mt Clear Earth Education Centre, Ballarat'
+architect: Baade Harbour
+category: educational
+client: Mt Clear Secondary School
 date: 2011-11-30 00:00:00
 images:
   - title: The Commons SBE
@@ -15,3 +15,5 @@ images:
   - title:
     image_path: /uploads/photo-5-1.JPG
 ---
+
+
