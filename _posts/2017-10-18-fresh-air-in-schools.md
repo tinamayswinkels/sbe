@@ -16,5 +16,3 @@ The latest generation of Victorian government schools are addressing the need fo
 The Mt Clear Earth and Science Centre has responded to the same demand for tempered fresh air by incorporating a ground coupled thermal labyrinth which is the focus of this article.
 
 [http://www.sbe.com.au/wp-content/uploads/2010/12/1107-Ecolibrium-The-3D-textbook1.pdf](http://www.sbe.com.au/wp-content/uploads/2010/12/1107-Ecolibrium-The-3D-textbook1.pdf)
-
-&nbsp;
