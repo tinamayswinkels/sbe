@@ -7,13 +7,13 @@ client: Lend Lease
 date: 2011-11-30 00:00:00
 images:
   - title: The Commons SBE
-    image_path: /uploads/commons-1.JPG
+    image_path: /uploads/Holmesglen_Vocational_03.jpeg
   - title: pic no 2
     image_path: /uploads/persp.jpg
   - title:
-    image_path: /uploads/model-1.jpg
+    image_path: /uploads/holmesglen-vocational-greenwall-05.jpg
   - title:
-    image_path: /uploads/photo-5-1.JPG
+    image_path: /uploads/model-1.jpg
 ---
 
 
@@ -27,4 +27,4 @@ Environmental initiatives featured in the design include energy efficient lighti
 
 The predicted greenhouse gas emissions for this project are 172,237 kgCO2 /annum, a reduction of 52.6% compared to the benchmark established for the building by Green Star.
 
-The Estimated Total Potable Water Consumption of 0.31 L/day/m&sup2; is a third of the benchmark established for the building by Green Star.
+The Estimated Total Potable Water Consumption of 0.31 L/day/m² is a third of the benchmark established for the building by Green Star.
