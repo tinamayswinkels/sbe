@@ -1,8 +1,8 @@
 ---
 layout: project
 name: Holmesglen Building 12
-architect: Hassell Group
-category: commercial
+architect: PTA
+category: educational
 client: Holmesglen
 date: 2011-11-30 00:00:00
 images:
