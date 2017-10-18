@@ -1,7 +1,7 @@
 ---
 layout: project
-name: Western Business Accelartor centrree
-architect: Hassell Group
+name: Western Business Accelerator Centre of Excellence (WBACE)
+architect: Six Degrees
 category: commercial
 client: Lend Lease
 date: 2011-11-30 00:00:00
@@ -15,3 +15,5 @@ images:
   - title:
     image_path: /uploads/photo-5-1.JPG
 ---
+
+
