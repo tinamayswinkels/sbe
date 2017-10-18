@@ -2,7 +2,7 @@
 layout: service
 name: Building Physics
 blurb: Applying the principles of physics to the built environment
-image_path: /images/building.jpg
+image_path: /images/Building Physics.jpg
 number: 6
 ---
 
