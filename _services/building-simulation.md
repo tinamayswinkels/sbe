@@ -2,7 +2,7 @@
 layout: service
 name: Building Simulation
 blurb: Optimising performance with integrated dynamic building analysis
-image_path: /images/building.jpg
+image_path: /images/Building Simulation.bmp
 number: 5
 ---
 
