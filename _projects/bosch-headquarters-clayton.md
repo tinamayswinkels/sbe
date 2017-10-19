@@ -11,7 +11,7 @@ images:
   - title:
     image_path: /uploads/Bosch_26.jpg
   - title:
-    image_path: /uploads/bosch-33.jpg
+    image_path: /uploads/Bosch_33.jpg
   - title:
     image_path: /uploads/air tight2.JPG
 ---
