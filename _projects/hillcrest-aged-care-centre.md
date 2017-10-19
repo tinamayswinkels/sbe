@@ -7,7 +7,7 @@ client: Regis
 date: 2011-11-30 00:00:00
 images:
   - title: The Commons SBE
-    image_path: /uploads/image084.jpg
+    image_path: /uploads/Presentation1.jpg
   - title: pic no 2
     image_path: /uploads/111.jpg
   - title:
@@ -23,7 +23,7 @@ This project was awarded a 4 star rating under the Green Star Healthcare Design 
 
 Air-conditioning systems are a VRV (Variable Refrigerant Volume) system. The VRV system generally comprises centralised air cooled outdoor units with multiple indoor Fan Coil Units (FCU’s). All Fan Coil Units are capable of independent heating and cooling. The VRV systems will generally be heat recovery type to allow for simultaneous heating and cooling to occur between separate FCU’s, thereby reducing the system energy requirements.
 
-The indoor units are zoned to match the space thermal loads and room operational characteristics.&nbsp; &nbsp;Separate systems are provided for Common Areas and Bedrooms Areas.&nbsp;
+The indoor units are zoned to match the space thermal loads and room operational characteristics.   Separate systems are provided for Common Areas and Bedrooms Areas.
 
 The system COP for the VRV systems was based on the Mitsubishi Hi-COP R2 VRV system of 4.41 for cooling, and 4.49 for heating.
 
@@ -31,4 +31,4 @@ Fresh air is ducted to the back of fan coil units throughout the building via a 
 
 The Green Star Energy Calculator for the building estimated annual greenhouse emissions of 351,172 kg CO2/m2/year, which is a 44.6% reduction to the Green Star benchmark.
 
-This building has been designed to maximise views to the outdoors for occupants with 81% of internal spaces (excluding basement, ensuites and plant rooms) with direct line of sight through window to the external environment (places of respite).&nbsp;
+This building has been designed to maximise views to the outdoors for occupants with 81% of internal spaces (excluding basement, ensuites and plant rooms) with direct line of sight through window to the external environment (places of respite).
