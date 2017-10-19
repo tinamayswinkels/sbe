@@ -7,7 +7,7 @@ client: Bosch
 date: 2011-11-30 00:00:00
 images:
   - title: pic no 2
-    image_path: /uploads/bosch-28.jpg
+    image_path: /uploads/Bosch_30.jpg
   - title:
     image_path: /uploads/Bosch_26.jpg
   - title:
