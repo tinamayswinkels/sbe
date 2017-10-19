@@ -1,9 +1,9 @@
 ---
 layout: project
 name: Bosch Headquarters Clayton
-architect: Hassell Group
+architect: PTA
 category: commercial
-client: Lend Lease
+client: Bosch
 date: 2011-11-30 00:00:00
 images:
   - title: The Commons SBE
