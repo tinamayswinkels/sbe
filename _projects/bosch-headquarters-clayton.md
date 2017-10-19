@@ -6,10 +6,10 @@ category: commercial
 client: Bosch
 date: 2011-11-30 00:00:00
 images:
-  - title: The Commons SBE
-    image_path: /uploads/Bosch_26.jpg
   - title: pic no 2
     image_path: /uploads/bosch-03.jpg
+  - title: The Commons SBE
+    image_path: /uploads/Bosch_26.jpg
   - title:
     image_path: /uploads/bosch-33.jpg
   - title:
