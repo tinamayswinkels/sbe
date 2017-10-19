@@ -21,7 +21,7 @@ The development comprises 3 levels of office space built atop the existing Pool 
 
 The building has a very deep floor plate, with some terraces to the upper floors. The terrace areas have planting boxes and a green wall suspended from a light weight structure and wrapping partially over the north facade of the building.
 
-An energy model was developed in alignment with the methodology of the Green Star Office energy assessment credit (Ene-01). The modelled energy consumption of the building gives a normalised greenhouse gas emissions value of 49kgCO2/m2/annum, which gives 10 points (50% reduction against the benchmark under the Green Star Ene-01 credit.
+An energy model was developed in alignment with the methodology of the Green Star Office energy assessment credit (Ene-01). The modelled energy consumption of the building gives a normalised greenhouse gas emissions value of 49kgCO2/m2/annum, which gives 10 points (50% reduction against the benchmark) under the Green Star Ene-01 credit.
 
 A daylight model was developed in alignment with the methodology of the Green Star Office energy IEQ Daylighting assessment credit (IEQ-04).
 
