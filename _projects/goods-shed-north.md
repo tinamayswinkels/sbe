@@ -6,14 +6,14 @@ category: commercial
 client: Building Commission and Plumbing Industry Commission
 date: 2011-06-21 00:00:00
 images:
+  - title:
+    image_path: /uploads/4.JPG
   - title: The Commons SBE
     image_path: /uploads/1.jpg
   - title: pic no 2
     image_path: /uploads/3.JPG
   - title:
     image_path: /uploads/2.jpg
-  - title:
-    image_path: /uploads/4.JPG
 ---
 
 
