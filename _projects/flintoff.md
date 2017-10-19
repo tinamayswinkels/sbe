@@ -1,24 +1,22 @@
 ---
 layout: project
-name: Flintoff
+name: One Flintoff
 architect: PTA
 category: commercial
 client: Banyule Council
 date: 2011-11-30 00:00:00
 images:
   - title: The Commons SBE
-    image_path: /uploads/Capture.JPG
+    image_path: /uploads/One_Flintoff_01.jpg
   - title: pic no 2
-    image_path: /uploads/IMG_0034.jpg
+    image_path: /uploads/One_Flintoff_20.jpg
   - title:
-    image_path: /uploads/IMG_0037.jpg
+    image_path: /uploads/One_Flintoff_05.jpg
   - title:
-    image_path: /uploads/IMG_0023.jpg
+    image_path: /uploads/One_Flintoff_27.jpg
 ---
 
 
 The development comprises 3 levels of office space built atop the existing Pool at Greensborough (WaterMarc).
 
-The building has a very deep floor plate, with some terraces to the upper floors. The terrace areas will have planting
-
-boxes and a green wall suspended from a light weight structure and wrapping partially over the north facade of the building.
+The building has a very deep floor plate, with some terraces to the upper floors. The terrace areas have planting boxes and a green wall suspended from a light weight structure and wrapping partially over the north facade of the building.
