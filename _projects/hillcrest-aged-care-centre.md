@@ -7,13 +7,13 @@ client: Regis
 date: 2011-11-30 00:00:00
 images:
   - title: The Commons SBE
-    image_path: /uploads/Capture.JPG
+    image_path: /uploads/image084.jpg
   - title: pic no 2
-    image_path: /uploads/IMG_0034.jpg
+    image_path: /uploads/111.jpg
   - title:
-    image_path: /uploads/IMG_0037.jpg
+    image_path: /uploads/image050.jpg
   - title:
-    image_path: /uploads/IMG_0023.jpg
+    image_path: /uploads/image039.jpg
 ---
 
 
