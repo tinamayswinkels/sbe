@@ -10,7 +10,7 @@ blurb: >-
   tempor incididunt ut labore et dolore magna aliqua
 images:
   - title: Big Image
-    image_path: /images/Capture.JPG
+    image_path: /uploads/1.JPG
   - title: Big Image 2
     image_path: /images/story12a.jpg
   - title: Big Image 3
