@@ -1,9 +1,9 @@
 ---
 layout: project
-name: Hillcrest Aged CAre CEntre
-architect: Williams Ross
-category: educational
-client: ANU
+name: Regis Hillcrest Aged Care Centre
+architect: Silver Thomas Hanley (STH)
+category: other
+client: Regis
 date: 2011-11-30 00:00:00
 images:
   - title: The Commons SBE
@@ -15,3 +15,5 @@ images:
   - title:
     image_path: /uploads/IMG_0023.jpg
 ---
+
+
