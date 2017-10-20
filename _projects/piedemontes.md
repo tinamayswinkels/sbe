@@ -23,7 +23,6 @@ A redevelopment of the Piedimonte Supermarket site is currently being explored.&
 * Supermarket (2 levels) 5473m2
 * 90 Apartments above
 * A large outdoor communal spaces incorporating significant planting (green roof).
-* ssss
 
 An initial Assessment show that the project can satisfy the Built Environment Sustainability Scorecard (BESS) and comply with the Better Apartments Design Guidelines recently adopted into Yarra Council's Planning Scheme.&nbsp; The following ESD features have been incorporated
 
