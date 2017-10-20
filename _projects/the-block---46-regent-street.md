@@ -11,15 +11,15 @@ images:
   - title: pic no 2
     image_path: /uploads/Proposed Shading.bmp
   - title:
-    image_path: /uploads/IMG_0037.jpg
+    image_path: /uploads/ingles.jpg
   - title:
-    image_path: /uploads/IMG_0023.jpg
+    image_path: /uploads/gatwick.jpg
 ---
 
 
-SBE has provided MCC Section J Assessment services for 3 of the Channel nine&nbsp; 'The Block' projects. [http://tvtonight.com.au/2017/04/5-houses-on-the-block.html](http://tvtonight.com.au/2017/04/5-houses-on-the-block.html)
+SBE has provided MCC Section J Assessment services for 3 of the Channel nine  'The Block' projects. [http://tvtonight.com.au/2017/04/5-houses-on-the-block.html](http://tvtonight.com.au/2017/04/5-houses-on-the-block.html)
 
-The first was 164 Ingles Street, Port Melbourne which featured in season 12 of the series, the second was 46 Regent Street in Elsernwick (season 13) &nbsp;and the third The Gatwick Private Hotel at 34 Fitzroy Street, St Kilda which will feature in season 14 of the series in 2018.
+The first was 164 Ingles Street, Port Melbourne which featured in season 12 of the series, the second was 46 Regent Street in Elsernwick (season 13)  and the third The Gatwick Private Hotel at 34 Fitzroy Street, St Kilda which will feature in season 14 of the series in 2018.
 
 The proposed residential development at 46 Regent Street, Elsternwick, includes 5 existing/relocated single storey dwellings at the front of the property, 5 new double storey buildings connected to the front buildings through a passage, and 5 new detached double storey buildings at the back of the property.
 
