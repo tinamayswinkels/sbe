@@ -17,8 +17,6 @@ images:
 ---
 
 
-&nbsp;
-
 The project is to consist of an 11 storey development containing 64 x One Bedroom and 62 x Two Bedroom and 14 x 3 bedroom dwellings (140 dwellings in total). The prominent features of the development are:
 
 * Lift access to be provided to all apartments
