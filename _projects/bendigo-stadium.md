@@ -6,14 +6,14 @@ category: aquatic-sports-and-leisure
 client: Bendigo Council
 date: 2017-03-07 00:00:00
 images:
-  - title: The Commons SBE
-    image_path: /uploads/Capture.JPG
+  - title:
+    image_path: /uploads/Bendigo_Stadium_Precinct_Render_01.jpg
   - title: pic no 2
-    image_path: /uploads/IMG_0034.jpg
+    image_path: /uploads/graph222.JPG
   - title:
-    image_path: /uploads/IMG_0037.jpg
+    image_path: /uploads/Bendigo_Stadium_Precinct_Render_02.jpg
   - title:
-    image_path: /uploads/IMG_0023.jpg
+    image_path: /uploads/model.JPG
 ---
 
 
