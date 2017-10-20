@@ -10,10 +10,10 @@ images:
     image_path: /uploads/Northbank_05.jpg
   - title:
     image_path: /uploads/Northbank_11.jpeg
+  - title:
+    image_path: /uploads/Northbank_35.jpg
   - title: pic no 2
     image_path: /uploads/Northbank_15.jpeg
-  - title:
-    image_path: /uploads/Northbank_09.jpeg
 ---
 
 
