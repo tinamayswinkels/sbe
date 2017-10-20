@@ -13,7 +13,7 @@ images:
   - title:
     image_path: /uploads/Northbank_35.jpg
   - title: pic no 2
-    image_path: /uploads/Northbank_15.jpeg
+    image_path: /uploads/Northbank_20.jpeg
 ---
 
 
