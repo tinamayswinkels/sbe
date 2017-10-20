@@ -30,10 +30,10 @@ The project is to consist of an 11 storey development containing 64 x One Bedroo
 * Apartments incorporate shading (in some cases ‘operable’) and enhanced natural ventilation strategies.
 * Dwellings will achieve an average 6.6 Stars energy rating.
 * Reverse cycle split systems to each apartment will be specified to be within one star of highest available at time of purchase.
-* Energy efficient fluorescent and LED lighting throughout all apartments and common areas
+* Energy efficient fluorescent and LED lighting throughout all apartments and common areas.
 * Minimum 4-star solar hot water storage with gas boost will supply domestic hot water to each dwelling and the tenancy
 * Collection of rainwater for toilet flushing and irrigation.
-* Bicycle parking provided to tenants
+* Bicycle parking provided to tenants.
 * Retention of heritage listed components of the original fa&ccedil;ade.
 * Energy – 40% improvement over conventional practice (25% minimum required). Note that the score does not change if a PV array were to be installed.
 * Greenhouse Gas Emissions – The benchmark emissions for an equivalent conventional development are 7,959 kg/CO2/dwelling. The emissions target is 5,969 kg/CO2/dwelling and this development exceeds this with total emissions of 4,740kg/CO2/dwelling.
