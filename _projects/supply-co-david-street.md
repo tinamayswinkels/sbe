@@ -26,7 +26,7 @@ The project is to consist of an 11 storey development containing 64 x One Bedroo
 * 49 bicycle racks in the car parking areas
 * Minimum of 3m<sup>3</sup> dedicated storage space for each apartment
 * Every apartment has a balcony or yard
-* One retail space (see section 11:&nbsp; Non Residential component)
+* One retail space&nbsp;
 * Apartments incorporate shading (in some cases ‘operable’) and enhanced natural ventilation strategies.
 * Dwellings will achieve an average 6.6 Stars energy rating.
 * Reverse cycle split systems to each apartment will be specified to be within one star of highest available at time of purchase.
@@ -39,4 +39,4 @@ The project is to consist of an 11 storey development containing 64 x One Bedroo
 * Greenhouse Gas Emissions – The benchmark emissions for an equivalent conventional development are 7,959 kg/CO2/dwelling. The emissions target is 5,969 kg/CO2/dwelling and this development exceeds this with total emissions of 4,740kg/CO2/dwelling.
 * Peak Demand 80.6% improvement over conventional practice.
 * Water - 33% reduction in potable water use (25% minimum required by council). This will equate to an annual usage of around 95.6 kL of mains water per dwelling.
-* Storm water - 106% STORM treatment will be achieved (100% minimum required by council) through the strategies described below.
+* Storm water - 106% STORM treatment will be achieved (100% minimum required by council)&nbsp;
