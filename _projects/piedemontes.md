@@ -11,9 +11,9 @@ images:
   - title: pic no 2
     image_path: /uploads/pd2.JPG
   - title:
-    image_path: /uploads/IMG_0037.jpg
+    image_path:
   - title:
-    image_path: /uploads/IMG_0023.jpg
+    image_path:
 ---
 
 
