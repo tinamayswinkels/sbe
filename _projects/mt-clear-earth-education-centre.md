@@ -35,7 +35,7 @@ The thermal labyrinth is used to pre-condition the incoming fresh air, i.e. heat
 
 Based on our modelling the building produces 50% to 64% less greenhouse gases than the Green Star conditional benchmark established for the project.
 
-The improved building fabric, together with the intake of fresh air through the labyrinth when beneficial, keeps the temperatures within the comfort band throughout most of the year. Peak temperatures are also significantly reduced with the Standard building peaking above 46&deg;C compared to the building with the enhanced design which peaks around 36&deg;C.
+The improved building fabric, together with the intake of fresh air through the labyrinth when beneficial, keeps the temperatures within the comfort band throughout most of the year. Peak temperatures are also significantly reduced with the building topping out at 36&deg;C on a 46&deg;C day (simulated).
 
 &nbsp;
 
