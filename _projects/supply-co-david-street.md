@@ -33,7 +33,7 @@ The project is to consist of an 11 storey development containing 64 x One Bedroo
 * Collection of rainwater for toilet flushing and irrigation.
 * Bicycle parking provided to tenants.
 * Retention of heritage listed components of the original fa&ccedil;ade.
-* Energy – 40% improvement over conventional practice (25% minimum required). Note that the score does not change if a PV array were to be installed.
+* Energy – 40% improvement over conventional practice.
 * Greenhouse Gas Emissions – The benchmark emissions for an equivalent conventional development are 7,959 kg/CO2/dwelling. The emissions target is 5,969 kg/CO2/dwelling and this development exceeds this with total emissions of 4,740kg/CO2/dwelling.
 * Peak Demand 80.6% improvement over conventional practice.
 * Water - 33% reduction in potable water use (25% minimum required by council). This will equate to an annual usage of around 95.6 kL of mains water per dwelling.
