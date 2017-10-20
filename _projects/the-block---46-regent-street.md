@@ -8,10 +8,10 @@ date: 2011-11-30 00:00:00
 images:
   - title: The Commons SBE
     image_path: /uploads/Axonometric View.bmp
-  - title: pic no 2
-    image_path: /uploads/Proposed Shading.bmp
   - title:
     image_path: /uploads/ingles.jpg
+  - title: pic no 2
+    image_path: /uploads/Proposed Shading.bmp
   - title:
     image_path: /uploads/gatwick.jpg
 ---
