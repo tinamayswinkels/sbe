@@ -1,14 +1,16 @@
 ---
 layout: service
-name: Voluntary Certification
-blurb: Achieving leadership in the built environment with third-party certification
-image_path: /images/building.jpg
-number: 4
+name: Building Physics
+blurb: Applying the principles of physics to the built environment
+image_path: /images/Building Physics.jpg
+number: 6
 ---
 
 
-Achieving third party sustainable building certification is an excellent way to demonstrate a project’s robust sustainability credentials. Certified sustainable buildings regularly outperform other non-certified buildings in social, economic and environmental indicators, and can benefit building owners by allowing them to market their assets as industry leading facilities.
+### &nbsp;
 
-SBE has extensive knowledge and experience in delivering voluntary certification services under a number of third party schemes including [Green Star](http://new.gbca.org.au/), [LEED](https://new.usgbc.org/leed), [WELL](https://www.wellcertified.com/en/start-a-project)and the [Living Building Challenge](https://living-future.org/lbc/).
+Building physics analyses the physical behaviour of buildings in their particular geographical contexts and how this impacts resource efficiency, comfort, indoor environmental quality and durability.
 
-When working on a certification project, our staff will provide consulting services throughout the concept, planning, design and construction phases in order to guide the design team towards an holistic environmental design which achieves the client’s desired target.
+SBE starts by evaluating the climatic conditions of a proposed site and then uses analytical tools and building simulation software to optimise building orientation, layout and form. As part of this process we adopt the building as a system concept which recognises the interactions between the building enclosure, the building services, its inhabitants, the site and the external environment.
+
+This holistic analysis process allows SBE to assist design teams harmonizing the various building elements and physical mechanisms (e.g. heat flow, air flow, moisture flow and solar radiation) to create high-performing buildings.

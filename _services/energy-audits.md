@@ -1,19 +1,12 @@
 ---
 layout: service
-name: Building Simulation
-blurb: Optimising performance with integrated dynamic building analysis
-image_path: /images/building.jpg
-number: 5
+name: Energy Audits
+blurb: Analysing buildings during operation to improve performance
+image_path: /images/Energy Audits.jpg
+number: 7
 ---
 
 
-SBE provides a comprehensive suite of building simulation services designed to assess and optimise building performance. Some of these services include:
+SBE is experienced in conducting energy audits of existing buildings and develop business cases to support the implementation of energy efficiency measures which can result in financial, operational and environmental benefits.
 
-* Thermal and energy modelling
-* Daylighting, glare and shading analysis
-* Computational Fluid Dynamics
-* Natural ventilation optimisation
-* HVAC validations
-* Resource efficiency opportunities
-
-Depending on the project’s requirement, the results obtained from simulations can be used to compare design solutions, validate design choices, predict performance outcomes, and report performance outcomes to relevant authorities and bodies.
+SBE offers Level 1 and 2 energy audits according to Australian/New Zealand Standard. These audits range from simple desktop studies aimed at determining whether energy use is reasonable or excessive, to more detailed audits involving both desktop and field studies aimed at identifying areas where savings may be made, recommending measures to be taken, and providing a statement of costs and potential savings.
