@@ -13,7 +13,7 @@ banner-image_path: /images/One_Flintoff_Render_04.jpg
 
 <section class="services-loop">
 
-    
+
 {% assign sorted_services = site.services | sort: 'number' %}
   {% for service in sorted_services limit:4 %}
   <div class="grid">
@@ -21,9 +21,9 @@ banner-image_path: /images/One_Flintoff_Render_04.jpg
          <h3>{{service.name}}</h3>
          <hr />
          <p>{{service.blurb}}</p>
-         <a href="{{service.url}}" class="button"> READ MORE </a>
+         <a href="/services-extended#{{service.name | slugify}}" class="button"> READ MORE </a>
       </div>
-      <div class="col-5_xs-12 image" style="background-image:url('{{page.banner-image_path}}');">
+      <div class="col-5_xs-12 image" style="background-image:url('{{service.image_path}}');">
           <p class="text-overlay">{{service.number}}</p>
       </div>
   </div>
@@ -47,7 +47,7 @@ banner-image_path: /images/One_Flintoff_Render_04.jpg
          <p>{{service.blurb}}</p>
          <a href="{{service.url}}" class="button"> READ MORE </a>
       </div>
-      <div class="col-5_xs-12 image" style="background-image:url('{{page.banner-image_path}}');">
+      <div class="col-5_xs-12 image" style="background-image:url('{{service.image_path}}');">
           <p class="text-overlay">{{service.number}}</p>
       </div>
   </div>

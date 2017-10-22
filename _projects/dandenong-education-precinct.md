@@ -1,6 +1,7 @@
 ---
 layout: project
 name: Dandenong Education Precinct
+blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 architect: Hayball
 category: educational
 client: Victorian Department of Education and Training (DEECD)

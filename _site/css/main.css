@@ -6,7 +6,14 @@
 html {
   overflow-x: hidden;
   font-size: 14px;
-  color: #3c3c3c; }
+  color: #3c3c3c;
+  background-color: whitesmoke; }
+
+body {
+  max-width: 1450px;
+  margin: auto;
+  background-color: white;
+  overflow: hidden; }
 
 img {
   max-width: 100%; }
@@ -151,6 +158,12 @@ footer nav a {
 .tall {
   min-height: 80vh; }
 
+.short {
+  min-height: 50vh; }
+
+.border-top {
+  border-top: 1px solid #f0f0f0; }
+
 .padded {
   padding: 5%; }
 
@@ -165,6 +178,9 @@ footer nav a {
 
 .margin-top {
   margin-top: 5%; }
+
+.margin-top-2 {
+  margin-top: 2%; }
 
 .block {
   display: block;
@@ -234,10 +250,13 @@ footer nav a {
   background-position: center;
   min-height: 90vh;
   position: relative;
-  z-index: -1;
+  z-index: 1;
   align-items: center;
   justify-content: center;
   display: flex; }
+
+.banner.short {
+  min-height: 50vh; }
 
 .overlay:after {
   content: '';
@@ -247,12 +266,13 @@ footer nav a {
   top: 0;
   left: 0;
   background: rgba(0, 0, 0, 0.3);
-  z-index: -1; }
+  z-index: 1; }
 
 .banner-inner {
   color: white;
   text-align: center;
-  padding: 5%; }
+  padding: 5%;
+  z-index: 2; }
 
 .text-banner {
   padding: 5%;
@@ -426,6 +446,18 @@ hr.center {
 .button:hover {
   border-color: #41414D;
   color: #41414D; }
+
+.tag {
+  padding: 0.5rem 1rem;
+  border: 1px solid #5a5a5a;
+  color: #5a5a5a;
+  border-radius: 3px;
+  margin-right: 0.2rem; }
+
+.tag:hover {
+  color: #969696;
+  border: 1px solid #969696;
+  transition: 0.5s all; }
 
 .post h2 {
   font-size: 1.8rem; }

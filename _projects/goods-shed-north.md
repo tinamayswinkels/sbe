@@ -1,6 +1,7 @@
 ---
 layout: project
 name: Goods Shed North
+blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 architect: Bligh Voller Nield (BVN)
 category: commercial
 client: Building Commission and Plumbing Industry Commission

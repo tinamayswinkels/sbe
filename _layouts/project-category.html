@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<section class="padded">
+  <h1> {{page.name}} Projects </h1>
+  <hr />
+ {{content}}
+</section>
+<section class="light-bg padded">
+
+   <h2 class="center"> Recent {{page.name}} Projects </h2>
+   <hr class="center">
+
+<div class="grid-center">
+
+
+{% assign relatedprojects  = site.projects | where: "category",page.category %}
+ {% for project in relatedprojects limit:6 %}
+     <div class="col-4_sm-12 padded-2">
+       <div class="tall-image" style="background-image:url('{{project.images[0].image_path}}');">
+       </div>
+       <a href="{{project.url}}" class="offset-top padded">
+            <h3>{{project.name}}</h3>
+            <p>{{project.blurb}}</p>
+       </a>
+     </div>
+ {% endfor %}
+
+ </div>
+</section>

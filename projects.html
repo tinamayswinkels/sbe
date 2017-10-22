@@ -12,19 +12,17 @@ banner-image_path: /images/building.jpg
 </section>
 
 <section class="services-loop">
-    
 
-    {% assign sorted = site.services | sort: 'number' %}
-  {% for service in site.sorted limit:4 %}
+  {% for category in site.project-categories limit:4 %}
   <div class="grid">
-      <div class="col-7_xs-12-middle padded">
-         <h3>{{service.name}}</h3>
+      <div class="col-7_xs-12 padded">
+         <h3>{{category.name}}</h3>
          <hr />
-         <p>{{service.blurb}}</p>
-         <a href="{{service.url}}" class="button"> READ MORE </a>
+         <p>{{category.blurb}}</p>
+         <a href="{{category.url}}" class="button"> READ MORE </a>
       </div>
-      <div class="col-5_xs-12 image" style="background-image:url('{{page.banner-image_path}}');">
-          <p class="text-overlay">{{service.number}}</p>
+      <div class="col-5_xs-12 image" style="background-image:url('{{category.banner-image_path}}');">
+          <!-- <p class="text-overlay">{{category.number}}</p> -->
       </div>
   </div>
   {% endfor %}

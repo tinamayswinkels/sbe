@@ -3,7 +3,12 @@
 .left {     text-align: left;   }
 .right {    text-align: right;  }
 .center {   text-align: center; }
-.tall {min-height: 80vh;}
+.tall {     min-height: 80vh;}
+.short {    min-height:50vh; }
+
+.border-top {
+  border-top: 1px solid rgb(240,240,240);
+}
 
 .padded {     padding: 5%;  }
 .padded-2 {   padding: 2%;  }
@@ -11,6 +16,7 @@
 
 .margin-2 {margin: 5% 2%;}
 .margin-top {margin-top: 5%;}
+.margin-top-2 { margin-top: 2%; }
 
 .block {
   display: block;
@@ -97,6 +103,11 @@
   justify-content: center;
   display: flex;
 }
+
+.banner.short {
+  min-height: 50vh;
+}
+
 .overlay:after {
   content: '';
   position: absolute;

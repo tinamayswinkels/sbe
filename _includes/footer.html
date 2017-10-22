@@ -1,20 +1,20 @@
 <footer class="grid">
     <div class="col-3_sm-12 padded-2">
         <h3> Sustainable Built Environment</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+        <p class="editable">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
     </div>
     <div class="col-3_sm-12 padded-2">
       <h4> OUR SERVICES </h4>
       <nav>
           {% for service in site.services %}
-          <a href="{{service.url}}"> {{service.name}}</a>
+          <a href="/services-extended#{{service.name | slugify}}"> {{service.name}}</a>
           {% endfor %}
       </nav>
     </div>
     <div class="col-3_sm-12 padded-2">
       <h4> OUR PROJECTS </h4>
       <nav>
-        {% for project in site.project-categories limit:6 %}
+        {% for project in site.project-categories limit:10 %}
         <a href="{{project.url}}"> {{project.name}} </a>
         {% endfor %}
       </nav>
