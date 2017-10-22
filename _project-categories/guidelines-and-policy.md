@@ -1,8 +1,10 @@
 ---
 layout: project-category
 category: guidelines-and-policy
-name: Guidelines And Policy
-blurb: This a blurb about education projects and the amazing work that you do, you can easily edit this lorem ipsum to contain real text
+name: Residential
+blurb: >-
+  This a blurb about education projects and the amazing work that you do, you
+  can easily edit this lorem ipsum to contain real text
 banner-image_path: /images/building2.png
 ---
 
