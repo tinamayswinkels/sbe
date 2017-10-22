@@ -3,6 +3,8 @@ collections:
     output: true
   services:
     output: true
+  project-categories:
+    output: true
 
 sass:
     sass_dir: _scss

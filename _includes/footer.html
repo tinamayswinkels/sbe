@@ -14,14 +14,9 @@
     <div class="col-3_sm-12 padded-2">
       <h4> OUR PROJECTS </h4>
       <nav>
-        <a href="#"> Aquatic sports and leisure </a>
-        <a href="#"> Commercial </a>
-        <a href="#"> Educational </a>
-        <a href="#"> Eco-tourism </a>
-        <a href="#"> Guidelines and Policy </a>
-        <a href="#"> Sustainable Master Planning </a>
-        <a href="#"> Residential </a>
-        <a href="#"> Other </a>
+        {% for project in site.project-categories limit:6 %}
+        <a href="{{project.url}}"> {{project.name}} hello </a>
+        {% endfor %}
       </nav>
     </div>
     <div class="col-3_sm-12 padded-2">
