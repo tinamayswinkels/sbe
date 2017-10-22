@@ -2,9 +2,7 @@
 layout: project-category
 category: aquatic-sports-and-leisure
 name: Aquatic Sports And Leisure
-blurb: >-
-  This a blurb about education projects and the amazing work that you do, you
-  can easily edit this lorem ipsum to contain real text
+blurb: Sport and leisure centres are central to the well-being of communities.
 banner-image_path: /uploads/Bendigo_Stadium_Precinct_Render_01.jpg
 ---
 
