@@ -1,7 +1,11 @@
 ---
 layout: project
 name: Goods Shed North
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+  consequat.
 architect: Bligh Voller Nield (BVN)
 category: commercial
 client: Building Commission and Plumbing Industry Commission
@@ -12,7 +16,7 @@ images:
   - title: pic no 2
     image_path: /uploads/3.JPG
   - title: The Commons SBE
-    image_path: /uploads/1.jpg
+    image_path: /uploads/goods shed interior.jpg
   - title:
     image_path: /uploads/2.jpg
 ---
