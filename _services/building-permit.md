@@ -1,5 +1,4 @@
 ---
-layout: service
 name: Building Permit
 blurb: >-
   Demonstrating compliance with energy efficiency provisions for all type of

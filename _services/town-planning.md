@@ -1,5 +1,4 @@
 ---
-layout: service
 name: Town Planning
 blurb: 'Balancing environmental, economic and social outcomes in the built environment'
 image_path: /images/ESDPlanningReports.jpg
