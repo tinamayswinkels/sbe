@@ -2,7 +2,7 @@
 layout: project-category
 category: guidelines-and-policy
 name: Residential
-blurb: Comfortable and resource efficient homes
+blurb:
 banner-image_path: /uploads/SupplyCo_DavidSt_Render_01.jpg
 ---
 
