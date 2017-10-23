@@ -1,12 +1,8 @@
 ---
 layout: project
-name: Blacktown
-blurb: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat.
-architect: Williams Ross
+name: Blacktown Sports Park Gymnasium
+blurb:
+architect: PTA
 category: educational
 client: ANU
 date: 2011-11-30 00:00:00
@@ -20,3 +16,12 @@ images:
   - title:
     image_path: /uploads/IMG_0023.jpg
 ---
+
+
+This is a new Gymnasium facility for the Western Sydney Wanderers FC.
+
+SBE was asked to deliver an NCC Section JV3 assessment as the project has extensive glazing.
+
+The Verification Method JV3 assesses the annual energy consumption (MWh/m<sup>2</sup>. annum) of the proposed building and compares it to the annual energy consumption of a reference building (i.e. a building modelled using the minimum DTS Provision of NCC Volume One Part J1 to J7). This approach allows certain “trade-offs”, such as reducing the performance requirements of windows below the minimum required using the DTS Provisions, by for example, increasing the requirements for walls, floors, roof insulation or building services.
+
+As such, this method allows greater flexibility in the design of the glazing (amount, quality, orientation and shading), insulation and sealing of the envelope (walls, floors and roof) and the configuration of services (air-conditioning, lighting, etc.).
