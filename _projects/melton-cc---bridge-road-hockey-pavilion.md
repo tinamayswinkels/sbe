@@ -8,17 +8,17 @@ client: Melton City Council
 date: 2015-02-10 00:00:00
 images:
   - title: The Commons SBE
-    image_path: /uploads/Capture.JPG
+    image_path: /uploads/melton CC 1.JPG
   - title: pic no 2
-    image_path: /uploads/IMG_0034.jpg
+    image_path: /uploads/melton cc 2.JPG
   - title:
-    image_path: /uploads/IMG_0037.jpg
+    image_path: /uploads/melton cc 4.jpg
   - title:
-    image_path: /uploads/IMG_0023.jpg
+    image_path: /uploads/melton cc 3.jpg
 ---
 
 
-A sports pavilion for Athletics and Hockey facilities at the Bridge Road Recreation Reserve. In partnership with key stakeholders, the City of Melton intends to deliver a pavilion to compliment and provide supporting infrastructure and amenities to planned Athletics Track & Field facilities and Hockey facilities.
+A sports pavilion for Athletics and Hockey facilities at the Bridge Road Recreation Reserve. In partnership with key stakeholders, the City of Melton delivered a pavilion to compliment and provide supporting infrastructure and amenities for the Athletics Track & Field facilities and Hockey facilities.
 
 The buildings delivered:
 
