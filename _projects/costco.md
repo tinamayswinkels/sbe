@@ -1,7 +1,9 @@
 ---
 layout: project
 name: Costco Docklands
-blurb:
+blurb: >-
+  Supermarkets benefit greatly from good daylighting, good insulation and on
+  site renewable energy generation.
 architect: NH Architecture
 category: commercial
 client: Costco
