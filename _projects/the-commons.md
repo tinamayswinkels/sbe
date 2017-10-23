@@ -1,20 +1,24 @@
 ---
 layout: project
 name: The Commons
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+  consequat.
 architect: Breathe Architects
 category: residential
 client: Small Giants
 date: 2012-09-07 00:00:00
 images:
-  - title: pic no 1
-    image_path: /uploads/commons-1.JPG
+  - title:
+    image_path: /uploads/commons 1.jpg
   - title: pic no 2
     image_path: /uploads/photo-1a-1.JPG
+  - title: pic no 1
+    image_path: /uploads/commons 5.JPG
   - title:
-    image_path: /uploads/photo-3a.jpg
-  - title:
-    image_path: /uploads/photo-5-1.jpg
+    image_path: /uploads/commons3a.JPG
 ---
 
 
