@@ -15,10 +15,10 @@ images:
     image_path: /uploads/commons 1.jpg
   - title: pic no 2
     image_path: /uploads/photo-1a-1.JPG
-  - title: pic no 1
-    image_path: /uploads/commons 5.JPG
   - title:
-    image_path: /uploads/commons3a.JPG
+    image_path: /uploads/commons7.jpg
+  - title: pic no 1
+    image_path: /uploads/commons12.jpg
 ---
 
 
