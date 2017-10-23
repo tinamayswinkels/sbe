@@ -25,12 +25,13 @@ The buildings delivered:
 * A pavilion to provide for changing room facilities for Athletics and Hockey, umpires rooms, first aid, DDA facilities, social space with views to sports surfaces, kitchen facilities, public toilets, storage, and multipurpose internal space.
 * A separate secure storage facility to house athletics and hockey equipment, and associated operational plant.
 
-Site of Project Works
+The following energy efficient initiatives were integrated in the project:
 
-Location –&nbsp; VIC 3338
-
-Address – LOT: Z PS 713313D
-
-Melway 39 (2012) Map Reference – 343 B6
-
-Locality / Suburb – Melton South VIC 3338
+* Light coloured roofing material to assist in comfort control in summer
+* High spec glazing and increased insulation levels
+* Low energy lighting
+* Good controls on all active systems.
+* LED lighting will be specified throughout. By placing the main layer of insulation well above ceiling level (fixed to underside of purlins) the architects aim to maintain an unbroken insulation barrier in the roof, rather than one penetrated at each recessed light fitting.
+* External lighting will be on timeclock and PE cell. Internal lighting will be controlled by presence sensors and timeclock.
+* The large roof area of this project provides excellent opportunities for the collection and reuse of rainwater, which can reduce potable water use.
+* However, the site is already served by class A recycled water which will be available for all flushing and non potable demands. Rainwater will instead be intercepted beyond the site boundary in a site wide designed drainage and treatment system that incorporates wetlands.
