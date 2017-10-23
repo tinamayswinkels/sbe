@@ -9,7 +9,7 @@ category: aquatic-sports-and-leisure
 client: Western Sydney Wanderers FC
 date: 2011-11-30 00:00:00
 images:
-  - title: The Commons SBE
+  - title: Western Sydney Wanderers FC gymnasium
     image_path: /uploads/admin 1.jpg
   - title: pic no 2
     image_path: /uploads/gym day 2.jpg
