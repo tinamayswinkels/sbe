@@ -18,10 +18,10 @@ Here are our top ten ESD initiatives we'd like to see incorporated into the plan
 3. Plan for safe bike and pedestrian movement, with connected paths and green spaces to enable safe movement across and within the development. If there is a new school is should be at the nexus of a web of these paths and green zones and the school should be available for all, day and night.
 4. Electric bikes and cars should receive encouragement and support (public charging stations).
 5. Multi storey dwellings should be high performance and comply with the BADS apartment guidelines.&nbsp; However, greater trade-offs should be considered between well delivered communal spaces (including green roofs) and daylighting in apartments.
-6. Significant renewable energy generation on site and interlinked systems to help power public utilities such as waste water treatment, street lighting, the local school etc.
+6. Significant renewable energy generation on site and interlinked systems to help power local public utilities such as waste water treatment, street lighting, the local school etc.
 7. Planting pallets should by local, indigenous and/or fruit bearing.
 8. Rainwater capture and reuse, consolidated stormwater treatment and recycling of same for reuse in irrigation.
 9. Community gardens, markets
-10. Share economy motivators, transition town networks ... [https://transitionbanyule.org.au/about-transition-towns/](https://transitionbanyule.org.au/about-transition-towns/)
+10. Share economy motivators, transition town networks … [https://transitionbanyule.org.au/about-transition-towns/](https://transitionbanyule.org.au/about-transition-towns/)
 
 &nbsp;
