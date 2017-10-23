@@ -1,6 +1,6 @@
 ---
 layout: project
-name: Melton Pavilion
+name: Melton CC - Bridge Road Hockey Pavilion
 blurb: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -20,3 +20,30 @@ images:
   - title:
     image_path: /uploads/IMG_0023.jpg
 ---
+
+
+A sports pavilion for Athletics and Hockey facilities at the Bridge Road Recreation Reserve. In partnership with key
+
+stakeholders, the City of Melton intends to deliver a pavilion to compliment and provide supporting infrastructure and
+
+amenities to planned Athletics Track & Field facilities and Hockey facilities.
+
+The buildings to be delivered are;
+
+- A pavilion to provide for changing room facilities for Athletics and Hockey, umpires rooms, first aid, DDA
+
+facilities, social space with views to sports surfaces, kitchen facilities, public toilets, storage, and multipurpose
+
+internal space.
+
+- A separate secure storage facility to house athletics and hockey equipment, and associated operational plant.
+
+Site of Project Works
+
+Location – Bridge Road, Toolern VIC 3338
+
+Address – LOT: Z PS 713313D
+
+Melway 39 (2012) Map Reference – 343 B6
+
+Locality / Suburb – Melton South VIC 3338
