@@ -1,14 +1,18 @@
 ---
 layout: project
 name: Craigieburn Regional Aquatic & Leisure Centre (SPLASH)
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+  consequat.
 architect: PTA
 category: aquatic-sports-and-leisure
 client: Multiple
 date: 2011-11-30 00:00:00
 images:
-  - title: The Commons SBE
-    image_path: /uploads/1.JPG
+  - title: CRALC
+    image_path: /uploads/CRALC external .JPG
   - title: pic no 2
     image_path: /uploads/20170711_101308.jpg
   - title:
