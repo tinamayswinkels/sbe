@@ -2,7 +2,7 @@
 layout: project-category
 category: commercial
 name: Commercial
-blurb: Energy efficiency spaces that increase productivity
+blurb:
 banner-image_path: /uploads/bosch-03.jpg
 ---
 
