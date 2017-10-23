@@ -2,9 +2,7 @@
 layout: project-category
 category: other
 name: Healthcare
-blurb: >-
-  This a blurb about education projects and the amazing work that you do, you
-  can easily edit this lorem ipsum to contain real text
+blurb:
 banner-image_path: /uploads/Presentation1.jpg
 ---
 
