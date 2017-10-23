@@ -7,7 +7,7 @@ banner-image_path: /uploads/map suburb.JPG
 ---
 
 
-A new suburb is to be proclaimed for Melbourne, featuring medium rise multi-residential buildings and proposed accommodation for 10,000.&nbsp; Image below taken from Herald sun article by Alex White October 22, 2017 [http://www.heraldsun.com.au/news/victoria/new-inner-melbourne-suburb-of-macaulay-to-be-rezoned-making-way-for-thousands-of-homes/news-story/b0245be4aae79baa80dda975f545458c](http://www.heraldsun.com.au/news/victoria/new-inner-melbourne-suburb-of-macaulay-to-be-rezoned-making-way-for-thousands-of-homes/news-story/b0245be4aae79baa80dda975f545458c).
+A new suburb is to be proclaimed for Melbourne, featuring medium rise multi-residential buildings and proposed accommodation for 10,000.&nbsp; Image below taken from ***[Herald Sun article](http://www.heraldsun.com.au/news/victoria/new-inner-melbourne-suburb-of-macaulay-to-be-rezoned-making-way-for-thousands-of-homes/news-story/b0245be4aae79baa80dda975f545458c)*** by Alex White October 22, 2017.
 
 Similar releases of land may take place over the next few years, some of them more remote than others.
 
@@ -23,5 +23,3 @@ Here are our top ten ESD initiatives we'd like to see incorporated into the plan
 8. Rainwater capture and reuse, consolidated stormwater treatment and recycling of same for reuse in irrigation.
 9. Community gardens, markets
 10. Share economy motivators, transition town networks … [https://transitionbanyule.org.au/about-transition-towns/](https://transitionbanyule.org.au/about-transition-towns/)
-
-&nbsp;
