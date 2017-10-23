@@ -21,5 +21,5 @@ Here are our top ten ESD initiatives we'd like to see incorporated into the plan
 6. Significant renewable energy generation on site and interlinked systems to help power local public utilities such as waste water treatment, street lighting, the local school etc.
 7. Planting pallets should by local, indigenous and/or fruit bearing.
 8. Rainwater capture and reuse, consolidated stormwater treatment and recycling of same for reuse in irrigation.
-9. Community gardens, markets
+9. Community gardens, markets.
 10. Share economy motivators, e.g. ***[Transition Town Networks](https://transitionbanyule.org.au/about-transition-towns/)***
