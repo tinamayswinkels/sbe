@@ -8,13 +8,13 @@ client: Wyndham City Council
 date: 2011-05-18 00:00:00
 images:
   - title: The Commons SBE
-    image_path: /uploads/Holmesglen_Vocational_GreenWall_05.jpg
+    image_path: /uploads/mainview 1.JPG
   - title: pic no 2
-    image_path: /uploads/IMG_0034.jpg
+    image_path: /uploads/mainview 3.JPG
   - title:
-    image_path: /uploads/IMG_0037.jpg
+    image_path: /uploads/mainview 2.JPG
   - title:
-    image_path: /uploads/IMG_0023.jpg
+    image_path: /uploads/mainview 4.JPG
 ---
 
 
