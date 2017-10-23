@@ -10,13 +10,13 @@ client: Western Sydney Wanderers FC
 date: 2011-11-30 00:00:00
 images:
   - title: The Commons SBE
-    image_path: /uploads/Capture.JPG
+    image_path: /uploads/admin 1.jpg
   - title: pic no 2
-    image_path: /uploads/IMG_0034.jpg
+    image_path: /uploads/gym day 2.jpg
   - title:
-    image_path: /uploads/IMG_0037.jpg
+    image_path: /uploads/blacktown IES model.jpg
   - title:
-    image_path: /uploads/IMG_0023.jpg
+    image_path: /uploads/admin 2.jpg
 ---
 
 
