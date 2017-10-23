@@ -2,9 +2,7 @@
 layout: project-category
 category: guidelines-and-policy
 name: Residential
-blurb: >-
-  This a blurb about education projects and the amazing work that you do, you
-  can easily edit this lorem ipsum to contain real text
+blurb: Comfortable and resource efficient homes
 banner-image_path: /uploads/SupplyCo_DavidSt_Render_01.jpg
 ---
 
