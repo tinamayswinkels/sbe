@@ -2,7 +2,7 @@
 layout: project-category
 category:
 name: Education
-blurb: Assisting the learning process through good design
+blurb:
 banner-image_path: /uploads/IMG_0235.JPG
 ---
 
