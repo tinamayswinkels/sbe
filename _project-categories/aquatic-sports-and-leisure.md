@@ -2,7 +2,7 @@
 layout: project-category
 category: aquatic-sports-and-leisure
 name: Aquatic Sports And Leisure
-blurb: Sport and leisure centres are central to the well-being of communities.
+blurb: Well-being and sustainability under one roof
 banner-image_path: /uploads/Bendigo_Stadium_Precinct_Render_01.jpg
 ---
 
