@@ -20,9 +20,11 @@ images:
 ---
 
 
-This large warehouse style supermarket was constructed in the Docklands area in 2009.&nbsp; SBE provided assistance with town planning, Docklands Authority ESD reporting, daylight modelling and Section J compliance (using the JV3 methodology).
+Costco's first venture into Australia is located at Docklands.&nbsp; The ESD initiatives integrated into the project have the potential to reduce energy consumption by 43 percent and potable water use by 85 percent compared to a standard retail development.
 
-The following is a highlight of the environmentally sustainable design features:
+SBE provided assistance with town planning, Docklands Authority ESD reporting, daylight modelling and Section J compliance (using the JV3 methodology).
+
+The building received the VicUrban Docklands ESD Award of Excellence. The following is a highlight of the environmentally sustainable design features:
 
 * Re-development of a used site with access to public transportation (ferry, bus and train).
 * Stormwater re-use for toilets and irrigation coupled with treatment in bio-retention beds.
