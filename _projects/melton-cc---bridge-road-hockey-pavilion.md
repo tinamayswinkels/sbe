@@ -7,7 +7,7 @@ category: aquatic-sports-and-leisure
 client: Melton City Council
 date: 2015-02-10 00:00:00
 images:
-  - title: The Commons SBE
+  - title: melton CC
     image_path: /uploads/melton CC 1.JPG
   - title: pic no 2
     image_path: /uploads/melton cc 2.JPG
