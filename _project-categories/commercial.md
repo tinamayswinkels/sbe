@@ -2,9 +2,7 @@
 layout: project-category
 category: commercial
 name: Commercial
-blurb: >-
-  This a blurb about commerical projects and the amazing work that you do, you
-  can easily edit this lorem ipsum to contain real text
+blurb: Energy efficiency spaces that increase productivity
 banner-image_path: /uploads/bosch-03.jpg
 ---
 
