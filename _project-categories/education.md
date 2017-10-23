@@ -2,9 +2,7 @@
 layout: project-category
 category:
 name: Education
-blurb: >-
-  This a blurb about education projects and the amazing work that you do, you
-  can easily edit this lorem ipsum to contain real text
+blurb: Assisting the learning process through good design
 banner-image_path: /uploads/IMG_0235.JPG
 ---
 
