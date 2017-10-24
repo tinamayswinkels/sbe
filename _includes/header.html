@@ -17,12 +17,12 @@
            <div class="col-3"> <!-- empty div --> </div>
            <div class="col-3">
                 {% for service in site.services limit:6 %}
-                <a href="/extended-services#{{service.name | slugify}}"> {{service.name}}</a>
+                <a href="/services-extended#{{service.name | slugify}}"> {{service.name}}</a>
                 {% endfor %}
             </div>
             <div class="col-3">
               {% for service in site.services offset:6 %}
-              <a href="/extended-services#{{service.name | slugify}}"> {{service.name}}</a>
+              <a href="/services-extended#{{service.name | slugify}}"> {{service.name}}</a>
               {% endfor %}
             </div>
          </div>

@@ -45,7 +45,7 @@ banner-image_path: /images/One_Flintoff_Render_04.jpg
          <h3>{{service.name}}</h3>
          <hr />
          <p>{{service.blurb}}</p>
-         <a href="{{service.url}}" class="button"> READ MORE </a>
+         <a href="/services-extended#{{service.name | slugify}}" class="button"> READ MORE </a>
       </div>
       <div class="col-5_xs-12 image" style="background-image:url('{{service.image_path}}');">
           <p class="text-overlay">{{service.number}}</p>

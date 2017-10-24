@@ -462,6 +462,12 @@ hr.center {
 .post h2 {
   font-size: 1.8rem; }
 
+/* Breadrumb */
+.breadcrumb {
+  margin-top: -0.5rem;
+  font-size: 0.9rem;
+  color: #969696; }
+
 @media (max-width: 768px) {
   h1, h2 {
     font-size: 2rem; } }
