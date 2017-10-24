@@ -7,7 +7,7 @@ banner-image_path: /uploads/map suburb.JPG
 ---
 
 
-SBE has been in discussion with Dr Yakov Elgart (details below) who is developing a local hybrid PV and solar hot water panel.
+SBE has been in discussion (via AWS) with Dr Yakov Elgart (details below) who is developing a local hybrid PV and solar hot water panel.
 
 The concept is:
 
