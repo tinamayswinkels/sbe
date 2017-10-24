@@ -1,20 +1,20 @@
 ---
 layout: project
 name: Mossfiel Sports Facilities
-blurb: New Facilitioes for the City of Wyndham
-architect: Terence Carey Architetcs www.terencecareyarchitects.com.au
+blurb: New Facilities for the City of Wyndham
+architect: Terence Carey Architects www.terencecareyarchitects.com.au
 category: aquatic-sports-and-leisure
 client: City of Wyndham
 date: 2016-06-15 00:00:00
 images:
-  - title: The Commons SBE
-    image_path: /uploads/Capture.JPG
-  - title: pic no 2
-    image_path: /uploads/IMG_0034.jpg
-  - title:
-    image_path: /uploads/IMG_0037.jpg
-  - title:
-    image_path: /uploads/IMG_0023.jpg
+  - title: pavilion
+    image_path: /uploads/moss pavilion 1.JPG
+  - title: pavilion
+    image_path: /uploads/moss pavilion 2.JPG
+  - title: netball
+    image_path: /uploads/moss netball_2.jpg
+  - title: netabll
+    image_path: /uploads/moss netball_6.jpg
 ---
 
 
