@@ -12,7 +12,7 @@ SBE has been in discussion (via AWS) with Dr Yakov Elgart (details below) who is
 The concept is:
 
 * A PV panel kept cool performs at its optimum.
-* Extracting the heat from a PV panel produced hot water as a by-product.
+* Extracting the heat from a PV panel produces hot water as a by-product.
 
 SBE is interested in the technology for use in future Aquatic centres.&nbsp; Dr Elgart has stated:
 
