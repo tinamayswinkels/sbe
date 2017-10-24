@@ -22,7 +22,7 @@ SBE is interested in the technology for use in future Aquatic centres.&nbsp; Dr 
 * *Absorber of PV-TAHP collector provides highly effective cooling of the PV cells area. That allows increase PV cells power output of around 15-30%, compare to single PV collector, by keeping its surface temperature around 40-50 C*
 * *At temperature 40-50 C PV-TAHP collector’s electric power output is about 140 W/m2, at the same time it produces up to 450W/m2 of thermal energy*
 
-&nbsp;
+![](/uploads/versions/research-pv---x----651-437x---.JPG)
 
 Dr Yakov Elgart, Director, Engineering Scientific International
 
