@@ -2,7 +2,7 @@
 layout: project
 name: Mossfiel Sports Facilities
 blurb: New Facilitioes for the City of Wyndham
-architect: Terence Carey Architetcs
+architect: Terence Carey Architetcs www.terencecareyarchitects.com.au
 category: aquatic-sports-and-leisure
 client: City of Wyndham
 date: 2016-06-15 00:00:00
@@ -18,7 +18,7 @@ images:
 ---
 
 
-SBE has been working on two sporting facilities at Mossfeil Drive Hoppers Crossing.&nbsp; The first is a Sports Pavilion and the second a Netball Pavilion
+SBE has been working on two sporting facilities at Mossfeil Drive Hoppers Crossing.  The first is a Sports Pavilion and the second a Netball Pavilion
 
 Sports Pavilion
 
