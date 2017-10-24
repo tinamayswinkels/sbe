@@ -7,14 +7,14 @@ category: aquatic-sports-and-leisure
 client: City of Wyndham
 date: 2016-06-15 00:00:00
 images:
+  - title: netabll
+    image_path: /uploads/moss netball_6.jpg
   - title: pavilion
     image_path: /uploads/moss pavilion 1.JPG
   - title: pavilion
     image_path: /uploads/moss pavilion 2.JPG
   - title: netball
     image_path: /uploads/moss netball_2.jpg
-  - title: netabll
-    image_path: /uploads/moss netball_6.jpg
 ---
 
 
