@@ -1,15 +1,11 @@
 ---
 layout: project
 name: Mossfiel Sports Facilities
-blurb: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat.
-architect: Williams Ross
-category: educational
-client: ANU
-date: 2011-11-30 00:00:00
+blurb: New Facilitioes for the City of Wyndham
+architect: Terence Carey Architetcs
+category: aquatic-sports-and-leisure
+client: City of Wyndham
+date: 2016-06-15 00:00:00
 images:
   - title: The Commons SBE
     image_path: /uploads/Capture.JPG
@@ -22,7 +18,9 @@ images:
 ---
 
 
-Pavilion
+SBE has been working on two sporting facilities at Mossfeil Drive Hoppers Crossing.&nbsp; The first is a Sports Pavilion and the second a Netball Pavilion
+
+Sports Pavilion
 
 The facility consists of a conditioned Social Area, small kitchen/kiosk, and change rooms and back of house spaces in Pavilion A, a second set of change rooms, shower facilities and umpires facilities in Pavilion B and a small services enclosure. Bicycle spaces will be provided outside.
 
@@ -38,3 +36,18 @@ ESD features include:
 * External lighting will be controlled by PE Cells and timers
 * Low energy LED lighting throughout (internally and externally)
 * Daylight Access - The social area has been modelled for daylighting and achieved a DF of &gt;2% for 62% of the floor space.
+
+Netball Pavilion
+
+A pavilion incorporating players and umpires change rooms with associate amenities, internal and external storerooms, kitchens/kiosks, and a community room.
+
+ESD features will include:
+
+* One 5,000 litre rainwater tank available for intermittent watering shall be installed. The rainwater tank shall collect rainwater from the sport pavilion roof (approx. 665m2).
+* A 5kW solar photovoltaic system shall be installed to generate electricity for the development.
+* Minimum 22% reduction in heating and cooling energy consumption compared to a reference building.
+* Gas heaters to be minimum 90% efficient.
+* 6 star continuous flow domestic hot water powered by natural gas for football & cricket club, and solar boosted electric heater for the tennis club.
+* All external lighting controlled by motion detectors (excluding ovals and sport courts which shall be controlled separately).
+* The internal maximum illumination power density shall be at least 20% lower than required by the NCC.
+* 100% of nominated floor areas shall achieve appropriate daylight levels.
