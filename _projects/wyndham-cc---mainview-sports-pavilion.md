@@ -1,8 +1,8 @@
 ---
 layout: project
-name: Wyndham CC - Mainview Sports Pavilion
+name: Wyndham City Council - Mainview Sports Pavilion
 blurb: A new facility for Wyndham City Council
-architect: Terence Carey Architects www.terencecareyarchitects.com.au
+architect: Terence Carey Architects
 category: aquatic-sports-and-leisure
 client: Wyndham City Council
 date: 2011-05-18 00:00:00
