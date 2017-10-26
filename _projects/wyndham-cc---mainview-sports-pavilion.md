@@ -18,18 +18,19 @@ images:
 ---
 
 
-The facility consists of a conditioned Social Area, small kitchen/kiosk, change rooms and back of house spaces.&nbsp; Bicycle spaces are provided outside.
+The facility consists of a conditioned Social Area, small kitchen/kiosk, change rooms, back of house spaces, and outdoor bicycle parking.
 
-The Wyndham City Council is responsible for this facility.&nbsp; Their Brief for the project called for the following:
+As part of the project brief Wyndham City Council requested that the proposed design:
 
-* Surpass Councils minimum overall ESD Performance target (Score 50% or more using the Built Environment Sustainability Scorecard (BESS)). Refer [http://bess.net.au/](http://bess.net.au/).
-* Achieve maximum of hard surfaces areas connected to rainwater harvesting or water sensitive urban design stormwater treatments.
-* A connected, universal access facility that encourages and provides for all travel options including pedestrians, cyclists, public transport and motorised mobility devices.
-* Landscaping and building provide urban heat refuge and enhances the ecological value of the site
-* A facility that actively facilitates waste recycling through inclusion of dedicated recycling points in both the pavilion and surrounding public open space.
-* All materials, finishes and fittings meet Council ESD and sustainable procurement standards and are non-toxic, sustainably sourced and durable.
-* An overall score of 50% using the Built Environment Sustainability Scorecard Tool (BESS).&nbsp; Principles and specifications listed in the Council Buildings ESD Guide are broadly in line with a BESS score of 70% or above (represents ESD ‘Excellence’).&nbsp;
+* Achieved a minimum ESD score of 50% using the ***[Built Environment Scorecard (BESS)](http://www.bess.net.au/)***.
+* Maximised hard surfaces connected to rainwater harvesting or WSUD treatments.
+* Incorporated facilities that facilitate waste recycling.
+* Be constructed with materials, finishes and fittings that meet Council ESD and sustainable procurement standards.
+* Resulted in a connected, universal access facility that encourages and provides for all travel options including pedestrians, cyclists, public transport and motorised mobility devices.
+* Be landscaped to provide urban heat refuge and enhanced ecological value to the site.&nbsp;
 
-<div><div id="ftn1"><p>&nbsp;</p></div></div>
+As the project ESD consultant, SBE assisted the Architect and Project Team incorporating the necessary ESD initiatives into a practical and cost-effective design
 
-<div id="ftn1"><p>&nbsp;</p></div>
+<div><div id="ftn1">&nbsp;</div></div>
+
+<div id="ftn1">&nbsp;</div>
