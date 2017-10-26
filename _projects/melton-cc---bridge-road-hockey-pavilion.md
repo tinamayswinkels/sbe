@@ -1,11 +1,11 @@
 ---
 layout: project
-name: Melton CC - Bridge Road Hockey Pavilion
-blurb: 'A new Sporting Pavilion for Bridge Road, Toolern'
-architect: Terence Carey Architects www.terencecareyarchitects.com.au
+name: Melton City Council - Bridge Road Hockey Pavilion
+blurb: A new Sporting Pavilion for Bridge Road in Toolern
+architect: Terence Carey Architects
 category: aquatic-sports-and-leisure
 client: Melton City Council
-date: 2015-02-10 00:00:00
+date: 2016-10-20 00:00:00
 images:
   - title: melton CC
     image_path: /uploads/melton CC 1.JPG
