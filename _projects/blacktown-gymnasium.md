@@ -2,9 +2,9 @@
 layout: project
 name: Blacktown Sports Park Gymnasium
 blurb: >-
-  A new sporting facility with extensive glazing benefitted from theJV3
-  asessment approach.
-architect: PTA
+  A new sporting facility with extensive glazing benefited from the JV3
+  assessment approach
+architect: Peddle Thorp Architects
 category: aquatic-sports-and-leisure
 client: Western Sydney Wanderers FC
 date: 2011-11-30 00:00:00
