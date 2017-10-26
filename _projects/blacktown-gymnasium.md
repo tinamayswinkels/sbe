@@ -7,7 +7,7 @@ blurb: >-
 architect: Peddle Thorp Architects
 category: aquatic-sports-and-leisure
 client: Western Sydney Wanderers FC
-date: 2011-11-30 00:00:00
+date: 2017-09-13 00:00:00
 images:
   - title: Western Sydney Wanderers FC gymnasium
     image_path: /uploads/admin 1.jpg
