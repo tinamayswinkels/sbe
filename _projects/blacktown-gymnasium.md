@@ -20,12 +20,8 @@ images:
 ---
 
 
-This is a new Gymnasium facility for the Western Sydney Wanderers FC.
+SBE was engaged to conduct a NCC Section J Part J1-J3 assessment on the new Western Sydney Wanderers FC gymnasium.
 
-SBE was asked to deliver an NCC Section JV3 assessment as the project has extensive glazing.
+The Verification Method JV3 assesses the annual energy consumption of the proposed building and compares it to the annual energy consumption of a reference building (i.e. a building modelled using the minimum DTS Provisions of Section J of the NCC). This approach allows certain ‘trade-offs’, such as reducing the performance requirements of windows below the minimum required using the DTS Provisions, by for example, increasing the requirements for walls, floors, roof insulation or building services.
 
-The Verification Method JV3 assesses the annual energy consumption (MWh/m<sup>2</sup>. annum) of the proposed building and compares it to the annual energy consumption of a reference building (i.e. a building modelled using the minimum DTS Provision of NCC Volume One Part J1 to J7). This approach allows certain “trade-offs”, such as reducing the performance requirements of windows below the minimum required using the DTS Provisions, by for example, increasing the requirements for walls, floors, roof insulation or building services.
-
-As such, this method allows greater flexibility in the design of the glazing (amount, quality, orientation and shading), insulation and sealing of the envelope (walls, floors and roof) and the configuration of services (air-conditioning, lighting, etc.).
-
-By using JV3 instead of the DTS method of assessment this building was able to maximise the area of glazing.
+By using this method on the project, SBE was able to maximise the glazed area on the project while maintaining overall efficiency.
