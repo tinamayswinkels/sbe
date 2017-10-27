@@ -5,7 +5,7 @@ blurb: A new Sporting Pavilion for Bridge Road in Toolern
 architect: Terence Carey Architects
 category: aquatic-sports-and-leisure
 client: Melton City Council
-date: 2016-10-20 00:00:00
+date: 2015-02-20 00:00:00
 images:
   - title: melton CC
     image_path: /uploads/melton CC 1.JPG
