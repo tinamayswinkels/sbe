@@ -1,6 +1,6 @@
 ---
 layout: project-category
-category:
+category: educational
 name: Education
 blurb:
 banner-image_path: /uploads/IMG_0235.JPG
