@@ -2,14 +2,14 @@
 layout: project
 name: ANU Fenner
 blurb: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-  consequat.
+  The Frank Fenner building is a small scale institutional faculty building
+  which archived a 6 star Green Star Office Design Rating. The design aimed to
+  integrate with existing site conditions, and to be an example of sustainable
+  design, balancing innovation with common design and construction practices.
 architect: Williams Ross
 category: educational
 client: ANU
-date: 2011-11-30 00:00:00
+date: 2012-02-15 00:00:00
 images:
   - title: The Commons SBE
     image_path: /uploads/Capture.JPG
@@ -22,7 +22,7 @@ images:
 ---
 
 
-The Frank Fenner building is a small scale institutional faculty building which archived a 6 star Green Star Office Design Rating. The design aimed to integrate with existing site conditions, and to be an example of sustainable design balancing innovation with common design and construction practices.
+The Frank Fenner building is a small scale institutional faculty building which archived a 6 star Green Star Office Design Rating. The design aimed to integrate with existing site conditions, and to be an example of sustainable design, balancing innovation with common design and construction practices.
 
 The configuration of the building footprint, wrapping around an internal courtyard and adopting a narrow floor plate, creates a high quality internal environment by accessing natural light, fresh air, and views to the outdoor environment, allowing for a strong personal connection to the external environment for both Staff and students.
 
