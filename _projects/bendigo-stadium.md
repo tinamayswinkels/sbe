@@ -15,7 +15,7 @@ images:
   - title: Bendigo Stadium Indoor 01
     image_path: /uploads/bendigo-stadium-indoor-01.jpg
   - title: Bendigo Stadium Indoor 02
-    image_path: /uploads/Bendigo_Stadium_Precinct_Render_02.jpg
+    image_path: /uploads/bendigo-stadium-indoor-02.jpg
   - title: Bendigo Staium Graph
     image_path: /uploads/model.JPG
 ---
