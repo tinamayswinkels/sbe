@@ -7,13 +7,13 @@ category: aquatic-sports-and-leisure
 client: Wyndham City Council
 date: 2017-08-07 00:00:00
 images:
-  - title: The Commons SBE
+  - title: Mainview Sports Pavilion
     image_path: /uploads/mainview 1.JPG
-  - title: pic no 2
+  - title: Mainview Sports Pavilion Interior
     image_path: /uploads/mainview 3.JPG
-  - title:
+  - title: Mainview Sports Pavilion Undercover Area
     image_path: /uploads/mainview 2.JPG
-  - title:
+  - title: Mainview Sports Pavilion Solar PV
     image_path: /uploads/mainview 4.JPG
 ---
 
