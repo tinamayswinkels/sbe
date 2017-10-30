@@ -8,7 +8,7 @@ blurb: >-
 architect: PTA
 category: residential
 client: Piedimonte
-date: 2011-11-30 00:00:00
+date: 2017-10-30 00:00:00
 images:
   - title: The Commons SBE
     image_path: /uploads/pd1.JPG
