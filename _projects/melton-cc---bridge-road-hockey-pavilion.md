@@ -10,7 +10,7 @@ client: Melton City Council
 date: 2015-02-20 00:00:00
 images:
   - title: Melton City Council Bridge Road Hockey Pavilion
-    image_path: /uploads/melton CC 1.JPG
+    image_path: /uploads/bridge-rd-hockey-pavilion-01.JPG
   - title: Bridge Road Hockey Pavilion Solar Hot Water
     image_path: /uploads/melton cc 2.JPG
   - title: Bridge Road Hockey Pavilion Site
