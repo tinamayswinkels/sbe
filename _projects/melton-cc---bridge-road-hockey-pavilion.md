@@ -12,7 +12,7 @@ images:
   - title: Melton City Council Bridge Road Hockey Pavilion
     image_path: /uploads/bridge-rd-hockey-pavilion-01.JPG
   - title: Bridge Road Hockey Pavilion Solar Hot Water
-    image_path: /uploads/melton cc 2.JPG
+    image_path: /uploads/bridge-rd-hockey-pavilion-solar-hot-water.JPG
   - title: Bridge Road Hockey Pavilion Site
     image_path: /uploads/melton cc 4.jpg
   - title: Bridge Road Hockey Pavilion Operation
