@@ -12,7 +12,7 @@ client: Multiple
 date: 2015-09-22 00:00:00
 images:
   - title: CRALC
-    image_path: /uploads/CRALC external .JPG
+    image_path: /uploads/craigieburn-regional-aquatic-&-leisure-centre-01.JPG
   - title: pic no 2
     image_path: /uploads/20170711_101308.jpg
   - title:
