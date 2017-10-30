@@ -18,7 +18,7 @@ images:
   - title:
     image_path: /uploads/LTS Interior Perspective.jpg
   - title:
-    image_path: /uploads/photo-5-1.JPG
+    image_path:
 ---
 
 
