@@ -11,9 +11,9 @@ client: Bendigo Council
 date: 2017-03-07 00:00:00
 images:
   - title: Bendigo Stadium
-    image_path: /uploads/Bendigo_Stadium_Precinct_Render_01.jpg
+    image_path: /uploads/bendigo-stadium-01.jpg
   - title: Bendigo Stadium Indoor 01
-    image_path: /uploads/graph222.JPG
+    image_path: /uploads/bendigo-stadium-indoor-01.jpg
   - title: Bendigo Stadium Indoor 02
     image_path: /uploads/Bendigo_Stadium_Precinct_Render_02.jpg
   - title: Bendigo Staium Graph
