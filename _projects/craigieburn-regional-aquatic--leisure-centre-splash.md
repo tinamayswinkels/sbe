@@ -11,13 +11,13 @@ category: aquatic-sports-and-leisure
 client: Multiple
 date: 2015-09-22 00:00:00
 images:
-  - title: CRALC
+  - title: Craigieburn Regional Aquatic & Leisure Centre
     image_path: /uploads/craigieburn-regional-aquatic-&-leisure-centre-01.JPG
-  - title: pic no 2
+  - title: Craigieburn Regional Aquatic & Leisure Centre Construction
     image_path: /uploads/20170711_101308.jpg
-  - title:
+  - title: Craigieburn Regional Aquatic & Leisure Centre Interior Construction
     image_path: /uploads/20170711_102137.jpg
-  - title:
+  - title: Craigieburn Regional Aquatic & Leisure Centre Interior
     image_path: /uploads/WaterMarc_04.jpeg
 ---
 
