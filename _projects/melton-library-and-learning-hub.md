@@ -11,7 +11,7 @@ category: commercial
 client: Melton City Council and ADCO
 date: 2014-05-08 00:00:00
 images:
-  - title: The Commons SBE
+  - title: Melton Library and Learning Hub
     image_path: /uploads/1.jpg
   - title: pic no 2
     image_path: /uploads/2.jpg
