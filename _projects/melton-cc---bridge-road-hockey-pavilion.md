@@ -9,13 +9,13 @@ category: aquatic-sports-and-leisure
 client: Melton City Council
 date: 2015-02-20 00:00:00
 images:
-  - title: melton CC
+  - title: Melton City Council Bridge Road Hockey Pavilion
     image_path: /uploads/melton CC 1.JPG
-  - title: pic no 2
+  - title: Bridge Road Hockey Pavilion Solar Hot Water
     image_path: /uploads/melton cc 2.JPG
-  - title:
+  - title: Bridge Road Hockey Pavilion Site
     image_path: /uploads/melton cc 4.jpg
-  - title:
+  - title: Bridge Road Hockey Pavilion Operation
     image_path: /uploads/melton cc 3.jpg
 ---
 
