@@ -7,7 +7,7 @@ blurb: >-
   building.
 architect: PTA
 category: commercial
-client: Banyule Council
+client: Banyule City Council
 date: 2017-01-26 00:00:00
 images:
   - title: The Commons SBE
