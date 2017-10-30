@@ -12,7 +12,7 @@ images:
   - title: Mossfield Sports Pavilion Render
     image_path: /uploads/mossfield-sports-pavilion-render.JPG
   - title: Mossfield Sports Pavilion Site
-    image_path: /uploads/moss pavilion 2.JPG
+    image_path: /uploads/mossfield-sports-pavilion-site.JPG
   - title: Mossfield Sports Pavilion Undercover Area
     image_path: /uploads/moss netball_2.jpg
 ---
