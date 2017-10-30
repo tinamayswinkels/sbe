@@ -5,7 +5,7 @@ blurb: A new facility for Wyndham City Council
 architect: Terence Carey Architects
 category: aquatic-sports-and-leisure
 client: Wyndham City Council
-date: 2011-05-18 00:00:00
+date: 2017-08-07 00:00:00
 images:
   - title: The Commons SBE
     image_path: /uploads/mainview 1.JPG
@@ -27,7 +27,7 @@ As part of the project brief Wyndham City Council requested that the proposed de
 * Incorporated facilities that facilitate waste recycling.
 * Be constructed with materials, finishes and fittings that meet Council ESD and sustainable procurement standards.
 * Resulted in a connected, universal access facility that encourages and provides for all travel options including pedestrians, cyclists, public transport and motorised mobility devices.
-* Be landscaped to provide urban heat refuge and enhanced ecological value to the site.&nbsp;
+* Be landscaped to provide urban heat refuge and enhanced ecological value to the site.
 
 As the project ESD consultant, SBE assisted the Architect and Project Team incorporating the necessary ESD initiatives into a practical and cost-effective design
 
