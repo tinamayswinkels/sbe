@@ -8,7 +8,7 @@ client: City of Wyndham
 date: 2016-06-15 00:00:00
 images:
   - title: Mossfield Sports Pavilion
-    image_path: /uploads/moss netball_6.jpg
+    image_path: /uploads/mossfield-sports-pavilion-01.jpg
   - title: Mossfield Sports Pavilion Render
     image_path: /uploads/moss pavilion 1.JPG
   - title: Mossfield Sports Pavilion Site
