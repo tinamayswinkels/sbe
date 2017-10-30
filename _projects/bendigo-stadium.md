@@ -10,13 +10,13 @@ category: aquatic-sports-and-leisure
 client: Bendigo Council
 date: 2017-03-07 00:00:00
 images:
-  - title:
+  - title: Bendigo Stadium
     image_path: /uploads/Bendigo_Stadium_Precinct_Render_01.jpg
-  - title: pic no 2
+  - title: Bendigo Stadium Indoor 01
     image_path: /uploads/graph222.JPG
-  - title:
+  - title: Bendigo Stadium Indoor 02
     image_path: /uploads/Bendigo_Stadium_Precinct_Render_02.jpg
-  - title:
+  - title: Bendigo Staium Graph
     image_path: /uploads/model.JPG
 ---
 
