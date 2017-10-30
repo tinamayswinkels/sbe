@@ -17,8 +17,11 @@ banner-image_path: /images/Home.jpg
       <h1 class="editable"> Sustainable Built Environments </h1>
       <p class="editable">Innovative Ideas / Collaborative Design / Practical Solutions</p>
   </div>
+  <a href="#section2" class="down-arrow">
+      <img src="/images/down-icon.png" />
+  </a>
 </section>
-<section class="text-banner">
+<section class="text-banner" id="section2">
   <h2 class="center editable">Our customers love us... </h2>
   <hr class="center" />
 
@@ -60,7 +63,7 @@ banner-image_path: /images/Home.jpg
         {% for service in site.services %}
 
             <div class="col-3_sm-6_xs-12 padded-2">
-               <h3 class="center">{{service.name}}</h3>
+               <h3>{{service.name}}</h3>
                <p>{{service.blurb}}</p>
             </div>
 
@@ -68,5 +71,5 @@ banner-image_path: /images/Home.jpg
   </div>
   <a href="/services" class="button center"> Read More  </a>
 </section>
-<a class="map banner" href="/contact" target="_blank">
+<a class="map banner" href="/contact">
 </a>

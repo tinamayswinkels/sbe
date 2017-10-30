@@ -19,6 +19,10 @@ body {
     overflow: hidden;
 }
 
+section:focus {
+  outline: none;
+}
+
 img {
   max-width : 100%;
 }
@@ -35,4 +39,29 @@ a {
 p, li {
   font-weight: 400;
   font-size: 1.1rem;
+}
+
+/* Sticky Scrolling */
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+.sticky.sticky-fixed.is-sticky {
+  position: fixed;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.sticky.sticky-fixed.is-sticky:not([style*="margin-top"]) {
+  margin-top: 0 !important;
+}
+.sticky.sticky-fixed.is-sticky:not([style*="margin-bottom"]) {
+  margin-bottom: 0 !important;
+}
+
+.sticky.sticky-fixed.is-absolute{
+  position: absolute;
 }

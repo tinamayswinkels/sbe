@@ -1,0 +1,35 @@
+---
+layout: project
+name: Melton CC - Bridge Road Hockey Pavilion
+blurb: 'A new Sporting Pavilion for Bridge Road, Toolern'
+architect: Terence Carey Architects www.terencecareyarchitects.com.au
+category: aquatic-sports-and-leisure
+client: Melton City Council
+date: 2015-02-10 00:00:00
+images:
+  - title: melton CC
+    image_path: /uploads/melton CC 1.JPG
+  - title: pic no 2
+    image_path: /uploads/melton cc 2.JPG
+  - title:
+    image_path: /uploads/melton cc 4.jpg
+  - title:
+    image_path: /uploads/melton cc 3.jpg
+---
+
+
+A sports pavilion for Athletics and Hockey facilities at the Bridge Road Recreation Reserve. In partnership with key stakeholders, the City of Melton delivered a pavilion to compliment and provide supporting infrastructure and amenities for the Athletics Track & Field facilities and Hockey facilities.
+
+The buildings delivered:
+
+* A pavilion to provide for changing room facilities for Athletics and Hockey, umpires rooms, first aid, DDA facilities, social space with views to sports surfaces, kitchen facilities, public toilets, storage, and multipurpose internal space.
+* A separate secure storage facility to house athletics and hockey equipment, and associated operational plant.
+
+The following energy efficient initiatives were integrated in the project:
+
+* Light coloured roofing material to assist in comfort control in summer
+* High spec glazing and increased insulation levels
+* Good controls on all active systems.
+* LED lighting will be specified throughout. By placing the main layer of insulation well above ceiling level (fixed to underside of purlins) the architects aim to maintain an unbroken insulation barrier in the roof, rather than one penetrated at each recessed light fitting.
+* External lighting will be on timeclock and PE cell. Internal lighting will be controlled by presence sensors and timeclock.
+* The large roof area of this project provides excellent opportunities for the collection and reuse of rainwater, which can reduce potable water use. However, the site is already served by class A recycled water which will be available for all flushing and non potable demands. Rainwater will instead be intercepted beyond the site boundary in a site wide designed drainage and treatment system that incorporates wetlands.

@@ -10,10 +10,12 @@ h3:first-child {
   margin-top:0;
 }
 
-
 h1, h2 {
   font-weight: 300;
   font-size: 2.3rem;
+}
+p, li {
+    line-height:1.6;
 }
 
 a {
@@ -25,6 +27,13 @@ a {
     text-transform: uppercase;
     color: rgb(120,120,120);
 }
+li {
+    list-style-position: outside;
+    padding-left: 0.5rem;
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+
 /* Other elements */
 
 hr {
@@ -60,6 +69,7 @@ hr.center {
     color: rgb(90,90,90);
     border-radius: 3px;
     margin-right: 0.2rem;
+    margin-bottom: 0.4rem;
 }
 .tag:hover {
   color: rgb(150,150,150);

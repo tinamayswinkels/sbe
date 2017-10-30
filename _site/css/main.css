@@ -15,6 +15,9 @@ body {
   background-color: white;
   overflow: hidden; }
 
+section:focus {
+  outline: none; }
+
 img {
   max-width: 100%; }
 
@@ -29,6 +32,26 @@ a {
 p, li {
   font-weight: 400;
   font-size: 1.1rem; }
+
+/* Sticky Scrolling */
+.sticky {
+  position: -webkit-sticky;
+  position: sticky; }
+
+.sticky.sticky-fixed.is-sticky {
+  position: fixed;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  backface-visibility: hidden; }
+
+.sticky.sticky-fixed.is-sticky:not([style*="margin-top"]) {
+  margin-top: 0 !important; }
+
+.sticky.sticky-fixed.is-sticky:not([style*="margin-bottom"]) {
+  margin-bottom: 0 !important; }
+
+.sticky.sticky-fixed.is-absolute {
+  position: absolute; }
 
 header {
   position: relative;
@@ -248,7 +271,7 @@ footer nav a {
 .banner {
   background-size: cover;
   background-position: center;
-  min-height: 90vh;
+  min-height: 80vh;
   position: relative;
   z-index: 1;
   align-items: center;
@@ -277,6 +300,12 @@ footer nav a {
 .text-banner {
   padding: 5%;
   text-align: center; }
+
+.down-arrow {
+  position: absolute;
+  left: 48%;
+  bottom: 1rem;
+  z-index: 2; }
 
 /* Image block with text overlay */
 .image,
@@ -416,12 +445,21 @@ h1, h2 {
   font-weight: 300;
   font-size: 2.3rem; }
 
+p, li {
+  line-height: 1.6; }
+
 a {
   text-decoration: none; }
 
 .sub {
   text-transform: uppercase;
   color: #787878; }
+
+li {
+  list-style-position: outside;
+  padding-left: 0.5rem;
+  margin-top: 1rem;
+  margin-left: 2rem; }
 
 /* Other elements */
 hr {
@@ -452,7 +490,8 @@ hr.center {
   border: 1px solid #5a5a5a;
   color: #5a5a5a;
   border-radius: 3px;
-  margin-right: 0.2rem; }
+  margin-right: 0.2rem;
+  margin-bottom: 0.4rem; }
 
 .tag:hover {
   color: #969696;

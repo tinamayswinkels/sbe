@@ -9,31 +9,36 @@ banner-image_path: /images/One_Flintoff_Render_04.jpg
       <h1 class="editable">Services</h1>
       <p class="editable">An inter-disciplinary approach to assist you through all phases of your project&nbsp;&nbsp;</p>
   </div>
+  <a href="#section2" class="down-arrow">
+      <img src="/images/down-icon.png" />
+  </a>
 </section>
 
-<section class="padded">
-  <h2> Services We Offer</h2>
-  <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <nav class="margin-top">
-      {% for service in site.services %}
-      <a href="#{{service.name | slugify}}" class="tag"> {{service.name}}</a>
-      {% endfor %}
-  </nav>
-</section>
-
-{% assign sorted_services = site.services | sort: 'number' %}
-  {% for service in sorted_services limit:4 %}
-  <section id="{{service.name | slugify}}" class="banner short overlay" style="background-image:url('{{page.banner-image_path}}');">
-    <div class="banner-inner">
-        <h2 class="editable">{{service.name}}</h1>
+<section id="section2">
+    <div class="padded">
+          <h2 class="editable"> Services We Offer</h2>
+          <p class="editable"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+          <nav class="margin-top">
+            {% assign sorted_services = site.services | sort: 'number' %}
+              {% for service in sorted_services %}
+              <a href="#{{service.name | slugify}}" class="tag"> {{service.name}}</a>
+              {% endfor %}
+          </nav>
     </div>
-    <p class="text-overlay">{{service.number}}</p>
-  </section>
-
-  <section class="padded">
-     <h3> {{service.name}}</h3>
-     {{service.content}}
-  </section>
-  {% endfor %}
-
 </section>
+
+
+  {% assign sorted_services = site.services | sort: 'number' %}
+    {% for service in sorted_services %}
+    <section id="{{service.name | slugify}}" class="banner short overlay" style="background-image:url('{{service.image_path}}');">
+      <div class="banner-inner">
+          <h2 class="editable">{{service.name}}</h1>
+      </div>
+      <p class="text-overlay">{{service.number}}</p>
+    </section>
+
+    <section class="padded">
+       <h3> {{service.name}}</h3>
+       {{service.content}}
+    </section>
+    {% endfor %}

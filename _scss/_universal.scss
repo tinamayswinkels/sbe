@@ -96,7 +96,7 @@
 .banner {
   background-size: cover;
   background-position: center;
-  min-height: 90vh;
+  min-height: 80vh;
   position: relative;
   z-index: 1;
   align-items: center;
@@ -131,6 +131,12 @@
   text-align: center;
 }
 
+.down-arrow {
+  position: absolute;
+  left: 48%;
+  bottom: 1rem;
+  z-index:2;
+}
 
 /* Image block with text overlay */
 
