@@ -14,7 +14,7 @@ images:
   - title: Bridge Road Hockey Pavilion Solar Hot Water
     image_path: /uploads/bridge-rd-hockey-pavilion-solar-hot-water.JPG
   - title: Bridge Road Hockey Pavilion Site
-    image_path: /uploads/melton cc 4.jpg
+    image_path: /uploads/bridge-rd-hockey-pavilion-site.jpg
   - title: Bridge Road Hockey Pavilion Operation
     image_path: /uploads/melton cc 3.jpg
 ---
