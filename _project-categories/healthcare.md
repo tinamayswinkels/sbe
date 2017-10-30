@@ -2,7 +2,7 @@
 layout: project-category
 category: other
 name: Healthcare
-blurb: This is a commercial project Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+blurb:
 banner-image_path: /uploads/Presentation1.jpg
 ---
 
