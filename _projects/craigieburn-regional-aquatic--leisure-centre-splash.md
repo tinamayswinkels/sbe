@@ -14,7 +14,7 @@ images:
   - title: Craigieburn Regional Aquatic & Leisure Centre
     image_path: /uploads/craigieburn-regional-aquatic-&-leisure-centre-01.JPG
   - title: Craigieburn Regional Aquatic & Leisure Centre Construction
-    image_path: /uploads/20170711_101308.jpg
+    image_path: /uploads/craigieburn-regional-aquatic-&-leisure-centre-construction.jpg
   - title: Craigieburn Regional Aquatic & Leisure Centre Interior Construction
     image_path: >-
       /uploads/craigieburn-regional-aquatic-&-leisure-centre-interior-construction.jpg
