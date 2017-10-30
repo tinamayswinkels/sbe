@@ -1,8 +1,8 @@
 ---
 layout: project-category
 category: aquatic-sports-and-leisure
-name: Aquatic Sports And Leisure
-blurb: This is a commercial project Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+name: 'Aquatic, Sports And Leisure'
+blurb:
 banner-image_path: /uploads/Bendigo_Stadium_Precinct_Render_01.jpg
 ---
 
