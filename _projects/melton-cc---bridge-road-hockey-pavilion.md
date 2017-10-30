@@ -16,7 +16,7 @@ images:
   - title: Bridge Road Hockey Pavilion Site
     image_path: /uploads/bridge-rd-hockey-pavilion-site.jpg
   - title: Bridge Road Hockey Pavilion Operation
-    image_path: /uploads/melton cc 3.jpg
+    image_path: /uploads/bridge-rd-hockey-pavilion-open.jpg
 ---
 
 
