@@ -1,7 +1,11 @@
 ---
 layout: project
 name: Regis Hillcrest Aged Care Centre
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  Regis Hillcrest is a 4 star Green Star Healthcare aged care facility located
+  in Western Australia. The project consisted of the demolition of existing
+  buildings fronting Harvest Road and Turton Street to make way for a two storey
+  and three storey development comprising of 109 beds
 architect: Silver Thomas Hanley (STH)
 category: other
 client: Regis

@@ -1,7 +1,10 @@
 ---
 layout: project
 name: RMIT City Campus Children's Centre
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  The RMIT City Campus Children’s Centre on Lygon Street provides a brand new
+  facility enabling children to learn and develop skills through the process of
+  exploration and play-based learning.
 architect: Peddle Thorp
 category: educational
 client: RMIT University

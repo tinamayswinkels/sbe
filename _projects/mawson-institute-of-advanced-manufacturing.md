@@ -1,14 +1,17 @@
 ---
 layout: project
 name: Mawson Institute Of Advanced Manufacturing (MIAM)
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  The University of South Australia's Building V - Mawson Institute at Mawson
+  Lakes Campus has been awarded a 5 Star Green Star - Education Designs v1
+  Certified rating, which represents 'Australian Excellence' in environmentally
+  sustainable design/construction. Building V - Mawson Institute was the first
+  laboratory intensive building to achieve a 5 Star Green Star rating in South
+  Australia in 2011.
 architect: Russell & Yelland and Guida Mosely Brown
 category: educational
 client: University of South Australia
-date: 2011-03-31 13:00:00
-blurb: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua
+date: 2012-05-11 13:00:00
 images:
   - title: Big Image
     image_path: /uploads/1.JPG

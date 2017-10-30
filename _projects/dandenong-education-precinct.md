@@ -1,12 +1,14 @@
 ---
 layout: project
 name: Dandenong Education Precinct
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  The Dandenong Education Precinct is a ground-breaking project which involved
+  the amalgamation of three existing secondary schools using a new educational
+  model into a flexible teaching centre.
 architect: Hayball
 category: educational
 client: Victorian Department of Education and Training (DEECD)
 date: 2009-04-02 13:00:00
-blurb:
 images:
   - title: Big Image
     image_path: /uploads/dep.JPG

@@ -6,4 +6,5 @@ blurb: This is a commercial project Lorem ipsum dolor sit amet, consectetur adip
 banner-image_path: /uploads/Presentation1.jpg
 ---
 
-This is a education project Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Health care facilities encompass a wide range of types, from small and relatively simple medical clinics to large, complex, and costly, teaching and research hospitals. Increasing competition for both patients and staff means that healthcare facilities look at their buildings as a way to differentiate from competitors.&nbsp; In this regards, the inclusion of sustainability features not only results in resource efficiency, but also in an improved working and healing environment that often lead to shorter recovery periods, as well as decreased pain management treatments, and secondary disease.

@@ -1,7 +1,12 @@
 ---
 layout: project
 name: The Libertine
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  This 4 storey residential development contains 34 apartments with balcony, car
+  and bike parking facilities, large central light court, and a roof top deck
+  for common access. The proximity to bus services, the Northcote aquatic centre
+  and High Street in Northcote makes this an attractive development for
+  residents.
 architect: MAP
 category: residential
 client: KM Design & Construct Pty Ltd

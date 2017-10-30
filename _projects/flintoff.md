@@ -1,11 +1,14 @@
 ---
 layout: project
 name: One Flintoff
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  A 3 levels of office space built atop the existing Pool at Greensborough
+  achieving a 50% reduction in GHG emissions compared to an equivalent reference
+  building.
 architect: PTA
 category: commercial
-client: Banyule Council
-date: 2011-11-30 00:00:00
+client: Banyule City Council
+date: 2017-01-26 00:00:00
 images:
   - title: The Commons SBE
     image_path: /uploads/One_Flintoff_01.jpg
@@ -26,7 +29,7 @@ An energy model was developed in alignment with the methodology of the Green Sta
 
 A daylight model was developed in alignment with the methodology of the Green Star Office energy IEQ Daylighting assessment credit (IEQ-04).
 
-An average of 2% Daylight factor has been achieved for just over 30% of the floor plate, which is a reasonable outcome given the depth of the floor plate. The extensive shading proposed has enabled the project to use a clearer glass in the fa&ccedil;ade which in turn permits better access to views and daylight.
+An average of 2% Daylight factor has been achieved for just over 30% of the floor plate, which is a reasonable outcome given the depth of the floor plate. The extensive shading proposed has enabled the project to use a clearer glass in the façade which in turn permits better access to views and daylight.
 
 LED lighting will be used throughout the building (including the warm shell tenancy space). The specified fitting is a 1500x250mm Recessed DALI dimmable LED Panel3. These LED fittings will achieve a lighting power density of 6.75W/m2 (450 lux). Ambient light sensor controls are installed in the perimeter zones. A full Digitally Addressable Lighting Interface system (DALI) enables all switching to be configured and reconfigured endlessly.
 

@@ -1,11 +1,15 @@
 ---
 layout: project
 name: Melton Library and Learning Hub
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  Melton Shire Council has been at the forefront of a new approach of designing
+  and delivering community infrastructure in the form of integrated community
+  service hubs for new and growing communities; and holds this approach true for
+  the Melton Library & Learning Hub development.
 architect: FJMT
 category: commercial
 client: Melton City Council and ADCO
-date: 2011-11-30 00:00:00
+date: 2014-05-08 00:00:00
 images:
   - title: The Commons SBE
     image_path: /uploads/1.jpg

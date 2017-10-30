@@ -1,11 +1,15 @@
 ---
 layout: project
 name: ANU Fenner
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  The Frank Fenner building is a small scale institutional faculty building
+  which archived a 6 star Green Star Office Design Rating. The design aimed to
+  integrate with existing site conditions, and to be an example of sustainable
+  design, balancing innovation with common design and construction practices.
 architect: Williams Ross
 category: educational
 client: ANU
-date: 2011-11-30 00:00:00
+date: 2012-02-15 00:00:00
 images:
   - title: The Commons SBE
     image_path: /uploads/Capture.JPG
@@ -18,11 +22,11 @@ images:
 ---
 
 
-The Frank Fenner building is a small scale institutional faculty building with a design aimed to integrate with existing site conditions and to be an example of sustainable design balancing innovation with common design and construction practices.&nbsp; This building achieved a 6 star Green Star Office Design Rating.
+The Frank Fenner building is a small scale institutional faculty building which archived a 6 star Green Star Office Design Rating. The design aimed to integrate with existing site conditions, and to be an example of sustainable design, balancing innovation with common design and construction practices.
 
-The configuration of the building footprint, wrapping around an internal courtyard and adopting a narrow floor plate, creates a high quality internal environment by accessing natural light, fresh air, and views to the outdoor environment, allowing for a strong personal connection to the external environment for both Staff and students. GFA ~1,800m2
+The configuration of the building footprint, wrapping around an internal courtyard and adopting a narrow floor plate, creates a high quality internal environment by accessing natural light, fresh air, and views to the outdoor environment, allowing for a strong personal connection to the external environment for both Staff and students.
 
-The building makes use of external shading, double glazing and high performance glass as well as internal blinds to minimise direct solar gain while still providing good levels of natural daylight to enter the office space.
+The building makes use of external shading, double glazing and high performance glass as well as internal blinds to minimise direct solar gain while still providing good levels of natural daylight.
 
 A 33kW photovoltaic array will be installed on the building roof. It will produce electricity that will be feed directly to the building’s main distribution board. It is expected that the photovoltaic array will produce 43,800kWh of electricity each year. At times when the building electricity demand is less than the amount being supplied by the PV system, the excess electricity will be fed back to the substation for use in nearby buildings, thereby directly reducing the greenhouse gas emissions of other adjacent buildings.
 
