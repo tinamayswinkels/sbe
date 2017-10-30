@@ -2,18 +2,18 @@
 layout: project
 name: Mossfiel Sports Facilities
 blurb: New Facilities for the City of Wyndham
-architect: Terence Carey Architects www.terencecareyarchitects.com.au
+architect: Terence Carey Architects
 category: aquatic-sports-and-leisure
 client: City of Wyndham
 date: 2016-06-15 00:00:00
 images:
-  - title: netabll
+  - title: Mossfield Sports Pavilion
     image_path: /uploads/moss netball_6.jpg
-  - title: pavilion
+  - title: Mossfield Sports Pavilion Render
     image_path: /uploads/moss pavilion 1.JPG
-  - title: pavilion
+  - title: Mossfield Sports Pavilion Site
     image_path: /uploads/moss pavilion 2.JPG
-  - title: netball
+  - title: Mossfield Sports Pavilion Undercover Area
     image_path: /uploads/moss netball_2.jpg
 ---
 
