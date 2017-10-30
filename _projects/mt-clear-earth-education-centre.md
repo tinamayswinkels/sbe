@@ -1,11 +1,14 @@
 ---
 layout: project
 name: 'Mt Clear Earth Education Centre, Ballarat'
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: >-
+  The Mt Clear Earth and Science Centre is a school building for the Mt Clear
+  Secondary School housing classrooms, laboratories and specialist support
+  spaces.
 architect: Baade Harbour
 category: educational
 client: Mt Clear Secondary School
-date: 2011-11-30 00:00:00
+date: 2009-10-29 00:00:00
 images:
   - title: The Commons SBE
     image_path: /uploads/P5250664.JPG
@@ -20,9 +23,9 @@ images:
 ---
 
 
-The Mt Clear Earth and Science Centre is a school building for the Mt Clear Secondary School housing classrooms, laboratories and specialist support spaces. The floor area is approximately 900m&sup2;. The client was keen for the building to represent the school’s commitment to the environment and to become a 3D textbook in its own right.
+The Mt Clear Earth and Science Centre is a school building for the Mt Clear Secondary School housing classrooms, laboratories and specialist support spaces. The floor area is approximately 900m². The client was keen for the building to represent the school’s commitment to the environment and to become a 3D textbook in its own right.
 
-The brief called for a comfortable zero energy, zero water and zero waste facility and the integration of &nbsp;many ESD initiatives, ranging from water saving and waste minimisation through to biofuel generation, a photovoltaic array and a virtual battery bank.
+The brief called for a comfortable zero energy, zero water and zero waste facility and the integration of  many ESD initiatives, ranging from water saving and waste minimisation through to biofuel generation, a photovoltaic array and a virtual battery bank.
 
 The ESD initiatives incorporated included:
 
@@ -36,10 +39,4 @@ The thermal labyrinth is used to pre-condition the incoming fresh air, i.e. heat
 
 Based on our modelling the building produces 50% to 64% less greenhouse gases than the Green Star conditional benchmark established for the project.
 
-The improved building fabric, together with the intake of fresh air through the labyrinth when beneficial, keeps the temperatures within the comfort band throughout most of the year. Peak temperatures are also significantly reduced with the building topping out at 36&deg;C on a 46&deg;C day (simulated).
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
+The improved building fabric, together with the intake of fresh air through the labyrinth when beneficial, keeps the temperatures within the comfort band throughout most of the year. Peak temperatures are also significantly reduced with the building topping out at 36°C on a 46°C day (simulated).
