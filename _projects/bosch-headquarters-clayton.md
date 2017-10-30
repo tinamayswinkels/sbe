@@ -1,11 +1,11 @@
 ---
 layout: project
 name: Bosch Headquarters Clayton
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+blurb: "The new 3 storey headquarters for Bosch Australia is located on the existing Bosch campus at 1555 Centre Road, Clayton, Victoria.\_ \_The ground floor has a rectangular floor plan, whereas the first and second floors have an L-shaped plan, with parts of the second floor cantilevered over the first floor. A roof terrace area can be accessed from the first floor."
 architect: PTA
 category: commercial
 client: Bosch
-date: 2011-11-30 00:00:00
+date: 2017-07-10 00:00:00
 images:
   - title: pic no 2
     image_path: /uploads/Bosch_30.jpg
