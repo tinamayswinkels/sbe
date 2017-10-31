@@ -1,9 +1,9 @@
 ---
 title: The new Macaulay suburb of Melboure
 subtitle: Our top 10 ESD initiatives for new suburbs
-image_path: /uploads/artisist image.JPG
+image_path: /uploads/blog-new-macaulay-suburb-of-melbourne-01.JPG
 layout: post
-banner-image_path: /uploads/map suburb.JPG
+banner-image_path: /uploads/blog-new-macaulay-suburb-of-melbourne-02.JPG
 ---
 
 
