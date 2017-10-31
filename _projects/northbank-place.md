@@ -10,13 +10,13 @@ category: commercial
 client: Northbank Place Pty Ltd
 date: 2009-03-17 00:00:00
 images:
-  - title: The Commons SBE
+  - title: Northbank Place
     image_path: /uploads/Northbank_05.jpg
-  - title:
+  - title: Northbank Place Corridors
     image_path: /uploads/Northbank_11.jpeg
-  - title:
+  - title: Northbank Place Exterior 01
     image_path: /uploads/Northbank_35.jpg
-  - title: pic no 2
+  - title: Northbank Place Exterior 02
     image_path: /uploads/Northbank_20.jpeg
 ---
 
