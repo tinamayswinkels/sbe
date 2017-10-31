@@ -12,16 +12,14 @@ category: residential
 client: KM Design & Construct Pty Ltd
 date: 2013-07-16 00:00:00
 images:
-  - title: The Commons SBE
+  - title: The Libertine
     image_path: /uploads/libertine.jpg
-  - title: pic no 2
-    image_path: /uploads/20171014_131516_001.jpg
-  - title:
-    image_path: /uploads/lightwell.JPG
-  - title:
-    image_path: /uploads/20171014_131633.jpg
-  - title: aerial photo
-    image_path: /uploads/libertine site.JPG
+  - title: The Libertine
+    image_path:
+  - title: The Libertine
+    image_path:
+  - title: The Libertine
+    image_path:
 ---
 
 
