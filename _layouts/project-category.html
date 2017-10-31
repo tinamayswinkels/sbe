@@ -16,7 +16,7 @@ layout: default
 
 
 {% assign relatedprojects  = site.projects | where: "category",page.category %}
- {% for project in relatedprojects limit:6 %}
+ {% for project in relatedprojects %}
      <div class="col-4_sm-12 padded-2">
        <div class="tall-image" style="background-image:url('{{project.images[0].image_path}}');">
        </div>
