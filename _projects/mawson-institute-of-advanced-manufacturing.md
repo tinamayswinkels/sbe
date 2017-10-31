@@ -14,7 +14,7 @@ client: University of South Australia
 date: 2012-05-11 13:00:00
 images:
   - title: Mawson Institute of Advanced Manufacturing
-    image_path: /uploads/1.JPG
+    image_path: /uploads/mawson-institute-of-advanced-manufacturing-01.JPG
   - title: Mawson Institute of Advanced Manufacturing Exterior
     image_path: /uploads/mawson-institute-of-advanced-manufacturing-exterior.jpg
   - title: Mawson Institute of Advanced Manufacturing Plan
