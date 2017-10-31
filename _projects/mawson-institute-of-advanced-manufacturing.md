@@ -13,13 +13,13 @@ category: educational
 client: University of South Australia
 date: 2012-05-11 13:00:00
 images:
-  - title: Big Image
+  - title: Mawson Institute of Advanced Manufacturing
     image_path: /uploads/1.JPG
-  - title: Big Image 2
-    image_path: /images/story12a.jpg
-  - title: Big Image 3
+  - title: Mawson Institute of Advanced Manufacturing Exterior
+    image_path: /uploads/080205_Model 00.JPG
+  - title: Mawson Institute of Advanced Manufacturing Plan
     image_path: /images/MIAM-Presentation_low_Page_03.jpg
-  - title: Big Image 3
+  - title: Mawson Institute of Advanced Manufacturing Interior
     image_path: /images/MIAM-Presentation_low_Page_11.jpg
 ---
 
