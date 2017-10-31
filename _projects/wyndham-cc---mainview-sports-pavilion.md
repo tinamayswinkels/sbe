@@ -8,7 +8,7 @@ client: Wyndham City Council
 date: 2017-08-07 00:00:00
 images:
   - title: Mainview Sports Pavilion
-    image_path: /uploads/mainview 1.JPG
+    image_path: /uploads/mainview-sports-pavilion-01.JPG
   - title: Mainview Sports Pavilion Interior
     image_path: /uploads/mainview 3.JPG
   - title: Mainview Sports Pavilion Undercover Area
