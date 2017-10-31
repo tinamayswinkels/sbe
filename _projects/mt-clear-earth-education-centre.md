@@ -10,16 +10,14 @@ category: educational
 client: Mt Clear Secondary School
 date: 2009-10-29 00:00:00
 images:
-  - title: The Commons SBE
+  - title: Mt Clear Earth Education Centre
     image_path: /uploads/P5250664.JPG
-  - title: pic no 2
+  - title: Mt Clear Earth Education Centre Graph
     image_path: /uploads/graph 1.jpg
-  - title:
+  - title: Mt Clear Earth Education Centre Site
     image_path: /uploads/P6080672.JPG
-  - title:
+  - title: Mt Clear Earth Education Centre Exterior
     image_path: /uploads/P5220455.jpg
-  - title:
-    image_path: /uploads/graph 2.jpg
 ---
 
 
