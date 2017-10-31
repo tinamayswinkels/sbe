@@ -11,13 +11,13 @@ category: other
 client: Regis
 date: 2011-11-30 00:00:00
 images:
-  - title: The Commons SBE
+  - title: Hillcrest Aged Care Centre
     image_path: /uploads/Presentation1.jpg
-  - title: pic no 2
+  - title: Hillcrest Aged Care Centre Model
     image_path: /uploads/111.jpg
-  - title:
+  - title: Hillcrest Aged Care Centre Exterior
     image_path: /uploads/image050.jpg
-  - title:
+  - title: Hillcrest Aged Care Centre Interior
     image_path: /uploads/image039.jpg
 ---
 
