@@ -11,13 +11,13 @@ client: Northbank Place Pty Ltd
 date: 2009-03-17 00:00:00
 images:
   - title: Northbank Place
-    image_path: /uploads/Northbank_05.jpg
+    image_path: /uploads/northbank-place-01.jpg
   - title: Northbank Place Corridors
-    image_path: /uploads/Northbank_11.jpeg
+    image_path: /uploads/northbank-place-corridors.jpeg
   - title: Northbank Place Exterior 01
-    image_path: /uploads/Northbank_35.jpg
+    image_path: /uploads/northbank-place-exterior-01.jpg
   - title: Northbank Place Exterior 02
-    image_path: /uploads/Northbank_20.jpeg
+    image_path: /uploads/northbank-place-exterior-02.jpeg
 ---
 
 
