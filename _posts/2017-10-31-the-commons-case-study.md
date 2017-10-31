@@ -7,7 +7,7 @@ banner-image_path: /uploads/IMG_0037.jpg
 ---
 
 
-Directly adjacent to a train station and close to trams and numerous amenities this site offers the residents the opportunity to live with a reduced carbon footprint. &nbsp;A resident choosing to live in the building may not need to use a car in their day to day life, will not need air conditioning to be comfortable, will not need to purchase and run their own inefficient domestic laundry appliances, will be able to grow some of their own food requirements and will be able to dispose of a large portion of their compostable waste.
+Directly adjacent to a train station and close to trams and numerous amenities this site offers the residents the opportunity to live with a reduced carbon footprint.  A resident choosing to live in the building may not need to use a car in their day to day life, will not need air conditioning to be comfortable, will not need to purchase and run their own inefficient domestic laundry appliances, will be able to grow some of their own food requirements and will be able to dispose of a large portion of their compostable waste.
 
 The building has made the most of the site and its limited northern exposure. Deep balconies on the north and limited glazing to the east and west will help deal with unwanted sun and glare. Voids have been introduced to promote better daylight penetration and ventilation.
 
@@ -15,7 +15,7 @@ The set-back on the building on the west at ground floor permits greater climate
 
 The use of sprinklers will permit greater flexibility for cross flow ventilation across and between the floor plates.
 
-The central location and open nature of the stairwell will encourage residents to use them instead of the lift. &nbsp;
+The central location and open nature of the stairwell will encourage residents to use them instead of the lift.
 
 The fully trafficable roof is an excellent social initiative permitting the residents access to daylighting, views, fresh air, gardens and other recreational spaces, central laundry and clothes drying lines and compostable waste receptacles.
 
@@ -25,9 +25,9 @@ The building has been constructed of components with high thermal and acoustic p
 
 An average of 8 stars has been achieved for apartment ratings.
 
-Finishes are &nbsp;raw and exposed wherever possible to reduce the embodied energy of the building. At the same time the use of solid concrete structure and cladding will ensure the building has a long life. Sweep fans will be provided throughout. &nbsp;Heating will be provided with low energy hydronic radiant heating panels.
+Finishes are  raw and exposed wherever possible to reduce the embodied energy of the building. At the same time the use of solid concrete structure and cladding will ensure the building has a long life. Sweep fans will be provided throughout.  Heating will be provided with low energy hydronic radiant heating panels.
 
-The west fa&ccedil;ade has a second skin of Wonderglas (Ampelite polycarbonate) battened off the exterior wall that is open at the open and bottom. This second skin will ‘breathe’ and reduce undesirable afternoon solar gains on the main fa&ccedil;ade from the west
+The west façade has a second skin of Wonderglas (Ampelite polycarbonate) battened off the exterior wall that is open at the open and bottom. This second skin will ‘breathe’ and reduce undesirable afternoon solar gains on the main façade from the west
 
 The project was the winner of the 2014 Houses Awards: Sustainability
 
