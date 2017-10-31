@@ -13,7 +13,7 @@ The University of South Australia's Building V - Mawson Institute at Mawson Lake
 
 Designed by Guida Moseley Brown Architects in association with Russell & Yelland Architects, Building V expresses both the fundamental principles of environmentally sustainable design and the innovative research of the Mawson Institute's advanced manufacturing research groups. The design of Building V is centred around promoting interaction between each of the Mawson Institute's advanced engineering research groups to encourage innovative and leading edge research that can move beyond the University and into pre-commercialisation.
 
-The air conditioning system serving Building V comprises of a central thermal plant (chillers and boilers) located in the Power House and serving the entire Mawson Lakes Campus.&nbsp; The Power House contains 3 chillers and 2 boilers, which reticulates chilled and heated water to the air handling units located throughout the campus including Building V.
+The air conditioning system serving Building V comprises of a central thermal plant (chillers and boilers) located in the Power House and serving the entire Mawson Lakes Campus.  The Power House contains 3 chillers and 2 boilers, which reticulates chilled and heated water to the air handling units located throughout the campus including Building V.
 
 Building V is also served by one air-cooled chiller, which provides stand-by chilled water capacity to the clean rooms only in the event of a primary chilled water system failure.
 
