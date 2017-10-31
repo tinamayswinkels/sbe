@@ -10,7 +10,7 @@ images:
   - title: Mainview Sports Pavilion
     image_path: /uploads/mainview-sports-pavilion-01.JPG
   - title: Mainview Sports Pavilion Interior
-    image_path: /uploads/mainview 3.JPG
+    image_path: /uploads/mainview-sports-pavilion-interior.JPG
   - title: Mainview Sports Pavilion Undercover Area
     image_path: /uploads/mainview 2.JPG
   - title: Mainview Sports Pavilion Solar PV
