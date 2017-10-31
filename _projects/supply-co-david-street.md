@@ -10,13 +10,13 @@ client: Forza Capital
 date: 2011-11-30 00:00:00
 images:
   - title: Supply Co David Street
-    image_path: /uploads/SupplyCo_DavidSt_Render_01.jpg
+    image_path: /uploads/supply-co-david-st-01.jpg
   - title: Supply Co David Street Exterior 01
-    image_path: /uploads/SupplyCo_DavidSt_13.jpg
+    image_path: /uploads/supply-co-david-st-exterior-01.jpg
   - title: Supply Co David Street Exterior 02
-    image_path: /uploads/SupplyCo_DavidSt_Render_06.jpg
+    image_path: /uploads/supply-co-david-st-exterior-02.jpg
   - title: Supply Co David Street Exterior 03
-    image_path: /uploads/SupplyCo_DavidSt_Render_02.jpg
+    image_path: /uploads/supply-co-david-st-exterior-03.jpg
 ---
 
 
