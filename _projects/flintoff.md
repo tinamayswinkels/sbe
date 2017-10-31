@@ -10,13 +10,13 @@ category: commercial
 client: Banyule City Council
 date: 2017-01-26 00:00:00
 images:
-  - title: The Commons SBE
+  - title: One Flintoff
     image_path: /uploads/One_Flintoff_01.jpg
-  - title: pic no 2
+  - title: One Flintoff Interior 01
     image_path: /uploads/One_Flintoff_20.jpg
-  - title:
+  - title: One Flintoff Exterior
     image_path: /uploads/One_Flintoff_05.jpg
-  - title:
+  - title: One Flintoff Interior 02
     image_path: /uploads/One_Flintoff_27.jpg
 ---
 
