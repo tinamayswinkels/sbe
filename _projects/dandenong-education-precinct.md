@@ -12,12 +12,12 @@ date: 2009-04-02 13:00:00
 images:
   - title: Dandenong Education Precinct
     image_path: /uploads/dep.JPG
-  - title: Dandenong Education Precinct
+  - title: Dandenong Education Exterior
     image_path: /images/learning.JPG
-  - title: Dandenong Education Precinct
+  - title: Dandenong Education Precinct Render
     image_path: /uploads/system.JPG
-  - title: Dandenong Education Precinct
-    image_path: /uploads/graphs.jpg
+  - title:
+    image_path:
 ---
 
 
