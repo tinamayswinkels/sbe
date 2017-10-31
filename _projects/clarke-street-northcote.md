@@ -7,13 +7,13 @@ category: residential
 client: Kalex
 date: 2012-01-31 00:00:00
 images:
-  - title: The Commons SBE
+  - title: 348 Clarke Street
     image_path: /uploads/20171014_130838.jpg
-  - title: pic no 2
+  - title: 348 Clarke Street Exterior 01
     image_path: /uploads/20171014_130910.jpg
-  - title:
+  - title: 348 Clarke Street Exterior 02
     image_path: /uploads/graph.JPG
-  - title:
+  - title: 348 Clarke Street Exterior 03
     image_path: /uploads/void2.jpg
 ---
 
