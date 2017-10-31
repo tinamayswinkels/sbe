@@ -13,13 +13,13 @@ client: Channel nine
 date: 2017-04-21 00:00:00
 images:
   - title: The Block - 46 Regent Street
-    image_path: /uploads/Axonometric View.bmp
+    image_path: /uploads/the-block-46-regent-st-01.bmp
   - title: The Block - 46 Regent Street Exterior
-    image_path: /uploads/ingles.jpg
+    image_path: /uploads/the-block-46-regent-st-exterior.jpg
   - title: The Block - 46 Regent Street Model 01
-    image_path: /uploads/Proposed Shading.bmp
+    image_path: /uploads/the-block-46-regent-st-model.bmp
   - title: The Block - 46 Regent Street Pre-development
-    image_path: /uploads/gatwick.jpg
+    image_path: /uploads/the-block-46-regent-st-predevelopment.jpg
 ---
 
 
