@@ -1,6 +1,6 @@
 ---
 title: Regis Hillcrest Case Study
-subtitle: Some facts and figures on the 6 star building
+subtitle: Some facts and figures on the 5 star building
 image_path: /uploads/IMG_0023.jpg
 layout: post
 banner-image_path: /uploads/IMG_0037.jpg
@@ -13,7 +13,7 @@ This project was awarded a 4 star rating under the Green Star Healthcare Design 
 
 Air-conditioning systems are a VRV (Variable Refrigerant Volume) system. The VRV system generally comprises centralised air cooled outdoor units with multiple indoor Fan Coil Units (FCU’s). All Fan Coil Units are capable of independent heating and cooling. The VRV systems will generally be heat recovery type to allow for simultaneous heating and cooling to occur between separate FCU’s, thereby reducing the system energy requirements.
 
-The indoor units are zoned to match the space thermal loads and room operational characteristics.&nbsp; &nbsp;Separate systems are provided for Common Areas and Bedrooms Areas.
+The indoor units are zoned to match the space thermal loads and room operational characteristics.   Separate systems are provided for Common Areas and Bedrooms Areas.
 
 The system COP for the VRV systems was based on the Mitsubishi Hi-COP R2 VRV system of 4.41 for cooling, and 4.49 for heating.
 
