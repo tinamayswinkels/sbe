@@ -12,8 +12,8 @@ client: Regis
 date: 2011-11-30 00:00:00
 images:
   - title: Hillcrest Aged Care Centre
-    image_path: /uploads/Presentation1.jpg
-  - title: Hillcrest Aged Care Centre Model
+    image_path: /uploads/regis-hillcrest-aged-care-centre-01.jpg
+  - title: Hillcrest Aged Care Centre Exterior 01
     image_path: /uploads/111.jpg
   - title: Hillcrest Aged Care Centre Exterior
     image_path: /uploads/image050.jpg
