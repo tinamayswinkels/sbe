@@ -11,13 +11,13 @@ client: Mt Clear Secondary School
 date: 2009-10-29 00:00:00
 images:
   - title: Mt Clear Earth Education Centre
-    image_path: /uploads/P5250664.JPG
+    image_path: /uploads/mt-clear-earth-education-centre-01.JPG
   - title: Mt Clear Earth Education Centre Graph
-    image_path: /uploads/graph 1.jpg
+    image_path: /uploads/mt-clear-earth-education-centre-graph-01.jpg
   - title: Mt Clear Earth Education Centre Site
-    image_path: /uploads/P6080672.JPG
+    image_path: /uploads/mt-clear-earth-education-centre-site.JPG
   - title: Mt Clear Earth Education Centre Exterior
-    image_path: /uploads/P5220455.jpg
+    image_path: /uploads/mt-clear-earth-education-centre-exterior.jpg
 ---
 
 
