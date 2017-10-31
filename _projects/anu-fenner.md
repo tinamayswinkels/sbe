@@ -14,7 +14,7 @@ images:
   - title: ANU Fenner
     image_path: /uploads/anu-fenner-01.JPG
   - title: ANU Fenner Exterior 01
-    image_path: /uploads/anu-fenner-01.JPG
+    image_path: /uploads/anu-fenner-exterior-01.jpg
   - title: ANU Fenner Interior
     image_path: /uploads/anu-fenner-interior.jpg
   - title: ANU Fenner Exterior 02
