@@ -14,11 +14,11 @@ images:
   - title: Hillcrest Aged Care Centre
     image_path: /uploads/regis-hillcrest-aged-care-centre-01.jpg
   - title: Hillcrest Aged Care Centre Exterior 01
-    image_path: /uploads/111.jpg
-  - title: Hillcrest Aged Care Centre Exterior
-    image_path: /uploads/image050.jpg
+    image_path: /uploads/regis-hillcrest-aged-care-centre-Exterior-01.jpg
+  - title: Hillcrest Aged Care Centre Exterior 02
+    image_path: /uploads/regis-hillcrest-aged-care-centre-exterior-02.jpg
   - title: Hillcrest Aged Care Centre Interior
-    image_path: /uploads/image039.jpg
+    image_path: /uploads/regis-hillcrest-aged-care-centre-interior.jpg
 ---
 
 
