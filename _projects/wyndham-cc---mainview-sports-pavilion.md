@@ -14,7 +14,7 @@ images:
   - title: Mainview Sports Pavilion Undercover Area
     image_path: /uploads/mainview-sports-pavilion-undercover-area.JPG
   - title: Mainview Sports Pavilion Solar PV
-    image_path: /uploads/mainview 4.JPG
+    image_path: /uploads/mainview-sports-pavilion-solar-PV.JPG
 ---
 
 
