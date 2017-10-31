@@ -1,9 +1,9 @@
 ---
 title: Mawson Lakes Case Study
 subtitle: Some facts and figures on the 5 star building
-image_path: /uploads/IMG_0023.jpg
+image_path: /uploads/mawson-institute-of-advanced-manufacturing-exterior.jpg
 layout: post
-banner-image_path: /uploads/IMG_0037.jpg
+banner-image_path: /uploads/mawson-institute-of-advanced-manufacturing-render.jpg
 ---
 
 
