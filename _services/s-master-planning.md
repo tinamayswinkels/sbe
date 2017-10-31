@@ -1,7 +1,7 @@
 ---
 name: Sustainable Master Planning
 blurb: Designing thriving places in harmony with nature and communities
-image_path: /images/SMasterPlanning.jpg
+image_path: /images/services-sustainable-masterplanning.jpg
 number: 1
 ---
 
