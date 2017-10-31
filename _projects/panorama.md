@@ -10,13 +10,13 @@ client: Dongcheng
 date: 2011-10-12 00:00:00
 images:
   - title: Panorama
-    image_path: /uploads/Panorama_Apartments_06.jpg
+    image_path: /uploads/panorama-01.jpg
   - title: Panorama Interior 01
-    image_path: /uploads/Panorama_Apartments_10.jpg
+    image_path: /uploads/panorama-interior-01.jpg
   - title: Panorama Exterior
-    image_path: /uploads/Panorama_Apartments_08.jpg
+    image_path: /uploads/panorama-exterior.jpg
   - title: Panorama Interior 02
-    image_path: /uploads/Panorama_Apartments_13.jpg
+    image_path: /uploads/panorama-interior-02.jpg
 ---
 
 
