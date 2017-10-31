@@ -6,7 +6,7 @@ number: 6
 ---
 
 
-###
+## &nbsp;
 
 Building physics analyses the physical behaviour of buildings in their particular geographical contexts and how this impacts resource efficiency, comfort, indoor environmental quality and durability.
 
