@@ -16,11 +16,11 @@ images:
   - title: Mawson Institute of Advanced Manufacturing
     image_path: /uploads/1.JPG
   - title: Mawson Institute of Advanced Manufacturing Exterior
-    image_path: /uploads/080205_Model 00.JPG
+    image_path: /uploads/mawson-institute-of-advanced-manufacturing-exterior.jpg
   - title: Mawson Institute of Advanced Manufacturing Plan
-    image_path: /images/MIAM-Presentation_low_Page_03.jpg
-  - title: Mawson Institute of Advanced Manufacturing Interior
-    image_path: /images/MIAM-Presentation_low_Page_11.jpg
+    image_path: /uploads/mawson-institute-of-advanced-manufacturing-plan.jpg
+  - title: Mawson Institute of Advanced Manufacturing Render
+    image_path: /uploads/mawson-institute-of-advanced-manufacturing-render.jpg
 ---
 
 
