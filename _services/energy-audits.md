@@ -1,7 +1,7 @@
 ---
 name: Energy Audits
 blurb: Analysing buildings during operation to improve performance
-image_path: /images/Energy Audits.jpg
+image_path: /images/services-energy-audits.jpg
 number: 7
 ---
 
