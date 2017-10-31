@@ -11,13 +11,13 @@ client: Small Giants
 date: 2012-09-07 00:00:00
 images:
   - title: The Commons
-    image_path: /uploads/commons 1.jpg
+    image_path: /uploads/the-commons-01.jpg
   - title: The Commons Roof Garden 01
-    image_path: /uploads/photo-1a-1.JPG
+    image_path: /uploads/the-commons-roof-garden-01.JPG
   - title: The Commons Interior
-    image_path: /uploads/commons7.jpg
+    image_path: /uploads/the-commons-interior.jpg
   - title: The Commons Roof Garden 02
-    image_path: /uploads/commons12.jpg
+    image_path: /uploads/the-commons-roof-garden-02.jpg
 ---
 
 
