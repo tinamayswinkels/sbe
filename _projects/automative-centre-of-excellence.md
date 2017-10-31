@@ -7,18 +7,14 @@ category: educational
 client: Kangan Institute
 date: 2012-05-01 00:00:00
 images:
-  - title: Roof top deck and green roof
+  - title: Automative Centre of Excellence
     image_path: /uploads/IMG_0220.JPG
-  - title: Entire building Greenhouse Gas Emissions breakdown
+  - title: Automative Centre of Excellence GHG Breakdown
     image_path: /uploads/graph.png
-  - title: Courtyard
+  - title: Automative Centre of Excellence Exterior
     image_path: /uploads/IMG_0235.JPG
-  - title: >-
-      The building was modelled in IES VE using the Model IT, Apache HVAC,
-      Macroflow and Radiance packanges.
+  - title: Automative Centre of Excellence Model
     image_path: /uploads/IMG_0229.JPG
-  - title:
-    image_path: /uploads/3d model.jpg
 ---
 
 
