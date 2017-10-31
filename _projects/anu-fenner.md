@@ -11,13 +11,13 @@ category: educational
 client: ANU
 date: 2012-02-15 00:00:00
 images:
-  - title: The Commons SBE
+  - title: ANU Fenner
     image_path: /uploads/Capture.JPG
-  - title: pic no 2
+  - title: ANU Fenner Exterior 01
     image_path: /uploads/IMG_0034.jpg
-  - title:
+  - title: ANU Fenner Interior
     image_path: /uploads/IMG_0037.jpg
-  - title:
+  - title: ANU Fenner Exterior 02
     image_path: /uploads/IMG_0023.jpg
 ---
 
