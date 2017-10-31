@@ -11,13 +11,13 @@ client: Banyule City Council
 date: 2017-01-26 00:00:00
 images:
   - title: One Flintoff
-    image_path: /uploads/One_Flintoff_01.jpg
+    image_path: /uploads/one-flintoff-01.jpg
   - title: One Flintoff Interior 01
-    image_path: /uploads/One_Flintoff_20.jpg
+    image_path: /uploads/one-flintoff-interior-01.jpg
   - title: One Flintoff Exterior
-    image_path: /uploads/One_Flintoff_05.jpg
+    image_path: /uploads/one-flintoff-exterior.jpg
   - title: One Flintoff Interior 02
-    image_path: /uploads/One_Flintoff_27.jpg
+    image_path: /uploads/one-flintoff-interior-02.jpg
 ---
 
 
