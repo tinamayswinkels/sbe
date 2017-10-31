@@ -11,11 +11,11 @@ client: Victorian Department of Education and Training (DEECD)
 date: 2009-04-02 13:00:00
 images:
   - title: Dandenong Education Precinct
-    image_path: /uploads/dep.JPG
+    image_path: /uploads/dandenong-education-precinct-01.JPG
   - title: Dandenong Education Exterior
-    image_path: /images/learning.JPG
+    image_path: /uploads/dandenong-education-precinct-exterior.JPG
   - title: Dandenong Education Precinct Render
-    image_path: /uploads/system.JPG
+    image_path: /uploads/dandenong-education-precinct-render.jpg
   - title:
     image_path:
 ---
