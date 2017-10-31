@@ -1,9 +1,9 @@
 ---
 title: Hybrid PV and solar hot water panels
 subtitle: cooler more efficient panels and hot water as a byproduct
-image_path: /uploads/pv panel temp output.JPG
+image_path: /uploads/blog-hybrid-PV-&-solar-hot-water-panels.JPG
 layout: post
-banner-image_path: /uploads/section of panel.JPG
+banner-image_path: /uploads/blog-hybrid-PV-&-solar-hot-water-panels-section.JPG
 ---
 
 
@@ -22,7 +22,9 @@ SBE is interested in the technology for use in future Aquatic centres.&nbsp; Dr 
 * *Absorber of PV-TAHP collector provides highly effective cooling of the PV cells area. That allows increase PV cells power output of around 15-30%, compare to single PV collector, by keeping its surface temperature around 40-50 C*
 * *At temperature 40-50 C PV-TAHP collector’s electric power output is about 140 W/m2, at the same time it produces up to 450W/m2 of thermal energy*
 
-![](/uploads/versions/research-pv---x----651-437x---.JPG)
+&nbsp;
+
+![](/uploads/versions/blog-hybrid-pv-&amp;-solar-hot-water-panels-test---x----651-437x---.JPG)
 
 Dr Yakov Elgart, Director, Engineering Scientific International
 
