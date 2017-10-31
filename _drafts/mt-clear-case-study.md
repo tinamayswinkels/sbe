@@ -13,15 +13,11 @@ The brief called for a comfortable zero energy, zero water and zero waste facili
 
 The ESD initiatives incorporated included:
 
-Improved Building Fabric – Walls and Roof to R7; double glazing
-
-High Levels Of Internal Thermal Mass
-
-Openable windows
-
-On-Site Renewable Energy Generation.
-
-Thermal Labyrinth for pre-tempering Fresh Air and guaranteed access to fresh air
+* Improved Building Fabric – Walls and Roof to R7; double glazing
+* High Levels Of Internal Thermal Mass
+* Openable windows
+* On-Site Renewable Energy Generation.
+* Thermal Labyrinth for pre-tempering Fresh Air and guaranteed access to fresh air
 
 The thermal labyrinth is used to pre-condition the incoming fresh air, i.e. heating the air during winter and cooling fresh air during summer. The graph below demonstrates the effect of the labyrinth when 1,800 L/s of outside air are drawn through three 30m long concrete pipes during a warm summer day.
 
