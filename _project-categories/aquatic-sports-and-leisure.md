@@ -2,7 +2,10 @@
 layout: project-category
 category: aquatic-sports-and-leisure
 name: 'Aquatic, Sports And Leisure'
-blurb:
+blurb: >-
+  SBE, primarily in collaboration with PTA, has delivered many successful and
+  acclaimed sports and recreation facilities, locally, interstate and even
+  internationally.
 banner-image_path: /uploads/bendigo-stadium-01.jpg
 ---
 
