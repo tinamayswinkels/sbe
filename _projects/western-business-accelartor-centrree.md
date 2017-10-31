@@ -11,13 +11,13 @@ client: Melton City Council
 date: 2015-05-12 00:00:00
 images:
   - title: Western Business Accelerator Centre of Excellence
-    image_path:
+    image_path: /uploads/western-business-accelerator-centre-of-excellence-01.jpg
   - title: Western Business Accelerator Centre of Excellence Site
-    image_path: /uploads/picture1.jpg
+    image_path: /uploads/western-business-accelerator-centre-of-excellence-site.jpg
   - title: Western Business Accelerator Centre of Excellence Graph
-    image_path:
-  - title:
-    image_path: /uploads/picture2.jpg
+    image_path: /uploads/western-business-accelerator-centre-of-excellence-graph.jpg
+  - title: Western Business Accelerator Centre of Excellence Model
+    image_path: /uploads/western-business-accelerator-centre-of-excellence-model.jpg
 ---
 
 
