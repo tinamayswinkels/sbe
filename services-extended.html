@@ -1,7 +1,7 @@
 ---
 layout: default
 title: SBE Services
-banner-image_path: /images/One_Flintoff_Render_04.jpg
+banner-image_path: /uploads/mawson-institute-of-advanced-manufacturing-exterior.jpg
 ---
 
 <section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
@@ -32,8 +32,8 @@ banner-image_path: /images/One_Flintoff_Render_04.jpg
     {% for service in sorted_services %}
     <section id="{{service.name | slugify}}" class="banner short overlay" style="background-image:url('{{service.image_path}}');">
       <div class="banner-inner">
-          <h2 class="editable">{{service.name}}</h1>
-      </div>
+          <h2 class="editable">{{service.name}}
+      </h2></div>
       <p class="text-overlay">{{service.number}}</p>
     </section>
 
