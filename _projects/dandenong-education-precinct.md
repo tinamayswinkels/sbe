@@ -10,13 +10,13 @@ category: educational
 client: Victorian Department of Education and Training (DEECD)
 date: 2009-04-02 13:00:00
 images:
-  - title: Big Image
+  - title: Dandenong Education Precinct
     image_path: /uploads/dep.JPG
-  - title: Big Image 2
+  - title: Dandenong Education Precinct
     image_path: /images/learning.JPG
-  - title: Big Image 3
+  - title: Dandenong Education Precinct
     image_path: /uploads/system.JPG
-  - title: Big Image 3
+  - title: Dandenong Education Precinct
     image_path: /uploads/graphs.jpg
 ---
 
