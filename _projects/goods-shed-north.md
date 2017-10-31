@@ -10,13 +10,13 @@ category: commercial
 client: Building Commission and Plumbing Industry Commission
 date: 2013-01-21 00:00:00
 images:
-  - title:
+  - title: Goods Shed North
     image_path: /uploads/4.JPG
-  - title: pic no 2
+  - title: Goods Shed North Interior Pre-Development
     image_path: /uploads/3.JPG
-  - title: The Commons SBE
+  - title: Goods Shed North Interior Post-Development 01
     image_path: /uploads/goods shed interior.jpg
-  - title:
+  - title: Goods Shed North Interior Post-Development 02
     image_path: /uploads/2.jpg
 ---
 
