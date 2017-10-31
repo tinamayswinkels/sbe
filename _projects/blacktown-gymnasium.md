@@ -10,13 +10,13 @@ client: Western Sydney Wanderers FC
 date: 2017-09-13 00:00:00
 images:
   - title: Western Sydney Wanderers FC Gymnasium
-    image_path: /uploads/admin 1.jpg
+    image_path: /uploads/western-sydney-wanderers-FC-gymnasium-01.jpg
   - title: Western Sydney Wanderers FC Gymnasium Interior
-    image_path: /uploads/gym day 2.jpg
+    image_path: /uploads/western-sydeny-wanderers-FC-gymnasium-interior.jpg
   - title: Western Sydney Wanderers FC Gymnasium Exterior
-    image_path: /uploads/blacktown IES model.jpg
+    image_path: /uploads/western-sydney-wanderers-FC-gymnasium-exterior.jpg
   - title: Western Sydney Wanderers FC Gymnasium Model
-    image_path: /uploads/admin 2.jpg
+    image_path: /uploads/western-sydney-wanderers-FC-gymnasium-model.jpg
 ---
 
 
