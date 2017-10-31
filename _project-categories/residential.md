@@ -3,7 +3,7 @@ layout: project-category
 category: residential
 name: Residential
 blurb:
-banner-image_path: /uploads/SupplyCo_DavidSt_Render_01.jpg
+banner-image_path: /uploads/supply-co-david-st-01.jpg
 ---
 
 
