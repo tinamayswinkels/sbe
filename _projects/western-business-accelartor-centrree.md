@@ -10,12 +10,12 @@ category: commercial
 client: Melton City Council
 date: 2015-05-12 00:00:00
 images:
-  - title: The Commons SBE
-    image_path: /uploads/3d.jpg
-  - title: pic no 2
+  - title: Western Business Accelerator Centre of Excellence
+    image_path:
+  - title: Western Business Accelerator Centre of Excellence Site
     image_path: /uploads/picture1.jpg
-  - title:
-    image_path: /uploads/Picture3.jpg
+  - title: Western Business Accelerator Centre of Excellence Graph
+    image_path:
   - title:
     image_path: /uploads/picture2.jpg
 ---
