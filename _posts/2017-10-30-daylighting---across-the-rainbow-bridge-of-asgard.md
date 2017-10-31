@@ -3,9 +3,9 @@ title: Daylighting - Across the rainbow bridge of Asgard
 subtitle: >-
   Bridging the gap between the disparate Daylight Assessment tools in Victoria,
   2017
-image_path: /uploads/asgard.jpg
+image_path: /uploads/blog-daylighting.jpg
 layout: post
-banner-image_path: /uploads/asgard.jpg
+banner-image_path: /uploads/blog-daylighting.jpg
 ---
 
 
