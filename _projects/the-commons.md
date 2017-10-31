@@ -10,13 +10,13 @@ category: residential
 client: Small Giants
 date: 2012-09-07 00:00:00
 images:
-  - title:
+  - title: The Commons
     image_path: /uploads/commons 1.jpg
-  - title: pic no 2
+  - title: The Commons Roof Garden 01
     image_path: /uploads/photo-1a-1.JPG
-  - title:
+  - title: The Commons Interior
     image_path: /uploads/commons7.jpg
-  - title: pic no 1
+  - title: The Commons Roof Garden 02
     image_path: /uploads/commons12.jpg
 ---
 
