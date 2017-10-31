@@ -8,13 +8,13 @@ client: Woodleigh
 date: 2008-12-03 00:00:00
 images:
   - title: Woodleigh Junior Campus 5-6 Centre
-    image_path: /uploads/wood1.JPG
+    image_path: /uploads/woodleigh-junior-campus-5-6-centre-01.JPG
   - title: Woodleigh Junior Campus 5-6 Centre Plan
-    image_path: /uploads/wood plan.JPG
+    image_path: /uploads/woodleigh-junior-campus-5-6-centre-plan.JPG
   - title: Woodleigh Junior Campus 5-6 Centre Interior
-    image_path: /uploads/wood3.JPG
+    image_path: /uploads/woodleight-junior-campus-5-6-centre-interior.JPG
   - title: Woodleigh Junior Campus 5-6 Centre Graph
-    image_path: /uploads/pie2.jpg
+    image_path: /uploads/woodleigh-junior-campus-5-6-centre-graph.jpg
 ---
 
 
