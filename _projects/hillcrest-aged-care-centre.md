@@ -9,7 +9,7 @@ blurb: >-
 architect: Silver Thomas Hanley (STH)
 category: other
 client: Regis
-date: 2011-11-30 00:00:00
+date: 2017-06-30 00:00:00
 images:
   - title: Hillcrest Aged Care Centre
     image_path: /uploads/regis-hillcrest-aged-care-centre-01.jpg
