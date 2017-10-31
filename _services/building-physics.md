@@ -1,12 +1,12 @@
 ---
 name: Building Physics
 blurb: Applying the principles of physics to the built environment
-image_path: /images/Building Physics.jpg
+image_path: /images/services-building-physics.jpg
 number: 6
 ---
 
 
-### &nbsp;
+###
 
 Building physics analyses the physical behaviour of buildings in their particular geographical contexts and how this impacts resource efficiency, comfort, indoor environmental quality and durability.
 
