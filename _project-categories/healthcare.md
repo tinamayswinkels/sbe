@@ -4,7 +4,8 @@ category: other
 name: Healthcare
 blurb: >-
   Our interest in healthcare projects spans the issues of health, well being and
-  operational efficiency.
+  operational efficiency.  We have a number of successful aged care, hospital
+  and other medical care facilities within our portfolio.
 banner-image_path: /uploads/regis-hillcrest-aged-care-centre-01.jpg
 ---
 
