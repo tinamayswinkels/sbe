@@ -1,7 +1,7 @@
 ---
 name: Research
 blurb: Leading innovation through research
-image_path: /images/Slide1.JPG
+image_path: /images/services-research.JPG
 number: 8
 ---
 
