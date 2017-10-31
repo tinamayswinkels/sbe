@@ -23,9 +23,11 @@ images:
 
 SBE provided full ESD and Green Star Consultancy services for the Western BACE development.
 
-In particular SBE conducted the necessary modelling for Green Star and Section J compliance,  assisted the design team with the integration of Green Star and compiled the Green Star Design and As-Built Submissions.
+In particular SBE conducted the necessary modelling for Green Star and Section J compliance, &nbsp;assisted the design team with the integration of Green Star and compiled the Green Star Design and As-Built Submissions.
 
 This project achieved a 6 star design rating and a 5 star as-built Green Star rating and achieved maximum greenhouse gas reduction targets (base building carbon neutral).
+
+ESD features included:
 
 * Local wall mounted controllers to signal when to open windows.
 * Primary conditioning is ducted heat recovery ventilator air system provides tempered outside air to all spaces . This system is sufficient to meet the heating and cooling loads for a large proportion of operating hours.
