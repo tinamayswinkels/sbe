@@ -1,15 +1,15 @@
 ---
 title: Mt Clear Case Study
 subtitle: Some facts and figures on the 6 star building
-image_path: /uploads/IMG_0023.jpg
+image_path: /uploads/mt-clear-earth-education-centre-01.JPG
 layout: post
-banner-image_path: /uploads/IMG_0037.jpg
+banner-image_path: /uploads/mt-clear-earth-education-centre-exterior.jpg
 ---
 
 
-The Mt Clear Earth and Science Centre is a school building for the Mt Clear Secondary School housing classrooms, laboratories and specialist support spaces. The floor area is approximately 900m&sup2;. The client was keen for the building to represent the school’s commitment to the environment and to become a 3D textbook in its own right.
+The Mt Clear Earth and Science Centre is a school building for the Mt Clear Secondary School housing classrooms, laboratories and specialist support spaces. The floor area is approximately 900m². The client was keen for the building to represent the school’s commitment to the environment and to become a 3D textbook in its own right.
 
-The brief called for a comfortable zero energy, zero water and zero waste facility and the integration of &nbsp;many ESD initiatives, ranging from water saving and waste minimisation through to biofuel generation, a photovoltaic array and a virtual battery bank.
+The brief called for a comfortable zero energy, zero water and zero waste facility and the integration of  many ESD initiatives, ranging from water saving and waste minimisation through to biofuel generation, a photovoltaic array and a virtual battery bank.
 
 The ESD initiatives incorporated included:
 
@@ -23,4 +23,4 @@ The thermal labyrinth is used to pre-condition the incoming fresh air, i.e. heat
 
 Based on our modelling the building produces 50% to 64% less greenhouse gases than the Green Star conditional benchmark established for the project.
 
-The improved building fabric, together with the intake of fresh air through the labyrinth when beneficial, keeps the temperatures within the comfort band throughout most of the year. Peak temperatures are also significantly reduced with the building topping out at 36&deg;C on a 46&deg;C day (simulated).
+The improved building fabric, together with the intake of fresh air through the labyrinth when beneficial, keeps the temperatures within the comfort band throughout most of the year. Peak temperatures are also significantly reduced with the building topping out at 36°C on a 46°C day (simulated).
