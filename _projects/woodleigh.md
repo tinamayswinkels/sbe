@@ -7,13 +7,13 @@ category: educational
 client: Woodleigh
 date: 2008-12-03 00:00:00
 images:
-  - title: The Commons SBE
+  - title: Woodleigh Junior Campus 5-6 Centre
     image_path: /uploads/wood1.JPG
-  - title: pic no 2
+  - title: Woodleigh Junior Campus 5-6 Centre Plan
     image_path: /uploads/wood plan.JPG
-  - title:
+  - title: Woodleigh Junior Campus 5-6 Centre Interior
     image_path: /uploads/wood3.JPG
-  - title:
+  - title: Woodleigh Junior Campus 5-6 Centre Graph
     image_path: /uploads/pie2.jpg
 ---
 
