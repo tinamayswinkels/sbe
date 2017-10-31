@@ -8,13 +8,13 @@ client: Kangan Institute
 date: 2012-05-01 00:00:00
 images:
   - title: Automative Centre of Excellence
-    image_path: /uploads/IMG_0220.JPG
-  - title: Automative Centre of Excellence GHG Breakdown
-    image_path: /uploads/graph.png
+    image_path: /uploads/automative-centre-of-excellence-01.JPG
+  - title: Automative Centre of Excellence Roof
+    image_path: /uploads/automative-centre-of-excellence-roof.JPG
   - title: Automative Centre of Excellence Exterior
-    image_path: /uploads/IMG_0235.JPG
+    image_path: /uploads/automative-centre-of-excellence-exterior.JPG
   - title: Automative Centre of Excellence Model
-    image_path: /uploads/IMG_0229.JPG
+    image_path: /uploads/automative-centre-of-excellence-model.jpg
 ---
 
 
