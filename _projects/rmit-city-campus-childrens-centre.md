@@ -10,7 +10,7 @@ category: educational
 client: RMIT University
 date: 2017-01-25 00:00:00
 images:
-  - title: The Commons SBE
+  - title: RMIT City Campus Children's Centre
     image_path: /uploads/commons-1.JPG
   - title: pic no 2
     image_path: /uploads/photo-1a-1.JPG
