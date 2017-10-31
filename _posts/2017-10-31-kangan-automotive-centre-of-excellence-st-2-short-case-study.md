@@ -1,9 +1,9 @@
 ---
 title: Kangan Automotive Centre of Excellence St 2 Short Case Study
 subtitle: Some facts and figures on this 5 star building
-image_path: /uploads/IMG_0023.jpg
+image_path: /uploads/automative-centre-of-excellence-roof.JPG
 layout: post
-banner-image_path: /uploads/IMG_0037.jpg
+banner-image_path: /uploads/automative-centre-of-excellence-exterior.JPG
 ---
 
 
