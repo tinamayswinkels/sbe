@@ -9,13 +9,13 @@ category: commercial
 client: Costco
 date: 2009-06-10 00:00:00
 images:
-  - title: The Commons SBE
+  - title: Costco
     image_path: /uploads/costco4.JPG
-  - title: pic no 2
+  - title: Costco Site
     image_path: /uploads/costco.JPG
-  - title:
+  - title: Costco Exterior 01
     image_path: /uploads/costcopic.jpg
-  - title:
+  - title: Costco Exterior 02
     image_path: /uploads/Costco_Photo_04_PH.jpg
 ---
 
