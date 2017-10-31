@@ -13,7 +13,7 @@ date: 2014-05-08 00:00:00
 images:
   - title: Melton Library and Learning Hub
     image_path: /uploads/1.jpg
-  - title: pic no 2
+  - title: Melton Library and Learning Hub Construction
     image_path: /uploads/2.jpg
   - title:
     image_path: /uploads/LTS Interior Perspective.jpg
