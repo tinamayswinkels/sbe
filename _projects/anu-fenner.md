@@ -26,4 +26,4 @@ The Frank Fenner building is a small scale institutional faculty building which 
 
 The configuration of the building footprint, wrapping around an internal courtyard and adopting a narrow floor plate, creates a high quality internal environment by accessing natural light, fresh air, and views to the outdoor environment, allowing for a strong personal connection to the external environment for both Staff and students.
 
-SBE provided full ESD and Green Star Consultancy Services for the design of this 6 st1r building.&nbsp; ***More information can be found in this short case study - click here.***
+SBE provided full ESD and Green Star Consultancy Services for the design of this 6 star building.&nbsp; [***More information can be found in this short case study - click here.***](/2017/10/31/anu-fenner-short-case-study.html)
