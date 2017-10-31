@@ -13,12 +13,12 @@ client: KM Design & Construct Pty Ltd
 date: 2013-07-16 00:00:00
 images:
   - title: The Libertine
-    image_path: /uploads/libertine.jpg
-  - title: The Libertine
-    image_path:
-  - title: The Libertine
-    image_path:
-  - title: The Libertine
+    image_path: /uploads/the-libertine-01.jpg
+  - title: The Libertine Section
+    image_path: /uploads/the-libertine-section.JPG
+  - title: The Libertine Site
+    image_path: /uploads/the-libertine-site.JPG
+  - title:
     image_path:
 ---
 
