@@ -3,7 +3,7 @@ layout: project-category
 category: other
 name: Healthcare
 blurb:
-banner-image_path: /uploads/Presentation1.jpg
+banner-image_path: /uploads/regis-hillcrest-aged-care-centre-01.jpg
 ---
 
 
