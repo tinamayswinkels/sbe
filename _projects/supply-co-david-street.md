@@ -9,13 +9,13 @@ category: residential
 client: Forza Capital
 date: 2011-11-30 00:00:00
 images:
-  - title: The Commons SBE
+  - title: Supply Co David Street
     image_path: /uploads/SupplyCo_DavidSt_Render_01.jpg
-  - title: pic no 2
+  - title: Supply Co David Street Exterior 01
     image_path: /uploads/SupplyCo_DavidSt_13.jpg
-  - title:
+  - title: Supply Co David Street Exterior 02
     image_path: /uploads/SupplyCo_DavidSt_Render_06.jpg
-  - title:
+  - title: Supply Co David Street Exterior 03
     image_path: /uploads/SupplyCo_DavidSt_Render_02.jpg
 ---
 
