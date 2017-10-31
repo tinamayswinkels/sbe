@@ -3,7 +3,7 @@ layout: project-category
 category: commercial
 name: Commercial
 blurb:
-banner-image_path: /uploads/bosh-01.jpg
+banner-image_path: /uploads/bosch-01.jpg
 ---
 
 
