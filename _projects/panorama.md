@@ -9,13 +9,13 @@ category: residential
 client: Dongcheng
 date: 2011-10-12 00:00:00
 images:
-  - title:
+  - title: Panorama
     image_path: /uploads/Panorama_Apartments_06.jpg
-  - title: pic no 2
+  - title: Panorama Interior 01
     image_path: /uploads/Panorama_Apartments_10.jpg
-  - title:
+  - title: Panorama Exterior
     image_path: /uploads/Panorama_Apartments_08.jpg
-  - title:
+  - title: Panorama Interior 02
     image_path: /uploads/Panorama_Apartments_13.jpg
 ---
 
