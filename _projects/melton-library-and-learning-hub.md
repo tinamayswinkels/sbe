@@ -12,9 +12,9 @@ client: Melton City Council and ADCO
 date: 2014-05-08 00:00:00
 images:
   - title: Melton Library and Learning Hub
-    image_path: /uploads/1.jpg
+    image_path: /uploads/melton-library-&-learning-hub-01.jpg
   - title: Melton Library and Learning Hub Construction
-    image_path: /uploads/2.jpg
+    image_path: /uploads/melton-library-&-learning-hub-construction.jpg
   - title:
     image_path: /uploads/LTS Interior Perspective.jpg
   - title:
