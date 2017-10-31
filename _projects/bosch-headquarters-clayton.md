@@ -7,13 +7,13 @@ category: commercial
 client: Bosch
 date: 2017-07-10 00:00:00
 images:
-  - title: pic no 2
+  - title: Bosh
     image_path: /uploads/Bosch_30.jpg
-  - title:
+  - title: Bosh
     image_path: /uploads/Bosch_26.jpg
-  - title:
+  - title: Bosh Interior
     image_path: /uploads/Bosch_33.jpg
-  - title:
+  - title: Bosh Graph
     image_path: /uploads/air tight2.JPG
 ---
 
