@@ -10,13 +10,13 @@ client: Costco
 date: 2009-06-10 00:00:00
 images:
   - title: Costco
-    image_path: /uploads/costco4.JPG
+    image_path: /uploads/costco-01.JPG
   - title: Costco Site
-    image_path: /uploads/costco.JPG
+    image_path: /uploads/costco-site.JPG
   - title: Costco Exterior 01
-    image_path: /uploads/costcopic.jpg
+    image_path: /uploads/costco-exterior-01.jpg
   - title: Costco Exterior 02
-    image_path: /uploads/Costco_Photo_04_PH.jpg
+    image_path: /uploads/costco-exterior-02.jpg
 ---
 
 
