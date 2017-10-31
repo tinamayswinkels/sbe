@@ -12,9 +12,9 @@ images:
   - title: Bosch Exterior
     image_path: /uploads/bosch-exterior.jpg
   - title: Bosch Interior 01
-    image_path: /uploads/Bosch_33.jpg
+    image_path: /uploads/bosch-interior-01.jpg
   - title: Bosch Interior 02
-    image_path: /uploads/air tight2.JPG
+    image_path: /uploads/bosch-interior-02.jpg
 ---
 
 
