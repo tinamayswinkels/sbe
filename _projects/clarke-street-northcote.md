@@ -8,13 +8,13 @@ client: Kalex
 date: 2012-01-31 00:00:00
 images:
   - title: 348 Clarke Street
-    image_path: /uploads/20171014_130838.jpg
+    image_path: /uploads/348-clarke-st-01.jpg
   - title: 348 Clarke Street Exterior 01
-    image_path: /uploads/20171014_130910.jpg
+    image_path: /uploads/348-clarke-st-exterior-01.jpg
   - title: 348 Clarke Street Exterior 02
-    image_path: /uploads/graph.JPG
+    image_path: /uploads/348-clarke-st-exterior-02.jpg
   - title: 348 Clarke Street Exterior 03
-    image_path: /uploads/void2.jpg
+    image_path: /uploads/348-clarke-st-exterior-03.jpg
 ---
 
 
