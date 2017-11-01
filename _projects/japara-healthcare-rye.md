@@ -2,21 +2,25 @@
 layout: project
 name: Japara Healthcare Rye
 blurb: >-
-  The Frank Fenner building is a small scale institutional faculty building
-  which archived a 6 star Green Star Office Design Rating. The design aimed to
-  integrate with existing site conditions, and to be an example of sustainable
-  design, balancing innovation with common design and construction practices.
-architect: Williams Ross
-category: educational
-client: ANU
-date: 2012-02-15 00:00:00
+  The Japara Aged Care facility in Rye is a two storey building consisting of
+  approximately 99 nursing home bedrooms and aiming to achieve a 5 star Green
+  Star Design & As Built certification.
+architect: Spowers
+category: other
+client: JBA Consulting Engineers
+date: 2017-01-10 00:00:00
 images:
-  - title: ANU Fenner
-    image_path: /uploads/anu-fenner-01.JPG
-  - title: ANU Fenner Exterior 01
-    image_path: /uploads/anu-fenner-exterior-01.jpg
-  - title: ANU Fenner Interior
-    image_path: /uploads/anu-fenner-interior.jpg
-  - title: ANU Fenner Exterior 02
-    image_path: /uploads/anu-fenner-exterior-02.jpg
+  - title:
+    image_path:
+  - title:
+    image_path:
+  - title:
+    image_path:
+  - title:
+    image_path:
 ---
+
+
+The Japara Aged Care facility in Rye is a two storey building consisting of approximately 99 nursing home bedrooms and supporting facilities such as laundry, commercial kitchen, chapel, beauty and hairdressing salon, various dining and lounge rooms, administration offices, reception, store rooms, and treatment rooms. The facility aims to achieve a 5 star Green Star Design & As Built certification.
+
+SBE was engaged by JBA Consulting Engineers to conduct the Section J Part J1-J3 Energy Efficiency assessment following the Alternative Verification method JV3. The modelling results demonstrate a 10% improvement of the building fabric when compared to an equivalent reference building. This was achieved with the retention of single glazed louvre windows, the specification of high performing glazing (total U-value of 2.8 and SHGC of 0.27), and typical insulation levels.
