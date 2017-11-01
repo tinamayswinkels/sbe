@@ -3,9 +3,9 @@ layout: project-category
 category: educational
 name: Education
 blurb: >-
-  SBE has a proud history with Education projects and we enjoy the opprtunity to
-  work with education providers, facilitators and designers.  Our work has taken
-  us to local, regional and national levels and we continue to take a keen
+  SBE has a proud history with Education projects and we enjoy the opportunity
+  to work with education providers, facilitators and designers.  Our work has
+  taken us to local, regional and national levels and we continue to take a keen
   interest in the dialgoue revolving around pedagogy, indoor environment quality
   and learning outcomes.
 banner-image_path: /uploads/automative-centre-of-excellence-01.JPG
