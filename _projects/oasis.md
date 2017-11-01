@@ -1,7 +1,13 @@
 ---
 layout: project
 name: 'Oasis Hospital, Development, Al Ain, United Arab Emirates'
-blurb: The site lies within a zone designated for healthcare in the urban
+blurb: >-
+  The site lies within a zone designated for healthcare in the urban framework
+  structure developed for the city, Plan Al Ain 2030. The site is already used
+  for healthcare services and a culturally significant hospital facility on the
+  site is to be retained. Other elements of the site to be retained and enhanced
+  through the development include: Shaikh Zayed Majlis, a church, a mosque,
+  housing, carparking, landscaping and a workshop.
 architect: PTA
 category: other
 client: United Arab Emirates
