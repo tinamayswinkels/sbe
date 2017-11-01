@@ -7,14 +7,14 @@ category: other
 client: United Arab Emirates
 date: 2013-02-13 00:00:00
 images:
-  - title: ANU Fenner
-    image_path: /uploads/anu-fenner-01.JPG
-  - title: ANU Fenner Exterior 01
-    image_path: /uploads/anu-fenner-exterior-01.jpg
-  - title: ANU Fenner Interior
-    image_path: /uploads/anu-fenner-interior.jpg
-  - title: ANU Fenner Exterior 02
-    image_path: /uploads/anu-fenner-exterior-02.jpg
+  - title: OASIS 1
+    image_path: /uploads/Oasis_Hospital_14.JPG
+  - title: OASIS 3
+    image_path: /uploads/Oasis_Hospital_11.JPG
+  - title: OASIS 3
+    image_path: /uploads/oasis 1.jpg
+  - title: OASIS 4
+    image_path: /uploads/Oasis_Hospital_18.JPG
 ---
 
 
