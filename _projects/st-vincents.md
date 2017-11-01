@@ -7,7 +7,7 @@ blurb: >-
 architect: HSPC Health Architects
 category: other
 client: St Vincents
-date: 2012-02-15 00:00:00
+date: 2016-02-09 00:00:00
 images:
   - title: st vinc 1
     image_path: /uploads/st vincent 1.jpg
