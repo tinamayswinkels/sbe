@@ -4,7 +4,7 @@ category: commercial
 name: Commercial
 blurb: >-
   SBE has delivered ESD services to a large selection of commercial,  retail and
-  governemnt office projects, locally and interstate.  Many have achieved Green
+  government office projects, locally and interstate.  Many have achieved Green
   Star certification and we continue to build on our body of knowledge and
   innovation with each new project.
 banner-image_path: /uploads/bosch-01.jpg
