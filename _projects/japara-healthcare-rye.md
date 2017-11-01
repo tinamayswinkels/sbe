@@ -10,10 +10,10 @@ category: other
 client: JBA Consulting Engineers
 date: 2017-01-10 00:00:00
 images:
-  - title:
-    image_path:
-  - title:
-    image_path:
+  - title: Japara Healthcare Rye
+    image_path: /uploads/japara-rye-exterior-01.JPG
+  - title: Japara Healthcare Model
+    image_path: /uploads/japara-rye-model.bmp
   - title:
     image_path:
   - title:
