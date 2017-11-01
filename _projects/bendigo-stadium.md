@@ -28,5 +28,3 @@ An evaporative cooling system will provide a highly efficient solution for the f
 The potable water use for the facility will be reduced by incorporating best practice water saving design features including water efficient sanitary fixtures (showers, taps, urinals and toilets), rainwater collection and re-use from the roof of the stadium.&nbsp; The collected rainwater will be used for toilet flushing, irrigation and the evaporative cooling.
 
 The project will aim to maintain and reuse all viable topsoil on site and to not import any new topsoil.&nbsp; WSUD initiatives such as swales and permeable surfaces will be integrated into the landscaping and civil design works. The project will demonstrate a score of 100 or better in the Melbourne STORM calculator which equates to a 45% reduction in the typical annual load of total nitrogen and suspended solids leaving the site.&nbsp; Local indigenous species will be used for the planting palette.&nbsp; These will naturally have good drought tolerance
-
-<div>&nbsp;<hr width="33%" size="1" align="left" /><div id="ftn1"><p>&nbsp;</p></div></div>
