@@ -1,14 +1,12 @@
 ---
 layout: project
-name: St Vincents
+name: St. Vincent Hospital and Aged Care facilities in Werribee
 blurb: >-
-  The Frank Fenner building is a small scale institutional faculty building
-  which archived a 6 star Green Star Office Design Rating. The design aimed to
-  integrate with existing site conditions, and to be an example of sustainable
-  design, balancing innovation with common design and construction practices.
-architect: Williams Ross
-category: educational
-client: ANU
+  Comfortable and well daylit spaces that will contribute to the health and
+  wellbeing of the occupants
+architect: HSPC Health Architects
+category: other
+client: St Vincents
 date: 2012-02-15 00:00:00
 images:
   - title: ANU Fenner
@@ -20,3 +18,10 @@ images:
   - title: ANU Fenner Exterior 02
     image_path: /uploads/anu-fenner-exterior-02.jpg
 ---
+
+
+SBE provided NCC Section J compliance services for the new St. Vincent Hospital and Aged Care facilities in Werribee.
+
+JV3 alternative compliance modelling was used to validate the Architect's vision for the building in relation to glazing and sky lighting.
+
+The result is a series of comfortable and well daylit spaces that will contribute to the health and wellbeing of the occupants.
