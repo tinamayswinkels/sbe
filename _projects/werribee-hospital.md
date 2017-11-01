@@ -1,15 +1,11 @@
 ---
 layout: project
-name: Werribee hospital
-blurb: >-
-  The Frank Fenner building is a small scale institutional faculty building
-  which archived a 6 star Green Star Office Design Rating. The design aimed to
-  integrate with existing site conditions, and to be an example of sustainable
-  design, balancing innovation with common design and construction practices.
-architect: Williams Ross
-category: educational
-client: ANU
-date: 2012-02-15 00:00:00
+name: St. Vincent Hospital and Aged Care Facility
+blurb:
+architect: HSPC
+category: other
+client: St Vincent’s Care Services
+date: 2016-02-10 00:00:00
 images:
   - title: ANU Fenner
     image_path: /uploads/anu-fenner-01.JPG
@@ -20,3 +16,5 @@ images:
   - title: ANU Fenner Exterior 02
     image_path: /uploads/anu-fenner-exterior-02.jpg
 ---
+
+
