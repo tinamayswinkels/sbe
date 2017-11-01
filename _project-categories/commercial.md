@@ -3,7 +3,7 @@ layout: project-category
 category: commercial
 name: Commercial
 blurb: >-
-  SBE has delivered ESD services to a large sleection of commercial,  retail and
+  SBE has delivered ESD services to a large selection of commercial,  retail and
   governemnt office projects, locally and interstate.  Many have achieved Green
   Star certification and we continue to build on our body of knowledge and
   innovation with each new project.
