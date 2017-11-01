@@ -9,14 +9,14 @@ category: other
 client: St Vincents
 date: 2012-02-15 00:00:00
 images:
-  - title: ANU Fenner
-    image_path: /uploads/anu-fenner-01.JPG
-  - title: ANU Fenner Exterior 01
-    image_path: /uploads/anu-fenner-exterior-01.jpg
-  - title: ANU Fenner Interior
-    image_path: /uploads/anu-fenner-interior.jpg
-  - title: ANU Fenner Exterior 02
-    image_path: /uploads/anu-fenner-exterior-02.jpg
+  - title: st vinc 1
+    image_path: /uploads/st vincent 1.jpg
+  - title: st vinc 2
+    image_path: /uploads/st vincent 2_web.jpg
+  - title: st vinc 3
+    image_path: /uploads/st vincent 3.jpg
+  - title: st vinc 4
+    image_path: /uploads/st vincent 4.jpg
 ---
 
 
