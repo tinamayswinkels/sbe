@@ -10,9 +10,9 @@ client: JBA Consulting Engineers
 date: 2017-02-08 00:00:00
 images:
   - title: Japara Healthcare Newport
-    image_path:
+    image_path: /uploads/japara-newport-01.JPG
   - title: Japara Healthcare Newport Model
-    image_path:
+    image_path: /uploads/japara-newport-model.bmp
   - title:
     image_path:
   - title:
