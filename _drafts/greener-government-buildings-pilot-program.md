@@ -1,13 +1,13 @@
 ---
 title: Greener Government Buildings Pilot Program
 subtitle: Supply and Installation Works Panel Partnership
-image_path: /uploads/intern-house-11.jpg
+image_path: /uploads/TC.JPG
 layout: post
-banner-image_path: /uploads/interns dec 21.jpg
+banner-image_path: /uploads/TC2.JPG
 ---
 
 
-SBE has provided significant ESD Consultancy Services to the Department of Education over the years.&nbsp; We worked on the design of the award winning Dandenong Education Precinct, the Ballarat Earth Sciences Centre, the Rural Replacement Program and on several Building the Education Revolution (BER) projects.&nbsp; We were even appointed afterwards to evaluate the national outcomes of the BER program by the BER taskforce.
+SBE has provided significant ESD Consultancy Services to the Department of Education over the years.  We worked on the design of the award winning Dandenong Education Precinct, the Ballarat Earth Sciences Centre, the Rural Replacement Program and on several Building the Education Revolution (BER) projects.  We were even appointed afterwards to evaluate the national outcomes of the BER program by the BER taskforce.
 
 SBE delivered design and thermal comfort guidelines to the Victorian Department of Education and provided a detailed modelling and value management study on the potential future investment of a 3, 5 and 7% ESD budget for school buildings both below an above the 'air conditioning' line that the DET has drawn across the state.
 
