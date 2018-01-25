@@ -1,7 +1,9 @@
 ---
-title: tes t 2
+title: SBE Interns Update 25 January 2018
 subtitle: Improving performance by design rather than by over-specify
 image_path: /uploads/blog-apartment-design-guidelines.JPG
 layout: post
 banner-image_path: /uploads/blog-apartment-design-guidelines.JPG
 ---
+
+
