@@ -15,13 +15,9 @@ banner-image_path: /uploads/design progress week 4.png
 
 <font color="#000000"><font face="Calibri"><font size="3"></font></font></font>
 
-&nbsp;
-
 <font color="#000000"><font face="Calibri"><font size="3">Leah reporting -</font></font></font>
 
 <font color="#000000"><font face="Calibri"><font size="3">The deadline for the design competition is getting nearer and with three weeks to go we are going to make some major design changes.&nbsp; We had a meeting with three Peddle Thorp Architects: Stephen, Jessie, and Riya, who kindly and sharply critiqued every aspect of our design. Having an architectural design discussion with these experienced architects was extremely helpful in finessing the program of the building as well as putting us on the right track with materiality and how the structure will support loads from the green roof.&nbsp; We have decided to have thick in-situ concrete walls to retain the earth berm and transfer it&rsquo;s loads into the ground, but a lighter weight coated steel truss system to support the green roof. This week we also went on a site visit to 24 Hopkins St Footscray that is currently under construction. I was super excited to see inside as it&rsquo;s a building site that I have been driving past multiple times a week since the start of its construction roughly 4 years ago. Neil, the project architect, walked us through the design along with some of his project builders and answered all our enthusiastic questions. The building is backed by developers from China and is a mixed-use apartment block.&nbsp; It was super interesting seeing parts of the structure half-finished as it solidified my understanding about things that I had seen before only in drawings or as finished products. </font></font></font>
-
-&nbsp;
 
 <font color="#000000"><font face="Calibri"><font size="3">Poornima reporting: -</font></font></font>
 
