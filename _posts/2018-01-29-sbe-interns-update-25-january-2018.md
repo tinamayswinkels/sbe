@@ -7,8 +7,6 @@ banner-image_path: /uploads/interns-house-25-january.png
 ---
 
 
-&nbsp;
-
 Mark reporting: -
 
 This week, we worked on the DTS. Rob taught us how to understand and find the information from different architectural drawings. Basically, the uncompleted DTS report includes three parts from J1 to J3. J1 is about the Building Fabric, J2 is about Glazing and J3 is about Building Sealing. Each of us had our own part to do and my part was J1. I need to read both National Construction Code Series and architectural drawings to complete the DTS report. I found it hard to understand the architectural drawings. Rob taught me the procedure of finding the information from the architectural drawings and helped me to finish the Building Fabric part. After that, I have reviewed the method that he showed me and tried to do it again. Today, we will try to finish the 10-star rating on Firstrate5 for our design competition. Next week, we will concentrate on the design competition and make sure we can submit next week.
