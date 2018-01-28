@@ -7,6 +7,8 @@ banner-image_path: /uploads/design progress week 4.png
 ---
 
 
+<font color="#000000"><font face="Calibri"><font size="3">We are back for more.</font></font></font>
+
 <font color="#000000"><font face="Calibri"><font size="3">Mark reporting -</font></font></font>
 
 <font color="#000000"><font face="Calibri"><font size="3">This week, we went to a building site in Footscray. This site has been built for 4 years already and it will take another 6 years to finish the construction. This building is an apartment complex with a retail space at the ground level. The project architect Neil, took us into the site and showed us around in different levels. The architect described the structure of this building site and materials used. Also, he showed us the different types of windows constructed and the function of fire water tank. It was very interesting for me because this is my first time visiting a building site. On Wednesday, we had a meeting with three architects to discuss our sustainable house design. They gave us feedback on our design and helped us troubleshoot our questions. After the meeting, we changed our design based on their advice. We are still researching the best materials to use and truss structure for the earth berm. Today, we will keep changing our design and I&rsquo;ll try to finish the BESS report. </font></font></font>
@@ -27,6 +29,8 @@ banner-image_path: /uploads/design progress week 4.png
 
 &nbsp;
 
-<font color="#794000"><font color="#794000"><font color="#794000"><font face="Trebuchet MS"><font size="7">SBE interns house design critique<img alt="" src="/uploads/versions/minutes---x----647-595x---.PNG" /></font></font></font></font></font>&nbsp;
+<font color="#794000"><font color="#794000"><font color="#794000"><font face="Trebuchet MS"><font size="7">SBE interns house design critique<img alt="" src="/uploads/versions/minutes---x----647-595x---.PNG" /></font></font></font></font></font>
+
+&nbsp;
 
 <font color="#794000"><font color="#794000"> </font></font>
