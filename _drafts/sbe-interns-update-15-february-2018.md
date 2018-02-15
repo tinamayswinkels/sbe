@@ -1,14 +1,10 @@
 ---
 title: SBE Intern's Update 15 February 2018
 subtitle: 'Hardcore IES, Grasshopper and Honeybee'
-image_path: /uploads/outside 10 stra house.jpg
+image_path: /uploads/office model Daylight.PNG
 layout: post
-banner-image_path: /uploads/inside 10 stra house.jpg
+banner-image_path: /uploads/intern office.PNG
 ---
-
-&nbsp;
-
-&nbsp;
 
 <font color="#000000"><font size="3">Poornima reporting: </font></font>
 
