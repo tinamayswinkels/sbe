@@ -20,7 +20,13 @@ banner-image_path: /uploads/kareoke.JPG
 
 <font color="#000000">
 						<font face="Calibri">
-							<font size="3">Leah Reporting: </font>
+							<font size="3">L</font>
+						</font>
+					</font>
+
+<font color="#000000">
+						<font face="Calibri">
+							<font size="3">eah Reporting: </font>
 						</font>
 					</font>
 
@@ -44,35 +50,22 @@ banner-image_path: /uploads/kareoke.JPG
 										<font size="3">
 											<font color="#000000">
 												<font face="Calibri">
-													<font size="3">Thank you, SBE!</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>&nbsp;
+													<font size="3">Thank you, SBE!</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>&nbsp;</font>
+
+&nbsp;
 
 <font color="#000000">
-						<font face="Calibri">
-							<font size="3">&nbsp;</font>
+						<font color="#000000">
+							<font color="#000000">
+								<font face="Calibri">
+									<font size="3">Poornima reporting:</font>
+								</font>
+							</font>
+							<font color="#000000">
+								<font face="Calibri">
+									<font size="3">Time flies and we are finishing our internship. This summer has been so productive, and I am grateful to SBE for providing me with the opportunity to do this internship. Apart from the technical training, I also got a chance to attend client meetings, have site visit, doing research and attending seminar. Everything helped me in broadening my horizons and clearing my perspective about my future goals. I have learnt a lot, gained technical and industry knowledge and built on my interpersonal skills. Being an International student and new to this field, it was an amazing (and much needed) experience to work and learn from industry experts. I also got to make great friends, Leah and Mark who have been wonderful to work with. We learnt a lot from each other&rsquo;s experiences while working as a team and during brain-storming sessions. My university starts from next week, but this time I&rsquo;ll be back with better skills and confidence, thank you SBE!!&nbsp;</font>&nbsp;</font>
+							</font>
 						</font>
-					</font>
-
-<font color="#000000">
-						<font face="Calibri">
-							<font size="3"></font>&nbsp;</font>&nbsp;</font>&nbsp;
-
-<font color="#000000"> &nbsp;</font>&nbsp;
-
-<font color="#000000"> &nbsp;</font>
-
-<font color="#000000">
-						<font face="Calibri"> </font>
-					</font>
-
-<font color="#000000">
-						<font face="Calibri">
-							<font size="3">Poornima reporting:</font>
-						</font>
-					</font>
-
-<font color="#000000">
-						<font face="Calibri">
-							<font size="3">Time flies and we are finishing our internship. This summer has been so productive, and I am grateful to SBE for providing me with the opportunity to do this internship. Apart from the technical training, I also got a chance to attend client meetings, have site visit, doing research and attending seminar. Everything helped me in broadening my horizons and clearing my perspective about my future goals. I have learnt a lot, gained technical and industry knowledge and built on my interpersonal skills. Being an International student and new to this field, it was an amazing (and much needed) experience to work and learn from industry experts. I also got to make great friends, Leah and Mark who have been wonderful to work with. We learnt a lot from each other&rsquo;s experiences while working as a team and during brain-storming sessions. My university starts from next week, but this time I&rsquo;ll be back with better skills and confidence, thank you SBE!!&nbsp;</font>&nbsp;</font>
 					</font>
 
 &nbsp;
