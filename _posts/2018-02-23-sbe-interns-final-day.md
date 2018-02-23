@@ -1,9 +1,9 @@
 ---
 title: SBE interns final day
 subtitle: Stars
-image_path: /uploads/kareoke2.jpg
+image_path: /uploads/grasshopper-capture1.jpg
 layout: post
-banner-image_path: /uploads/grasshopper capture.JPG
+banner-image_path: /uploads/kareoke.JPG
 ---
 
 <font color="#000000">
@@ -17,8 +17,6 @@ banner-image_path: /uploads/grasshopper capture.JPG
 							<font size="3">&nbsp;</font>
 						</font>
 					</font>
-
-&nbsp;
 
 <font color="#000000">
 						<font face="Calibri"></font>
@@ -41,8 +39,6 @@ banner-image_path: /uploads/grasshopper capture.JPG
 							<font size="3">&nbsp;</font>
 						</font>
 					</font>
-
-&nbsp;
 
 <font color="#000000">
 						<font face="Calibri"></font>
@@ -99,8 +95,6 @@ banner-image_path: /uploads/grasshopper capture.JPG
 							<font size="3">&nbsp;</font>
 						</font>
 					</font>
-
-&nbsp;
 
 <font color="#000000">
 						<font face="Calibri"></font>
