@@ -1,9 +1,9 @@
 ---
 title: SBE interns final day
 subtitle: Stars
-image_path: /uploads/grasshopper capture.JPG
+image_path: /uploads/kareoke2.jpg
 layout: post
-banner-image_path: /uploads/kareoke.JPG
+banner-image_path: /uploads/grasshopper capture.JPG
 ---
 
 <font color="#000000">
