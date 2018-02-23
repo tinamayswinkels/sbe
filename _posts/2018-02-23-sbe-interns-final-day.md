@@ -53,6 +53,20 @@ banner-image_path: /uploads/kareoke.JPG
 							<font size="3">
 								<font color="#000000">
 									<font face="Calibri">
+										<font size="3"></font>
+									</font>
+								</font>
+							</font>
+						</font>
+					</font>
+
+&nbsp;
+
+<font color="#000000">
+						<font face="Calibri">
+							<font size="3">
+								<font color="#000000">
+									<font face="Calibri">
 										<font size="3">Leah Reporting: </font>
 									</font>
 								</font>
@@ -103,6 +117,14 @@ banner-image_path: /uploads/kareoke.JPG
 <font color="#000000">
 						<font face="Calibri"></font>
 					</font>
+
+<font color="#000000">
+						<font face="Calibri">
+							<font size="3"></font>
+						</font>
+					</font>
+
+&nbsp;
 
 <font color="#000000">
 						<font face="Calibri">
