@@ -1,9 +1,9 @@
 ---
 title: SBE interns final day
 subtitle: 'Hardcore IES, Grasshopper, Ladybug and Honeybee'
-image_path: /uploads/intern office.PNG
+image_path: /uploads/grasshopper capture.JPG
 layout: post
-banner-image_path: /uploads/office model Daylight.PNG
+banner-image_path: /uploads/kareoke.JPG
 ---
 
 <font color="#000000">
