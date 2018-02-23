@@ -1,6 +1,6 @@
 ---
 title: SBE interns final day
-subtitle: 'Hardcore IES, Grasshopper, Ladybug and Honeybee'
+subtitle: Future leaders
 image_path: /uploads/grasshopper capture.JPG
 layout: post
 banner-image_path: /uploads/kareoke.JPG
@@ -35,8 +35,6 @@ banner-image_path: /uploads/kareoke.JPG
 							<font size="3">&nbsp;</font>
 						</font>
 					</font>
-
-&nbsp;
 
 <font color="#000000">
 						<font face="Calibri">
@@ -85,8 +83,6 @@ banner-image_path: /uploads/kareoke.JPG
 							<font size="3">&nbsp;</font>
 						</font>
 					</font>
-
-&nbsp;
 
 <font color="#000000">
 						<font face="Calibri">
