@@ -36,6 +36,12 @@ banner-image_path: /uploads/kareoke.JPG
 						</font>
 					</font>
 
+&nbsp;
+
+<font color="#000000">
+						<font face="Calibri"> </font>
+					</font>
+
 <font color="#000000">
 						<font face="Calibri">
 							<font size="3">
@@ -82,6 +88,12 @@ banner-image_path: /uploads/kareoke.JPG
 						<font face="Calibri">
 							<font size="3">&nbsp;</font>
 						</font>
+					</font>
+
+&nbsp;
+
+<font color="#000000">
+						<font face="Calibri"></font>
 					</font>
 
 <font color="#000000">
