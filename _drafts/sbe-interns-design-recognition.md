@@ -1,6 +1,6 @@
 ---
 title: SBE Intern's Design Recognition
-subtitle: Certificate of Merit be awarded
+subtitle: Certificate of Merit  awarded
 image_path: /uploads/certificate.JPG
 layout: post
 banner-image_path: /uploads/interns dec 21.jpg
