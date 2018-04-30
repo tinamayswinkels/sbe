@@ -1,7 +1,7 @@
 ---
 title: SBE Intern's Design recognition
 subtitle: Stars
-image_path: /uploads/grasshopper-capture1.jpg
+image_path: /uploads/certificate.JPG
 layout: post
 banner-image_path: /uploads/kareoke.JPG
 ---
@@ -12,7 +12,7 @@ Subject: 10-Star Sustainable Design Challenge 2018
 
 Hello, Lauren, Poornima, and Xiangting
 
-Thank you for your submission in the BDAV's 10-Star Sustainable Design Challenge. The Judges have determined that a Certificate of Merit be awarded to you, in recognition of your efforts. This is attached.
+Thank you for your submission in the BDAV's 10-Star Sustainable Design Challenge. The Judges have determined that a Certificate of Merit be awarded to you, in recognition of your efforts.&nbsp;
 
 During their deliberations, the Judges made the following observations about your submission, which we share with you to assist you further develop your skills:
 
