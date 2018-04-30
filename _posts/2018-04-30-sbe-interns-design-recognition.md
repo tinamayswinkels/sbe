@@ -3,7 +3,7 @@ title: SBE Intern's Design Recognition
 subtitle: Certificate of Merit awarded
 image_path: /uploads/certificate.JPG
 layout: post
-banner-image_path: /uploads/interns dec 21.jpg
+banner-image_path: /uploads/certificate.JPG
 ---
 
 SBE's interns received an Award of Merit from the Building Designers Association of Victoria for their 10 star house design.  We congratulate them on their efforts. 
