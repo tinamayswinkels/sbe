@@ -1,18 +1,18 @@
 ---
-title: SBE Intern's Design recognition
-subtitle: Stars
+title: SBE Intern's Design Recognition
+subtitle: Certificate of Merit be awarded
 image_path: /uploads/certificate.JPG
 layout: post
 banner-image_path: /uploads/kareoke.JPG
 ---
 
-SBE's interns received an Award of Merit from the Building Designers Association of Victoria for their 10 star house design.&nbsp; We congratulate them on their efforts.&nbsp;
+SBE's interns received an Award of Merit from the Building Designers Association of Victoria for their 10 star house design.  We congratulate them on their efforts. 
 
 Subject: 10-Star Sustainable Design Challenge 2018
 
 Hello, Lauren, Poornima, and Xiangting
 
-Thank you for your submission in the BDAV's 10-Star Sustainable Design Challenge. The Judges have determined that a Certificate of Merit be awarded to you, in recognition of your efforts.&nbsp;
+Thank you for your submission in the BDAV's 10-Star Sustainable Design Challenge. The Judges have determined that a Certificate of Merit be awarded to you, in recognition of your efforts. 
 
 During their deliberations, the Judges made the following observations about your submission, which we share with you to assist you further develop your skills:
 
@@ -39,6 +39,4 @@ Executive Officer
 
 Building Designers Association of Victoria
 
-+61 3 9416 0227&nbsp; |&nbsp; info@bdav.org.au&nbsp; |&nbsp; www.bdav.org.au
-
-&nbsp; &nbsp; &nbsp;&nbsp;
+| +61 3 9416 0227       | info@bdav.org.au       | www.bdav.org.au |
