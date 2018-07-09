@@ -10,7 +10,7 @@ banner-image_path: /uploads/20180514_110818.jpg
 
 Between May and June 2018, SBE, in collaboration with Ironbark Sustainability, completed Type 2 Energy Audits at five local government’s facilities including two office buildings, one aquatic and leisure centres, one operational depot centre, and one mixed-use facility incorporating library, art gallery, performing art and office spaces.
 
-Energy audits, as detailed investigation of the energy flows within a building should be considered a crucial and regular milestones &nbsp;of a building life cycle aimed at understanding where energy come from, how it is used and how it could be optimised overtime. While greater opportunities to increase performance may be found in ‘old’ buildings designed and constructed before Section J of the NCC was introduced, due to the fast uptake of technological improvements regular assessments can be of benefits to building of all ages and types.
+Energy audits, as detailed investigation of the energy flows within a building should be considered a crucial and regular milestones  of a building life cycle aimed at understanding where energy come from, how it is used and how it could be optimised overtime. While greater opportunities to increase performance may be found in ‘old’ buildings designed and constructed before Section J of the NCC was introduced, due to the fast uptake of technological improvements regular assessments can be of benefits to building of all ages and types.
 
 These audits identified a variety of improvements including:
 
