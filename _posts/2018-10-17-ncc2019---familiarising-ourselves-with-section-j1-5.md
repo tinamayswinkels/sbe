@@ -5,10 +5,10 @@ subtitle: >-
   requirements
 image_path: /uploads/NCC2019SectionJ1.5-Graph1.jpg
 layout: post
-banner-image_path:
+banner-image_path: /uploads/NCC2019-Development-Progress.JPG
 ---
 
-With the release of the NCC 2019 approaching (expected for May 2019) we have taken some time to familiarise ourselves with the proposed changes to Section J. In particular, we focused on the Deemed-to-Satisfy (DTS) Section J1.5 Wall-Glazing Construction which proposes a new approach in which wall and glazing performance is calculated as a system value and different orientations and levels can be assessed together.
+With the release of the [NCC 2019](https://www.abcb.gov.au/Resources/Publications/NCC-2019-Public-Comment-Draft/NCC-2019-Volume-One){: target="_blank"} approaching (expected for May 2019) we have taken some time to familiarise ourselves with the proposed changes to Section J. In particular, we focused on the Deemed-to-Satisfy (DTS) Section J1.5 Wall-Glazing Construction which proposes a new approach in which wall and glazing performance is calculated as a system value and different orientations and levels can be assessed together.
 
 Before we start it is worthwhile pointing out that with the amount of glazing in typical commercial buildings (the industry currently seems to like between 60%-80% WWR) being the big issue from a thermal performance point of view, achieving compliance following a DTS approach has always proved challenging. As such, compliance following the DTS pathway is generally limited to small developments with a WWR of less than 40%-50% and with appropriately designed external shading.
 
@@ -42,4 +42,4 @@ In relation to the SHGC that would be required after the inclusion of external s
 
 From this brief analysis we can conclude that the NCC 2019 provides a slightly more flexible approach for assessing external walls and glazing performance following the DTS pathway. However, the DTS requirements remain fairly strict and it would be unlikely that a typical commercial building would be able to achieve compliance following this method, unless the facades are optimised to suits the environmental conditions of their orientations and highly performing window systems are specified. An alternative verification method, such as the JV3 or from 2019 a NABERS or Green Star rating, will likely remain the most appropriate pathway to demonstrate compliance for most commercial buildings.
 
-Finally, it goes without saying that we welcome the changes to the NCC 2019 in relation to Section J as these should bring Australian building regulations back in line with other developed countries and will also play an important contribution in the effort to reduce our national greenhouse gas emissions and support the development of industries that gravitates around energy efficiency.<br>
+Finally, it goes without saying that we welcome the changes to the NCC 2019 in relation to Section J as these should bring Australian building regulations back in line with other developed countries and will also play an important contribution in the effort to reduce our national greenhouse gas emissions and support the development of industries that gravitates around energy efficiency.
