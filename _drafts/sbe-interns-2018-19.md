@@ -1,9 +1,33 @@
 ---
 title: SBE Interns 2018-19
-subtitle: >-
-  Getting to know the new Section J1.5 Wall-Glazing Construction performance
-  requirements
-image_path: /uploads/NCC2019SectionJ1.5-Graph1.jpg
+subtitle: Introducing the new SBE Interns Millie and Oscar
+image_path:
 layout: post
 banner-image_path: /uploads/NCC2019-Development-Progress.JPG
 ---
+
+SBE has been joined by two senior interns for the summer break.&nbsp; Both have advanced studies under their belt and are looking to expand their experience in real projects for their time here.&nbsp;
+
+‘Introducing the new SBE Interns’
+
+Millie (on the left):
+
+Millie is masters graduate in ‘energy efficient and sustainable buildings’ from RMIT. Originally from Brisbane, Millie moved to Melbourne to study her masters in 2015. Not being able to move past the persistently cold weather and the ongoing hay-fever, Milly has endured three years of a gruelling degree to finally end up in the pollen free, comfortable environment of SBE over this summer. A foody at heart, Millie’s other interests lie in photography, yoga and cats, her dream career being working as a photographer at a cat yoga studio.
+
+Millie was born a traveller, residing for some time in Hong Kong (from birth), Brisbane, London and now Melbourne, having visited over 35 cities. Having seen her fair share of the urban world, Millie has also been in touch with law an order in Melbourne, having visited a police station twice in one week! Don’t worry though, the crimes committed were not her own, but she learnt some tips and tricks whilst in the slammer so be nice to her at the Christmas party.
+
+Good at heart, Millie is always happy for a chat, and excited to make the most of the opportunity here at SBE.
+
+Oscar (in the middle):
+
+Oscar finished his bachelor’s in Civil Engineering from Monash. Originally from the Mornington Peninsula, Oscar is an aquaman and could dive in the ocean carrying a surfboard or maybe just sit back and relax in the hot springs with mates. Having to have a point of difference from his twin brother Tully, Oscar grew his ‘well-groomed’ beard that appears more of a bush despite efforts. Oscar lives in the city and rides a bike to SBE so do give him some space in the shower room as it might be a bit sweaty. In any case we miss a musician at the Xmas party, Oscar could recite the full sonata of Mozart but that might be the only piece he’s ready for. If he’s having hard day, you’ll likely find him finishing off a family sized Margarita pizza all by himself.
+
+Oscar went to Woodleigh School, and is a little jealous that he never properly enjoyed the homesteads since they’ve been renovated. Oscar is currently learning German and not afraid to point out the right German beers confidently naming them to the bar tender though it might be tricky if he’s German.
+
+Looking as fresh as he seems, Oscar is keen to get to know everyone and is excited for his stay in SBE.
+
+Elio the Geek (on the right)
+
+Not so young, he remembers when Tron the movie first came out, at the drive in.
+
+&nbsp;
