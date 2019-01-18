@@ -24,7 +24,7 @@ Show them what the minimum is if there is a requirement (I’ve passed them the 
 
 When in doubt, seek help from your boss. (IMPORTANT LESSON LEARNT)
 
-[editor's note - Our discussion with upstairs was about big picture and future work with HSPC so its all good news Millie!].
+*[editor's note - Our discussion with upstairs was about big picture and future work with HSPC so its all good news Millie!].*
 
 Also would really wanna thank Lauren and Stephen for being SUPER helpful in my attempt to complete my first ESD report.
 
