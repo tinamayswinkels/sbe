@@ -1,9 +1,9 @@
 ---
 title: SBE Intern Blog 18Jan19
-subtitle: Coming back from the Christmas break
+subtitle: 'Getting into the thick of things:'
 image_path: /uploads/Epping Private Hospital.JPG
 layout: post
-banner-image_path: /uploads/LittleLaneChildcare.jpg
+banner-image_path: /uploads/oscar tank calc.JPG
 ---
 
 Getting into the thick of things:
@@ -24,4 +24,10 @@ Show them what the minimum is if there is a requirement (I’ve passed them the 
 
 When in doubt, seek help from your boss. (IMPORTANT LESSON LEARNT)
 
+[editor's note - Our discussion with upstairs was about big picture and future work with HSPC so its all good news Millie!].
+
 Also would really wanna thank Lauren and Stephen for being SUPER helpful in my attempt to complete my first ESD report.
+
+![](/uploads/millie-model.png)
+
+Look at this beast I’ve built from scratch :D
