@@ -1,7 +1,15 @@
 ---
 title: Intern Update 19-02-01
-subtitle: Understanding things a little clearer
-image_path: /uploads/interns jan24.jpg
+subtitle: Delivering projects at full speed
+image_path: /uploads/Intern-190201.jpg
 layout: post
-banner-image_path: /uploads/interns jan24.jpg
+banner-image_path: /uploads/Intern-190201a.jpg
 ---
+
+&nbsp;
+
+**Millie<br>*Awkward moment when you’ve completed your work and then what?***
+
+“Sean, can you please tell me how do I hand this in to Stephen?” &nbsp;Dumb question, &nbsp;yes I feel stupid when I asked too. BUT I’m gonna forgive myself (as usual) and this blog will explain why.<br>SO, upon completion of the Epping Private Hospital Project, I’m ready to hand in my ESD report to HSPC Stephen officially– exciting times! Wait, HOW?<br>What uni never could have taught you …<br>Dating back to happy sweet uni days, you’ve finished your kick-arse piece of assignment then you’ve got to hand it in, what do you do? Go turnitin.com, make sure there’s no plagiarism involved, hit the submit button, DONE.<br>But when it comes to the working environment, there’s no submit buttons.<br>How do you submit your completed work to your client whom probably paid a few grands for it when 1) as much as you would like to tell them how awesome the building design is, the fact is some parts of the ESD results failed? 2) Again, HOW DO YOU TELL THEM THAT?<br>I’ve found myself scratching my head and unhappy with my drafted email coz it just doesn’t sound good enough – therefore the question to Sean. And of course, - he wrote it instead. (just kidding, he walked me through it).<br>I have never expected the need to learn to write an email throughout my internship experience (we didn’t set learning goals on this one, no?), and to me this is as overwhelming as learning to model the whole hospital itself, because simple as it is, it is so skilful almost a piece of art – on delivering professional service, helping your client to achieve their objectives, while presenting them honest results. This happened on Wednesday. While Thursday I and Oscar did a town planning application &nbsp;for a multi-unit apartment building in 1 day, and Friday we’re working with Ric on the Casey Green precinct development, looking forward to all the challenges anticipated!&nbsp;
+
+**Oscar**<br>***A small rush period, and moving on to new things:***<br><br>This week my work was much more varied, it was great to see what else was out there in terms of ESD work. I started by assisting Rob with his energy audit calculator, first by correcting some accidental mistakes, I moved on to looking how to generate a report format within the calculator so that SBE could save time when doing building energy audits. Having worked on this throughout the week, I definitely know that it’s going to take some time. But nonetheless it will be exciting to see how it turns out!<br>Aside from helping Rob, Millie and I were tasked with a last minute job in Kensington (the basic SMP report along with a waste management plan and potable water calculator). It seems the bills were due by the 31st, and Sean must’ve been off spending SBE’s budget on his Friday steak lunch again, so a rush to get a little extra money in the account was upon us. But alas, Millie and I were able to rise to the occasion, finish the report in time and Sean didn’t go hungry today.&nbsp;<br>Finally, I downloaded Melbourne Water’s intricate stormwater quantity and quality assessment tool ‘MUSIC’. After playing around on the (extremely limited) trial version, I was able to understand the program and its benefits. Hopefully SBE can get the full version for their business; it will probably be of great assistance!<br>Looking forward to the next week as always.&nbsp;
