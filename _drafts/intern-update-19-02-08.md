@@ -1,9 +1,9 @@
 ---
 title: Intern Update 19-02-08
-subtitle: A brief look at the changes in Section J of the NCC2019
-image_path: /uploads/NCC2019keyreleasedates.jpg
+subtitle: First Rate MUSIC (80's)
+image_path: /uploads/casey green wsud.jpg
 layout: post
-banner-image_path: /uploads/NCC2019.JPG
+banner-image_path: /uploads/casy green.jpg
 ---
 
 SBE Intern Blog (6 Feb 2019)
