@@ -1,9 +1,9 @@
 ---
 title: SBE Interns 15Feb19
-subtitle: First Rate MUSIC (80's)
-image_path: /uploads/casey green wsud.jpg
+subtitle: 3 projects in Collins Street this week
+image_path: /uploads/271 collins.jpg
 layout: post
-banner-image_path: /uploads/casy green.jpg
+banner-image_path: /uploads/271-collins.jpg
 ---
 
 SBE Intern Blog
