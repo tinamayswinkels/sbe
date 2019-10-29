@@ -1,7 +1,7 @@
 ---
 layout: project
 name: Lane Cove Aquatic Centre
-blurb:
+blurb: Updating an outdoor pool and incorporating best practice ESD concepts
 architect: TEAM 2 Architects
 category: aquatic-sports-and-leisure
 client: Lane Cove Council
