@@ -17,4 +17,4 @@ images:
     image_path: /uploads/NelsonResidenceInterior1.JPG
 ---
 
-SBE was engaged to complete a thermal performance assessment for this residential dwelling and work with the architect to ensure constructability and cost-effectiveness of the performance solution.
+SBE was engaged to complete a thermal performance assessment for this residential dwelling and work with the architect to ensure suitability, constructability and cost-effectiveness of the performance solution.
