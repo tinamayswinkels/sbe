@@ -13,6 +13,8 @@ images:
     image_path: /uploads/180712_Levantine Hill Axonometric View 1.JPG
   - title: Levantine Hill Street View
     image_path: /uploads/LevantineHill1.JPG
+  - title: Levantine Hill Section
+    image_path: /uploads/LevantineHillSection.JPG
 ---
 
 SBE was engaged to provide specialist ESD consulting services focused on thermal performance for the development of the new Levantine Hill Winery in Coldstream.
