@@ -19,3 +19,6 @@ images:
     image_path: /uploads/StrawberryHill03.JPG
 ---
 
+The new multi-purpose room addition adjacent to the historic Strawberry Hill Workers Quarters was proposed to be a fully naturally ventilated building filled with natural light and with large glazed areas connecting the indoor and outdoor environment.
+
+SBE was engaged to conduct a thermal and comfort analysis with the scope to optimise the design, its shading strategies and report on the likely temperatures that could be experienced over a typical year.
