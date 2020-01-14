@@ -1,0 +1,25 @@
+---
+title: SBE interns 2020
+subtitle: Meet Broderick and Lakshmee
+image_path: /uploads/brod and lakshmee.JPG
+layout: post
+banner-image_path: /uploads/20200113_150741.jpg
+---
+
+# SBE interns 2020
+
+&nbsp;
+
+Introducing SBE’s latest hard to pronounce interns Lakshmee Rajpati and Broderick Jacobs. We will be running this blog and interning until Rob inevitably gets sick of us and takes leave in February. We are writing this blog today while the IT mastermind Elio sets us up to begin work.
+
+Introducing:
+
+Lakshmee Rajpati:
+
+Lakshmee Rajpati was born in Mauritius her hobbies include baking sweets, travelling and photography. Lakshmee travelled to the UK to study energy engineering with environmental management at the university of East Anglia. Post graduate Lakshmee fled the cold of the UK and returned to the cosy Mauritius weather. For two years Lakshmee worked several roles in project management, consultancy and research. With a desire to enter the sustainability industry Lakshmee moved to Melbourne last year to begin her master’s degree in energy efficient and sustainable buildings at RMIT.
+
+Broderick Jacobs:
+
+Broderick Jacobs was raised in Bendigo, central Victoria. In Broderick’s spare time he enjoys lazing around the house consuming media, going to music concerts and playing soccer. After high school Broderick moved to Melbourne for the coffee culture and also to study a bachelor’s degree in sustainable systems engineering. Through Broderick’s studies he gained a passion for the ESD industry which has now brought him to SBE.
+
+We are very grateful to SBE and Peddle Thorp for this opportunity, we will try to make the most of it. During our stay here we aim to learn the ins and outs of the ESD industry, software packages such as FirstRate 5, IES VE and to test the capabilities of the fancy coffee machine.
