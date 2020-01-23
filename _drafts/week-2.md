@@ -1,9 +1,9 @@
 ---
 title:
-subtitle: An exciting first week of our internship at SBE
-image_path: /uploads/int toyota 1.jpg
+subtitle: week 2
+image_path: /uploads/Week 2 lakshmee.jpg
 layout: post
-banner-image_path: /uploads/int toyota 2.jpg
+banner-image_path: /uploads/week 2 Brod.jpg
 ---
 
 Week 2 Down to business
