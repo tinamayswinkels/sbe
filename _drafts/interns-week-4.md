@@ -1,10 +1,10 @@
 ---
 layout: post
 title:
-subtitle:
+subtitle: Hit the books
 description:
-image_path:
-banner-image_path:
+image_path: /uploads/interns ncc 2019.jpg
+banner-image_path: /uploads/interns EKLC.jpg
 ---
 
 # Hit the books
