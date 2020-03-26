@@ -3,8 +3,8 @@ layout: post
 title: Final Week
 subtitle: Final Week
 description:
-image_path: /uploads/pH.jpg
-banner-image_path: /uploads/eastland site visit.jpg
+image_path: /uploads/eastland site visit.jpg
+banner-image_path: /uploads/20200213-142021.jpg
 ---
 
 Our final week began with continuing our NCC study, combing through both the 2016 and 2019 NCC documents looking for changes to section J. The model was remade countless times in IES and extensive time was spent on glazing and fa&ccedil;ade calculators. The current results of the study indicate that the 2019 NCC criteria are stricter in some aspects, however allows greater flexibility in design. Here are some key points we have discovered thus far:
@@ -23,6 +23,6 @@ Huge thanks to Sean, Rob and the whole Peddle Thorp team for being so welcoming,
 
 Unfortunately this may also be the end of Broderick’s soccer career with the Peddle Thorp team with an undefeated streak since joining the team, if Broderick is around on Tuesdays he may make occasional cameo appearances. While our internship has sadly come to an end we will be popping around the office to complete our NCC study and work on some projects.
 
-![](/uploads/20200213-142021.jpg){: width="4032" height="3024"}
+&nbsp;
 
 &nbsp;
