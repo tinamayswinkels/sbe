@@ -3,10 +3,9 @@ name: Building Permit
 blurb: >-
   Demonstrating compliance with energy efficiency provisions for all type of
   buildings
-image_path: /images/services-building-permit.jpg
+image_path: /images/NCC2019.jpg
 number: 3
 ---
-
 
 Compliance with Energy Efficiency requirements of the ***[National Construction Code](http://www.abcb.gov.au/Resources/NCC)*** is an integral part of the building permit process. Where a building is proposed to comply with Section J or Part 2.6 of the NCC two methods are generally available to meet the Performance Requirements:
 
