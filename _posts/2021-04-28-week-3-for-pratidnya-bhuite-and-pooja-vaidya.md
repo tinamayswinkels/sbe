@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Week 3 for Pratidnya Bhuite and Pooja Vaidya
-subtitle: Modelling and Section J
+subtitle: JV3 and Daylight Modelling and NCC 2019 Section J
 description: |-
   Week 3:
   A week of information overload
-image_path:
-banner-image_path:
+image_path: /uploads/modelimage3.PNG
+banner-image_path: /uploads/modelimage2.PNG
 ---
 Week 3:&nbsp; A week of information overload, here it goes… &nbsp;
 
@@ -17,3 +17,7 @@ We began with roof and floor assemblies referencing the building structure for t
 Day 2,To tackle the problem of non-compliance we took an alternative approach and used JV3 modelling. Given that the building had a complex facade and geometry, we spent almost the entire day modelling the building using the IES VE tool. Sean helped us on a few occasions around the critical geometry of the building which got us through to complete the daylight modelling for the project, finally…
 
 In the coming week we plan to get our heads around JV3 modelling… Stay tuned\!
+
+&nbsp;
+
+![](/uploads/model-image-1.PNG){: width="1219" height="510"}
