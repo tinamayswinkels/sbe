@@ -5,6 +5,7 @@ subtitle: JV3 and Daylight Modelling and NCC 2019 Section J
 description: |-
   Week 3:
   A week of information overload
+category: news
 image_path: /uploads/modelimage3.PNG
 banner-image_path: /uploads/modelimage2.PNG
 ---
