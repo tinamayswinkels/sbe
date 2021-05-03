@@ -9,7 +9,7 @@ blurb: >-
   through the development include: Shaikh Zayed Majlis, a church, a mosque,
   housing, carparking, landscaping and a workshop.
 architect: PTA
-category: other
+category: healthcare
 client: United Arab Emirates
 date: 2013-02-13 00:00:00
 images:

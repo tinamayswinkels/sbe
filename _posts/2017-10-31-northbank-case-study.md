@@ -3,6 +3,7 @@ title: Northbank Case Study
 subtitle: Some facts and figures on the 5 star building
 image_path: /uploads/northbank-place-exterior-01.jpg
 layout: post
+category: news
 banner-image_path: /uploads/northbank-place-exterior-02.jpeg
 ---
 

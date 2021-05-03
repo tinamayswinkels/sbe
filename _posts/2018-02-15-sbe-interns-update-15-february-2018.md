@@ -3,6 +3,7 @@ title: SBE Intern's Update 15 February 2018
 subtitle: 'Hardcore IES, Grasshopper, Ladybug and Honeybee'
 image_path: /uploads/intern office.PNG
 layout: post
+category: interns
 banner-image_path: /uploads/office model Daylight.PNG
 ---
 

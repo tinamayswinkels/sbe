@@ -1,5 +1,6 @@
 ---
 layout: post
+category: interns
 title: Intern's 4th week
 subtitle: Hit the books
 description:

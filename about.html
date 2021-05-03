@@ -48,7 +48,7 @@ awards:
 
 <section class="padded center">
   <h2 class="editable">
-    Our Team
+    Leadership Team
   </h2>
   <hr class="center" />
 
@@ -56,14 +56,39 @@ awards:
 
   {% for person in site.data.team %}
     <div class="col-3_sm-6 image about" style="background-image:url('{{person.image_path}}');">
-    <div class="hover-overlay">
+    <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
       <div class="text-overlay">
         <span class="name">{{person.name}}</span>
         <span class="title">{{person.title}}</span>
       </div>
       </div>
     </div>
+
+  <section class="popup grid" data-pop="pop{{ forloop.index }}">
+    <div class="col-4">
+      <img src="{{person.image_path}}" alt="{{person.name}} {{person.title}}">
+    </div>
+    <div class="col-8">
+      <h2 class="name">{{person.name}}</h2>
+      <h3 class="title">{{person.title}}</h3>
+      <p>
+        {{person.description}}
+      </p>
+    </div>
+
+
+  <div class="popupX">
+      <svg viewBox="0 0 100 100">
+      <path d="M 0,0 L100,100" />
+      <path d="M 100,0 L0,100" />
+    </svg>
+    </div>
+  </section>
+
   {% endfor %}
+
+  <div class="popUpOverlay"></div>
+
 </div>
 
 </section>
@@ -100,7 +125,7 @@ awards:
     <p> {{award.description}}</p>
     {% endfor %}
 
-  
+
   <div class="border-left">
     <h2 class="rotate"> 2015 </h2>
 

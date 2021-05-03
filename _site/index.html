@@ -8,7 +8,7 @@
 
 <!--  Links to stylesheets -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css" rel="stylesheet" >
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
 <link href="/css/main.css" rel="stylesheet">
 
@@ -29,10 +29,10 @@
   <body>
 
       <header class="grid">
-   <div class="col-4-middle logo padded">
-      <img src="/images/logo.jpg" alt="SBE Sustainable Built Environments"/>
+   <div class="col-4_xs-8-middle logo padded">
+      <img src="/images/logo.jpg" alt="SBE Sustainable Built Environments" />
    </div>
-   <div class="col-8-middle right">
+   <div class="col-8_xs-4-middle right">
      <nav class="menu mob-hide">
        <li> <a href="/index.html"> Home </a> </li>
       <li> <a href="/about"> About </a> </li>
@@ -41,7 +41,9 @@
          <div class="sub-menu grid left padded">
            <div class="col-3">
              <h3> OUR SERVICES </h3>
-             <p class="editable">We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.</p>
+             <p class="editable">
+               We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.
+             </p>
            </div>
            <div class="col-3"> <!-- empty div --> </div>
            <div class="col-3">
@@ -54,12 +56,14 @@
                 
                 <a href="/services-extended#energy-audits"> Energy Audits</a>
                 
-                <a href="/services-extended#research"> Research</a>
+                <a href="/services-extended#passivehaus"> Passivehaus</a>
                 
-                <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
+                <a href="/services-extended#research"> Research</a>
                 
             </div>
             <div class="col-3">
+              
+              <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
               
               <a href="/services-extended#town-planning"> Town Planning</a>
               
@@ -73,16 +77,16 @@
         <div class="sub-menu grid left padded">
           <div class="col-3">
             <h3> OUR PROJECTS </h3>
-            <p class="editable">We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.</p>
+            <p class="editable">
+              We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.
+            </p>
           </div>
           <div class="col-3"> <!-- empty div --> </div>
           <div class="col-3">
               
-              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure</a>
+              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure</a>
               
               <a href="/project-categories/commercial.html"> Commercial</a>
-              
-              <a href="/project-categories/eco-tourism.html"> Eco Tourism</a>
               
               <a href="/project-categories/education.html"> Education</a>
               
@@ -97,10 +101,17 @@
         </div>
       </li>
       <li>
-          <a href="/blog"> Blog </a>
+          <a href="/news"> News </a>
       </li>
       <li>
           <a href="/contact"> Contact </a>
+      </li>
+      <li>
+        <form action="/search" method="get">
+          <label for="search-box">Search</label>
+          <input type="text" id="search-box" name="query">
+          <input type="submit" value="search">
+        </form>
       </li>
      </nav>
 
@@ -125,7 +136,7 @@
  </nav>
 
 
-      <section class="banner overlay" style="background-image:url('/images/Home.jpg');">
+      <section class="banner overlay" style="background-image:url('/uploads/SBE_Banner.jpg');">
   <div class="banner-inner">
       <h1 class="editable"> Sustainable Built Environments </h1>
       <p class="editable">Innovative Ideas / Collaborative Design / Practical Solutions</p>
@@ -135,10 +146,12 @@
   </a>
 </section>
 <section class="text-banner" id="section2">
-  <h2 class="center editable">Our customers love us... </h2>
+  <h2 class="center editable">An independent ESD Consultancy</h2>
   <hr class="center" />
 
-  <p class="editable">"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+  <p class="editable">
+    SBE is an independent ESD Consultancy firm with over 16 years of experience working for clients, architects, engineering firms, educational institutions, local Councils and State and National Government bodies.
+  </p>
   <span class="stars">
     <i class="fa fa-star"></i>
     <i class="fa fa-star"></i>
@@ -146,7 +159,7 @@
     <i class="fa fa-star"></i>
     <i class="fa fa-star"></i>
   </span>
-  <p class="editable">- A grateful client</p>
+  <p class="editable"></p>
 </section>
 
 <section class="padded light-bg">
@@ -156,29 +169,29 @@
   <div class="grid">
   
       <div class="col-4_sm-12 padded-2">
-        <div class="tall-image" style="background-image:url('/uploads/dep.JPG');">
+        <div class="tall-image" style="background-image:url('/uploads/woodleigh-junior-campus-5-6-centre-01.JPG');">
+        </div>
+        <a href="/projects/woodleigh.html" class="offset-top padded">
+             <h3>Woodleigh Junior Campus 5-6 Centre</h3>
+             <p>A new building for the Junior Campus to introduce the 5-6 students to the concept of 'house' and collective informal learning.  These are important experiences for the students destined to move on to the Woodleigh secondary school.</p>
+        </a>
+      </div>
+  
+      <div class="col-4_sm-12 padded-2">
+        <div class="tall-image" style="background-image:url('/uploads/northbank-place-01.jpg');">
+        </div>
+        <a href="/projects/northbank-place.html" class="offset-top padded">
+             <h3>Northbank Place</h3>
+             <p>This ten storey office building, part of a mixed-use development located between Flinders Street and the elevated rail tracks, achieved a 5 Star Green Star Office Design rating in early 2009.</p>
+        </a>
+      </div>
+  
+      <div class="col-4_sm-12 padded-2">
+        <div class="tall-image" style="background-image:url('/uploads/dandenong-education-precinct-01.JPG');">
         </div>
         <a href="/projects/dandenong-education-precinct.html" class="offset-top padded">
              <h3>Dandenong Education Precinct</h3>
-             <p></p>
-        </a>
-      </div>
-  
-      <div class="col-4_sm-12 padded-2">
-        <div class="tall-image" style="background-image:url('/uploads/costco4.JPG');">
-        </div>
-        <a href="/projects/costco.html" class="offset-top padded">
-             <h3>Costco Docklands</h3>
-             <p>Supermarkets benefit greatly from good daylighting, good insulation and on site renewable energy generation.</p>
-        </a>
-      </div>
-  
-      <div class="col-4_sm-12 padded-2">
-        <div class="tall-image" style="background-image:url('/uploads/commons-1.JPG');">
-        </div>
-        <a href="/projects/university-of-tasmania-school-of-furniture-design.html" class="offset-top padded">
-             <h3>University of Tasmania School of Furniture Design</h3>
-             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+             <p>The Dandenong Education Precinct is a ground-breaking project which involved the amalgamation of three existing secondary schools using a new educational model into a flexible teaching centre.</p>
         </a>
       </div>
   
@@ -222,6 +235,13 @@
         
 
             <div class="col-3_sm-6_xs-12 padded-2">
+               <h3>Passivehaus</h3>
+               <p>High performing buildings designed around humans</p>
+            </div>
+
+        
+
+            <div class="col-3_sm-6_xs-12 padded-2">
                <h3>Research</h3>
                <p>Leading innovation through research</p>
             </div>
@@ -258,7 +278,9 @@
       <footer class="grid">
     <div class="col-3_sm-12 padded-2">
         <h3> Sustainable Built Environment</h3>
-        <p class="editable">As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.</p>
+        <p class="editable">
+          As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.
+        </p>
     </div>
     <div class="col-3_sm-12 padded-2">
       <h4> OUR SERVICES </h4>
@@ -271,6 +293,8 @@
           <a href="/services-extended#building-simulation"> Building Simulation</a>
           
           <a href="/services-extended#energy-audits"> Energy Audits</a>
+          
+          <a href="/services-extended#passivehaus"> Passivehaus</a>
           
           <a href="/services-extended#research"> Research</a>
           
@@ -286,11 +310,9 @@
       <h4> OUR PROJECTS </h4>
       <nav>
         
-        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure </a>
+        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure </a>
         
         <a href="/project-categories/commercial.html"> Commercial </a>
-        
-        <a href="/project-categories/eco-tourism.html"> Eco Tourism </a>
         
         <a href="/project-categories/education.html"> Education </a>
         
@@ -303,10 +325,10 @@
     <div class="col-3_sm-12 padded-2">
       <h4> OTHER LINKS </h4>
         <nav>
-          <a href="#"> Home </a>
-          <a href="#"> About </a>
-          <a href="#"> Blog </a>
-          <a href="#"> Contact </a>
+          <a href="/index.html"> Home </a>
+          <a href="/about"> About </a>
+          <a href="/news"> News </a>
+          <a href="/contact"> Contact </a>
         </nav>
     </div>
 </footer>
@@ -324,9 +346,12 @@ $('.mobile-menu-button').click(function() {
   $('.mobile-nav').slideToggle(200, function() {
     // Animation complete.
   });
-
 });
 
+
+
+
+  
 </script>
 
 <script>
@@ -370,15 +395,6 @@ $('.mobile-menu-button').click(function() {
 
 <!-- Sticky state scripts -->
 
-<script src="/js/sticky-state.js"></script>
-
-<script>
-
-var StickyState = require('sticky-state');
-new StickyState(document.querySelectorAll('.sticky'));
-//  all elements with class .sticky will have sticky state:
-
-</script>
 
 
   </body>

@@ -3,6 +3,7 @@ title: Bosch Case study
 subtitle: Some facts and figures on this new facility for Bosch
 image_path: /uploads/bosch-01.jpg
 layout: post
+category: news
 banner-image_path: /uploads/bosch-exterior.jpg
 ---
 

@@ -22,6 +22,9 @@
   display: block;
   width: 100%;
 }
+.hidden{
+  display: none;
+}
 
 .columns {
     -webkit-columns: auto 3; /* Chrome, Safari, Opera */
@@ -198,6 +201,20 @@
   padding: 1%;
 }
 
+.img-square{
+  position: relative;
+  padding-bottom: 100%;
+}
+.img-square img{
+  object-fit: cover;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  left:0;
+  right:0;
+}
 /* Blog post */
 
 .sidebar {

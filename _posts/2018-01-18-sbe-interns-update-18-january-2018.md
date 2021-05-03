@@ -3,6 +3,7 @@ title: SBE Interns Update 18 January 2018
 subtitle: 10 stars on track
 image_path: /uploads/interns on site.jpg
 layout: post
+category: interns
 banner-image_path: /uploads/design progress week 4.png
 ---
 

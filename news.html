@@ -12,7 +12,9 @@ banner-image_path: /uploads/craigieburn-regional-aquatic-&-leisure-centre-01.JPG
   </div>
 
 
-  {% for post in site.posts %}
+  {% assign newsPost = site.posts | where:"category", "news" %}
+
+  {% for post in newsPost %}
   <div class="grid padded-2">
       <div class="post-image col-6_xs-12" style="background-image:url('{{post.image_path}}')"></div>
       <div class="col-6_xs-12 padded-2 offset-left">

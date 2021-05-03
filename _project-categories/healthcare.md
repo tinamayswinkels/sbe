@@ -1,6 +1,6 @@
 ---
 layout: project-category
-category: other
+category: healthcare
 name: Healthcare
 blurb: >-
   Our interest in healthcare projects spans the issues of health, well being and

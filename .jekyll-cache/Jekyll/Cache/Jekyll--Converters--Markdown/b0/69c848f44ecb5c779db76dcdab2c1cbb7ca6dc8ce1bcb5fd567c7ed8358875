@@ -1,0 +1,49 @@
+I"6<section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
+  <div class="banner-inner editable"><h1>Projects</h1><p>From small residential to large commercial developments, design guidelines to third party certification, SBE has a wealth of projects to demonstrate their capacity and capability.</p></div>
+  <a href="#section2" class="down-arrow">
+      <img src="/images/down-icon.png" />
+  </a>
+</section>
+
+<section class="services-loop" id="section2">
+
+  {% for category in site.project-categories limit:4 %}
+  <div class="grid">
+      <div class="col-7_xs-12 padded">
+         <h3>{{category.name}}</h3>
+         <hr />
+         <p>{{category.blurb}}</p>
+         <a href="{{category.url}}" class="button"> READ MORE </a>
+      </div>
+      <div class="col-5_xs-12 image" style="background-image:url('{{category.banner-image_path}}');">
+          <!-- <p class="text-overlay">{{category.number}}<p></p> -->
+      </div>
+  </div>
+  {% endfor %}
+
+</section>
+
+<section class="text-banner">
+  <h2 class="editable">Holistic and inter-disciplinary collaboration</h2>
+  <hr class="center" />
+  <p class="editable">Our work is based on a holistic, integrative and inter-disciplinary approach to design that is focused on collaboration and achieving our clients' objectives.</p>
+</section>
+
+<section class="services-loop">
+
+  {% for category in site.project-categories offset:4 %}
+  <div class="grid">
+      <div class="col-7_xs-12 padded">
+         <h3>{{category.name}}</h3>
+         <hr />
+         <p>{{category.blurb}}</p>
+         <a href="{{category.url}}" class="button"> READ MORE </a>
+      </div>
+      <div class="col-5_xs-12 image" style="background-image:url('{{category.banner-image_path}}');">
+          <p class="text-overlay">{{category.number}}</p>
+      </div>
+  </div>
+  {% endfor %}
+
+</section>
+:ET

@@ -3,6 +3,7 @@ title: Regis Hillcrest Case Study
 subtitle: Some facts and figures on the 5 star building
 image_path: /uploads/regis-hillcrest-aged-care-centre-Exterior-01.jpg
 layout: post
+category: news
 banner-image_path: /uploads/regis-hillcrest-aged-care-centre-exterior-02.jpg
 ---
 

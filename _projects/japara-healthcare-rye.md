@@ -6,7 +6,7 @@ blurb: >-
   approximately 99 nursing home bedrooms and aiming to achieve a 5 star Green
   Star Design & As Built certification.
 architect: Spowers
-category: other
+category: healthcare
 client: JBA Consulting Engineers
 date: 2017-01-10 00:00:00
 images:

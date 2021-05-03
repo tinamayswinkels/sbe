@@ -3,6 +3,7 @@ title: What to expect from Section J of the NCC 2019?
 subtitle: A sneak peek into the changes proposed for Section J of the NCC 2019
 image_path: /uploads/blog-what-to-expect-from-section-j-ncc-2019.jpg
 layout: post
+category: news
 banner-image_path: /uploads/blog-what-to-expect-from-section-j-ncc-2019.jpg
 ---
 

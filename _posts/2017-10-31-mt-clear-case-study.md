@@ -3,6 +3,7 @@ title: Mt Clear Case Study
 subtitle: Some facts and figures on the 6 star building
 image_path: /uploads/mt-clear-earth-education-centre-01.JPG
 layout: post
+category: news
 banner-image_path: /uploads/mt-clear-earth-education-centre-exterior.jpg
 ---
 

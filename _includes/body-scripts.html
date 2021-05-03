@@ -8,9 +8,70 @@ $('.mobile-menu-button').click(function() {
   $('.mobile-nav').slideToggle(200, function() {
     // Animation complete.
   });
+});
+
+{% if page.url == "/about.html" %}
+  $(".team-member").click(function(){
+    console.log("bob");
+       var target = $(this).attr("data-target");
+       console.log(target);
+      $(".popup").each(function(){
+        if($(this).attr("data-pop") == target){
+          $(this).addClass("onscreen");
+        }else{
+          $(this).removeClass("onscreen")
+        }
+
+      });
+     $(".popUpOverlay").addClass("onscreen");
+   });
+
+  $(".popUpOverlay").click(function(){
+    $(".popup").removeClass("onscreen");
+    $(".popUpOverlay").removeClass("onscreen");
+   });
+
+
+  $(".popupX").click(function(){
+    $(".popup").removeClass("onscreen");
+    $(".popUpOverlay").removeClass("onscreen");
+  })
+  {% endif %}
+
+
+  {% if page.url == "/projects.html" %}
+/* filtering */
+
+  $('nav#portfolio-filter a').click(function(e){
+    e.preventDefault();
+
+    console.log("bob");
+    /* make this <li> class active and remove class 'active' from any other <li>s */
+    $('nav#portfolio-filter .active').removeClass('active');
+    $(this).addClass('active');
+    /* get the name of the cateory from this link */
+    var filterVal = $(this).text().replace(' ','-').replace(' ','-').replace(' ','-').replace(' ','-').toLowerCase();
+
+    $('#portfolio-grid .port-item').each(function() {
+        if(filterVal == 'all'){
+          $(this).removeClass('hidden');
+        }else{
+          if(!$(this).hasClass(filterVal)) {
+            $(this).addClass('hidden'); // hide those that don't have the filter
+          }else{
+            $(this).removeClass('hidden'); // show those that do have the filter
+          }
+};
+        });
+
+
 
 });
 
+
+
+
+{% endif %}
 </script>
 
 <script>
@@ -54,6 +115,8 @@ $('.mobile-menu-button').click(function() {
 
 <!-- Sticky state scripts -->
 
+{% if page.url == "/search.html" %}
+
 <script src="/js/sticky-state.js"></script>
 
 <script>
@@ -63,3 +126,4 @@ new StickyState(document.querySelectorAll('.sticky'));
 //  all elements with class .sticky will have sticky state:
 
 </script>
+{% endif %}

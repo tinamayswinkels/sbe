@@ -1,0 +1,39 @@
+I"�<section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
+  <div class="banner-inner">
+      <h1 class="editable">Services</h1>
+      <p class="editable">An inter-disciplinary approach to assist you through all phases of your project&nbsp;&nbsp;</p>
+  </div>
+  <a href="#section2" class="down-arrow">
+      <img src="/images/down-icon.png" />
+  </a>
+</section>
+
+<section id="section2">
+    <div class="padded">
+          <h2 class="editable"> Services We Offer</h2>
+          <p class="editable">We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.</p>
+          <nav class="margin-top">
+            {% assign sorted_services = site.services | sort: 'number' %}
+              {% for service in sorted_services %}
+              <a href="#{{service.name | slugify}}" class="tag"> {{service.name}}</a>
+              {% endfor %}
+          </nav>
+    </div>
+</section>
+
+<p>{% assign sorted_services = site.services | sort: ‘number’ %}
+    {% for service in sorted_services %}
+    &lt;section id="{{service.name | slugify}}" class="banner short overlay" style="background-image:url('{{service.image_path}}');"&gt;
+      &lt;div class="banner-inner"&gt;
+          &lt;h2 class="editable"&gt;{{service.name}}
+      &lt;/h2&gt;&lt;/div&gt;
+      &lt;p class="text-overlay"&gt;{{service.number}}&lt;/p&gt;
+    &lt;/section&gt;</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;section class="padded"&gt;
+   &lt;h3&gt; {{service.name}}&lt;/h3&gt;
+   {{service.content}}
+&lt;/section&gt;
+{% endfor %}
+</code></pre></div></div>
+:ET

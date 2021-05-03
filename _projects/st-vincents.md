@@ -5,7 +5,7 @@ blurb: >-
   Comfortable and well daylit spaces that will contribute to the health and
   wellbeing of the occupants
 architect: HSPC Health Architects
-category: other
+category: healthcare
 client: St Vincents
 date: 2016-02-09 00:00:00
 images:

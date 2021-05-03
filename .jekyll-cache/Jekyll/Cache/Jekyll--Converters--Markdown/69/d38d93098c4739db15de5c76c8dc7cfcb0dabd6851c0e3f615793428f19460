@@ -1,0 +1,114 @@
+I"[<section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
+  <div class="banner-inner">
+      <h1> {{page.title}} </h1>
+      <p> {{page.subtitle}} </p>
+  </div>
+  <a href="#section2" class="down-arrow">
+      <img src="/images/down-icon.png" />
+  </a>
+</section>
+<section class="padded center" id="section2">
+  <h2 class="editable">
+    Our Philosophy
+  </h2>
+  <hr class="center" />
+  <div class="columns left editable">
+    <p>To unlock the full potential of a building one needs to consider every stage of a project and explore the opportunities that lie between the disciplines.</p>
+    <p>Sustainable Built Environments (SBE) was <strong>formed in 2001 </strong>by a multi-disciplinary team of industry professionals passionate about the role that the built environment could have in shaping thriving communities and cities. Over these years our team has delivered an enormous portfolio of work, locally, nationally and internationally.</p>
+    <p>The founding father and leader of SBE was <em><strong><a href="https://architectureau.com/articles/obituary-4/">David Oppenheim</a></strong></em>, still recognised today as an influential thought leader in the field of ESD and after whom the National Architecture Award for Sustainable Architecture is named. Sadly, David passed away in 2007.</p>
+    <p>David's holistic and integrated approach to design has become our philosophy. As architects and engineers we understand the importance of inter-disciplinary collaboration to the successful delivery of a performing building. As dedicated ESD consultants our aim is to work with and support design teams to navigate the sustainable building landscape &ndash; from meeting Town Planning and statutory energy efficiency requirements through to designing and constructing high performing and innovative buildings, and achieving recognition for best practice and excellence along the way.</p>
+  </div>
+
+</section>
+
+<section class="padded center">
+  <h2 class="editable">
+    Leadership Team
+  </h2>
+  <hr class="center" />
+
+<div class="grid">
+
+  {% for person in site.data.team %}
+    <div class="col-3_sm-6 image about" style="background-image:url('{{person.image_path}}');">
+    <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
+      <div class="text-overlay">
+        <span class="name">{{person.name}}</span>
+        <span class="title">{{person.title}}</span>
+      </div>
+      </div>
+    </div>
+
+  <section class="popup grid" data-pop="pop{{ forloop.index }}">
+    <div class="col-4">
+      <img src="{{person.image_path}}" alt="{{person.name}} {{person.title}}" />
+    </div>
+    <div class="col-8">
+      <h2 class="name">{{person.name}}</h2>
+      <h3 class="title">{{person.title}}</h3>
+      <p>
+        {{person.description}}
+      </p>
+    </div>
+
+
+  <div class="popupX">
+      <svg viewBox="0 0 100 100">
+      <path d="M 0,0 L100,100" />
+      <path d="M 100,0 L0,100" />
+    </svg>
+    </div>
+  </section>
+
+  {% endfor %}
+
+  <div class="overlay"></div>
+
+</div>
+
+</section>
+
+<section class="text-banner light-bg">
+  <h2 class="editable">
+    Testimonials
+  </h2>
+  <hr class="center" />
+  <p class="editable">
+    <em>"We work closely with SBE on the design and development of all of our projects. Roberto and the team are very skilled at balancing architectural intent with ESD solutions to achieve maximum thermal performance and sustainability outcomes."</em><br /><br />David Gibson, Principal Architect, PTX Architects<br /><br />&nbsp;
+  </p>
+</section>
+
+<section class="padded">
+  <div class="center">
+    <h2 class="rotate"> Awards </h2>
+    <hr class="center" />
+  </div>
+  <div class="border-left">
+    <!-- <h2 class="rotate"> Recognition </h2> -->
+    {% for award in page.awards %}
+    <h4> {{award.title}} </h4>
+    <p> {{award.description}}</p>
+    {% endfor %}
+
+  </div>
+</section>
+<p>&lt;!– &lt;div class="border-left"&gt;
+    &lt;h2 class="rotate"&gt; 2016 &lt;/h2&gt;</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>{% for award in page.awards_2016 %}
+&lt;h4&gt; {{award.title}} &lt;/h4&gt;
+&lt;p&gt; {{award.description}}&lt;/p&gt;
+{% endfor %}
+</code></pre></div></div>
+
+<div class="border-left">
+    <h2 class="rotate"> 2015 </h2>
+
+    {% for award in page.awards_2015 %}
+    <h4> {{award.title}} </h4>
+    <p> {{award.description}}</p>
+    {% endfor %}
+
+  </div>
+<p>–&gt;</p>
+:ET

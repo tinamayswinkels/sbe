@@ -3,6 +3,7 @@ title: Greener Government Buildings Pilot Program
 subtitle: Supply and Installation Works Panel Partnership
 image_path: /uploads/TC.JPG
 layout: post
+category: news
 banner-image_path: /uploads/TC2.JPG
 ---
 

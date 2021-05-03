@@ -5,6 +5,7 @@ subtitle: >-
   2017
 image_path: /uploads/blog-daylighting.jpg
 layout: post
+category: news
 banner-image_path: /uploads/blog-daylighting.jpg
 ---
 

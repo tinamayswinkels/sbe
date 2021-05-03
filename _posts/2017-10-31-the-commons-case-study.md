@@ -3,6 +3,7 @@ title: The Commons Case Study
 subtitle: Some facts and figures on the innovative building
 image_path: /uploads/the-commons-01.jpg
 layout: post
+category: news
 banner-image_path: /uploads/the-commons-roof-garden-01.JPG
 ---
 

@@ -7,7 +7,7 @@ blurb: >-
   buildings fronting Harvest Road and Turton Street to make way for a two storey
   and three storey development comprising of 109 beds
 architect: Silver Thomas Hanley (STH)
-category: other
+category: healthcare
 client: Regis
 date: 2017-06-30 00:00:00
 images:

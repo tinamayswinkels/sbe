@@ -3,6 +3,7 @@ title: ANU Fenner Short Case Study
 subtitle: Some facts and figures on the 6 star building
 image_path: /uploads/anu-fenner-01.JPG
 layout: post
+category: news
 banner-image_path: /uploads/anu-fenner-exterior-01.jpg
 ---
 
