@@ -3,20 +3,64 @@ layout: default
 title: About SBE
 subtitle: Innovative Ideas / Collaborative Design / Practical Solutions.
 banner-image_path: /uploads/northbank-place-01.jpg
-awards:
-  - title: Planning Institute of Australia – 2010
-    description: >-
-      Award for Planning Excellence, Environment category, in collaboration with
-      Hansen Partnership
-  - title: Australian Institute of Architects (Tasmanian Chapter) 2010
-    description: >-
-      Sustainable Architecture Award for the design of University of Tasmania
-      School of Furniture Design as Architects, in collaboration with Six
-      Degrees.
-  - title: Australian Institute of Architects (South Australian Chapter) 2010
-    description: >-
-      Sustainable Architecture Award. Provision of ESD Advice and Green Star
-      Professional Services for UniSA Mawson Institute Building V, designed by
-      Guida Moseley Brown Architects and Russell & Yelland Architects in
-      Association.
+second-banner-image_path: /uploads/northbank-place-01.jpg
 ---
+
+
+<section class="padded center">
+  <h2 class="editable">
+    Our Leadership Team
+  </h2>
+  <hr class="center" />
+
+<div class="grid">
+
+  {% for person in site.data.team %}
+    <div class="col-3_sm-6 image about" style="background-image:url('{{person.image_path}}');">
+      <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
+        <div class="text-overlay">
+          <span class="name">{{person.name}}</span>
+          <span class="title">{{person.title}}</span>
+        </div>
+      </div>
+
+  <section class="popup grid" data-pop="pop{{ forloop.index }}">
+    <div class="col-4_sm-6_xs-12">
+      <img src="{{person.image_path}}" alt="{{person.name}} {{person.title}}">
+    </div>
+    <div class="col-8_sm-6_xs-12 left">
+      <h2 class="name center">{{person.name}}</h2>
+      <h3 class="title">{{person.title}}</h3>
+      <ul class="cleanList">
+        {% for ed in person.education %}
+          <li>{{ed}}</li>
+        {% endfor %}
+      </ul>
+      <p>
+        {{person.description}}
+      </p>
+    </div>
+    <div class="popupX">
+      <svg viewBox="0 0 100 100">
+        <path d="M 0,0 L100,100" />
+        <path d="M 100,0 L0,100" />
+      </svg>
+    </div>
+
+  </section>
+</div>
+
+
+  {% endfor %}
+
+  <div class="popUpOverlay"></div>
+
+</div>
+
+</section>
+
+<section class="banner second short overlay grid" style="background-image:url('{{page.banner-image_path}}');">
+  <div class="banner-inner editable light col-6 left">
+      <h3>As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.</h3>
+  </div>
+</section>

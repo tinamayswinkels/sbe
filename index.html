@@ -22,7 +22,7 @@ second-banner-image_path: /uploads/SBE_Banner.jpg
       <img src="/images/down-icon.png" />
   </a>
 </section>
-<section class="text-banner" id="section2">
+<!-- <section class="text-banner" id="section2">
   <h2 class="center editable">An independent ESD Consultancy</h2>
   <hr class="center" />
 
@@ -37,13 +37,16 @@ second-banner-image_path: /uploads/SBE_Banner.jpg
     <i class="fa fa-star"></i>
   </span>
   <p class="editable"></p>
-</section>
+</section> -->
 
 <section class="padded light-bg">
 
-  <h2 class="center"> Featured Projects </h2>
+  <h2 class="center editable"> Featured Projects </h2>
   <hr class="center" />
-  <p>SBE is an independent ESD Consultancy firm with over 16 years of experience working for clients, architects, engineering firms, educational institutions, local Councils and State and National Government bodies.</p>
+  <div class="grid">
+    <p class="col-8 editable">SBE is an independent ESD Consultancy firm with over 16 years of experience working for clients, architects, engineering firms, educational institutions, local Councils and State and National Government bodies.</p>
+  </div>
+
   <div class="grid">
   {% for project in site.projects limit:3 %}
 
@@ -61,14 +64,10 @@ second-banner-image_path: /uploads/SBE_Banner.jpg
 </section>
 
 
-<section class="banner short overlay" style="background-image:url('{{page.banner-image_path}}');">
-  <div class="banner-inner editable light">
-      <h1 class="editable"> Sustainable Built Environments </h1>
-      <p>Innovative Ideas / Collaborative Design / Practical Solutions</p>
+<section class="banner second short overlay grid" style="background-image:url('{{page.banner-image_path}}');">
+  <div class="banner-inner editable light col-6 left">
+      <h3>As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.</h3>
   </div>
-  <a href="#section2" class="down-arrow">
-      <img src="/images/down-icon.png" />
-  </a>
 </section>
 
 <!-- <section class="padded center">

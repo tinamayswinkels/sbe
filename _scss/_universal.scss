@@ -22,8 +22,14 @@
   display: block;
   width: 100%;
 }
-.hidden{
+.hidden,.port-item.hidden{
   display: none;
+}
+
+// filters
+
+.blackAndWhite{
+  filter: grayscale(100%);
 }
 
 .columns {
@@ -116,6 +122,15 @@
   min-height: 50vh;
 }
 
+.banner.second{
+  justify-content: flex-start;
+}
+
+
+.banner.second *{
+    font-size: 2rem;
+}
+
 .overlay:after {
   content: '';
   position: absolute;
@@ -132,6 +147,10 @@
   text-align: center;
   padding: 5%;
   z-index:2;
+}
+
+.banner-inner.left{
+  text-align: left
 }
 
 .text-banner {

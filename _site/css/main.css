@@ -96,7 +96,9 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .block { display: block; width: 100%; }
 
-.hidden { display: none; }
+.hidden, .port-item.hidden { display: none; }
+
+.blackAndWhite { filter: grayscale(100%); }
 
 .columns { -webkit-columns: auto 3; /* Chrome, Safari, Opera */ -moz-columns: auto 3; /* Firefox */ columns: auto 3; -webkit-column-gap: 20px; /* Chrome, Safari, Opera */ -moz-column-gap: 20px; /* Firefox */ column-gap: 20px; }
 
@@ -123,9 +125,15 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .banner.short { min-height: 50vh; }
 
+.banner.second { justify-content: flex-start; }
+
+.banner.second * { font-size: 2rem; }
+
 .overlay:after { content: ''; position: absolute; width: 100%; height: 100%; top: 0; left: 0; background: rgba(0, 0, 0, 0.3); z-index: 1; }
 
 .banner-inner { color: white; text-align: center; padding: 5%; z-index: 2; }
+
+.banner-inner.left { text-align: left; }
 
 .text-banner { padding: 5%; text-align: center; }
 
@@ -182,9 +190,11 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 @media (max-width: 768px) { /* xs */ .image, .post-image { padding-bottom: 50%; } .services-loop .grid { padding: 5vh 0; } .offset-left { margin: 0; border: none; } .columns { -webkit-columns: auto 1; /* Chrome, Safari, Opera */ -moz-columns: auto 1; /* Firefox */ columns: auto 1; } }
 
-body { font-family: 'Open Sans', sans-serif; }
+body { font-family: 'Poppins', sans-serif; }
 
 h1, h2, h3, h4, h5, p { margin: 1em 0 0.5em; }
+
+h1, h2, h3, h4, h5, h6 { font-family: "acumin-pro", sans-serif; }
 
 h2:first-child, h3:first-child { margin-top: 0; }
 
@@ -223,11 +233,15 @@ hr.center { margin-left: auto; margin-right: auto; }
 
 @media (max-width: 768px) { h1, h2 { font-size: 2rem; } }
 
+.social .fab { font-size: 2rem; }
+
 .popup { position: fixed; left: 100vw; z-index: 5; padding: 2rem; background-color: white; }
 
 .popup img { height: 100%; object-fit: cover; object-position: center; }
 
-.popup.onscreen { left: 20%; right: 20%; top: 20%; }
+.popup.onscreen { left: 10%; right: 10%; top: 10%; max-height: 80vh; overflow: scroll; scrollbar-width: none; /* Firefox */ -ms-overflow-style: none; /* IE 10+ */ }
+
+.popup.onscreen::-webkit-scrollbar { width: 0px; background: transparent; /* Chrome/Safari/Webkit */ }
 
 .popUpOverlay { background-color: rgba(150, 150, 150, 0); transition: 1s; position: fixed; }
 

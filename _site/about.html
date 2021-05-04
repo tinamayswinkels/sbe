@@ -9,7 +9,16 @@
 <!--  Links to stylesheets -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css" rel="stylesheet" >
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+<!-- font-family:"acumin-pro"; for headings -->
+<link rel="stylesheet" href="https://use.typekit.net/ggr7ema.css">
+
+<!-- font-family: 'Poppins', sans-serif; for P -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+
+<!-- old font -->
+<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet"> -->
 <link href="/css/main.css" rel="stylesheet">
 
 <!-- this links to a favicon in the images folder -->
@@ -29,10 +38,13 @@
   <body>
 
       <header class="grid">
-   <div class="col-4_xs-8-middle logo padded">
-      <img src="/images/logoMK2.jpg" alt="SBE Sustainable Built Environments" />
+   <div class="col-2_xs-8-middle logo">
+     <div class="padded">
+       <img src="/images/logoMK2.jpg" alt="SBE Sustainable Built Environments" />
+     </div>
    </div>
-   <div class="col-8_xs-4-middle right">
+
+   <div class="col-10_xs-4-middle right">
      <nav class="menu mob-hide">
        <li> <a href="/index.html"> Home </a> </li>
       <li> <a href="/about"> About </a> </li>
@@ -110,7 +122,7 @@
         <form action="/search" method="get">
           <label for="search-box">Search</label>
           <input type="text" id="search-box" name="query">
-          <input type="submit" value="search">
+          <input type="submit" class="button" value="search">
         </form>
       </li>
      </nav>
@@ -161,7 +173,14 @@
 
 </section>
 
-<section class="padded center">
+
+<section class="banner second short overlay grid" style="background-image:url('/uploads/northbank-place-01.jpg');">
+  <div class="banner-inner editable light col-6 left">
+      <h3>As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.</h3>
+  </div>
+</section>
+
+<!-- <section class="padded center">
   <h2 class="editable">
     Leadership Team
   </h2>
@@ -263,8 +282,8 @@ Rob’s extensive knowledge of energy and water efficiency in design and practic
 
 </div>
 
-</section>
-<!--
+</section> -->
+
 <section class="text-banner light-bg">
   <h2 class="editable">
     Testimonials
@@ -281,7 +300,7 @@ Rob’s extensive knowledge of energy and water efficiency in design and practic
     <hr class="center" />
   </div>
   <div class="border-left">
-    <h2 class="rotate"> Recognition </h2>
+    <!-- <h2 class="rotate"> Recognition </h2> -->
     
     <h4> Planning Institute of Australia – 2010 </h4>
     <p> Award for Planning Excellence, Environment category, in collaboration with Hansen Partnership</p>
@@ -294,11 +313,11 @@ Rob’s extensive knowledge of energy and water efficiency in design and practic
     
 
   </div>
-</section> -->
-  <!-- <div class="border-left">
-    <h2 class="rotate"> 2016 </h2>
+</section>
+<!-- <div class="border-left">
+  <h2 class="rotate"> 2016 </h2>
 
-    
+  
 
 
   <div class="border-left">
@@ -307,6 +326,7 @@ Rob’s extensive knowledge of energy and water efficiency in design and practic
     
 
   </div> -->
+
 
 
       <footer class="grid">
@@ -383,32 +403,6 @@ $('.mobile-menu-button').click(function() {
 });
 
 
-  $(".team-member").click(function(){
-
-       var target = $(this).attr("data-target");
-       // console.log(target);
-      $(".popup").each(function(){
-        if($(this).attr("data-pop") == target){
-          $(this).addClass("onscreen");
-        }else{
-          $(this).removeClass("onscreen")
-        }
-
-      });
-     $(".popUpOverlay").addClass("onscreen");
-   });
-
-  $(".popUpOverlay").click(function(){
-    $(".popup").removeClass("onscreen");
-    $(".popUpOverlay").removeClass("onscreen");
-   });
-
-
-  $(".popupX").click(function(){
-    $(".popup").removeClass("onscreen");
-    $(".popUpOverlay").removeClass("onscreen");
-  })
-  
 
 
   

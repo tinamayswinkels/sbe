@@ -1,9 +1,12 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 h1,h2,h3,h4,h5, p {
   margin:1em 0 0.5em;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family:"acumin-pro", sans-serif;
 }
 h2:first-child,
 h3:first-child {
@@ -101,4 +104,8 @@ hr.center {
   h1, h2 {
     font-size: 2rem;
   }
+}
+
+.social .fab{
+  font-size: 2rem;
 }

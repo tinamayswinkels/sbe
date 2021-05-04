@@ -13,9 +13,17 @@
   object-position: center;
 }
 .popup.onscreen {
-  left: 20%;
-  right: 20%;
-  top: 20%;
+  left: 10%;
+  right: 10%;
+  top: 10%;
+  max-height: 80vh;
+  overflow: scroll;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE 10+ */
+  &::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* Chrome/Safari/Webkit */
+  }
 }
 
 .popUpOverlay {

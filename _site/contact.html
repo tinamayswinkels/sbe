@@ -9,7 +9,16 @@
 <!--  Links to stylesheets -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css" rel="stylesheet" >
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+<!-- font-family:"acumin-pro"; for headings -->
+<link rel="stylesheet" href="https://use.typekit.net/ggr7ema.css">
+
+<!-- font-family: 'Poppins', sans-serif; for P -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+
+<!-- old font -->
+<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet"> -->
 <link href="/css/main.css" rel="stylesheet">
 
 <!-- this links to a favicon in the images folder -->
@@ -29,10 +38,13 @@
   <body>
 
       <header class="grid">
-   <div class="col-4_xs-8-middle logo padded">
-      <img src="/images/logoMK2.jpg" alt="SBE Sustainable Built Environments" />
+   <div class="col-2_xs-8-middle logo">
+     <div class="padded">
+       <img src="/images/logoMK2.jpg" alt="SBE Sustainable Built Environments" />
+     </div>
    </div>
-   <div class="col-8_xs-4-middle right">
+
+   <div class="col-10_xs-4-middle right">
      <nav class="menu mob-hide">
        <li> <a href="/index.html"> Home </a> </li>
       <li> <a href="/about"> About </a> </li>
@@ -110,7 +122,7 @@
         <form action="/search" method="get">
           <label for="search-box">Search</label>
           <input type="text" id="search-box" name="query">
-          <input type="submit" value="search">
+          <input type="submit" class="button" value="search">
         </form>
       </li>
      </nav>
@@ -141,7 +153,7 @@
 
       <div class="grid">
         <div class="col-6_xs-12 padded-2">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12606.762311779585!2d144.957248!3d-37.820716!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3bddc3f106e1c676!2sSustainable+Built+Environments!5e0!3m2!1sen!2sid!4v1508643339783" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+          <iframe class="blackAndWhite" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12606.762311779585!2d144.957248!3d-37.820716!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3bddc3f106e1c676!2sSustainable+Built+Environments!5e0!3m2!1sen!2sid!4v1508643339783" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
         </div>
         <div class="col-6_xs-12 padded-2">
 
@@ -152,11 +164,9 @@
           </h3>
           <p class="editable"> We'd love to get to know you and your goals, give us a call or pop in for a quick chat. </p>
 
-          <p class="editable"><a href="mailto:info@sbe.com.au"><i class="fas fa-envelope"></i></i> info@sbe.com.au</a></p>
-          <p class="editable"><a href="tel:61 3 9923 2345"<i class="fa fa-phone"></i> +61 3 9923 2345</a></p>
-          <p class="editable"><a href="#"><i class="fab fa-linkedin"></i> linkedin </a></p>
-          <p class="editable"><a href="#"><i class="fab fa-facebook-square"></i> facebook</a></p>
-          <p class="editable"><a href="#"><i class="fab fa-instagram-square"></i> Instagram </a></p>
+          <p class="editable"><a href="mailto:info@sbe.com.au"> info@sbe.com.au</a></p>
+          <p class="editable"><a href="tel:61 3 9923 2345"> +61 3 9923 2345</a></p>
+          <p class="editable social padded"><a href="#"><i class="fab fa-linkedin"></i></a><a href="#" ><i class="fab fa-facebook-square"></i></a><a href="#"><i class="fab fa-instagram-square"></i></a></p>
 
         </div>
    </div>

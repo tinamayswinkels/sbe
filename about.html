@@ -3,6 +3,7 @@ layout: default
 title: About SBE
 subtitle: Innovative Ideas / Collaborative Design / Practical Solutions.
 banner-image_path: /uploads/northbank-place-01.jpg
+second-banner-image_path: /uploads/SBE_Banner.jpg
 awards:
   - title: Planning Institute of Australia – 2010
     description: >-
@@ -19,6 +20,7 @@ awards:
       Professional Services for UniSA Mawson Institute Building V, designed by
       Guida Moseley Brown Architects and Russell & Yelland Architects in
       Association.
+
 ---
 
 <!-- <section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
@@ -46,7 +48,14 @@ awards:
 
 </section>
 
-<section class="padded center">
+
+<section class="banner second short overlay grid" style="background-image:url('{{page.banner-image_path}}');">
+  <div class="banner-inner editable light col-6 left">
+      <h3>As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.</h3>
+  </div>
+</section>
+
+<!-- <section class="padded center">
   <h2 class="editable">
     Leadership Team
   </h2>
@@ -96,8 +105,8 @@ awards:
 
 </div>
 
-</section>
-<!--
+</section> -->
+
 <section class="text-banner light-bg">
   <h2 class="editable">
     Testimonials
@@ -114,21 +123,21 @@ awards:
     <hr class="center" />
   </div>
   <div class="border-left">
-    <h2 class="rotate"> Recognition </h2>
+    <!-- <h2 class="rotate"> Recognition </h2> -->
     {% for award in page.awards %}
     <h4> {{award.title}} </h4>
     <p> {{award.description}}</p>
     {% endfor %}
 
   </div>
-</section> -->
-  <!-- <div class="border-left">
-    <h2 class="rotate"> 2016 </h2>
+</section>
+<!-- <div class="border-left">
+  <h2 class="rotate"> 2016 </h2>
 
-    {% for award in page.awards_2016 %}
-    <h4> {{award.title}} </h4>
-    <p> {{award.description}}</p>
-    {% endfor %}
+  {% for award in page.awards_2016 %}
+  <h4> {{award.title}} </h4>
+  <p> {{award.description}}</p>
+  {% endfor %}
 
 
   <div class="border-left">
@@ -140,3 +149,4 @@ awards:
     {% endfor %}
 
   </div> -->
+
