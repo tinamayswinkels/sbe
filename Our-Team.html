@@ -16,7 +16,7 @@ second-banner-image_path: /uploads/northbank-place-01.jpg
 <div class="grid">
 
   {% for person in site.data.team %}
-      <div class="col-3_sm-6 ">
+      <div class="col-3_sm-6 padded-1">
         <div class="image about leaderPic" style="background-image:url('{{person.image_path}}');">
         <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
           <div class="text-overlay">

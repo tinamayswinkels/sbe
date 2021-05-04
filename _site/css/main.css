@@ -84,6 +84,8 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .padded { padding: 5%; }
 
+.padded-1 { padding: 1%; }
+
 .padded-2 { padding: 2%; }
 
 .no-padding { padding: 0; }
