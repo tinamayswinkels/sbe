@@ -10,6 +10,7 @@ description: >-
   energy efficiency requirements to designing high performing and innovative
   buildings, and achieving best practice voluntary certifications.
 banner-image_path: /uploads/SBE_Banner.jpg
+second-banner-image_path: /uploads/SBE_Banner.jpg
 ---
 
 <section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
@@ -40,24 +41,37 @@ banner-image_path: /uploads/SBE_Banner.jpg
 
 <section class="padded light-bg">
 
-  <h2 class="center"> Recent Projects </h2>
+  <h2 class="center"> Featured Projects </h2>
   <hr class="center" />
+  <p>SBE is an independent ESD Consultancy firm with over 16 years of experience working for clients, architects, engineering firms, educational institutions, local Councils and State and National Government bodies.</p>
   <div class="grid">
   {% for project in site.projects limit:3 %}
-      <div class="col-4_sm-12 padded-2">
-        <div class="tall-image" style="background-image:url('{{project.images[0].image_path}}');">
-        </div>
-        <a href="{{project.url}}" class="offset-top padded">
-             <h3>{{project.name}}</h3>
-             <p>{{project.blurb}}</p>
-        </a>
+
+
+  <div class="col-4_sm-12 image about" style="background-image:url('{% for img in project.images limit:1%}{{img.image_path}}{% endfor %}');">
+    <div class="hover-overlay  team-member">
+      <div class="text-overlay">
+        <span class="name">{{project.name}}</span>
+        <span class="title">{{project.architect}}</span>
+      </div>
+    </div>
       </div>
   {% endfor %}
 </div>
 </section>
 
 
-<section class="padded center">
+<section class="banner short overlay" style="background-image:url('{{page.banner-image_path}}');">
+  <div class="banner-inner editable light">
+      <h1 class="editable"> Sustainable Built Environments </h1>
+      <p>Innovative Ideas / Collaborative Design / Practical Solutions</p>
+  </div>
+  <a href="#section2" class="down-arrow">
+      <img src="/images/down-icon.png" />
+  </a>
+</section>
+
+<!-- <section class="padded center">
   <h2 class="editable">We are experts at... </h2>
   <hr class="center" />
     <div class="grid left">
@@ -72,6 +86,6 @@ banner-image_path: /uploads/SBE_Banner.jpg
         {% endfor %}
   </div>
   <a href="/services" class="button center"> Read More  </a>
-</section>
-<a class="map banner" href="/contact">
-</a>
+</section> -->
+<!-- <a class="map banner" href="/contact">
+</a> -->

@@ -21,7 +21,7 @@ awards:
       Association.
 ---
 
-<section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
+<!-- <section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
   <div class="banner-inner">
       <h1> {{page.title}} </h1>
       <p> {{page.subtitle}} </p>
@@ -29,13 +29,15 @@ awards:
   <a href="#section2" class="down-arrow">
       <img src="/images/down-icon.png" />
   </a>
-</section>
-<section class="padded center" id="section2">
-  <h2 class="editable">
-    Our Philosophy
-  </h2>
-  <hr class="center" />
-  <div class="columns left editable">
+</section> -->
+<section class="padded center grid-middle" id="section2">
+  <div class="col-3">
+    <h2 class="editable">
+      Our Philosophy
+    </h2>
+    <hr class="center" />
+  </div>
+  <div class="left editable col-9 padded">
     <p>To unlock the full potential of a building one needs to consider every stage of a project and explore the opportunities that lie between the disciplines.</p>
     <p>Sustainable Built Environments (SBE) was <strong>formed in 2001 </strong>by a multi-disciplinary team of industry professionals passionate about the role that the built environment could have in shaping thriving communities and cities. Over these years our team has delivered an enormous portfolio of work, locally, nationally and internationally.</p>
     <p>The founding father and leader of SBE was <em><strong><a href="https://architectureau.com/articles/obituary-4/">David Oppenheim</a></strong></em>, still recognised today as an influential thought leader in the field of ESD and after whom the National Architecture Award for Sustainable Architecture is named. Sadly, David passed away in 2007.</p>
@@ -54,34 +56,39 @@ awards:
 
   {% for person in site.data.team %}
     <div class="col-3_sm-6 image about" style="background-image:url('{{person.image_path}}');">
-    <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
-      <div class="text-overlay">
-        <span class="name">{{person.name}}</span>
-        <span class="title">{{person.title}}</span>
+      <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
+        <div class="text-overlay">
+          <span class="name">{{person.name}}</span>
+          <span class="title">{{person.title}}</span>
+        </div>
       </div>
-      </div>
-    </div>
 
   <section class="popup grid" data-pop="pop{{ forloop.index }}">
     <div class="col-4">
       <img src="{{person.image_path}}" alt="{{person.name}} {{person.title}}">
     </div>
-    <div class="col-8">
-      <h2 class="name">{{person.name}}</h2>
+    <div class="col-8 left">
+      <h2 class="name center">{{person.name}}</h2>
       <h3 class="title">{{person.title}}</h3>
+      <ul class="cleanList">
+        {% for ed in person.education %}
+          <li>{{ed}}</li>
+        {% endfor %}
+      </ul>
       <p>
         {{person.description}}
       </p>
     </div>
-
-
-  <div class="popupX">
+    <div class="popupX">
       <svg viewBox="0 0 100 100">
-      <path d="M 0,0 L100,100" />
-      <path d="M 100,0 L0,100" />
-    </svg>
+        <path d="M 0,0 L100,100" />
+        <path d="M 100,0 L0,100" />
+      </svg>
     </div>
+
   </section>
+</div>
+
 
   {% endfor %}
 
@@ -90,7 +97,7 @@ awards:
 </div>
 
 </section>
-
+<!--
 <section class="text-banner light-bg">
   <h2 class="editable">
     Testimonials
@@ -107,14 +114,14 @@ awards:
     <hr class="center" />
   </div>
   <div class="border-left">
-    <!-- <h2 class="rotate"> Recognition </h2> -->
+    <h2 class="rotate"> Recognition </h2>
     {% for award in page.awards %}
     <h4> {{award.title}} </h4>
     <p> {{award.description}}</p>
     {% endfor %}
 
   </div>
-</section>
+</section> -->
   <!-- <div class="border-left">
     <h2 class="rotate"> 2016 </h2>
 

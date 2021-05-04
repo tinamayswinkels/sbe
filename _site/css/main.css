@@ -102,6 +102,8 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .columns p:first-child { margin-top: 0; }
 
+.cleanList li { list-style: none; margin-top: 0.5rem; }
+
 /* horizontal title with left border */
 .border-left { border-left: 2px solid #59b350; margin-left: 7rem; margin-top: 2%; padding: 1% 3%; }
 
