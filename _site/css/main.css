@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6 { font-family: "acumin-pro", sans-serif; }
 
 h2:first-child, h3:first-child { margin-top: 0; }
 
-h1, h2 { font-weight: 300; font-size: 2.3rem; }
+h1, h2, .fakeH2 { font-weight: 300; font-size: 2.3rem; }
 
 p, li { line-height: 1.6; font-weight: 300; }
 
@@ -220,7 +220,7 @@ hr { border: none; border-bottom: 2px solid #59b350; width: 3.5rem; margin: 1rem
 hr.center { margin-left: auto; margin-right: auto; }
 
 /* buttons */
-.button { padding: 0.5em 1em; margin: 0.5em 0; border: 1px solid #59b350; color: #59b350; text-decoration: none; transition: all 0.5s; }
+.button { padding: 0.5em 1em; margin: 0.5em 0; border: 1px solid #59b350; color: #59b350; text-decoration: none; transition: all 0.5s; background-color: white; }
 
 .button:hover { border-color: #41414D; color: #41414D; }
 
