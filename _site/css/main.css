@@ -194,7 +194,7 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 @media (max-width: 768px) { /* xs */ .image, .post-image { padding-bottom: 50%; } .services-loop .grid { padding: 5vh 0; } .offset-left { margin: 0; border: none; } .columns { -webkit-columns: auto 1; /* Chrome, Safari, Opera */ -moz-columns: auto 1; /* Firefox */ columns: auto 1; } }
 
-body { font-family: 'Poppins', sans-serif; }
+body { font-family: 'Poppins', sans-serif; font-weight: 300; }
 
 h1, h2, h3, h4, h5, p { margin: 1em 0 0.5em; }
 
@@ -204,7 +204,7 @@ h2:first-child, h3:first-child { margin-top: 0; }
 
 h1, h2 { font-weight: 300; font-size: 2.3rem; }
 
-p, li { line-height: 1.6; }
+p, li { line-height: 1.6; font-weight: 300; }
 
 a { text-decoration: none; }
 
