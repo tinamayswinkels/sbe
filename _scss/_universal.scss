@@ -127,7 +127,7 @@
 }
 
 
-.banner.second *{
+.banner.second h3{
     font-size: 2rem;
 }
 
@@ -181,11 +181,12 @@
   overflow: hidden;
   border: 1px solid white;
 }
+.leaderPic.image{padding-bottom: 100%;}
 .text-overlay {
   position: absolute;
   bottom:  -10px;
-  font-size: 13vw;
-  line-height: 0.8;
+  font-size: 2rem;
+  line-height: 0.9;
   right: 1rem;
   color: rgba(255,255,255,0.8);
   font-weight: 300;

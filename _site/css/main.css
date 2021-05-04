@@ -127,7 +127,7 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .banner.second { justify-content: flex-start; }
 
-.banner.second * { font-size: 2rem; }
+.banner.second h3 { font-size: 2rem; }
 
 .overlay:after { content: ''; position: absolute; width: 100%; height: 100%; top: 0; left: 0; background: rgba(0, 0, 0, 0.3); z-index: 1; }
 
@@ -144,7 +144,9 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .image { padding-bottom: 25%; position: relative; overflow: hidden; border: 1px solid white; }
 
-.text-overlay { position: absolute; bottom: -10px; font-size: 13vw; line-height: 0.8; right: 1rem; color: rgba(255, 255, 255, 0.8); font-weight: 300; margin: 0; }
+.leaderPic.image { padding-bottom: 100%; }
+
+.text-overlay { position: absolute; bottom: -10px; font-size: 2rem; line-height: 0.9; right: 1rem; color: rgba(255, 255, 255, 0.8); font-weight: 300; margin: 0; }
 
 .post-image { padding-bottom: 25%; }
 

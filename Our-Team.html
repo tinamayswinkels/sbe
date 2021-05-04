@@ -16,14 +16,19 @@ second-banner-image_path: /uploads/northbank-place-01.jpg
 <div class="grid">
 
   {% for person in site.data.team %}
-    <div class="col-3_sm-6 image about" style="background-image:url('{{person.image_path}}');">
-      <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
-        <div class="text-overlay">
-          <span class="name">{{person.name}}</span>
-          <span class="title">{{person.title}}</span>
+      <div class="col-3_sm-6 ">
+        <div class="image about leaderPic" style="background-image:url('{{person.image_path}}');">
+        <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
+          <div class="text-overlay">
+            <span class="name">{{person.name}}</span>
+            <span class="title">{{person.title}}</span>
+          </div>
         </div>
       </div>
-
+        <p class="left">
+          {{person.description}}
+        </p>
+      </div>
   <section class="popup grid" data-pop="pop{{ forloop.index }}">
     <div class="col-4_sm-6_xs-12">
       <img src="{{person.image_path}}" alt="{{person.name}} {{person.title}}">
@@ -48,7 +53,7 @@ second-banner-image_path: /uploads/northbank-place-01.jpg
     </div>
 
   </section>
-</div>
+
 
 
   {% endfor %}
