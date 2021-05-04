@@ -120,8 +120,8 @@
       </li>
       <li>
         <form action="/search" method="get">
-          <label for="search-box">Search</label>
-          <input type="text" id="search-box" name="query">
+          <i class="fas fa-search"></i>
+          <input type="text" class="button" id="search-box" placeholder='find me news about...' name="query">
           <input type="submit" class="button" value="search">
         </form>
       </li>
@@ -516,7 +516,7 @@ window.addEventListener("load", function(){
 <style>
     #lunrsearchresults {padding-top: 0.2rem; min-height: calc(100vh - 32rem);}
     .lunrsearchresult {padding-bottom: 1rem;}
-    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .title {color: #59b350;}
     .lunrsearchresult .url {color: silver;}
     .lunrsearchresult a {display: block; color: #777;}
     .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
