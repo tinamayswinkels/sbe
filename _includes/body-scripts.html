@@ -1,6 +1,12 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
 
+
+{% if page.url == "/" %}
+<!-- for slide show -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
+{% endif %}
+
 <script>
 
 $('.mobile-menu-button').click(function() {
@@ -68,9 +74,17 @@ $('.mobile-menu-button').click(function() {
 
 });
 
+{% endif %}
+{% if page.url == "/" %}
+  console.log("bob");
+  $('.slideshow-container').slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    arrows: true,
+    autoplaySpeed: 1000,
 
-
-
+  });
 {% endif %}
 </script>
 
@@ -127,3 +141,4 @@ new StickyState(document.querySelectorAll('.sticky'));
 
 </script>
 {% endif %}
+
