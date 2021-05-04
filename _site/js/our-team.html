@@ -351,32 +351,6 @@ $('.mobile-menu-button').click(function() {
 });
 
 
-  $(".team-member").click(function(){
-    console.log("bob");
-       var target = $(this).attr("data-target");
-       console.log(target);
-      $(".popup").each(function(){
-        if($(this).attr("data-pop") == target){
-          $(this).addClass("onscreen");
-        }else{
-          $(this).removeClass("onscreen")
-        }
-
-      });
-     $(".popUpOverlay").addClass("onscreen");
-   });
-
-  $(".popUpOverlay").click(function(){
-    $(".popup").removeClass("onscreen");
-    $(".popUpOverlay").removeClass("onscreen");
-   });
-
-
-  $(".popupX").click(function(){
-    $(".popup").removeClass("onscreen");
-    $(".popUpOverlay").removeClass("onscreen");
-  })
-  
 
 
   
