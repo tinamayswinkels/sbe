@@ -73,7 +73,7 @@ banner-image_path: /uploads/one-flintoff-01.jpg
   <div class="grid padded" id="portfolio-grid">
     {% for project in site.projects %}
 
-    <div class="col-3_sm-6 image about port-item {{project.category}}" style="background-image:url('  {% for img in project.images limit:1 %}{{img.image_path}}"{% endfor %}');">
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item {{project.category}}" style="background-image:url('  {% for img in project.images limit:1 %}{{img.image_path}}"{% endfor %}');">
       <a href="{{project.url}}" class="hover-overlay" data-target="pop{{ forloop.index }}">
         <div class="text-overlay">
           <span class="name">{{project.name}}</span>

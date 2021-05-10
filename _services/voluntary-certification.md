@@ -1,5 +1,6 @@
 ---
 name: Voluntary Certification
+layout: service
 blurb: Achieving leadership in the built environment with third-party certification
 image_path: /uploads/automative-centre-of-excellence-exterior.JPG
 number: 4

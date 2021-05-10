@@ -4,6 +4,44 @@ title: SBE Services
 banner-image_path: /uploads/bosch-01.jpg
 ---
 
+<section class="padded">
+  <h1 class="center">Our Services</h1>
+  {% assign sorted_services = site.services | sort: 'number' %}
+  <div class="grid">
+    {% for service in sorted_services %}
+
+    <div class="col-4_sm-12 image about" style="background-image:url('{{service.image_path}}');">
+      <a href="{{service.url}}">
+      <div class="hover-overlay  team-member">
+        <div class="text-overlay">
+          <span class="name">{{service.name}}</span>
+        </div>
+      </div>
+    </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="padded">
+  <h1 class="center">Our Services</h1>
+  {% assign sorted_services = site.services | sort: 'number' %}
+  <div class="grid">
+    {% for service in sorted_services %}
+    <div class="col-4_sm-12">
+      <a href="{{service.url}}">
+        <div class="image about square" style="background-image:url('{{service.image_path}}');">
+
+        </div>
+        <p class="name">{{service.name}}</p>
+
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+{% comment %}
 <section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
   <div class="banner-inner">
       <h1 class="editable">Services</h1>
@@ -57,3 +95,4 @@ banner-image_path: /uploads/bosch-01.jpg
   {% endfor %}
 
 </section>
+{% endcomment %}

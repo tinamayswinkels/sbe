@@ -13,11 +13,11 @@ second-banner-image_path: /uploads/northbank-place-01.jpg
   </h2>
   <hr class="center" />
 
-<div class="grid">
+<div class="grid-center">
 
   {% for person in site.data.team %}
       <div class="col-3_sm-6 padded-1">
-        <div class="image about leaderPic" style="background-image:url('{{person.image_path}}');">
+        <div class="image about square leaderPic" style="background-image:url('{{person.image_path}}');">
         <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
           <div class="text-overlay">
             <span class="name">{{person.name}}</span>
@@ -26,7 +26,7 @@ second-banner-image_path: /uploads/northbank-place-01.jpg
         </div>
       </div>
         <p class="left">
-          {{person.description}}
+          {{person.description | truncatewords: 45}}
         </p>
       </div>
   <section class="popup grid" data-pop="pop{{ forloop.index }}">
@@ -65,7 +65,7 @@ second-banner-image_path: /uploads/northbank-place-01.jpg
 </section>
 
 <section class="banner second short overlay grid" style="background-image:url('{{page.banner-image_path}}');">
-  <div class="banner-inner editable light col-6 left">
-      <h3>As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.</h3>
+  <div class="banner-inner editable light col-6 left padded">
+
   </div>
 </section>

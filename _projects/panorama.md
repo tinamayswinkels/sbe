@@ -17,6 +17,7 @@ images:
     image_path: /uploads/panorama-exterior.jpg
   - title: Panorama Interior 02
     image_path: /uploads/panorama-interior-02.jpg
+
 ---
 
 

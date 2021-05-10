@@ -11,6 +11,7 @@
 <!-- for slide show -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
 {% endif %}
+
 <script>
 
 $('.mobile-menu-button').click(function() {
@@ -92,7 +93,7 @@ $('.mobile-menu-button').click(function() {
   });
 {% endif %}
 // about
-{% if page.url == "/" %}
+{% if page.url == "/about.html" %}
   console.log("bob");
   $('.slideshow-container').slick({
     slidesToShow: 1,
@@ -101,6 +102,16 @@ $('.mobile-menu-button').click(function() {
     arrows: true,
     autoplaySpeed: 3000,
 
+  });
+{% endif %}
+{% if page.layout == "service" %}
+  console.log("bob");
+  $('.slideshow-container').slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: false,
+    arrows: true,
+    autoplaySpeed: 3000,
   });
 {% endif %}
 </script>
@@ -144,7 +155,33 @@ $('.mobile-menu-button').click(function() {
     });
 </script>
 
+
+
+{% if page.url == "/news.html" %}
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
+<script type="text/javascript" defer>
+  console.log("bob");
+  $('.masnory-layout').masonry({
+  // options
+  itemSelector: ".masnory-item",
+  columnWidth: 240,
+  gutter: 10
+});
+$(document).ready(function(){
+  $('.masnory-layout').masonry({
+    // options
+    itemSelector: ".masnory-item",
+    columnWidth: 240,
+    gutter: 10
+  });
+});
+
+</script>
+
+{% endif %}
 <!-- Sticky state scripts -->
+
+
 
 {% if page.url == "/search.html" %}
 
@@ -159,3 +196,5 @@ new StickyState(document.querySelectorAll('.sticky'));
 </script>
 {% endif %}
 
+
+{{layout.scripts}}

@@ -18,16 +18,19 @@ banner-image_path: /uploads/craigieburn-regional-aquatic-&-leisure-centre-01.JPG
 
   {% assign newsPost = site.posts | where:"category", "news" %}
 
+  <div class="masnory-layout padded-2">
   {% for post in newsPost %}
-  <div class="grid padded-2">
-      <div class="post-image col-6_xs-12" style="background-image:url('{{post.image_path}}')"></div>
-      <div class="col-6_xs-12 padded-2">
-          <h3 class="fakeH2"> {{post.title}}</h3>
-          <p> {{post.description}} </p>
-          <a href="{{post.url}}" class="button"> Read More </a>
+      <a href="{{post.url}}" class="masnory-item padded-1">
+      <div class="padded-2">
+        <img src="{{post.image_path}}" alt="{{post.title}}">
+          <h3> {{post.title}}</h3>
+          <p>{{post.date | date_to_string}}</p>
+          <p class="padded-b-1r"> {{post.description | truncatewords:50}} </p>
+            <span class="button">Read More</span>
       </div>
-    </div>
+    </a>
   {% endfor %}
+</div>
 
 
 </section>

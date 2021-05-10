@@ -1,5 +1,6 @@
 ---
 name: Passivehaus
+layout: service
 blurb: High performing buildings designed around humans
 image_path: /images/Passivehaus-DesignPH.JPG
 number: 9

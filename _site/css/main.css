@@ -86,6 +86,8 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .padded-1 { padding: 1%; }
 
+.padded-b-1r { padding-bottom: 1rem; }
+
 .padded-2 { padding: 2%; }
 
 .no-padding { padding: 0; }
@@ -144,11 +146,13 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 .down-arrow { position: absolute; left: 48%; bottom: 1rem; z-index: 2; }
 
 /* Image block with text overlay */
-.image, .post-image, .sidebar-image, .tall-image { background-position: center; background-size: cover; }
+.image, .post-image, .sidebar-image, .tall-image, .project-image { background-position: center; background-size: cover; }
 
 .image { padding-bottom: 25%; position: relative; overflow: hidden; border: 1px solid white; }
 
-.leaderPic.image { padding-bottom: 100%; }
+.project-image { min-height: 33vw !important; display: inline-block; }
+
+.square.image { padding-bottom: 100%; }
 
 .text-overlay { position: absolute; bottom: -10px; font-size: 2rem; line-height: 0.9; right: 1rem; color: rgba(255, 255, 255, 0.8); font-weight: 300; margin: 0; }
 
@@ -180,7 +184,7 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .hover-overlay:hover { background: rgba(0, 0, 0, 0.6); }
 
-.about .text-overlay { bottom: 10px; left: 10px; text-align: left; border-left: 2px solid white; padding: 0.5rem 1rem; font-size: 2.5rem; display: none; }
+.about .text-overlay { bottom: 10px; left: 10px; text-align: left; border-left: 2px solid white; padding: 0.5rem 1rem; font-size: 2rem; display: none; }
 
 .about:hover .text-overlay { display: block; }
 
@@ -198,9 +202,13 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .slick-prev::before, .slick-next::before { font-size: 3rem; color: white; opacity: .8; }
 
+.testimonials .slick-prev::before, .testimonials .slick-next::before { color: black; }
+
 .slick-prev { left: 2rem; }
 
 .slick-next { right: 2rem; }
+
+.masnory-item { width: 240px; display: block; padding-bottom: 2rem; }
 
 @media (max-width: 768px) { /* xs */ .image, .post-image { padding-bottom: 50%; } .services-loop .grid { padding: 5vh 0; } .offset-left { margin: 0; border: none; } .columns { -webkit-columns: auto 1; /* Chrome, Safari, Opera */ -moz-columns: auto 1; /* Firefox */ columns: auto 1; } }
 

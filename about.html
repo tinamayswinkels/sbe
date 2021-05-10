@@ -22,7 +22,9 @@ awards:
       Association.
 testimonials:
   - textarea: We work closely with SBE on the design and development of all of our projects. Roberto and the team are very skilled at balancing architectural intent with ESD solutions to achieve maximum thermal performance and sustainability outcomes.
-    individual:
+    individual: David Gibson, Principal Architect, PTX Architects
+  - textarea: We work closely with SBE on the design and development of all of our projects. Roberto and the team are very skilled at balancing architectural intent with ESD solutions to achieve maximum thermal performance and sustainability outcomes.
+    individual: David Gibson, Principal Architect, PTX Architects
 ---
 
 <!-- <section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
@@ -119,30 +121,24 @@ testimonials:
     Testimonials
   </h2>
   <hr class="center" />
-    <div class="slideshow-container">
+  {% for testimonials in page.testimonials %}
+  {% assign testCount = forloop.index %}
+  {% endfor %}
+  {{testCount}}
+    <div class="{% if testCount > 1 %} slideshow-container{% endif %} testimonials">
 
       <!-- Full-width images with number and caption text -->
+      {% for test in page.testimonials %}
       <div class="mySlides fade">
-        <!-- <div class="numbertext"></div> -->
-        <img src="{{page.banner-image_path_1}}">
+        <p class="editable">
+          <em>"{{test.textarea}}"</em><br /><br />{{test.individual}}<br /><br />&nbsp;
+        </p>
       </div>
-
-      <div class="mySlides fade">
-        <!-- <div class="numbertext"></div> -->
-        <img src="{{page.banner-image_path_2}}">
-      </div>
-      <div class="mySlides fade">
-        <!-- <div class="numbertext"></div> -->
-        <img src="{{page.banner-image_path_3}}">
-      </div>
-      <div class="mySlides fade">
-        <!-- <div class="numbertext"></div> -->
-        <img src="{{page.banner-image_path_4}}">
-      </div>
+    {% endfor %}
     </div>
-  <p class="editable">
+  <!-- <p class="editable">
     <em>"We work closely with SBE on the design and development of all of our projects. Roberto and the team are very skilled at balancing architectural intent with ESD solutions to achieve maximum thermal performance and sustainability outcomes."</em><br /><br />David Gibson, Principal Architect, PTX Architects<br /><br />&nbsp;
-  </p>
+  </p> -->
 </section>
 
 <section class="padded">
