@@ -14,12 +14,13 @@
 
 <!-- font-family: 'Poppins', sans-serif; for P -->
 <link rel="preconnect" href="https://fonts.gstatic.com">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
-
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap" rel="stylesheet">
+<!-- index -->
 
 <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
 
+<!-- about -->
 
 
 
@@ -202,7 +203,8 @@
 }
 .slick-prev::before, .slick-next::before{
 font-size:3rem;
-color:#71a334;
+color:white;
+opacity:.8;
 }
 .slick-prev{
   left:2rem;
@@ -372,13 +374,13 @@ color:#71a334;
 
 
       <footer class="grid">
-    <div class="col-3_sm-12 padded-2">
+    <!-- <div class="col-3_sm-12 padded-2">
         <h3> Sustainable Built Environment</h3>
         <p class="editable">
           As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.
         </p>
-    </div>
-    <div class="col-3_sm-12 padded-2">
+    </div> -->
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR SERVICES </h4>
       <nav>
           
@@ -402,7 +404,7 @@ color:#71a334;
           
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR PROJECTS </h4>
       <nav>
         
@@ -418,7 +420,7 @@ color:#71a334;
         
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OTHER LINKS </h4>
         <nav>
           <a href="/index.html"> Home </a>
@@ -440,6 +442,7 @@ color:#71a334;
 <!-- for slide show -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
 
+<!-- about page -->
 
 <script>
 
@@ -454,12 +457,25 @@ $('.mobile-menu-button').click(function() {
 
 
   
+// index
 
   console.log("bob");
   $('.slideshow-container').slick({
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
+    arrows: true,
+    autoplaySpeed: 3000,
+
+  });
+
+// about
+
+  console.log("bob");
+  $('.slideshow-container').slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: false,
     arrows: true,
     autoplaySpeed: 3000,
 

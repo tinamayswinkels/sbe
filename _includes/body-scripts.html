@@ -6,7 +6,11 @@
 <!-- for slide show -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
 {% endif %}
-
+<!-- about page -->
+{% if page.url == "/about.html" %}
+<!-- for slide show -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
+{% endif %}
 <script>
 
 $('.mobile-menu-button').click(function() {
@@ -75,12 +79,25 @@ $('.mobile-menu-button').click(function() {
 });
 
 {% endif %}
+// index
 {% if page.url == "/" %}
   console.log("bob");
   $('.slideshow-container').slick({
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,
+    arrows: true,
+    autoplaySpeed: 3000,
+
+  });
+{% endif %}
+// about
+{% if page.url == "/" %}
+  console.log("bob");
+  $('.slideshow-container').slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: false,
     arrows: true,
     autoplaySpeed: 3000,
 

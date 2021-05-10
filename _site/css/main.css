@@ -41,7 +41,7 @@ header h3 { margin: 0; }
 
 .menu a, footer nav a { display: block; text-decoration: none; padding: 0.2rem 0.5rem; font-size: 1.1rem; font-weight: 400; }
 
-.menu a:hover, footer nav a:hover, .mobile-nav a:hover { color: #59b350; }
+.menu a:hover, footer nav a:hover, .mobile-nav a:hover { color: #71a334; }
 
 /* Footer */
 footer { background-color: #41414D; color: white; padding: 2vh 5%; }
@@ -109,7 +109,7 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 .cleanList li { list-style: none; margin-top: 0.5rem; }
 
 /* horizontal title with left border */
-.border-left { border-left: 2px solid #59b350; margin-left: 7rem; margin-top: 2%; padding: 1% 3%; }
+.border-left { border-left: 2px solid #71a334; margin-left: 7rem; margin-top: 2%; padding: 1% 3%; }
 
 .border-left .rotate { -ms-transform: rotate(-90deg); -webkit-transform: rotate(-90deg); transform: rotate(-90deg); margin-left: -8rem; margin-top: 5vh; display: inline-block; position: absolute; }
 
@@ -129,7 +129,9 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .banner.second { justify-content: flex-start; }
 
-.banner.second h3 { font-size: 2rem; }
+.banner.second h3 { font-size: 1.6rem; font-weight: 300; }
+
+.banner.second p { font-size: 1.2rem; font-weight: 200; }
 
 .overlay:after { content: ''; position: absolute; width: 100%; height: 100%; top: 0; left: 0; background: rgba(0, 0, 0, 0.3); z-index: 1; }
 
@@ -192,6 +194,14 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 /* Contact Page */
 .contact i.fa { min-width: 1.5rem; }
 
+.slick-prev, .slick-next { z-index: 999; width: 3rem; height: 3rem; }
+
+.slick-prev::before, .slick-next::before { font-size: 3rem; color: white; opacity: .8; }
+
+.slick-prev { left: 2rem; }
+
+.slick-next { right: 2rem; }
+
 @media (max-width: 768px) { /* xs */ .image, .post-image { padding-bottom: 50%; } .services-loop .grid { padding: 5vh 0; } .offset-left { margin: 0; border: none; } .columns { -webkit-columns: auto 1; /* Chrome, Safari, Opera */ -moz-columns: auto 1; /* Firefox */ columns: auto 1; } }
 
 body { font-family: 'Poppins', sans-serif; font-weight: 300; }
@@ -215,12 +225,12 @@ li { list-style-position: outside; padding-left: 0.5rem; margin-top: 1rem; margi
 nav li { margin: 0; }
 
 /* Other elements */
-hr { border: none; border-bottom: 2px solid #59b350; width: 3.5rem; margin: 1rem 0; }
+hr { border: none; border-bottom: 2px solid #71a334; width: 3.5rem; margin: 1rem 0; }
 
 hr.center { margin-left: auto; margin-right: auto; }
 
 /* buttons */
-.button { padding: 0.5em 1em; margin: 0.5em 0; border: 1px solid #59b350; color: #59b350; text-decoration: none; transition: all 0.5s; background-color: white; }
+.button { padding: 0.5em 1em; margin: 0.5em 0; border: 1px solid #71a334; color: #71a334; text-decoration: none; transition: all 0.5s; background-color: white; }
 
 .button:hover { border-color: #41414D; color: #41414D; }
 
