@@ -96,13 +96,15 @@ second-banner-image_path: /uploads/SBE_Banner.jpg
 
 
   <div class="col-4_sm-12 image about" style="background-image:url('{% for img in project.images limit:1%}{{img.image_path}}{% endfor %}');">
-    <div class="hover-overlay  team-member">
-      <div class="text-overlay">
-        <span class="name">{{project.name}}</span>
-        <span class="title">{{project.architect}}</span>
+    <a href="{{project.url}}">
+      <div class="hover-overlay  team-member">
+        <div class="text-overlay">
+          <span class="name">{{project.name}}</span>
+          <span class="title">{{project.architect}}</span>
+        </div>
       </div>
-    </div>
-      </div>
+    </a>
+  </div>
   {% endfor %}
 </div>
 </section>

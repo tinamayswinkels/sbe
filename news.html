@@ -20,9 +20,9 @@ banner-image_path: /uploads/craigieburn-regional-aquatic-&-leisure-centre-01.JPG
 
   <div class="masnory-layout padded-2">
   {% for post in newsPost %}
-      <a href="{{post.url}}" class="masnory-item padded-1">
-      <div class="padded-2">
+      <a href="{{post.url}}" class="masnory-item">
         <img src="{{post.image_path}}" alt="{{post.title}}">
+      <div class="padded-2">
           <h3> {{post.title}}</h3>
           <p>{{post.date | date_to_string}}</p>
           <p class="padded-b-1r"> {{post.description | truncatewords:50}} </p>

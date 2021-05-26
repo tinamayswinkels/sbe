@@ -23,6 +23,8 @@ banner-image_path: /uploads/bosch-01.jpg
   </div>
 </section>
 
+{% comment %}
+<!-- old content -->
 <section class="padded">
   <h1 class="center">Our Services</h1>
   {% assign sorted_services = site.services | sort: 'number' %}
@@ -41,7 +43,6 @@ banner-image_path: /uploads/bosch-01.jpg
   </div>
 </section>
 
-{% comment %}
 <section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
   <div class="banner-inner">
       <h1 class="editable">Services</h1>
@@ -95,4 +96,23 @@ banner-image_path: /uploads/bosch-01.jpg
   {% endfor %}
 
 </section>
+
+notes for SBE
+
+1) reduced font size to 1.5rem and .9rem. also reduced margin bottom which i beleve was what they were talking about for line height
+2) alread implemnted but a project needs at least 5 imges to trigger it any less and it uses static images
+
+minor
+1)added links to take them to their respective pages
+2) no clue what they are talking about on this one
+3)removed bottom layout
+4)couldnt replicate the problem over all my browser types might be a safari thig if you can have a look
+
+
+
+
+
+
+
+
 {% endcomment %}

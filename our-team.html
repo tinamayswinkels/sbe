@@ -16,53 +16,58 @@ second-banner-image_path: /uploads/northbank-place-01.jpg
 <div class="grid-center">
 
   {% for person in site.data.team %}
-      <div class="col-3_sm-6 padded-1">
-        <div class="image about square leaderPic" style="background-image:url('{{person.image_path}}');">
-        <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
-          <div class="text-overlay">
-            <span class="name">{{person.name}}</span>
-            <span class="title">{{person.title}}</span>
-          </div>
+  <div class="col-3_sm-6 padded-1">
+    <div class="image about square leaderPic" style="background-image:url('{{person.image_path}}');">
+      <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
+        <div class="text-overlay">
+          <span class="name">{{person.name}}</span>
+          <span class="title">{{person.title}}</span>
         </div>
       </div>
-        <p class="left">
-          {{person.description | truncatewords: 45}}
-        </p>
-      </div>
-  <section class="popup grid" data-pop="pop{{ forloop.index }}">
-    <div class="col-4_sm-6_xs-12">
-      <img src="{{person.image_path}}" alt="{{person.name}} {{person.title}}">
     </div>
-    <div class="col-8_sm-6_xs-12 left">
-      <h2 class="name center">{{person.name}}</h2>
-      <h3 class="title">{{person.title}}</h3>
-      <ul class="cleanList">
-        {% for ed in person.education %}
-          <li>{{ed}}</li>
-        {% endfor %}
-      </ul>
-      <p>
-        {{person.description}}
-      </p>
-    </div>
-    <div class="popupX">
-      <svg viewBox="0 0 100 100">
-        <path d="M 0,0 L100,100" />
-        <path d="M 100,0 L0,100" />
-      </svg>
-    </div>
-
-  </section>
-
-
-
+    <p class="left">
+      {{person.description | truncatewords: 45}}
+    </p>
+  </div>
   {% endfor %}
-
-  <div class="popUpOverlay"></div>
 
 </div>
 
 </section>
+{% for person in site.data.team %}
+
+<section class="popup grid" data-pop="pop{{ forloop.index }}">
+  <div class="col-4_xs-12">
+    <img src="{{person.image_path}}" alt="{{person.name}} {{person.title}}">
+  </div>
+  <div class="col-8_sm-6_xs-12 left">
+    <h2 class="name center">{{person.name}}</h2>
+    <h3 class="title">{{person.title}}</h3>
+    <ul class="cleanList">
+      {% for ed in person.education %}
+      <li>{{ed}}</li>
+      {% endfor %}
+    </ul>
+    <p>
+      {{person.description}}
+    </p>
+  </div>
+  <div class="popupX">
+    <svg viewBox="0 0 100 100">
+      <path d="M 0,0 L100,100" />
+      <path d="M 100,0 L0,100" />
+    </svg>
+  </div>
+
+</section>
+
+
+
+{% endfor %}
+
+<div class="popUpOverlay"></div>
+
+
 
 <section class="banner second short overlay grid" style="background-image:url('{{page.banner-image_path}}');">
   <div class="banner-inner editable light col-6 left padded">
