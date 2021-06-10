@@ -1,0 +1,17 @@
+.masnory-layout{
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.masnory-item:nth-child(3n+1) { order: 1; }
+.masnory-item:nth-child(3n+2) { order: 2; }
+.masnory-item:nth-child(3n)   { order: 3; }
+
+/* Force new columns */
+.masnory-layout::before,
+.masnory-layout::after {
+  content: "";
+  flex-basis: 100%;
+  width: 0;
+  order: 2;
+}

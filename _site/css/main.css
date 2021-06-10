@@ -1,3 +1,4 @@
+@charset "UTF-8";
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 html { overflow-x: hidden; font-size: 14px; color: #3c3c3c; background-color: whitesmoke; }
@@ -92,6 +93,8 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .no-padding { padding: 0; }
 
+.padded-10 { padding: 10%; }
+
 .margin-2 { margin: 5% 2%; }
 
 .margin-top { margin-top: 5%; }
@@ -184,7 +187,7 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .hover-overlay:hover { background: rgba(0, 0, 0, 0.6); }
 
-.about .text-overlay { bottom: 10px; left: 10px; text-align: left; border-left: 2px solid white; padding: 0.5rem 1rem; font-size: 1.5rem; display: none; }
+.about .text-overlay { bottom: 10px; left: 10px; text-align: left; border-left: 2px solid white; padding: 0.5rem 1rem; font-size: 1.5rem; display: none; line-height: 1.3; }
 
 .about:hover .text-overlay { display: block; }
 
@@ -200,13 +203,15 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .slick-prev, .slick-next { z-index: 999; width: 3rem; height: 3rem; }
 
-.slick-prev::before, .slick-next::before { font-size: 3rem; color: white; opacity: .8; }
+.slick-prev::before, .slick-next::before { content: "➝"; font-size: 2rem; color: black; opacity: .8; }
+
+.slick-prev::before { transform: rotate(180dec); }
 
 .testimonials .slick-prev::before, .testimonials .slick-next::before { color: black; }
 
-.slick-prev { left: 2rem; }
+.slick-prev { left: -3rem; transform: rotate(180deg); }
 
-.slick-next { right: 2rem; }
+.slick-next { right: -3rem; }
 
 .masnory-item { width: 240px; display: block; padding-bottom: 2rem; border: 1px solid #7b7b7b; margin-bottom: 20px; }
 
@@ -272,5 +277,16 @@ hr.center { margin-left: auto; margin-right: auto; }
 polygon, path { fill: rgba(0, 0, 0, 0); stroke: black; stroke-width: 5; }
 
 .popupX { position: absolute; top: 1rem; right: 1rem; width: 1rem; }
+
+.masnory-layout { display: flex; flex-flow: column wrap; }
+
+.masnory-item:nth-child(3n+1) { order: 1; }
+
+.masnory-item:nth-child(3n+2) { order: 2; }
+
+.masnory-item:nth-child(3n) { order: 3; }
+
+/* Force new columns */
+.masnory-layout::before, .masnory-layout::after { content: ""; flex-basis: 100%; width: 0; order: 2; }
 
 /*# sourceMappingURL=main.css.map */

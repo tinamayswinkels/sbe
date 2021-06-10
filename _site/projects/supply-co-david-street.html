@@ -159,13 +159,15 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
 <style media="screen">
   .slick-slider {padding-bottom: 2rem;}
+  .slick-prev {transform: rotate(180deg);}
   .slick-prev, .slick-next{
     top: 97%;
-    font-size:1rem;
+    font-size:4rem;
   }
   .slick-prev {left: 1rem;}
   .slick-next {left: 3rem; right:auto}
   .slick-prev::before, .slick-next::before{
+    content: "➝" ;
     color:black;
   }
 </style>
@@ -224,15 +226,12 @@
     <div class="slideshow-container">
       
       <div class="project-image" style="background-image:url('/uploads/supply-co-david-st-exterior-01.jpg');">
-
       </div>
       
       <div class="project-image" style="background-image:url('/uploads/supply-co-david-st-exterior-02.jpg');">
-
       </div>
       
       <div class="project-image" style="background-image:url('/uploads/supply-co-david-st-exterior-03.jpg');">
-
       </div>
       
     </div>
@@ -387,7 +386,9 @@ $('.mobile-menu-button').click(function() {
     slidesToScroll: 1,
     autoplay: true,
     arrows: true,
-    autoplaySpeed: 3000,
+    autoplaySpeed: 4000,  
+    prevArrow: '<button type="button" class="slick-prev">&#10141;</button>',
+    nextArrow: '<button type="button" class="slick-next">&#10141;</button>'
 
   });
 </script>

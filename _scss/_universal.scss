@@ -16,6 +16,8 @@
 .padded-b-1r{ padding-bottom:1rem;}
 .padded-2 {   padding: 2%;  }
 .no-padding { padding: 0;   }
+.padded-10 {   padding: 10%;  }
+
 
 .margin-2 {margin: 5% 2%;}
 .margin-top {margin-top: 5%;}
@@ -288,6 +290,7 @@
   padding: 0.5rem 1rem ;
   font-size: 1.5rem;
   display: none;
+  line-height: 1.3;
 }
 
 .about:hover .text-overlay {
@@ -330,19 +333,25 @@
 }
 
 .slick-prev::before, .slick-next::before{
-font-size:3rem;
-color:white;
-opacity:.8;
+  content: "➝";
+  font-size: 2rem;
+  color:rgb(0, 0, 0);
+  opacity:.8;
+}
+
+.slick-prev::before{
+  transform: rotate(180dec);
 }
 
 .testimonials .slick-prev::before,.testimonials .slick-next::before{
   color: black;
 }
 .slick-prev{
-  left:2rem;
+  left:-3rem;
+  transform: rotate(180deg);
 }
 .slick-next{
-  right:2rem;
+  right:-3rem;
 }
 
 .testimonials .slick-prev::before,.testimonials .slick-next::before{
