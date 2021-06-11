@@ -4,9 +4,11 @@ title: SBE Services
 banner-image_path: /uploads/bosch-01.jpg
 ---
 
+{% assign nonpassiv = site.services | where:"sbe_passiv", "false" %}
+
 <section class="padded">
   <h1 class="center">Our Services</h1>
-  {% assign sorted_services = site.services | sort: 'number' %}
+  {% assign sorted_services = nonpassiv | sort: 'number' %}
   <div class="grid">
     {% for service in sorted_services %}
 

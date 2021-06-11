@@ -4,6 +4,7 @@ layout: service
 blurb: Designing thriving places in harmony with nature and communities
 image_path: /images/services-sustainable-masterplanning.jpg
 number: 1
+sbe_passiv: false
 ---
 
 
