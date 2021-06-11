@@ -213,8 +213,6 @@ footer nav a { font-size: 0.9rem; padding: 0.2rem 0; }
 
 .slick-next { right: -3rem; }
 
-.masnory-item { width: 240px; display: block; padding-bottom: 2rem; border: 1px solid #7b7b7b; margin-bottom: 20px; }
-
 @media (max-width: 768px) { /* xs */ .image, .post-image { padding-bottom: 50%; } .services-loop .grid { padding: 5vh 0; } .offset-left { margin: 0; border: none; } .columns { -webkit-columns: auto 1; /* Chrome, Safari, Opera */ -moz-columns: auto 1; /* Firefox */ columns: auto 1; } }
 
 body { font-family: 'Poppins', sans-serif; font-weight: 300; }
@@ -277,5 +275,17 @@ hr.center { margin-left: auto; margin-right: auto; }
 polygon, path { fill: rgba(0, 0, 0, 0); stroke: black; stroke-width: 5; }
 
 .popupX { position: absolute; top: 1rem; right: 1rem; width: 1rem; }
+
+.masnory-item, .item-sizer { width: calc(20% - 20px); display: block; border: 1px solid #7b7b7b; margin-bottom: 20px; }
+
+.masnory-item div { padding: 20px; }
+
+@media only screen and (max-width: 945px) { .masnory-item, .item-sizer { width: calc(25% - 20px); } }
+
+@media only screen and (max-width: 758px) { .masnory-item, .item-sizer { width: calc(33% - 20px); } }
+
+@media only screen and (max-width: 568px) { .masnory-item, .item-sizer { width: calc(50% - 20px); } }
+
+@media only screen and (max-width: 568px) { .masnory-item, .item-sizer { width: 100%; } }
 
 /*# sourceMappingURL=main.css.map */

@@ -160,7 +160,7 @@ $('.mobile-menu-button').click(function() {
 
 
 {% if page.url == "/news.html" %}
-<script>
+<!-- <script>
   /*!
    * FlexMasonry
    * Version: 0.2.3
@@ -183,26 +183,26 @@ $('.mobile-menu-button').click(function() {
   }
   );
   console.log('bob');
-</script>
+</script> -->
 
-<!-- <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
-  <script type="text/javascript" defer>
-    console.log("bob");
+<script src="/js/masonry.js"></script>
+  <script type="text/javascript">
     $('.masnory-layout').masonry({
       // options
       itemSelector: ".masnory-item",
-      columnWidth: 240,
-      gutter: 10
+      columnWidth: '.item-sizer',
+      gutter: 20
     });
+    console.log("bob");
     $(document).ready(function(){
       $('.masnory-layout').masonry({
         // options
         itemSelector: ".masnory-item",
-        columnWidth: 240,
+        columnWidth: '.item-sizer',
         gutter: 20
       });
     });  
-  </script> -->
+  </script>
 
 {% endif %}
 

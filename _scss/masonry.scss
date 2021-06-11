@@ -1,17 +1,36 @@
-.masnory-layout{
-    display: flex;
-    flex-flow: column wrap;
+// masonry js css
+
+.masnory-item, .item-sizer {
+    width: calc(20% - 20px);
+    display: block;
+    // padding-bottom: 2rem;
+    border: 1px solid #7b7b7b;
+    margin-bottom: 20px;
 }
 
-.masnory-item:nth-child(3n+1) { order: 1; }
-.masnory-item:nth-child(3n+2) { order: 2; }
-.masnory-item:nth-child(3n)   { order: 3; }
+.masnory-item div{
+    padding: 20px;
+}
 
-/* Force new columns */
-.masnory-layout::before,
-.masnory-layout::after {
-  content: "";
-  flex-basis: 100%;
-  width: 0;
-  order: 2;
+@media only screen and (max-width:945px) {
+    .masnory-item, .item-sizer {
+        width: calc(25% - 20px);
+    }
+}
+
+@media only screen and (max-width:758px) {
+    .masnory-item, .item-sizer {
+        width: calc(33% - 20px);
+    }
+}
+
+    @media only screen and (max-width:568px) {
+    .masnory-item, .item-sizer {
+        width: calc(50% - 20px);
+       }
+}
+        @media only screen and (max-width:568px) {
+    .masnory-item, .item-sizer {
+        width: 100%;
+    }
 }
