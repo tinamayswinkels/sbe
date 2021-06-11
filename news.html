@@ -29,7 +29,8 @@ banner-image_path: /uploads/craigieburn-regional-aquatic-&-leisure-centre-01.JPG
     <div class="padded-5">
       <span class="masonry-light-text">{{post.date | date_to_string}}</span>
       <h3> {{post.title}}</h3>
-      <p class="padded-b-1r"> {{post.content | strip_html | truncate: 50}} </p>
+      <p class=""> {{post.content | strip_html | truncate: 80}} </p>
+      <hr>
       <span class="masonry-light-text">Read More</span>
     </div>
   </a>
