@@ -4,7 +4,7 @@
     width: calc(20% - 20px);
     display: block;
     // padding-bottom: 2rem;
-    border: 1px solid #7b7b7b;
+    border: 1px solid rgb(200,200,200);
     margin-bottom: 20px;
 }
 
@@ -12,6 +12,11 @@
     padding: 20px;
 }
 
+
+.masnory-item hr{
+border-color: rgb(200,200,200);
+width: 100%;
+}
 .masonry-light-text{
 font-size: 0.9rem;
 color: #737373;

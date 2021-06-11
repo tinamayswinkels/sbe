@@ -25,8 +25,9 @@ second-banner-image_path: /uploads/northbank-place-01.jpg
         </div>
       </div>
     </div>
+    {% assign firstSentence = person.description | split: '.' %}
     <p class="left">
-      {{person.description | truncatewords: 45}}
+      {{firstSentence[0]}}.
     </p>
   </div>
   {% endfor %}
