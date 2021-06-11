@@ -27,10 +27,10 @@ banner-image_path: /uploads/craigieburn-regional-aquatic-&-leisure-centre-01.JPG
     ">
     <img src="{{post.image_path}}" alt="{{post.title}}">
     <div class="padded-5">
+      <span class="masonry-light-text">{{post.date | date_to_string}}</span>
       <h3> {{post.title}}</h3>
-      <p>{{post.date | date_to_string}}</p>
-      <p class="padded-b-1r"> {{post.description | | truncate: 50}} </p>
-      <span class="button">Read More</span>
+      <p class="padded-b-1r"> {{post.content | strip_html | truncate: 50}} </p>
+      <span class="masonry-light-text">Read More</span>
     </div>
   </a>
   {% endfor %}

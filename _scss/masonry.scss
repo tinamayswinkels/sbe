@@ -12,6 +12,13 @@
     padding: 20px;
 }
 
+.masonry-light-text{
+font-size: 0.9rem;
+color: #737373;
+}
+
+
+
 @media only screen and (max-width:945px) {
     .masnory-item, .item-sizer {
         width: calc(25% - 20px);
