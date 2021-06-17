@@ -17,14 +17,26 @@ layout: default
 
 {% assign relatedprojects  = site.projects | where: "category",page.category %}
  {% for project in relatedprojects %}
-     <div class="col-4_sm-12 padded-2">
-       <div class="tall-image" style="background-image:url('{{project.images[0].image_path}}');">
-       </div>
-       <a href="{{project.url}}" class="offset-top padded">
-            <h3>{{project.name}}</h3>
-            <p>{{project.blurb}}</p>
-       </a>
-     </div>
+     
+<div class="col-3_md-4_sm-6_xs-12 image about port-item {{project.category}}"
+  style="background-image:url('  {% for img in project.images limit:1 %}{{img.image_path}}" {% endfor %}');">
+  <a href="{{project.url}}" class="hover-overlay" data-target="pop{{ forloop.index }}">
+    <div class="text-overlay">
+      <span class="name">{{project.name}}</span>
+      <span class="title">{{project.title}}</span>
+    </div>
+  </a>
+</div>
+ {%- comment -%}
+ <div class="col-3_md-4_sm-6_xs-12 image about port-item {{project.category}}" style="background-image:url('  {% for img in project.images limit:1 %}{{img.image_path}}"{% endfor %}');">
+   <a href="{{project.url}}" class="hover-overlay" data-target="pop{{ forloop.index }}">
+     <div class="text-overlay">
+       <span class="name">{{project.name}}</span>
+       <span class="title">{{project.title}}</span>
+      </div>
+    </a>
+  </div>
+  {%- endcomment -%}
  {% endfor %}
 
  </div>
