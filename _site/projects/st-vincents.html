@@ -157,26 +157,40 @@
       <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
 <style media="screen">
-  .slick-slider {padding-bottom: 2rem;}
-  .slick-prev {transform: rotate(180deg);}
   .slick-prev, .slick-next{
-    top: 97%;
+    bottom: 2%;
+    top: auto;
     font-size:4rem;
+    transform: rotate(0);
   }
-  .slick-prev {left: 1rem;}
-  .slick-next {left: 3rem; right:auto}
+  .slick-slider {padding-bottom: 2rem;}
+  .slick-prev {
+    /* transform: rotate(180deg); */
+    left: 1rem;
+    }
+  .slick-prev::before{
+    content: "⟵";
+  }  
+  .slick-next {
+    left: 4rem;
+    right:auto; 
+    }
+    .slick-next::before{
+      content: "⟶" ;
+    }
   .slick-prev::before, .slick-next::before{
-    content: "➝" ;
+    font-size: 26px;
     color:black;
   }
 </style>
 <section class="project">
   <div class="grid">
       <div class="col-6_sm-12 padded">
-        <h3 class="sub">healthcare</h3>
+
+        <!-- <h3 class="sub">healthcare</h3> -->
         <h1> St. Vincent Hospital and Aged Care facilities in Werribee</h1>
 
-        <div class="grid project-info">
+        <!-- <div class="grid project-info">
             <div class="col-5_xs-12">
               <h4 class="sub"> ARCHITECT </h4>
               <p> HSPC Health Architects</p>
@@ -189,17 +203,17 @@
               <h4 class="sub"> DATE </h4>
               <p> Feb 2016</p>
             </div>
-        </div>
+        </div> -->
 
+        
+
+      </div>
+      <div class="col-6_sm-12 padded">
         <p>SBE provided NCC Section J compliance services for the new St. Vincent Hospital and Aged Care facilities in Werribee.</p>
 
 <p>JV3 alternative compliance modelling was used to validate the Architect’s vision for the building in relation to glazing and sky lighting.</p>
 
 <p>The result is a series of comfortable and well daylit spaces that will contribute to the health and wellbeing of the occupants.</p>
-
-
-      </div>
-      <div class="col-6_sm-12 image" style="background-image:url('/uploads/st vincent 1.jpg');">
 
       </div>
       <!-- second row -->

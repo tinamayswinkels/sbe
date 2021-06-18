@@ -115,6 +115,7 @@
 .banner {
   background-size: cover;
   background-position: center;
+  background-color: #ddd;
   min-height: 80vh;
   position: relative;
   z-index: 1;
@@ -167,6 +168,11 @@
 .text-banner {
   padding: 5%;
   text-align: center;
+}
+
+.index-banner{
+  min-height:1rem;
+  padding-bottom:80%;
 }
 
 .down-arrow {

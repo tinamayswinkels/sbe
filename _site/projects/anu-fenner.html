@@ -157,26 +157,40 @@
       <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
 <style media="screen">
-  .slick-slider {padding-bottom: 2rem;}
-  .slick-prev {transform: rotate(180deg);}
   .slick-prev, .slick-next{
-    top: 97%;
+    bottom: 2%;
+    top: auto;
     font-size:4rem;
+    transform: rotate(0);
   }
-  .slick-prev {left: 1rem;}
-  .slick-next {left: 3rem; right:auto}
+  .slick-slider {padding-bottom: 2rem;}
+  .slick-prev {
+    /* transform: rotate(180deg); */
+    left: 1rem;
+    }
+  .slick-prev::before{
+    content: "⟵";
+  }  
+  .slick-next {
+    left: 4rem;
+    right:auto; 
+    }
+    .slick-next::before{
+      content: "⟶" ;
+    }
   .slick-prev::before, .slick-next::before{
-    content: "➝" ;
+    font-size: 26px;
     color:black;
   }
 </style>
 <section class="project">
   <div class="grid">
       <div class="col-6_sm-12 padded">
-        <h3 class="sub">educational</h3>
+
+        <!-- <h3 class="sub">educational</h3> -->
         <h1> ANU Fenner</h1>
 
-        <div class="grid project-info">
+        <!-- <div class="grid project-info">
             <div class="col-5_xs-12">
               <h4 class="sub"> ARCHITECT </h4>
               <p> Williams Ross</p>
@@ -189,17 +203,17 @@
               <h4 class="sub"> DATE </h4>
               <p> Feb 2012</p>
             </div>
-        </div>
+        </div> -->
 
+        
+
+      </div>
+      <div class="col-6_sm-12 padded">
         <p>The Frank Fenner building is a small scale institutional faculty building which archived a 6 star Green Star Office Design Rating. The design aimed to integrate with existing site conditions, and to be an example of sustainable design, balancing innovation with common design and construction practices.</p>
 
 <p>The configuration of the building footprint, wrapping around an internal courtyard and adopting a narrow floor plate, creates a high quality internal environment by accessing natural light, fresh air, and views to the outdoor environment, allowing for a strong personal connection to the external environment for both Staff and students.</p>
 
 <p>SBE provided full ESD and Green Star Consultancy Services for the design of this 6 star building.  <a href="/2017/10/31/anu-fenner-short-case-study.html"><strong><em>More information can be found in this short case study - click here.</em></strong></a></p>
-
-
-      </div>
-      <div class="col-6_sm-12 image" style="background-image:url('/uploads/anu-fenner-01.JPG');">
 
       </div>
       <!-- second row -->

@@ -157,26 +157,40 @@
       <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
 <style media="screen">
-  .slick-slider {padding-bottom: 2rem;}
-  .slick-prev {transform: rotate(180deg);}
   .slick-prev, .slick-next{
-    top: 97%;
+    bottom: 2%;
+    top: auto;
     font-size:4rem;
+    transform: rotate(0);
   }
-  .slick-prev {left: 1rem;}
-  .slick-next {left: 3rem; right:auto}
+  .slick-slider {padding-bottom: 2rem;}
+  .slick-prev {
+    /* transform: rotate(180deg); */
+    left: 1rem;
+    }
+  .slick-prev::before{
+    content: "⟵";
+  }  
+  .slick-next {
+    left: 4rem;
+    right:auto; 
+    }
+    .slick-next::before{
+      content: "⟶" ;
+    }
   .slick-prev::before, .slick-next::before{
-    content: "➝" ;
+    font-size: 26px;
     color:black;
   }
 </style>
 <section class="project">
   <div class="grid">
       <div class="col-6_sm-12 padded">
-        <h3 class="sub">residential</h3>
+
+        <!-- <h3 class="sub">residential</h3> -->
         <h1> The Block - 46 Regent Street</h1>
 
-        <div class="grid project-info">
+        <!-- <div class="grid project-info">
             <div class="col-5_xs-12">
               <h4 class="sub"> ARCHITECT </h4>
               <p> Brenchley Architcts</p>
@@ -189,8 +203,12 @@
               <h4 class="sub"> DATE </h4>
               <p> Apr 2017</p>
             </div>
-        </div>
+        </div> -->
 
+        
+
+      </div>
+      <div class="col-6_sm-12 padded">
         <p>SBE has provided MCC Section J Assessment services for 3 of the Channel nine  ‘<strong><em><a href="http://tvtonight.com.au/2017/04/5-houses-on-the-block.html">The Block</a></em></strong>’ projects.</p>
 
 <p>The first was 164 Ingles Street, Port Melbourne which featured in season 12 of the series, the second was 46 Regent Street in Elsernwick (season 13)  and the third The Gatwick Private Hotel at 34 Fitzroy Street, St Kilda which will feature in season 14 of the series in 2018.</p>
@@ -202,10 +220,6 @@
 <p>The V2.6.2.2 modelling has shown that the estimated annual total heating and cooling loads for the proposed buildings are less than that of the estimated figure for the reference buildings. As such, provided that the building sealing items within Section 5.1 are achieved, the proposed design complies with NCC 2016 Part 2.6 via use of the V2.6.2.2 Verification Using a Reference Building method.</p>
 
 <p>SBE’s role included assistance with Town Planning and Building Permit Approvals.</p>
-
-
-      </div>
-      <div class="col-6_sm-12 image" style="background-image:url('/uploads/the-block-46-regent-st-01.bmp');">
 
       </div>
       <!-- second row -->

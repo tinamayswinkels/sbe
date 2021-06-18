@@ -157,26 +157,40 @@
       <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
 <style media="screen">
-  .slick-slider {padding-bottom: 2rem;}
-  .slick-prev {transform: rotate(180deg);}
   .slick-prev, .slick-next{
-    top: 97%;
+    bottom: 2%;
+    top: auto;
     font-size:4rem;
+    transform: rotate(0);
   }
-  .slick-prev {left: 1rem;}
-  .slick-next {left: 3rem; right:auto}
+  .slick-slider {padding-bottom: 2rem;}
+  .slick-prev {
+    /* transform: rotate(180deg); */
+    left: 1rem;
+    }
+  .slick-prev::before{
+    content: "⟵";
+  }  
+  .slick-next {
+    left: 4rem;
+    right:auto; 
+    }
+    .slick-next::before{
+      content: "⟶" ;
+    }
   .slick-prev::before, .slick-next::before{
-    content: "➝" ;
+    font-size: 26px;
     color:black;
   }
 </style>
 <section class="project">
   <div class="grid">
       <div class="col-6_sm-12 padded">
-        <h3 class="sub">commercial</h3>
+
+        <!-- <h3 class="sub">commercial</h3> -->
         <h1> Bosch Headquarters Clayton</h1>
 
-        <div class="grid project-info">
+        <!-- <div class="grid project-info">
             <div class="col-5_xs-12">
               <h4 class="sub"> ARCHITECT </h4>
               <p> PTA</p>
@@ -189,17 +203,17 @@
               <h4 class="sub"> DATE </h4>
               <p> Jul 2017</p>
             </div>
-        </div>
+        </div> -->
 
+        
+
+      </div>
+      <div class="col-6_sm-12 padded">
         <p>The new 3 storey headquarters for Bosch Australia is located on the existing Bosch campus at 1555 Centre Road, Clayton, Victoria.   The ground floor has a rectangular floor plan, whereas the first and second floors have an L-shaped plan, with parts of the second floor cantilevered over the first floor. A roof terrace area can be accessed from the first floor.  The total floor area is 10,230m2.</p>
 
 <p>SBE provided full ESD Consultancy Services for this project, including ESD integration studies, fabric analyses, energy and daylight modelling and final Section JV3 certification.</p>
 
 <p>For more details check out our <a href="/2017/10/31/bosch-case-study.html">short case study here.</a></p>
-
-
-      </div>
-      <div class="col-6_sm-12 image" style="background-image:url('/uploads/bosch-01.jpg');">
 
       </div>
       <!-- second row -->

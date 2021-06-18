@@ -157,26 +157,40 @@
       <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
 <style media="screen">
-  .slick-slider {padding-bottom: 2rem;}
-  .slick-prev {transform: rotate(180deg);}
   .slick-prev, .slick-next{
-    top: 97%;
+    bottom: 2%;
+    top: auto;
     font-size:4rem;
+    transform: rotate(0);
   }
-  .slick-prev {left: 1rem;}
-  .slick-next {left: 3rem; right:auto}
+  .slick-slider {padding-bottom: 2rem;}
+  .slick-prev {
+    /* transform: rotate(180deg); */
+    left: 1rem;
+    }
+  .slick-prev::before{
+    content: "⟵";
+  }  
+  .slick-next {
+    left: 4rem;
+    right:auto; 
+    }
+    .slick-next::before{
+      content: "⟶" ;
+    }
   .slick-prev::before, .slick-next::before{
-    content: "➝" ;
+    font-size: 26px;
     color:black;
   }
 </style>
 <section class="project">
   <div class="grid">
       <div class="col-6_sm-12 padded">
-        <h3 class="sub">educational</h3>
+
+        <!-- <h3 class="sub">educational</h3> -->
         <h1> Dandenong Education Precinct</h1>
 
-        <div class="grid project-info">
+        <!-- <div class="grid project-info">
             <div class="col-5_xs-12">
               <h4 class="sub"> ARCHITECT </h4>
               <p> Hayball</p>
@@ -189,17 +203,17 @@
               <h4 class="sub"> DATE </h4>
               <p> Apr 2009</p>
             </div>
-        </div>
+        </div> -->
 
+        
+
+      </div>
+      <div class="col-6_sm-12 padded">
         <p>The Dandenong Education Precinct is a ground-breaking project which involved the amalgamation of three existing secondary schools using a new educational model into a flexible teaching centre.</p>
 
 <p>SBE provided full ESD consultancy services from concept design through to the construction phase and assisted the design team implementing the latest thinking on Pedagogy and ESD in educational facilities. The Schools-Within-Schools (SWIS) model gathers more than 2,100 students in seven buildings (with total UFA of 1,240 m²) carefully integrated around a central communal space.</p>
 
 <p>SBE used the Green Star Education Pilot tool to guide the design process and assist the school achieve high levels of thermal comfort, daylight access, glare control and improved natural ventilation. Ducted ventilation, evaporative cooling and gas fired heating, together with carefully designed external shading and active thermal mass contribute to the efficiency and comfort experience by the school.</p>
-
-
-      </div>
-      <div class="col-6_sm-12 image" style="background-image:url('/uploads/dandenong-education-precinct-01.JPG');">
 
       </div>
       <!-- second row -->

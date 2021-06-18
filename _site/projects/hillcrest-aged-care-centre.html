@@ -157,26 +157,40 @@
       <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
 <style media="screen">
-  .slick-slider {padding-bottom: 2rem;}
-  .slick-prev {transform: rotate(180deg);}
   .slick-prev, .slick-next{
-    top: 97%;
+    bottom: 2%;
+    top: auto;
     font-size:4rem;
+    transform: rotate(0);
   }
-  .slick-prev {left: 1rem;}
-  .slick-next {left: 3rem; right:auto}
+  .slick-slider {padding-bottom: 2rem;}
+  .slick-prev {
+    /* transform: rotate(180deg); */
+    left: 1rem;
+    }
+  .slick-prev::before{
+    content: "⟵";
+  }  
+  .slick-next {
+    left: 4rem;
+    right:auto; 
+    }
+    .slick-next::before{
+      content: "⟶" ;
+    }
   .slick-prev::before, .slick-next::before{
-    content: "➝" ;
+    font-size: 26px;
     color:black;
   }
 </style>
 <section class="project">
   <div class="grid">
       <div class="col-6_sm-12 padded">
-        <h3 class="sub">healthcare</h3>
+
+        <!-- <h3 class="sub">healthcare</h3> -->
         <h1> Regis Hillcrest Aged Care Centre</h1>
 
-        <div class="grid project-info">
+        <!-- <div class="grid project-info">
             <div class="col-5_xs-12">
               <h4 class="sub"> ARCHITECT </h4>
               <p> Silver Thomas Hanley (STH)</p>
@@ -189,17 +203,17 @@
               <h4 class="sub"> DATE </h4>
               <p> Jun 2017</p>
             </div>
-        </div>
+        </div> -->
 
+        
+
+      </div>
+      <div class="col-6_sm-12 padded">
         <p>The project is located in Hillcrest in Western Australia. The project consisted of the demolition of existing buildings fronting Harvest Road and Turton Street to make way for a two storey and three storey development comprising of 109 beds and has a maximum staffing allowance of 43 staff at any one time. The buildings have a total Gross Floor Area of 6,521m2.</p>
 
 <p>This project was awarded a 4 star rating under the Green Star Healthcare Design v1 tool in 2016, which equates to Australian Best Practice.</p>
 
 <p>SBE provided full ESD and Green Star Consultancy Services for this project.  <a href="/2017/05/01/regis-hillcrest.html"><strong><em>More information can be found by clicking here.</em></strong></a></p>
-
-
-      </div>
-      <div class="col-6_sm-12 image" style="background-image:url('/uploads/regis-hillcrest-aged-care-centre-01.jpg');">
 
       </div>
       <!-- second row -->

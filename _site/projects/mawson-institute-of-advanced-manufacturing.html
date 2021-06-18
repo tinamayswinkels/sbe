@@ -157,26 +157,40 @@
       <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
 <style media="screen">
-  .slick-slider {padding-bottom: 2rem;}
-  .slick-prev {transform: rotate(180deg);}
   .slick-prev, .slick-next{
-    top: 97%;
+    bottom: 2%;
+    top: auto;
     font-size:4rem;
+    transform: rotate(0);
   }
-  .slick-prev {left: 1rem;}
-  .slick-next {left: 3rem; right:auto}
+  .slick-slider {padding-bottom: 2rem;}
+  .slick-prev {
+    /* transform: rotate(180deg); */
+    left: 1rem;
+    }
+  .slick-prev::before{
+    content: "⟵";
+  }  
+  .slick-next {
+    left: 4rem;
+    right:auto; 
+    }
+    .slick-next::before{
+      content: "⟶" ;
+    }
   .slick-prev::before, .slick-next::before{
-    content: "➝" ;
+    font-size: 26px;
     color:black;
   }
 </style>
 <section class="project">
   <div class="grid">
       <div class="col-6_sm-12 padded">
-        <h3 class="sub">educational</h3>
+
+        <!-- <h3 class="sub">educational</h3> -->
         <h1> Mawson Institute Of Advanced Manufacturing (MIAM)</h1>
 
-        <div class="grid project-info">
+        <!-- <div class="grid project-info">
             <div class="col-5_xs-12">
               <h4 class="sub"> ARCHITECT </h4>
               <p> Russell & Yelland and Guida Mosely Brown</p>
@@ -189,17 +203,17 @@
               <h4 class="sub"> DATE </h4>
               <p> May 2012</p>
             </div>
-        </div>
+        </div> -->
 
+        
+
+      </div>
+      <div class="col-6_sm-12 padded">
         <p><strong>Building V at Mawson Lakes campus</strong></p>
 
 <p>The University of South Australia’s Building V - Mawson Institute at Mawson Lakes Campus has been awarded a 5 Star Green Star - Education Designs v1 Certified rating, which represents ‘Australian Excellence’ in environmentally sustainable design/construction. Building V - Mawson Institute was the first laboratory intensive building to achieve a 5 Star Green Star rating in South Australia in 2011.<br /><br />SBE provided full ESD and Green Star services for this building.  <a href="/2017/10/31/mawson-lakes-case-study.html"><strong><em>More information on the building’s design can be found by clicking here.</em></strong></a></p>
 
 <p> </p>
-
-
-      </div>
-      <div class="col-6_sm-12 image" style="background-image:url('/uploads/mawson-institute-of-advanced-manufacturing-01.JPG');">
 
       </div>
       <!-- second row -->

@@ -157,26 +157,40 @@
       <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
 <style media="screen">
-  .slick-slider {padding-bottom: 2rem;}
-  .slick-prev {transform: rotate(180deg);}
   .slick-prev, .slick-next{
-    top: 97%;
+    bottom: 2%;
+    top: auto;
     font-size:4rem;
+    transform: rotate(0);
   }
-  .slick-prev {left: 1rem;}
-  .slick-next {left: 3rem; right:auto}
+  .slick-slider {padding-bottom: 2rem;}
+  .slick-prev {
+    /* transform: rotate(180deg); */
+    left: 1rem;
+    }
+  .slick-prev::before{
+    content: "⟵";
+  }  
+  .slick-next {
+    left: 4rem;
+    right:auto; 
+    }
+    .slick-next::before{
+      content: "⟶" ;
+    }
   .slick-prev::before, .slick-next::before{
-    content: "➝" ;
+    font-size: 26px;
     color:black;
   }
 </style>
 <section class="project">
   <div class="grid">
       <div class="col-6_sm-12 padded">
-        <h3 class="sub">commercial</h3>
+
+        <!-- <h3 class="sub">commercial</h3> -->
         <h1> Goods Shed North</h1>
 
-        <div class="grid project-info">
+        <!-- <div class="grid project-info">
             <div class="col-5_xs-12">
               <h4 class="sub"> ARCHITECT </h4>
               <p> Bligh Voller Nield (BVN)</p>
@@ -189,8 +203,12 @@
               <h4 class="sub"> DATE </h4>
               <p> Jan 2013</p>
             </div>
-        </div>
+        </div> -->
 
+        
+
+      </div>
+      <div class="col-6_sm-12 padded">
         <p>The historic Goods Shed North at Melbourne Docklands, which had been derelict for thirty years, was renovated to a performing building achieving a 5 Star Green Star base building and 5 Star Green Star interior ratings.</p>
 
 <p>SBE was appointed as the Green Star Accredited Professional for the interior fitout for the Building Commission and Plumbing Industry Commission.</p>
@@ -200,10 +218,6 @@
 <p>The design solution aimed to achieve an aesthetic response that built on the existing and reinterpreted elements into a new aesthetic. The building’s key historical elements (high ceilings, clerestory windows, exposed trusses and brickwork and cast iron heritage columns) have been retained whilst incorporating state-of-the-art technology. Tower structures contained within the atrium spaces are used to house both formal and informal meeting and café facilities. The structures assist with space delineation and create alternative work spaces that promote more innovative work styles and invigorate staff.</p>
 
 <p>The refurbishment of this building and its transformation into a vibrant workplace shows what is possible when adaptive reuse of building stock is undertaken with a clear vision and a shared goal. The end result is the creation of Victoria’s most sustainable historic building - the first 5 Star Green Star heritage-listed building in the state. The BC/PIC workplace received a 5 star Green Star Office Interiors v1.1 rating.</p>
-
-
-      </div>
-      <div class="col-6_sm-12 image" style="background-image:url('/uploads/goods-shed-north-01.JPG');">
 
       </div>
       <!-- second row -->
