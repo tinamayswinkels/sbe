@@ -81,7 +81,7 @@ scripts: >
       <!-- second row -->
     </div>
     <div class="slideshow-container">
-      {% for img in page.images offset:1 %}
+      {% for img in page.images %}
       <div class="project-image" style="background-image:url('{{img.image_path}}');">
       </div>
       {% endfor %}

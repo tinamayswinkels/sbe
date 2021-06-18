@@ -64,10 +64,7 @@ banner-image_path: /uploads/one-flintoff-01.jpg
     </div>
 
     {% for cat in site.project-categories %}
-    <div class="padded-1">
       <a class="button filter">{{cat.category | replace:"-"," "}}</a>
-    </div>
-
     {% endfor %}
   </nav>
   <div class="grid padded" id="portfolio-grid">
