@@ -172,7 +172,7 @@
 
 .index-banner{
   min-height:1rem;
-  padding-bottom:80%;
+  padding-bottom:44%;
 }
 
 .down-arrow {
@@ -339,14 +339,14 @@
 }
 
 .slick-prev::before, .slick-next::before{
-  content: "➝";
+  content: "❯";
   font-size: 2rem;
   color:rgb(0, 0, 0);
   opacity:.8;
 }
 
 .slick-prev::before{
-  transform: rotate(180dec);
+  content: "❮";
 }
 
 .testimonials .slick-prev::before,.testimonials .slick-next::before{
@@ -354,7 +354,6 @@
 }
 .slick-prev{
   left:-3rem;
-  transform: rotate(180deg);
 }
 .slick-next{
   right:-3rem;
@@ -366,7 +365,7 @@
 
 
 
-@media (max-width: 768px) { /* xs */
+@media screen and (max-width:35.5em) { /* xs */
     .image,
     .post-image {
       padding-bottom: 50%;
@@ -384,4 +383,63 @@
     -moz-columns: auto 1; /* Firefox */
     columns: auto 1;
   }
+
+
+
+}
+
+
+// gridlex md
+
+@media screen and (max-width:48em) {
+  
+  .hover-overlay {
+ position: absolute;
+ top: 0;
+ bottom: 0;
+ left: 0;
+ right: 0;
+ height: 100%;
+ width: 100%;
+ background-color: rgba(255, 255, 255, 0.61);
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.hover-overlay:hover {
+    background: rgba(255, 255, 255, 0.61);
+}
+
+.about .text-overlay {
+ bottom: 10px;
+ left: 10px;
+ text-align: left;
+ border-left: 0px solid white; /*! padding: 0.5rem 1rem; */
+ font-size: 1.5rem;
+ display: block;
+ line-height: 1.3; /*! align-content: center; */
+ /*! justify-content: center; */padding: 5vw;
+ text-align: center;
+}
+.text-overlay { 
+  position: static;
+  bottom: 0px;
+ font-size: 2rem;
+ line-height: 0.9;
+ right: 1rem;
+ color: rgba(0, 0, 0, 0.8);
+ font-weight: 600;
+ margin: 0;
+}
+
+.about .text-overlay .title {
+ font-size: .8rem;
+ text-transform: uppercase;
+ display: none;
+ margin-top: 0.6rem;
+ font-weight: 600;
+}
+
+
 }
