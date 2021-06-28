@@ -7,8 +7,8 @@ subtitle: >-
 description: >-
   Vic Parade, Mars Stadium, Elgin Boulevard, Benalla DELWP Depot, Polycarbonate
   and Glulam.
-image_path:
-banner-image_path:
+image_path: /uploads/benalla.png
+banner-image_path: /uploads/building.jpg
 ---
 We have been busy working on a variety of projects for NCC section J compliance and NatHERS ratings. We worked on ratings for townhouses at Victoria Parade, Section J assessment for the new module of food and beverage block at the Mars Stadium. This was followed by the Elgin Boulevard project. It involved working on the DTS assessment for the north and south block. It had some intriguing facade geometry and assemblies, which made it interesting to perform the DTS building fabric assessment. We conducted our preliminary section J assessment and are now waiting to hear back on the same.&nbsp;
 
