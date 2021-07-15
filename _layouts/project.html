@@ -64,33 +64,11 @@ scripts: >
   <div class="grid">
       <div class="col-6_sm-12 padded">
 
-        <!-- <h3 class="sub">{{page.category}}</h3> -->
-        <h1> {{page.name}}</h1>
-
-        <!-- <div class="grid project-info">
-            <div class="col-5_xs-12">
-              <h4 class="sub"> ARCHITECT </h4>
-              <p> {{page.architect}}</p>
-            </div>
-            <div class="col">
-              <h4 class="sub"> CLIENT </h4>
-              <p> {{page.client}}</p>
-            </div>
-            <div class="col">
-              <h4 class="sub"> DATE </h4>
-              <p> {{page.date | date: "%b %Y"}}</p>
-            </div>
-        </div> -->
-
-        
+        <h1>{{page.name}}</h1>
 
       </div>
-      <div class="col-6_sm-12 padded"
-      {%- comment -%}
-        style="background-image:url('{{page.images[0].image_path}}');"
-      {%- endcomment -%} 
-      >
-
+      
+      <div class="col-6_sm-12 padded">
         {{content}}
       </div>
       <!-- second row -->
@@ -104,9 +82,9 @@ scripts: >
 </section>
 <!-- for slide show -->
 
-{%- comment -%}
+{% comment %}
       {% for img in page.images %}
       <div class="project-image" style="background-image:url('{{img.image_path}}');">
       </div>
       {% endfor %}
-{%- endcomment -%}
+{% endcomment %}
