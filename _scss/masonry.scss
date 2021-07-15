@@ -1,5 +1,9 @@
 // masonry js css
 
+.masnory-layout{
+    margin-left: 10px;
+}
+
 .masnory-item, .item-sizer {
     width: calc(20% - 20px);
     display: block;
@@ -43,6 +47,9 @@ color: #737373;
 }
         @media only screen and (max-width:568px) {
     .masnory-item, .item-sizer {
-        width: 100%;
+        width: calc(100% - 15px)
     }
+    .masnory-layout{
+    margin-left: 0px;
+}
 }
