@@ -266,7 +266,7 @@ hr.center { margin-left: auto; margin-right: auto; }
 
 .logo { max-width: 10rem; }
 
-.popup { position: fixed; left: 100vw; z-index: 5; padding: 2rem; background-color: white; }
+.popup { position: fixed; left: 103vw; z-index: 5; padding: 2rem; background-color: white; }
 
 .popup img { min-height: 100%; object-fit: cover; object-position: center; }
 
