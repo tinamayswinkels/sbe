@@ -5,6 +5,9 @@ collections:
     output: true
   project-categories:
     output: true
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title:output_ext
 
 sass:
     sass_dir: _scss

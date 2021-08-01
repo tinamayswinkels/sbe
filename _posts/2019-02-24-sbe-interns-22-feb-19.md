@@ -3,6 +3,7 @@ title: SBE Interns 22 Feb 19
 subtitle: Last week for Oscar
 image_path: /uploads/interns 22feb19.jpg
 layout: post
+category: interns
 banner-image_path: /uploads/271-collins.jpg
 ---
 

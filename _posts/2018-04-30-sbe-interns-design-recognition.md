@@ -3,6 +3,7 @@ title: SBE Intern's Design Recognition
 subtitle: Certificate of Merit awarded
 image_path: /uploads/certificate.JPG
 layout: post
+category: interns
 banner-image_path: /uploads/certificate.JPG
 ---
 

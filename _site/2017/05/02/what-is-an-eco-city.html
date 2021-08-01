@@ -8,8 +8,20 @@
 
 <!--  Links to stylesheets -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css" rel="stylesheet" >
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+<!-- font-family:"acumin-pro"; for headings -->
+<link rel="stylesheet" href="https://use.typekit.net/ggr7ema.css">
+
+<!-- font-family: 'Poppins', sans-serif; for P -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap" rel="stylesheet">
+<!-- index -->
+
+<!-- about -->
+
+ 
+<!-- old font -->
+<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet"> -->
 <link href="/css/main.css" rel="stylesheet">
 
 <!-- this links to a favicon in the images folder -->
@@ -29,10 +41,13 @@
   <body>
 
       <header class="grid">
-   <div class="col-4-middle logo padded">
-      <img src="/images/logo.jpg" alt="SBE Sustainable Built Environments"/>
+   <div class="col-2_xs-8-middle logo">
+     <div class="padded logo">
+       <img src="/images/logoMk2.jpg" alt="SBE Sustainable Built Environments" />
+     </div>
    </div>
-   <div class="col-8-middle right">
+
+   <div class="col-10_xs-4-middle right">
      <nav class="menu mob-hide">
        <li> <a href="/index.html"> Home </a> </li>
       <li> <a href="/about"> About </a> </li>
@@ -41,29 +56,33 @@
          <div class="sub-menu grid left padded">
            <div class="col-3">
              <h3> OUR SERVICES </h3>
-             <p class="editable">We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.</p>
+             <p class="editable">
+               We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.
+             </p>
            </div>
            <div class="col-3"> <!-- empty div --> </div>
            <div class="col-3">
                 
-                <a href="/services-extended#building-permit"> Building Permit</a>
+                <a href="/services/building-permit.html"> Building Permit</a>
                 
-                <a href="/services-extended#building-physics"> Building Physics</a>
+                <a href="/services/building-physics.html"> Building Physics</a>
                 
-                <a href="/services-extended#building-simulation"> Building Simulation</a>
+                <a href="/services/building-simulation.html"> Building Simulation</a>
                 
-                <a href="/services-extended#energy-audits"> Energy Audits</a>
+                <a href="/services/energy-audits.html"> Energy Audits</a>
                 
-                <a href="/services-extended#research"> Research</a>
+                <a href="/services/passivehaus.html"> Passivehaus</a>
                 
-                <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
+                <a href="/services/research.html"> Research</a>
                 
             </div>
             <div class="col-3">
               
-              <a href="/services-extended#town-planning"> Town Planning</a>
+              <a href="/services/s-master-planning.html"> Sustainable Master Planning</a>
               
-              <a href="/services-extended#voluntary-certification"> Voluntary Certification</a>
+              <a href="/services/town-planning.html"> Town Planning</a>
+              
+              <a href="/services/voluntary-certification.html"> Voluntary Certification</a>
               
             </div>
          </div>
@@ -73,16 +92,16 @@
         <div class="sub-menu grid left padded">
           <div class="col-3">
             <h3> OUR PROJECTS </h3>
-            <p class="editable">We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.</p>
+            <p class="editable">
+              We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.
+            </p>
           </div>
           <div class="col-3"> <!-- empty div --> </div>
           <div class="col-3">
               
-              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure</a>
+              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure</a>
               
               <a href="/project-categories/commercial.html"> Commercial</a>
-              
-              <a href="/project-categories/eco-tourism.html"> Eco Tourism</a>
               
               <a href="/project-categories/education.html"> Education</a>
               
@@ -97,11 +116,21 @@
         </div>
       </li>
       <li>
-          <a href="/blog"> Blog </a>
+          <a href="/our-team"> Our Team </a>
+      </li>
+      <li>
+          <a href="/news"> News </a>
       </li>
       <li>
           <a href="/contact"> Contact </a>
       </li>
+      <!-- <li>
+        <form action="/search" method="get">
+          <i class="fas fa-search"></i>
+          <input type="text" class="button" id="search-box" placeholder='find me news about...' name="query">
+          <input type="submit" class="button" value="search">
+        </form>
+      </li> -->
      </nav>
 
 
@@ -120,12 +149,13 @@
   <a href="/about"> About </a>
   <a href="/services"> Services </a>
   <a href="/projects"> Projects </a>
-  <a href="/blog"> Blog </a>
+  <a href="/our-team"> Our Team </a>
+  <a href="/news"> Blog </a>
   <a href="/contact"> Contact </a>
  </nav>
 
 
-      <section class="banner overlay" style="background-image:url('/uploads/image-1.jpg');">
+      <section class="banner overlay" style="background-image:url('/uploads/blog-eco-city-02.jpg');">
   <div class="banner-inner">
       <h1> What is an eco-city? </h1>
       <p> Our take on what makes cities eco </p>
@@ -133,7 +163,7 @@
 </section>
 
 <section class="padded grid post">
-  <div class="col-8_xs-12 padded-2" data-cms-content-wrapper="/_layouts/post.html">
+  <div class="col-8_xs-12 padded-2">
    <p>The term eco-city is increasingly becoming popular within the urban development industry to describe and market developments that incorporate ecological aspects in their design. But what is exactly an eco-city? To try to answer this question we attended the EcoCity World Summit that took place in Melbourne from the 12th to the 14th of July 2017.</p>
 
 <h3 id="what-is-an-eco-city">What is an eco-city</h3>
@@ -149,21 +179,15 @@
 
 <p>In practice an eco-city, similarly to a ‘traditional’ city, should provide all those elements such as a functional transport network and urban structure that support the social and economic prosperity of its dwellers. However, an eco-city should also enable social justice, and be a place where a mixture of cultures, identities, and beliefs coexist, enrich the city and thrive in harmony with the natural environment. In this sense, we argue that an eco-city should resemble a healthy ecosystem.</p>
 
-<h3><img src="/uploads/versions/image-1---x----943-628x---.jpg" alt="" /></h3>
-
-<h6 id="the-cheonggyecheon-project-in-seoul-korea">(The Cheonggyecheon Project in Seoul, Korea)</h6>
-
-<p>## #</p>
-
 <h3 id="cities-as-ecosystems">Cities as ecosystems</h3>
 
 <p>Ecosystems work through the interaction of living and non-living organisms. Plants, animals, soil, water, heat, light, and air all work together to create a balanced system. Healthy ecosystems have plenty of species diversity, with each species having a niche in the ecosystem that keeps the whole system healthy and functional. Energy flows tend to be closed loop, where the ‘waste’ from one organism becomes the nutrient for another. This allows the ‘participants’ in the ecosystem to source the vast majority of the recourses they need locally (i.e. within the boundaries of the ecosystem).</p>
 
 <p>Translating these concepts into the design of a city is no doubt a huge challenge, especially when considering that each city must cater for its specific climatic, ecologic, geographic, historic, social and economic context. Furthermore, unless starting from scratch and having full control over the decision-making process, urban designers are required to work within the boundaries of current cities’ design, their existing infrastructures and political and legislative frameworks. Nonetheless, if we are to transform our cities from places where we live to places where we thrive, a drastic shift in the way we think about, plan and build our cities is required.</p>
 
-<p><img src="/uploads/versions/image-2---x----946-652x---.jpg" alt="" /></p>
+<p> </p>
 
-<h6 id="the-gary-comer-youth-centre-roof-garden-in-chicago">(The Gary Comer Youth Centre Roof Garden in Chicago)</h6>
+<h6 id="the-gary-comer-youth-centre-roof-garden-in-chicago"><img src="/uploads/versions/blog-eco-city-03---x----946-652x---.jpg" alt="" />(The Gary Comer Youth Centre Roof Garden in Chicago)</h6>
 
 <p>Examples of this shift already exist at various levels in various countries. Urban agriculture is becoming popular in many cities around the globe including <a href="http://www.rooftopgardens.alternatives.ca/">Montreal</a>, <a href="http://www.mysmartgarden.org.au/">Melbourne</a>, <a href="http://caminoverde.org/">Puerto Madonado</a>, <a href="http://www.urbanagriculture.org.au/canberra-city-farm/">Canberra</a>, <a href="http://detroitdirt.org/">Detroit</a>, <a href="https://www.paris.fr/services-et-infos-pratiques">Paris</a> and many others. An increasing number of existing and proposed buildings are installing solar photovoltaic panels on their roofs to reduce their reliance on the energy grid and reduce greenhouse gas emissions. <a href="http://reneweconomy.com.au/adelaide-creates-worlds-first-solar-powered-public-transport-system-32530/">Public transport</a> are becoming more efficient, and <a href="http://theconversation.com/1-000-cars-and-no-garage-why-car-sharing-works-31179">car</a> and <a href="http://www.icebike.org/bike-share-programs/">bikes</a> sharing schemes are been implemented continuously. Further, businesses are continuously coming up with ideas that help minimise waste by <a href="https://www.theguardian.com/uk/2003/feb/12/helencarter">mimicking ecosystems</a>.</p>
 
@@ -177,37 +201,42 @@
 
 
   <div class="col-4_xs-12">
-    <div class="margin-2 padded sidebar editable"><h2>About SBE</h2><hr /><p>SBE was formed in 2001 by a multi-disciplinary team of industry leaders passionate about the role that the built environment can have in shaping thriving communities and cities.</p><p>As a dedicated ESD consultancy, we aim assist our clients navigate the sustainable building landscape and achieving their sustainability goals.</p></div>
+    <div class="margin-2 padded sidebar editable">
+      <h2>About SBE</h2>
+      <hr />
+      <p>SBE was formed in 2001 by a multi-disciplinary team of industry leaders passionate about the role that the built environment can have in shaping thriving communities and cities.</p>
+      <p>As a dedicated ESD consultancy, we aim assist our clients navigate the sustainable building landscape and achieving their sustainability goals.</p>
+    </div>
     <div class="margin-2 padded sidebar">
       <h2> Recent Posts</h2>
       <hr />
 
       
 
-        <a href="/2017/10/23/the-new-macaulay-suburb-of-melboure.html" class="padded-2 block">
-          <h3> The new Macaulay suburb of Melboure</h3>
-          <div class="sidebar-image" style="background-image:url('/uploads/artisist image.JPG')"></div>
+        <a href="/2021/04/28/week-3-for-pratidnya-bhuite-and-pooja-vaidya.html" class="padded-2 block">
+          <h3> Week 3 for Pratidnya Bhuite and Pooja Vaidya</h3>
+          <div class="sidebar-image" style="background-image:url('/uploads/modelimage3.PNG')"></div>
 
         </a>
       
 
-        <a href="/2017/10/20/healthy-buildings.html" class="padded-2 block">
-          <h3> Healthy Buildings</h3>
-          <div class="sidebar-image" style="background-image:url('/uploads/One_Flintoff_20.jpg')"></div>
+        <a href="/2021/04/23/week-2-19apr21-23apr21.html" class="padded-2 block">
+          <h3> Week 2, 19Apr21 - 23Apr21</h3>
+          <div class="sidebar-image" style="background-image:url('/uploads/bolg1.jpg')"></div>
 
         </a>
       
 
-        <a href="/2017/10/18/fresh-air-in-schools.html" class="padded-2 block">
-          <h3> Fresh air in schools</h3>
-          <div class="sidebar-image" style="background-image:url('/uploads/P5220455.jpg')"></div>
+        <a href="/2021/04/19/our-first-week.html" class="padded-2 block">
+          <h3> Our First week</h3>
+          <div class="sidebar-image" style="background-image:url('/uploads/intrerns-learn.jpg')"></div>
 
         </a>
       
 
-        <a href="/2017/10/17/what-to-expect-from-section-j-of-the-ncc-2019.html" class="padded-2 block">
-          <h3> What to expect from Section J of the NCC 2019?</h3>
-          <div class="sidebar-image" style="background-image:url('/uploads/Video-Performance-Proposed-changes-NCC-2019.jpg')"></div>
+        <a href="/2021/04/19/new-interns-at-sbe.html" class="padded-2 block">
+          <h3> New Interns at SBE</h3>
+          <div class="sidebar-image" style="background-image:url('/uploads/intrerns-learn2.jpg')"></div>
 
         </a>
       
@@ -219,49 +248,55 @@
 </div></section>
 
 <section class="text-banner light-bg">
-  <h2 class="editable">Thinking about incorporating ESD initiatives into your next project?</h2>
+  <h2 class="editable">
+    Thinking about incorporating ESD initiatives into your next project?
+  </h2>
   <hr class="center" />
-  <p class="editable">Whether you are considering incorporating ESD initiatives into your next project, or you need to demonstrate a commitment to sustainable design to planning authorities, or you need Section J reporting for Building Permit, we would love to hear from you!</p>
+  <p class="editable">
+    Whether you are considering incorporating ESD initiatives into your next project, or you need to demonstrate a commitment to sustainable design to planning authorities, or you need Section J reporting for Building Permit, we would love to hear from you!
+  </p>
   <a href="#" class="button editable">Explore</a>
 </section>
 
 
       <footer class="grid">
-    <div class="col-3_sm-12 padded-2">
+    <!-- <div class="col-3_sm-12 padded-2">
         <h3> Sustainable Built Environment</h3>
-        <p class="editable">As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.</p>
-    </div>
-    <div class="col-3_sm-12 padded-2">
+        <p class="editable">
+          As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.
+        </p>
+    </div> -->
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR SERVICES </h4>
       <nav>
           
-          <a href="/services-extended#building-permit"> Building Permit</a>
+          <a href="/services/building-permit.html"> Building Permit</a>
           
-          <a href="/services-extended#building-physics"> Building Physics</a>
+          <a href="/services/building-physics.html"> Building Physics</a>
           
-          <a href="/services-extended#building-simulation"> Building Simulation</a>
+          <a href="/services/building-simulation.html"> Building Simulation</a>
           
-          <a href="/services-extended#energy-audits"> Energy Audits</a>
+          <a href="/services/energy-audits.html"> Energy Audits</a>
           
-          <a href="/services-extended#research"> Research</a>
+          <a href="/services/passivehaus.html"> Passivehaus</a>
           
-          <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
+          <a href="/services/research.html"> Research</a>
           
-          <a href="/services-extended#town-planning"> Town Planning</a>
+          <a href="/services/s-master-planning.html"> Sustainable Master Planning</a>
           
-          <a href="/services-extended#voluntary-certification"> Voluntary Certification</a>
+          <a href="/services/town-planning.html"> Town Planning</a>
+          
+          <a href="/services/voluntary-certification.html"> Voluntary Certification</a>
           
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR PROJECTS </h4>
       <nav>
         
-        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure </a>
+        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure </a>
         
         <a href="/project-categories/commercial.html"> Commercial </a>
-        
-        <a href="/project-categories/eco-tourism.html"> Eco Tourism </a>
         
         <a href="/project-categories/education.html"> Education </a>
         
@@ -271,22 +306,27 @@
         
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OTHER LINKS </h4>
         <nav>
-          <a href="#"> Home </a>
-          <a href="#"> About </a>
-          <a href="#"> Blog </a>
-          <a href="#"> Contact </a>
+          <a href="/index.html"> Home </a>
+          <a href="/about"> About </a>
+          <a href="/news"> News </a>
+          <a href="/contact"> Contact </a>
         </nav>
     </div>
 </footer>
 <div class="sub-footer">
-  (c) 2017 | Website Designed & Built by Tina May at <a href="http://www.instituteofcode.com"> The Institute of Code</a>
+  (c) 2021 | Website Designed & Built by Tina May at <a href="http://www.instituteofcode.com"> The Institute of Code</a>
 </div>
 
       
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+
+
+
+<!-- about page -->
+
 
 <script>
 
@@ -295,8 +335,16 @@ $('.mobile-menu-button').click(function() {
   $('.mobile-nav').slideToggle(200, function() {
     // Animation complete.
   });
-
 });
+
+
+
+
+  
+// index
+
+// about
+
 
 </script>
 
@@ -339,17 +387,17 @@ $('.mobile-menu-button').click(function() {
     });
 </script>
 
+
+
+
 <!-- Sticky state scripts -->
 
-<script src="/js/sticky-state.js"></script>
 
-<script>
 
-var StickyState = require('sticky-state');
-new StickyState(document.querySelectorAll('.sticky'));
-//  all elements with class .sticky will have sticky state:
 
-</script>
+
+
+
 
 
   </body>

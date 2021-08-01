@@ -8,8 +8,20 @@
 
 <!--  Links to stylesheets -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css" rel="stylesheet" >
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+<!-- font-family:"acumin-pro"; for headings -->
+<link rel="stylesheet" href="https://use.typekit.net/ggr7ema.css">
+
+<!-- font-family: 'Poppins', sans-serif; for P -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap" rel="stylesheet">
+<!-- index -->
+
+<!-- about -->
+
+ 
+<!-- old font -->
+<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet"> -->
 <link href="/css/main.css" rel="stylesheet">
 
 <!-- this links to a favicon in the images folder -->
@@ -29,10 +41,13 @@
   <body>
 
       <header class="grid">
-   <div class="col-4-middle logo padded">
-      <img src="/images/logo.jpg" alt="SBE Sustainable Built Environments"/>
+   <div class="col-2_xs-8-middle logo">
+     <div class="padded logo">
+       <img src="/images/logoMk2.jpg" alt="SBE Sustainable Built Environments" />
+     </div>
    </div>
-   <div class="col-8-middle right">
+
+   <div class="col-10_xs-4-middle right">
      <nav class="menu mob-hide">
        <li> <a href="/index.html"> Home </a> </li>
       <li> <a href="/about"> About </a> </li>
@@ -41,29 +56,33 @@
          <div class="sub-menu grid left padded">
            <div class="col-3">
              <h3> OUR SERVICES </h3>
-             <p class="editable">We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.</p>
+             <p class="editable">
+               We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.
+             </p>
            </div>
            <div class="col-3"> <!-- empty div --> </div>
            <div class="col-3">
                 
-                <a href="/services-extended#building-permit"> Building Permit</a>
+                <a href="/services/building-permit.html"> Building Permit</a>
                 
-                <a href="/services-extended#building-physics"> Building Physics</a>
+                <a href="/services/building-physics.html"> Building Physics</a>
                 
-                <a href="/services-extended#building-simulation"> Building Simulation</a>
+                <a href="/services/building-simulation.html"> Building Simulation</a>
                 
-                <a href="/services-extended#energy-audits"> Energy Audits</a>
+                <a href="/services/energy-audits.html"> Energy Audits</a>
                 
-                <a href="/services-extended#research"> Research</a>
+                <a href="/services/passivehaus.html"> Passivehaus</a>
                 
-                <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
+                <a href="/services/research.html"> Research</a>
                 
             </div>
             <div class="col-3">
               
-              <a href="/services-extended#town-planning"> Town Planning</a>
+              <a href="/services/s-master-planning.html"> Sustainable Master Planning</a>
               
-              <a href="/services-extended#voluntary-certification"> Voluntary Certification</a>
+              <a href="/services/town-planning.html"> Town Planning</a>
+              
+              <a href="/services/voluntary-certification.html"> Voluntary Certification</a>
               
             </div>
          </div>
@@ -73,16 +92,16 @@
         <div class="sub-menu grid left padded">
           <div class="col-3">
             <h3> OUR PROJECTS </h3>
-            <p class="editable">We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.</p>
+            <p class="editable">
+              We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.
+            </p>
           </div>
           <div class="col-3"> <!-- empty div --> </div>
           <div class="col-3">
               
-              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure</a>
+              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure</a>
               
               <a href="/project-categories/commercial.html"> Commercial</a>
-              
-              <a href="/project-categories/eco-tourism.html"> Eco Tourism</a>
               
               <a href="/project-categories/education.html"> Education</a>
               
@@ -97,11 +116,21 @@
         </div>
       </li>
       <li>
-          <a href="/blog"> Blog </a>
+          <a href="/our-team"> Our Team </a>
+      </li>
+      <li>
+          <a href="/news"> News </a>
       </li>
       <li>
           <a href="/contact"> Contact </a>
       </li>
+      <!-- <li>
+        <form action="/search" method="get">
+          <i class="fas fa-search"></i>
+          <input type="text" class="button" id="search-box" placeholder='find me news about...' name="query">
+          <input type="submit" class="button" value="search">
+        </form>
+      </li> -->
      </nav>
 
 
@@ -120,33 +149,31 @@
   <a href="/about"> About </a>
   <a href="/services"> Services </a>
   <a href="/projects"> Projects </a>
-  <a href="/blog"> Blog </a>
+  <a href="/our-team"> Our Team </a>
+  <a href="/news"> Blog </a>
   <a href="/contact"> Contact </a>
  </nav>
 
 
-      <section class="banner overlay" style="background-image:url('/uploads/Panorama_Apartments_13.jpg');">
-  <div class="banner-inner editable">
-      <h1> this is a witty heading </h1>
-      <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-  </div>
+      <!--
+<section class="banner overlay" style="background-image:url('/uploads/one-flintoff-01.jpg');">
+  <div class="banner-inner editable"><h1>Projects</h1><p>From small residential to large commercial developments, design guidelines to third party certification, SBE has a wealth of projects to demonstrate their capacity and capability.</p></div>
   <a href="#section2" class="down-arrow">
       <img src="/images/down-icon.png" />
   </a>
 </section>
 
 <section class="services-loop" id="section2">
-
   
   <div class="grid">
       <div class="col-7_xs-12 padded">
-         <h3>Aquatic Sports And Leisure</h3>
+         <h3>Aquatic, Sports And Leisure</h3>
          <hr />
-         <p>This is a commercial project Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+         <p>SBE, primarily in collaboration with PTA, has delivered many successful and acclaimed sports and recreation facilities, locally, interstate and even internationally.</p>
          <a href="/project-categories/aquatic-sports-and-leisure.html" class="button"> READ MORE </a>
       </div>
-      <div class="col-5_xs-12 image" style="background-image:url('/uploads/Bendigo_Stadium_Precinct_Render_01.jpg');">
-          <!-- <p class="text-overlay"></p> -->
+      <div class="col-5_xs-12 image" style="background-image:url('/uploads/bendigo-stadium-01.jpg');">
+          <p class="text-overlay"><p></p>
       </div>
   </div>
   
@@ -154,23 +181,11 @@
       <div class="col-7_xs-12 padded">
          <h3>Commercial</h3>
          <hr />
-         <p>This is a commercial project Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+         <p>SBE has delivered ESD services to a large selection of commercial,  retail and government office projects, locally and interstate.  Many have achieved Green Star certification and we continue to build on our body of knowledge and innovation with each new project.</p>
          <a href="/project-categories/commercial.html" class="button"> READ MORE </a>
       </div>
-      <div class="col-5_xs-12 image" style="background-image:url('/uploads/bosch-03.jpg');">
-          <!-- <p class="text-overlay"></p> -->
-      </div>
-  </div>
-  
-  <div class="grid">
-      <div class="col-7_xs-12 padded">
-         <h3>Eco Tourism</h3>
-         <hr />
-         <p>This is a commercial project Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-         <a href="/project-categories/eco-tourism.html" class="button"> READ MORE </a>
-      </div>
-      <div class="col-5_xs-12 image" style="background-image:url('/images/building2.png');">
-          <!-- <p class="text-overlay"></p> -->
+      <div class="col-5_xs-12 image" style="background-image:url('/uploads/bosch-01.jpg');">
+          <p class="text-overlay"><p></p>
       </div>
   </div>
   
@@ -178,21 +193,33 @@
       <div class="col-7_xs-12 padded">
          <h3>Education</h3>
          <hr />
-         <p>This is a commercial project Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+         <p>SBE has a proud history with Education projects and we enjoy the opportunity to work with education providers, facilitators and designers.  Our work has taken us to local, regional and national levels and we continue to take a keen interest in the dialgoue revolving around pedagogy, indoor environment quality and learning outcomes.</p>
          <a href="/project-categories/education.html" class="button"> READ MORE </a>
       </div>
-      <div class="col-5_xs-12 image" style="background-image:url('/uploads/IMG_0235.JPG');">
-          <!-- <p class="text-overlay"></p> -->
+      <div class="col-5_xs-12 image" style="background-image:url('/uploads/automative-centre-of-excellence-01.JPG');">
+          <p class="text-overlay"><p></p>
       </div>
   </div>
   
-
+  <div class="grid">
+      <div class="col-7_xs-12 padded">
+         <h3>Healthcare</h3>
+         <hr />
+         <p>Our interest in healthcare projects spans the issues of health, well being and operational efficiency.  We have a number of successful aged care, hospital and other medical care facilities within our portfolio.</p>
+         <a href="/project-categories/healthcare.html" class="button"> READ MORE </a>
+      </div>
+      <div class="col-5_xs-12 image" style="background-image:url('/uploads/regis-hillcrest-aged-care-centre-01.jpg');">
+          <p class="text-overlay"><p></p>
+      </div>
+  </div>
+  
 </section>
 
+
 <section class="text-banner">
-  <h2 class="editable"> our customers love us</h2>
-  <hr class="center">
-  <p class="editable"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <h2 class="editable">Holistic and inter-disciplinary collaboration</h2>
+  <hr class="center" />
+  <p class="editable">Our work is based on a holistic, integrative and inter-disciplinary approach to design that is focused on collaboration and achieving our clients' objectives.</p>
 </section>
 
 <section class="services-loop">
@@ -200,68 +227,1092 @@
   
   <div class="grid">
       <div class="col-7_xs-12 padded">
-         <h3>Healthcare</h3>
-         <hr />
-         <p>This is a commercial project Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-         <a href="/project-categories/healthcare.html" class="button"> READ MORE </a>
-      </div>
-      <div class="col-5_xs-12 image" style="background-image:url('/uploads/Presentation1.jpg');">
-          <p class="text-overlay"></p>
-      </div>
-  </div>
-  
-  <div class="grid">
-      <div class="col-7_xs-12 padded">
          <h3>Residential</h3>
          <hr />
-         <p>This is a commercial project Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+         <p>SBE has an extensive residential portfolio, many of which are now constructed or in the process of being. We have also assisted local and state government entities in the development of ESD evaluation tools and design guidelines including the City of Moreland, CASBE, MAV and DELWP.</p>
          <a href="/project-categories/residential.html" class="button"> READ MORE </a>
       </div>
-      <div class="col-5_xs-12 image" style="background-image:url('/uploads/SupplyCo_DavidSt_Render_01.jpg');">
+      <div class="col-5_xs-12 image" style="background-image:url('/uploads/supply-co-david-st-01.jpg');">
           <p class="text-overlay"></p>
       </div>
   </div>
   
 
+</section> -->
+
+<section class="padded">
+<div class="center">
+  <h2 class="editable">Projects.</h2>
+  <hr class="center">
+  <p class="editable">Take a look at some of our projects.</p>
+</div>
+  <nav class="port-nav grid-center-middle" id="portfolio-filter">
+    <div class="padded-1">
+      <a class="button filter">all</a>
+    </div>
+
+    
+      <a class="button filter">aquatic sports and leisure</a>
+    
+      <a class="button filter">commercial</a>
+    
+      <a class="button filter">educational</a>
+    
+      <a class="button filter">healthcare</a>
+    
+      <a class="button filter">residential</a>
+    
+  </nav>
+  <div class="grid padded" id="portfolio-grid">
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item educational" style="background-image:url('  /uploads/woodleigh-junior-campus-5-6-centre-01.JPG"');">
+      <a href="/projects/woodleigh.html" class="hover-overlay" data-target="pop1">
+        <div class="text-overlay">
+          <span class="name">Woodleigh Junior Campus 5-6 Centre</span>
+          <span class="title">Woodleigh</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item educational">
+      
+      <div class="img-square">
+        <img src="/uploads/woodleigh-junior-campus-5-6-centre-01.JPG" alt="Woodleigh Junior Campus 5-6 Centre">
+      </div>
+      
+
+      <h3>Woodleigh Junior Campus 5-6 Centre</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item commercial" style="background-image:url('  /uploads/northbank-place-01.jpg"');">
+      <a href="/projects/northbank-place.html" class="hover-overlay" data-target="pop2">
+        <div class="text-overlay">
+          <span class="name">Northbank Place</span>
+          <span class="title">Northbank Place</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item commercial">
+      
+      <div class="img-square">
+        <img src="/uploads/northbank-place-01.jpg" alt="Northbank Place">
+      </div>
+      
+
+      <h3>Northbank Place</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item educational" style="background-image:url('  /uploads/dandenong-education-precinct-01.JPG"');">
+      <a href="/projects/dandenong-education-precinct.html" class="hover-overlay" data-target="pop3">
+        <div class="text-overlay">
+          <span class="name">Dandenong Education Precinct</span>
+          <span class="title">Dandenong Education Precinct</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item educational">
+      
+      <div class="img-square">
+        <img src="/uploads/dandenong-education-precinct-01.JPG" alt="Dandenong Education Precinct">
+      </div>
+      
+
+      <h3>Dandenong Education Precinct</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item commercial" style="background-image:url('  /uploads/costco-01.JPG"');">
+      <a href="/projects/costco.html" class="hover-overlay" data-target="pop4">
+        <div class="text-overlay">
+          <span class="name">Costco Docklands</span>
+          <span class="title">Costco</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item commercial">
+      
+      <div class="img-square">
+        <img src="/uploads/costco-01.JPG" alt="Costco">
+      </div>
+      
+
+      <h3>Costco Docklands</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item educational" style="background-image:url('  /uploads/mt-clear-earth-education-centre-01.JPG"');">
+      <a href="/projects/mt-clear-earth-education-centre.html" class="hover-overlay" data-target="pop5">
+        <div class="text-overlay">
+          <span class="name">Mt Clear Earth Education Centre, Ballarat</span>
+          <span class="title">Mt Clear Earth Education Centre</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item educational">
+      
+      <div class="img-square">
+        <img src="/uploads/mt-clear-earth-education-centre-01.JPG" alt="Mt Clear Earth Education Centre">
+      </div>
+      
+
+      <h3>Mt Clear Earth Education Centre, Ballarat</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item residential" style="background-image:url('  /uploads/panorama-01.jpg"');">
+      <a href="/projects/panorama.html" class="hover-overlay" data-target="pop6">
+        <div class="text-overlay">
+          <span class="name">Panorama</span>
+          <span class="title">Panorama</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item residential">
+      
+      <div class="img-square">
+        <img src="/uploads/panorama-01.jpg" alt="Panorama">
+      </div>
+      
+
+      <h3>Panorama</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item residential" style="background-image:url('  /uploads/supply-co-david-st-01.jpg"');">
+      <a href="/projects/supply-co-david-street.html" class="hover-overlay" data-target="pop7">
+        <div class="text-overlay">
+          <span class="name">Supply Co David Street</span>
+          <span class="title">Supply Co David Street</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item residential">
+      
+      <div class="img-square">
+        <img src="/uploads/supply-co-david-st-01.jpg" alt="Supply Co David Street">
+      </div>
+      
+
+      <h3>Supply Co David Street</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item residential" style="background-image:url('  /uploads/348-clarke-st-01.jpg"');">
+      <a href="/projects/clarke-street-northcote.html" class="hover-overlay" data-target="pop8">
+        <div class="text-overlay">
+          <span class="name">348 Clarke Street Northcote</span>
+          <span class="title">Clarke Street Northcote</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item residential">
+      
+      <div class="img-square">
+        <img src="/uploads/348-clarke-st-01.jpg" alt="348 Clarke Street">
+      </div>
+      
+
+      <h3>348 Clarke Street Northcote</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item educational" style="background-image:url('  /uploads/anu-fenner-01.JPG"');">
+      <a href="/projects/anu-fenner.html" class="hover-overlay" data-target="pop9">
+        <div class="text-overlay">
+          <span class="name">ANU Fenner</span>
+          <span class="title">Anu Fenner</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item educational">
+      
+      <div class="img-square">
+        <img src="/uploads/anu-fenner-01.JPG" alt="ANU Fenner">
+      </div>
+      
+
+      <h3>ANU Fenner</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item educational" style="background-image:url('  /uploads/automative-centre-of-excellence-exterior.JPG"');">
+      <a href="/projects/automative-centre-of-excellence.html" class="hover-overlay" data-target="pop10">
+        <div class="text-overlay">
+          <span class="name">Automative Centre of Excellence, Stage 2</span>
+          <span class="title">Automative Centre Of Excellence</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item educational">
+      
+      <div class="img-square">
+        <img src="/uploads/automative-centre-of-excellence-exterior.JPG" alt="Automative Centre of Excellence Exterior">
+      </div>
+      
+
+      <h3>Automative Centre of Excellence, Stage 2</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item educational" style="background-image:url('  /uploads/mawson-institute-of-advanced-manufacturing-01.JPG"');">
+      <a href="/projects/mawson-institute-of-advanced-manufacturing.html" class="hover-overlay" data-target="pop11">
+        <div class="text-overlay">
+          <span class="name">Mawson Institute Of Advanced Manufacturing (MIAM)</span>
+          <span class="title">Mawson Institute Of Advanced Manufacturing</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item educational">
+      
+      <div class="img-square">
+        <img src="/uploads/mawson-institute-of-advanced-manufacturing-01.JPG" alt="Mawson Institute of Advanced Manufacturing">
+      </div>
+      
+
+      <h3>Mawson Institute Of Advanced Manufacturing (MIAM)</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item educational" style="background-image:url('  /uploads/Holmesglen_Vocational_03.jpeg"');">
+      <a href="/projects/holmesglen-building-12.html" class="hover-overlay" data-target="pop12">
+        <div class="text-overlay">
+          <span class="name">Holmesglen Building 12</span>
+          <span class="title">Holmesglen Building 12</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item educational">
+      
+      <div class="img-square">
+        <img src="/uploads/Holmesglen_Vocational_03.jpeg" alt="The Commons SBE">
+      </div>
+      
+
+      <h3>Holmesglen Building 12</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item residential" style="background-image:url('  /uploads/the-commons-01.jpg"');">
+      <a href="/projects/the-commons.html" class="hover-overlay" data-target="pop13">
+        <div class="text-overlay">
+          <span class="name">The Commons</span>
+          <span class="title">The Commons</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item residential">
+      
+      <div class="img-square">
+        <img src="/uploads/the-commons-01.jpg" alt="The Commons">
+      </div>
+      
+
+      <h3>The Commons</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item commercial" style="background-image:url('  /uploads/goods-shed-north-01.JPG"');">
+      <a href="/projects/goods-shed-north.html" class="hover-overlay" data-target="pop14">
+        <div class="text-overlay">
+          <span class="name">Goods Shed North</span>
+          <span class="title">Goods Shed North</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item commercial">
+      
+      <div class="img-square">
+        <img src="/uploads/goods-shed-north-01.JPG" alt="Goods Shed North">
+      </div>
+      
+
+      <h3>Goods Shed North</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item healthcare" style="background-image:url('  /uploads/Oasis_Hospital_14.JPG"');">
+      <a href="/projects/oasis.html" class="hover-overlay" data-target="pop15">
+        <div class="text-overlay">
+          <span class="name">Oasis Hospital, Development, Al Ain, United Arab Emirates</span>
+          <span class="title">Oasis</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item healthcare">
+      
+      <div class="img-square">
+        <img src="/uploads/Oasis_Hospital_14.JPG" alt="OASIS 1">
+      </div>
+      
+
+      <h3>Oasis Hospital, Development, Al Ain, United Arab Emirates</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item residential" style="background-image:url('  /uploads/the-libertine-01.jpg"');">
+      <a href="/projects/the-libertine.html" class="hover-overlay" data-target="pop16">
+        <div class="text-overlay">
+          <span class="name">The Libertine</span>
+          <span class="title">The Libertine</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item residential">
+      
+      <div class="img-square">
+        <img src="/uploads/the-libertine-01.jpg" alt="The Libertine">
+      </div>
+      
+
+      <h3>The Libertine</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item commercial" style="background-image:url('  /uploads/melton-library-&-learning-hub-01.jpg"');">
+      <a href="/projects/melton-library-and-learning-hub.html" class="hover-overlay" data-target="pop17">
+        <div class="text-overlay">
+          <span class="name">Melton Library and Learning Hub</span>
+          <span class="title">Melton Library And Learning Hub</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item commercial">
+      
+      <div class="img-square">
+        <img src="/uploads/melton-library-&-learning-hub-01.jpg" alt="Melton Library and Learning Hub">
+      </div>
+      
+
+      <h3>Melton Library and Learning Hub</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item aquatic-sports-and-leisure" style="background-image:url('  /uploads/bridge-rd-hockey-pavilion-01.JPG"');">
+      <a href="/projects/melton-cc---bridge-road-hockey-pavilion.html" class="hover-overlay" data-target="pop18">
+        <div class="text-overlay">
+          <span class="name">Melton City Council - Bridge Road Hockey Pavilion</span>
+          <span class="title">Melton Cc   Bridge Road Hockey Pavilion</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item aquatic-sports-and-leisure">
+      
+      <div class="img-square">
+        <img src="/uploads/bridge-rd-hockey-pavilion-01.JPG" alt="Melton City Council Bridge Road Hockey Pavilion">
+      </div>
+      
+
+      <h3>Melton City Council - Bridge Road Hockey Pavilion</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item commercial" style="background-image:url('  /uploads/western-business-accelerator-centre-of-excellence-01.jpg"');">
+      <a href="/projects/western-business-accelartor-centrree.html" class="hover-overlay" data-target="pop19">
+        <div class="text-overlay">
+          <span class="name">Western Business Accelerator Centre of Excellence (WBACE)</span>
+          <span class="title">Western Business Accelartor Centrree</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item commercial">
+      
+      <div class="img-square">
+        <img src="/uploads/western-business-accelerator-centre-of-excellence-01.jpg" alt="Western Business Accelerator Centre of Excellence">
+      </div>
+      
+
+      <h3>Western Business Accelerator Centre of Excellence (WBACE)</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item aquatic-sports-and-leisure" style="background-image:url('  /uploads/craigieburn-regional-aquatic-&-leisure-centre-01.JPG"');">
+      <a href="/projects/craigieburn-regional-aquatic--leisure-centre-splash.html" class="hover-overlay" data-target="pop20">
+        <div class="text-overlay">
+          <span class="name">Craigieburn Regional Aquatic & Leisure Centre (SPLASH)</span>
+          <span class="title">Craigieburn Regional Aquatic  Leisure Centre Splash</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item aquatic-sports-and-leisure">
+      
+      <div class="img-square">
+        <img src="/uploads/craigieburn-regional-aquatic-&-leisure-centre-01.JPG" alt="Craigieburn Regional Aquatic & Leisure Centre">
+      </div>
+      
+
+      <h3>Craigieburn Regional Aquatic & Leisure Centre (SPLASH)</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item healthcare" style="background-image:url('  /uploads/st vincent 1.jpg"');">
+      <a href="/projects/st-vincents.html" class="hover-overlay" data-target="pop21">
+        <div class="text-overlay">
+          <span class="name">St. Vincent Hospital and Aged Care facilities in Werribee</span>
+          <span class="title">St Vincents</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item healthcare">
+      
+      <div class="img-square">
+        <img src="/uploads/st vincent 1.jpg" alt="st vinc 1">
+      </div>
+      
+
+      <h3>St. Vincent Hospital and Aged Care facilities in Werribee</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item aquatic-sports-and-leisure" style="background-image:url('  /uploads/mossfield-sports-pavilion-01.jpg"');">
+      <a href="/projects/mossfiel-sports-facilities.html" class="hover-overlay" data-target="pop22">
+        <div class="text-overlay">
+          <span class="name">Mossfiel Sports Facilities</span>
+          <span class="title">Mossfiel Sports Facilities</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item aquatic-sports-and-leisure">
+      
+      <div class="img-square">
+        <img src="/uploads/mossfield-sports-pavilion-01.jpg" alt="Mossfield Sports Pavilion">
+      </div>
+      
+
+      <h3>Mossfiel Sports Facilities</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item healthcare" style="background-image:url('  /uploads/japara-rye-exterior-01.JPG"');">
+      <a href="/projects/japara-healthcare-rye.html" class="hover-overlay" data-target="pop23">
+        <div class="text-overlay">
+          <span class="name">Japara Healthcare Rye</span>
+          <span class="title">Japara Healthcare Rye</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item healthcare">
+      
+      <div class="img-square">
+        <img src="/uploads/japara-rye-exterior-01.JPG" alt="Japara Healthcare Rye">
+      </div>
+      
+
+      <h3>Japara Healthcare Rye</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item commercial" style="background-image:url('  /uploads/one-flintoff-01.jpg"');">
+      <a href="/projects/flintoff.html" class="hover-overlay" data-target="pop24">
+        <div class="text-overlay">
+          <span class="name">One Flintoff</span>
+          <span class="title">Flintoff</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item commercial">
+      
+      <div class="img-square">
+        <img src="/uploads/one-flintoff-01.jpg" alt="One Flintoff">
+      </div>
+      
+
+      <h3>One Flintoff</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item healthcare" style="background-image:url('  /uploads/japara-newport-01.JPG"');">
+      <a href="/projects/japara-healthcare-newport.html" class="hover-overlay" data-target="pop25">
+        <div class="text-overlay">
+          <span class="name">Japara Healthcare Newport</span>
+          <span class="title">Japara Healthcare Newport</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item healthcare">
+      
+      <div class="img-square">
+        <img src="/uploads/japara-newport-01.JPG" alt="Japara Healthcare Newport">
+      </div>
+      
+
+      <h3>Japara Healthcare Newport</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item aquatic-sports-and-leisure" style="background-image:url('  /uploads/bendigo-stadium-01.jpg"');">
+      <a href="/projects/bendigo-stadium.html" class="hover-overlay" data-target="pop26">
+        <div class="text-overlay">
+          <span class="name">Bendigo Stadium</span>
+          <span class="title">Bendigo Stadium</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item aquatic-sports-and-leisure">
+      
+      <div class="img-square">
+        <img src="/uploads/bendigo-stadium-01.jpg" alt="Bendigo Stadium">
+      </div>
+      
+
+      <h3>Bendigo Stadium</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item residential" style="background-image:url('  /uploads/the-block-46-regent-st-01.bmp"');">
+      <a href="/projects/the-block---46-regent-street.html" class="hover-overlay" data-target="pop27">
+        <div class="text-overlay">
+          <span class="name">The Block - 46 Regent Street</span>
+          <span class="title">The Block   46 Regent Street</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item residential">
+      
+      <div class="img-square">
+        <img src="/uploads/the-block-46-regent-st-01.bmp" alt="The Block - 46 Regent Street">
+      </div>
+      
+
+      <h3>The Block - 46 Regent Street</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item healthcare" style="background-image:url('  /uploads/regis-hillcrest-aged-care-centre-01.jpg"');">
+      <a href="/projects/hillcrest-aged-care-centre.html" class="hover-overlay" data-target="pop28">
+        <div class="text-overlay">
+          <span class="name">Regis Hillcrest Aged Care Centre</span>
+          <span class="title">Hillcrest Aged Care Centre</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item healthcare">
+      
+      <div class="img-square">
+        <img src="/uploads/regis-hillcrest-aged-care-centre-01.jpg" alt="Hillcrest Aged Care Centre">
+      </div>
+      
+
+      <h3>Regis Hillcrest Aged Care Centre</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item commercial" style="background-image:url('  /uploads/bosch-01.jpg"');">
+      <a href="/projects/bosch-headquarters-clayton.html" class="hover-overlay" data-target="pop29">
+        <div class="text-overlay">
+          <span class="name">Bosch Headquarters Clayton</span>
+          <span class="title">Bosch Headquarters Clayton</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item commercial">
+      
+      <div class="img-square">
+        <img src="/uploads/bosch-01.jpg" alt="Bosch">
+      </div>
+      
+
+      <h3>Bosch Headquarters Clayton</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item aquatic-sports-and-leisure" style="background-image:url('  /uploads/mainview-sports-pavilion-01.JPG"');">
+      <a href="/projects/wyndham-cc---mainview-sports-pavilion.html" class="hover-overlay" data-target="pop30">
+        <div class="text-overlay">
+          <span class="name">Wyndham City Council - Mainview Sports Pavilion</span>
+          <span class="title">Wyndham Cc   Mainview Sports Pavilion</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item aquatic-sports-and-leisure">
+      
+      <div class="img-square">
+        <img src="/uploads/mainview-sports-pavilion-01.JPG" alt="Mainview Sports Pavilion">
+      </div>
+      
+
+      <h3>Wyndham City Council - Mainview Sports Pavilion</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item aquatic-sports-and-leisure" style="background-image:url('  /uploads/western-sydney-wanderers-FC-gymnasium-01.jpg"');">
+      <a href="/projects/blacktown-gymnasium.html" class="hover-overlay" data-target="pop31">
+        <div class="text-overlay">
+          <span class="name">Blacktown Sports Park Gymnasium</span>
+          <span class="title">Blacktown Gymnasium</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item aquatic-sports-and-leisure">
+      
+      <div class="img-square">
+        <img src="/uploads/western-sydney-wanderers-FC-gymnasium-01.jpg" alt="Western Sydney Wanderers FC Gymnasium">
+      </div>
+      
+
+      <h3>Blacktown Sports Park Gymnasium</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item residential" style="background-image:url('  /uploads/pd1.JPG"');">
+      <a href="/projects/piedemontes.html" class="hover-overlay" data-target="pop32">
+        <div class="text-overlay">
+          <span class="name">Piedimonte</span>
+          <span class="title">Piedemontes</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item residential">
+      
+      <div class="img-square">
+        <img src="/uploads/pd1.JPG" alt="The Commons SBE">
+      </div>
+      
+
+      <h3>Piedimonte</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item aquatic-sports-and-leisure" style="background-image:url('  /uploads/LaneCoveAquaticLeisureCentre.png"');">
+      <a href="/projects/lane-cove-aquatic-centre.html" class="hover-overlay" data-target="pop33">
+        <div class="text-overlay">
+          <span class="name">Lane Cove Aquatic Centre</span>
+          <span class="title">Lane Cove Aquatic Centre</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item aquatic-sports-and-leisure">
+      
+      <div class="img-square">
+        <img src="/uploads/LaneCoveAquaticLeisureCentre.png" alt="Lane Cove Aquatic Leisure Centre">
+      </div>
+      
+
+      <h3>Lane Cove Aquatic Centre</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item educational" style="background-image:url('  /uploads/GlenIrisEarlyLearning.JPG"');">
+      <a href="/projects/glen-iris-early-learning-centre.html" class="hover-overlay" data-target="pop34">
+        <div class="text-overlay">
+          <span class="name">Glen Iris Early Learning Centre</span>
+          <span class="title">Glen Iris Early Learning Centre</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item educational">
+      
+      <div class="img-square">
+        <img src="/uploads/GlenIrisEarlyLearning.JPG" alt="Glen Iris Early Learning Centre">
+      </div>
+      
+
+      <h3>Glen Iris Early Learning Centre</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item residential" style="background-image:url('  /uploads/NelsonResidenceWest.JPG"');">
+      <a href="/projects/nelson-residence.html" class="hover-overlay" data-target="pop35">
+        <div class="text-overlay">
+          <span class="name">Nelson Residence</span>
+          <span class="title">Nelson Residence</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item residential">
+      
+      <div class="img-square">
+        <img src="/uploads/NelsonResidenceWest.JPG" alt="Nelson Residence West View">
+      </div>
+      
+
+      <h3>Nelson Residence</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item commercial" style="background-image:url('  /uploads/LevantineHill.JPG"');">
+      <a href="/projects/levantine-hill-winery.html" class="hover-overlay" data-target="pop36">
+        <div class="text-overlay">
+          <span class="name">Levantine Hill Winery</span>
+          <span class="title">Levantine Hill Winery</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item commercial">
+      
+      <div class="img-square">
+        <img src="/uploads/LevantineHill.JPG" alt="Levantine Hill Winery">
+      </div>
+      
+
+      <h3>Levantine Hill Winery</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item commercial" style="background-image:url('  /uploads/StrawberryHill02.JPG"');">
+      <a href="/projects/strawberry-hill-workers-quarters-addition.html" class="hover-overlay" data-target="pop37">
+        <div class="text-overlay">
+          <span class="name">Strawberry Hill Workers Quarters Addition</span>
+          <span class="title">Strawberry Hill Workers Quarters Addition</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item commercial">
+      
+      <div class="img-square">
+        <img src="/uploads/StrawberryHill02.JPG" alt="Strawberry Hill 01">
+      </div>
+      
+
+      <h3>Strawberry Hill Workers Quarters Addition</h3>
+
+    </div> -->
+
+    
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item commercial" style="background-image:url('  /uploads/LeakesPalmerHospitalityVenue.JPG"');">
+      <a href="/projects/leakes-palmer-mixed-use-development.html" class="hover-overlay" data-target="pop38">
+        <div class="text-overlay">
+          <span class="name">Leakes Palmer Mixed-Use Development</span>
+          <span class="title">Leakes Palmer Mixed Use Development</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item commercial">
+      
+      <div class="img-square">
+        <img src="/uploads/LeakesPalmerHospitalityVenue.JPG" alt="Leakes Palmer Mixed-use">
+      </div>
+      
+
+      <h3>Leakes Palmer Mixed-Use Development</h3>
+
+    </div> -->
+
+    
+  </div>
 </section>
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
       <footer class="grid">
-    <div class="col-3_sm-12 padded-2">
+    <!-- <div class="col-3_sm-12 padded-2">
         <h3> Sustainable Built Environment</h3>
-        <p class="editable">As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.</p>
-    </div>
-    <div class="col-3_sm-12 padded-2">
+        <p class="editable">
+          As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.
+        </p>
+    </div> -->
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR SERVICES </h4>
       <nav>
           
-          <a href="/services-extended#building-permit"> Building Permit</a>
+          <a href="/services/building-permit.html"> Building Permit</a>
           
-          <a href="/services-extended#building-physics"> Building Physics</a>
+          <a href="/services/building-physics.html"> Building Physics</a>
           
-          <a href="/services-extended#building-simulation"> Building Simulation</a>
+          <a href="/services/building-simulation.html"> Building Simulation</a>
           
-          <a href="/services-extended#energy-audits"> Energy Audits</a>
+          <a href="/services/energy-audits.html"> Energy Audits</a>
           
-          <a href="/services-extended#research"> Research</a>
+          <a href="/services/passivehaus.html"> Passivehaus</a>
           
-          <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
+          <a href="/services/research.html"> Research</a>
           
-          <a href="/services-extended#town-planning"> Town Planning</a>
+          <a href="/services/s-master-planning.html"> Sustainable Master Planning</a>
           
-          <a href="/services-extended#voluntary-certification"> Voluntary Certification</a>
+          <a href="/services/town-planning.html"> Town Planning</a>
+          
+          <a href="/services/voluntary-certification.html"> Voluntary Certification</a>
           
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR PROJECTS </h4>
       <nav>
         
-        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure </a>
+        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure </a>
         
         <a href="/project-categories/commercial.html"> Commercial </a>
-        
-        <a href="/project-categories/eco-tourism.html"> Eco Tourism </a>
         
         <a href="/project-categories/education.html"> Education </a>
         
@@ -271,22 +1322,27 @@
         
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OTHER LINKS </h4>
         <nav>
-          <a href="#"> Home </a>
-          <a href="#"> About </a>
-          <a href="#"> Blog </a>
-          <a href="#"> Contact </a>
+          <a href="/index.html"> Home </a>
+          <a href="/about"> About </a>
+          <a href="/news"> News </a>
+          <a href="/contact"> Contact </a>
         </nav>
     </div>
 </footer>
 <div class="sub-footer">
-  (c) 2017 | Website Designed & Built by Tina May at <a href="http://www.instituteofcode.com"> The Institute of Code</a>
+  (c) 2021 | Website Designed & Built by Tina May at <a href="http://www.instituteofcode.com"> The Institute of Code</a>
 </div>
 
       
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+
+
+
+<!-- about page -->
+
 
 <script>
 
@@ -295,8 +1351,45 @@ $('.mobile-menu-button').click(function() {
   $('.mobile-nav').slideToggle(200, function() {
     // Animation complete.
   });
+});
+
+
+
+
+  
+/* filtering */
+
+  $('nav#portfolio-filter a').click(function(e){
+    e.preventDefault();
+
+    console.log("bob");
+    /* make this <li> class active and remove class 'active' from any other <li>s */
+    $('nav#portfolio-filter .active').removeClass('active');
+    $(this).addClass('active');
+    /* get the name of the cateory from this link */
+    var filterVal = $(this).text().replace(' ','-').replace(' ','-').replace(' ','-').replace(' ','-').toLowerCase();
+
+    $('#portfolio-grid .port-item').each(function() {
+        if(filterVal == 'all'){
+          $(this).removeClass('hidden');
+        }else{
+          if(!$(this).hasClass(filterVal)) {
+            $(this).addClass('hidden'); // hide those that don't have the filter
+          }else{
+            $(this).removeClass('hidden'); // show those that do have the filter
+          }
+};
+        });
+
+
 
 });
+
+
+// index
+
+// about
+
 
 </script>
 
@@ -339,17 +1432,17 @@ $('.mobile-menu-button').click(function() {
     });
 </script>
 
+
+
+
 <!-- Sticky state scripts -->
 
-<script src="/js/sticky-state.js"></script>
 
-<script>
 
-var StickyState = require('sticky-state');
-new StickyState(document.querySelectorAll('.sticky'));
-//  all elements with class .sticky will have sticky state:
 
-</script>
+
+
+
 
 
   </body>

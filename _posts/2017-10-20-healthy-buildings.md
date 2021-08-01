@@ -3,6 +3,7 @@ title: Healthy Buildings
 subtitle: The new face of sustainability
 image_path: /uploads/one-flintoff-interior-01.jpg
 layout: post
+category: news
 banner-image_path: /uploads/one-flintoff-interior-02.jpg
 ---
 

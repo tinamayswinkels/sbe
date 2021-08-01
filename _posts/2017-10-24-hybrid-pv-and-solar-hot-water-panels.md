@@ -3,6 +3,7 @@ title: Hybrid PV and solar hot water panels
 subtitle: cooler more efficient panels and hot water as a byproduct
 image_path: /uploads/blog-hybrid-PV-&-solar-hot-water-panels.JPG
 layout: post
+category: news
 banner-image_path: /uploads/blog-hybrid-PV-&-solar-hot-water-panels-section.JPG
 ---
 

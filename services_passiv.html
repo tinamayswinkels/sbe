@@ -1,0 +1,120 @@
+---
+layout: default
+title: SBE Services
+banner-image_path: /uploads/bosch-01.jpg
+---
+
+{% assign nonpassiv = site.services | where:"sbe_passiv", "true" %}
+
+<section class="padded">
+  <h1 class="center">Our Services</h1>
+  {% assign sorted_services = nonpassiv | sort: 'number' %}
+  <div class="grid">
+    {% for service in sorted_services %}
+
+    <div class="col-4_sm-12 image about" style="background-image:url('{{service.image_path}}');">
+      <a href="{{service.url}}">
+      <div class="hover-overlay  team-member">
+        <div class="text-overlay">
+          <span class="name">{{service.name}}</span>
+        </div>
+      </div>
+    </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+{% comment %}
+<!-- old content -->
+<section class="padded">
+  <h1 class="center">Our Services</h1>
+  {% assign sorted_services = site.services | sort: 'number' %}
+  <div class="grid">
+    {% for service in sorted_services %}
+    <div class="col-4_sm-12">
+      <a href="{{service.url}}">
+        <div class="image about square" style="background-image:url('{{service.image_path}}');">
+
+        </div>
+        <p class="name">{{service.name}}</p>
+
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
+  <div class="banner-inner">
+      <h1 class="editable">Services</h1>
+      <p class="editable">An inter-disciplinary approach to assist you through all phases of your project&nbsp;&nbsp;</p>
+  </div>
+  <a href="#section2" class="down-arrow">
+      <img src="/images/down-icon.png" />
+  </a>
+</section>
+
+<section class="services-loop" id="section2">
+
+
+{% assign sorted_services = site.services | sort: 'number' %}
+  {% for service in sorted_services limit:4 %}
+  <div class="grid">
+      <div class="col-7_xs-12-middle padded">
+         <h3>{{service.name}}</h3>
+         <hr />
+         <p>{{service.blurb}}</p>
+         <a href="/services-extended#{{service.name | slugify}}" class="button"> READ MORE </a>
+      </div>
+      <div class="col-5_xs-12 image" style="background-image:url('{{service.image_path}}');">
+          <p class="text-overlay">{{service.number}}</p>
+      </div>
+  </div>
+  {% endfor %}
+
+</section>
+
+<section class="text-banner light-bg">
+  <h2 class="editable">Recent Architects and Collaborators</h2>
+  <hr class="center" />
+  <p class="editable">ARG Planning, Mextaxis, Elenberg Fraser, JCB, CHT, PTA, Six Degrees, FJMT, Workshop, McIldowie, r Architecture, Vince Galati, H20, Arch Edge,&nbsp; Architekton, Benson, Angelo Group, ,&nbsp; Achieve, Aston, WAHW, Australian Hua Cheng Pty Ltd, Hayball, Gray Puksand, Terence Carey Architects, BKK, Benichou, Brady, Breathe, Cera Stribley, Contour, Elsie &amp; Betty, Evolve, Pellicano, FGR, Hachem, , FMSA, Forza Capital, Glossop, Golden Sunrise Developments Pty Ltd, GMB, R&amp;Y, Kalex, LSA, MAP, 94 feet, Paragon, Pomeroy, Proactive, JBA, Ridolfi, Rothe Lowman, SJB, Alta Architecture, Spowers, Sharif Abraham Architects, Architects Designhaus , Urbis.</p>
+</section>
+
+<section class="services-loop">
+
+  {% for service in sorted_services offset: 4 %}
+  <div class="grid">
+      <div class="col-7_xs-12 padded">
+         <h3>{{service.name}}</h3>
+         <hr />
+         <p>{{service.blurb}}</p>
+         <a href="/services-extended#{{service.name | slugify}}" class="button"> READ MORE </a>
+      </div>
+      <div class="col-5_xs-12 image" style="background-image:url('{{service.image_path}}');">
+          <p class="text-overlay">{{service.number}}</p>
+      </div>
+  </div>
+  {% endfor %}
+
+</section>
+
+notes for SBE
+
+1) reduced font size to 1.5rem and .9rem. also reduced margin bottom which i beleve was what they were talking about for line height
+2) alread implemnted but a project needs at least 5 imges to trigger it any less and it uses static images
+
+minor
+1)added links to take them to their respective pages
+2) no clue what they are talking about on this one
+3)removed bottom layout
+4)couldnt replicate the problem over all my browser types might be a safari thig if you can have a look
+
+
+
+
+
+
+
+
+{% endcomment %}

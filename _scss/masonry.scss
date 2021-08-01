@@ -1,0 +1,55 @@
+// masonry js css
+
+.masnory-layout{
+    margin-left: 10px;
+}
+
+.masnory-item, .item-sizer {
+    width: calc(20% - 20px);
+    display: block;
+    // padding-bottom: 2rem;
+    border: 1px solid rgb(200,200,200);
+    margin-bottom: 20px;
+}
+
+.masnory-item div{
+    padding: 20px;
+}
+
+
+.masnory-item hr{
+border-color: rgb(200,200,200);
+width: 100%;
+}
+.masonry-light-text{
+font-size: 0.9rem;
+color: #737373;
+}
+
+
+
+@media only screen and (max-width:945px) {
+    .masnory-item, .item-sizer {
+        width: calc(25% - 20px);
+    }
+}
+
+@media only screen and (max-width:758px) {
+    .masnory-item, .item-sizer {
+        width: calc(33% - 20px);
+    }
+}
+
+    @media only screen and (max-width:568px) {
+    .masnory-item, .item-sizer {
+        width: calc(50% - 20px);
+       }
+}
+        @media only screen and (max-width:568px) {
+    .masnory-item, .item-sizer {
+        width: calc(100% - 15px)
+    }
+    .masnory-layout{
+    margin-left: 0px;
+}
+}

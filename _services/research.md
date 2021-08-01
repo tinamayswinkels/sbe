@@ -1,8 +1,10 @@
 ---
 name: Research
+layout: service
 blurb: Leading innovation through research
 image_path: /images/services-research.JPG
 number: 8
+sbe_passiv: false
 ---
 
 

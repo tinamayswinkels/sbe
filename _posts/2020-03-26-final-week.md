@@ -1,5 +1,6 @@
 ---
 layout: post
+category: interns
 title: Final Week
 subtitle: Final Week
 description:

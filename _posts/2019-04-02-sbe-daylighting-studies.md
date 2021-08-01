@@ -3,6 +3,7 @@ title: SBE Daylighting Studies
 subtitle: SBE has been busy with many daylighting studies recently.
 image_path: /uploads/albion combo.jpg
 layout: post
+category: news
 banner-image_path: /uploads/gipps combo.jpg
 ---
 

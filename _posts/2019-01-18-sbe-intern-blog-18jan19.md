@@ -3,6 +3,7 @@ title: SBE Intern Blog 18Jan19
 subtitle: 'Getting into the thick of things:'
 image_path: /uploads/Epping Private Hospital.JPG
 layout: post
+category: interns
 banner-image_path: /uploads/oscar tank calc.JPG
 ---
 

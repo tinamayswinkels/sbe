@@ -16,8 +16,12 @@ images:
     image_path: /uploads/dandenong-education-precinct-exterior.JPG
   - title: Dandenong Education Precinct Render
     image_path: /uploads/dandenong-education-precinct-render.jpg
-  - title:
-    image_path:
+  - title: Dandenong Education Precinct
+    image_path: /uploads/dandenong-education-precinct-01.JPG
+  - title: Dandenong Education Exterior
+    image_path: /uploads/dandenong-education-precinct-exterior.JPG
+  - title: Dandenong Education Precinct Render
+    image_path: /uploads/dandenong-education-precinct-render.jpg
 ---
 
 

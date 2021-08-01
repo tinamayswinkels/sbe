@@ -3,6 +3,7 @@ title: WBACE case study
 subtitle: Some facts and figures on the 6 star building
 image_path: /uploads/western-business-accelerator-centre-of-excellence-site.jpg
 layout: post
+category: news
 banner-image_path: /uploads/western-business-accelerator-centre-of-excellence-model.jpg
 ---
 

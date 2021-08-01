@@ -5,6 +5,7 @@ subtitle: >-
   requirements
 image_path: /uploads/NCC2019SectionJ1.5-Graph1.jpg
 layout: post
+category: news
 banner-image_path: /uploads/NCC2019-Development-Progress.JPG
 ---
 

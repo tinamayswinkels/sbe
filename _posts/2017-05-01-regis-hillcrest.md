@@ -3,6 +3,7 @@ title: Regis Hillcrest
 subtitle: Reaching for the stars - Aged Care Green Star
 image_path: /uploads/regis-hillcrest-aged-care-centre-01.jpg
 layout: post
+category: news
 banner-image_path: /uploads/regis-hillcrest-aged-care-centre-render.jpg
 ---
 

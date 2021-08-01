@@ -10,9 +10,14 @@
   border-top: 1px solid rgb(240,240,240);
 }
 
+
 .padded {     padding: 5%;  }
+.padded-1 {   padding: 1%;  }
+.padded-b-1r{ padding-bottom:1rem;}
 .padded-2 {   padding: 2%;  }
 .no-padding { padding: 0;   }
+.padded-10 {   padding: 10%;  }
+
 
 .margin-2 {margin: 5% 2%;}
 .margin-top {margin-top: 5%;}
@@ -21,6 +26,15 @@
 .block {
   display: block;
   width: 100%;
+}
+.hidden,.port-item.hidden{
+  display: none;
+}
+
+// filters
+
+.blackAndWhite{
+  filter: grayscale(100%);
 }
 
 .columns {
@@ -35,6 +49,11 @@
 
 .columns p:first-child {
   margin-top:0;
+}
+
+.cleanList li {
+  list-style: none;
+  margin-top: 0.5rem;
 }
 
 /* horizontal title with left border */
@@ -96,6 +115,7 @@
 .banner {
   background-size: cover;
   background-position: center;
+  background-color: #ddd;
   min-height: 80vh;
   position: relative;
   z-index: 1;
@@ -106,6 +126,21 @@
 
 .banner.short {
   min-height: 50vh;
+}
+
+.banner.second{
+  justify-content: flex-start;
+}
+
+
+.banner.second h3{
+    font-size: 1.6rem;
+    font-weight: 300;
+}
+
+.banner.second p{
+    font-size: 1.2rem;
+    font-weight: 200;
 }
 
 .overlay:after {
@@ -126,9 +161,18 @@
   z-index:2;
 }
 
+.banner-inner.left{
+  text-align: left
+}
+
 .text-banner {
   padding: 5%;
   text-align: center;
+}
+
+.index-banner{
+  min-height:1rem;
+  padding-bottom:44%;
 }
 
 .down-arrow {
@@ -143,7 +187,8 @@
 .image,
 .post-image,
 .sidebar-image,
-.tall-image {
+.tall-image,
+.project-image {
   background-position: center;
   background-size: cover;
 }
@@ -154,11 +199,16 @@
   overflow: hidden;
   border: 1px solid white;
 }
+.project-image{
+  min-height: 33vw!important;
+  display: inline-block;
+}
+.square.image{padding-bottom: 100%;}
 .text-overlay {
   position: absolute;
   bottom:  -10px;
-  font-size: 13vw;
-  line-height: 0.8;
+  font-size: 2rem;
+  line-height: 0.9;
   right: 1rem;
   color: rgba(255,255,255,0.8);
   font-weight: 300;
@@ -198,6 +248,20 @@
   padding: 1%;
 }
 
+.img-square{
+  position: relative;
+  padding-bottom: 100%;
+}
+.img-square img{
+  object-fit: cover;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  left:0;
+  right:0;
+}
 /* Blog post */
 
 .sidebar {
@@ -230,8 +294,9 @@
   text-align: left;
   border-left: 2px solid white;
   padding: 0.5rem 1rem ;
-  font-size: 2.5rem;
+  font-size: 1.5rem;
   display: none;
+  line-height: 1.3;
 }
 
 .about:hover .text-overlay {
@@ -239,10 +304,10 @@
 }
 
 .about .text-overlay .title {
-    font-size: 1rem;
+    font-size: .8rem;
     text-transform: uppercase;
     display: block;
-    margin-top: 0.8rem;
+    margin-top: 0.6rem;
     font-weight: 600;
 }
 
@@ -267,8 +332,40 @@
 }
 
 
+.slick-prev, .slick-next{
+  z-index: 999;
+  width: 3rem;
+  height:3rem;
+}
 
-@media (max-width: 768px) { /* xs */
+.slick-prev::before, .slick-next::before{
+  content: "❯";
+  font-size: 2rem;
+  color:rgb(0, 0, 0);
+  opacity:.8;
+}
+
+.slick-prev::before{
+  content: "❮";
+}
+
+.testimonials .slick-prev::before,.testimonials .slick-next::before{
+  color: black;
+}
+.slick-prev{
+  left:-3rem;
+}
+.slick-next{
+  right:-3rem;
+}
+
+.testimonials .slick-prev::before,.testimonials .slick-next::before{
+
+}
+
+
+
+@media screen and (max-width:35.5em) { /* xs */
     .image,
     .post-image {
       padding-bottom: 50%;
@@ -286,4 +383,63 @@
     -moz-columns: auto 1; /* Firefox */
     columns: auto 1;
   }
+
+
+
+}
+
+
+// gridlex md
+
+@media screen and (max-width:48em) {
+  
+  .hover-overlay {
+ position: absolute;
+ top: 0;
+ bottom: 0;
+ left: 0;
+ right: 0;
+ height: 100%;
+ width: 100%;
+ background-color: rgba(255, 255, 255, 0.61);
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.hover-overlay:hover {
+    background: rgba(255, 255, 255, 0.61);
+}
+
+.about .text-overlay {
+ bottom: 10px;
+ left: 10px;
+ text-align: left;
+ border-left: 0px solid white; /*! padding: 0.5rem 1rem; */
+ font-size: 1.5rem;
+ display: block;
+ line-height: 1.3; /*! align-content: center; */
+ /*! justify-content: center; */padding: 5vw;
+ text-align: center;
+}
+.text-overlay { 
+  position: static;
+  bottom: 0px;
+ font-size: 2rem;
+ line-height: 0.9;
+ right: 1rem;
+ color: rgba(0, 0, 0, 0.8);
+ font-weight: 600;
+ margin: 0;
+}
+
+.about .text-overlay .title {
+ font-size: .8rem;
+ text-transform: uppercase;
+ display: none;
+ margin-top: 0.6rem;
+ font-weight: 600;
+}
+
+
 }

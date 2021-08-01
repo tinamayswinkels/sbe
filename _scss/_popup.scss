@@ -1,0 +1,54 @@
+
+.popup {
+  position: fixed;
+  left: 103vw;
+  z-index: 5;
+  padding: 2rem;
+  background-color: white;
+}
+
+.popup img{
+  min-height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+.popup.onscreen {
+  left: 10%;
+  right: 10%;
+  top: 10%;
+  max-height: 80vh;
+  overflow: scroll;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE 10+ */
+  &::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* Chrome/Safari/Webkit */
+  }
+}
+
+.popUpOverlay {
+  background-color: rgba(150,150,150,0);;
+  transition: 1s;
+  position: fixed;
+}
+
+.popUpOverlay.onscreen {
+  background-color: rgba(150,150,150,.5);
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+}
+
+polygon, path{
+  fill:rgba(0,0,0,0);
+  stroke:black;
+  stroke-width:5;
+}
+
+.popupX {
+    position:absolute;
+  top:1rem;
+  right:1rem;
+  width:1rem;
+}

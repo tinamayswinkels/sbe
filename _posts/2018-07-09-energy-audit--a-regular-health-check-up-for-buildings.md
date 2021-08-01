@@ -5,6 +5,7 @@ subtitle: >-
   of regular energy audits.
 image_path: /uploads/20180515_102024.jpg
 layout: post
+category: news
 banner-image_path: /uploads/20180514_110818.jpg
 ---
 

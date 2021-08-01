@@ -8,8 +8,23 @@
 
 <!--  Links to stylesheets -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css" rel="stylesheet" >
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+<!-- font-family:"acumin-pro"; for headings -->
+<link rel="stylesheet" href="https://use.typekit.net/ggr7ema.css">
+
+<!-- font-family: 'Poppins', sans-serif; for P -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap" rel="stylesheet">
+<!-- index -->
+
+<!-- about -->
+
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css" integrity="sha512-6lLUdeQ5uheMFbWm3CP271l14RsX1xtx+J5x2yeIDkkiBpeVTNhTqijME7GgRKKi6hCqovwCoBTlRBEC20M8Mg==" crossorigin="anonymous" />
+
+ 
+<!-- old font -->
+<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet"> -->
 <link href="/css/main.css" rel="stylesheet">
 
 <!-- this links to a favicon in the images folder -->
@@ -29,10 +44,13 @@
   <body>
 
       <header class="grid">
-   <div class="col-4-middle logo padded">
-      <img src="/images/logo.jpg" alt="SBE Sustainable Built Environments"/>
+   <div class="col-2_xs-8-middle logo">
+     <div class="padded logo">
+       <img src="/images/logoMk2.jpg" alt="SBE Sustainable Built Environments" />
+     </div>
    </div>
-   <div class="col-8-middle right">
+
+   <div class="col-10_xs-4-middle right">
      <nav class="menu mob-hide">
        <li> <a href="/index.html"> Home </a> </li>
       <li> <a href="/about"> About </a> </li>
@@ -41,29 +59,33 @@
          <div class="sub-menu grid left padded">
            <div class="col-3">
              <h3> OUR SERVICES </h3>
-             <p class="editable">We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.</p>
+             <p class="editable">
+               We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.
+             </p>
            </div>
            <div class="col-3"> <!-- empty div --> </div>
            <div class="col-3">
                 
-                <a href="/services-extended#building-permit"> Building Permit</a>
+                <a href="/services/building-permit.html"> Building Permit</a>
                 
-                <a href="/services-extended#building-physics"> Building Physics</a>
+                <a href="/services/building-physics.html"> Building Physics</a>
                 
-                <a href="/services-extended#building-simulation"> Building Simulation</a>
+                <a href="/services/building-simulation.html"> Building Simulation</a>
                 
-                <a href="/services-extended#energy-audits"> Energy Audits</a>
+                <a href="/services/energy-audits.html"> Energy Audits</a>
                 
-                <a href="/services-extended#research"> Research</a>
+                <a href="/services/passivehaus.html"> Passivehaus</a>
                 
-                <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
+                <a href="/services/research.html"> Research</a>
                 
             </div>
             <div class="col-3">
               
-              <a href="/services-extended#town-planning"> Town Planning</a>
+              <a href="/services/s-master-planning.html"> Sustainable Master Planning</a>
               
-              <a href="/services-extended#voluntary-certification"> Voluntary Certification</a>
+              <a href="/services/town-planning.html"> Town Planning</a>
+              
+              <a href="/services/voluntary-certification.html"> Voluntary Certification</a>
               
             </div>
          </div>
@@ -73,16 +95,16 @@
         <div class="sub-menu grid left padded">
           <div class="col-3">
             <h3> OUR PROJECTS </h3>
-            <p class="editable">We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.</p>
+            <p class="editable">
+              We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.
+            </p>
           </div>
           <div class="col-3"> <!-- empty div --> </div>
           <div class="col-3">
               
-              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure</a>
+              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure</a>
               
               <a href="/project-categories/commercial.html"> Commercial</a>
-              
-              <a href="/project-categories/eco-tourism.html"> Eco Tourism</a>
               
               <a href="/project-categories/education.html"> Education</a>
               
@@ -97,11 +119,21 @@
         </div>
       </li>
       <li>
-          <a href="/blog"> Blog </a>
+          <a href="/our-team"> Our Team </a>
+      </li>
+      <li>
+          <a href="/news"> News </a>
       </li>
       <li>
           <a href="/contact"> Contact </a>
       </li>
+      <!-- <li>
+        <form action="/search" method="get">
+          <i class="fas fa-search"></i>
+          <input type="text" class="button" id="search-box" placeholder='find me news about...' name="query">
+          <input type="submit" class="button" value="search">
+        </form>
+      </li> -->
      </nav>
 
 
@@ -120,60 +152,177 @@
   <a href="/about"> About </a>
   <a href="/services"> Services </a>
   <a href="/projects"> Projects </a>
-  <a href="/blog"> Blog </a>
+  <a href="/our-team"> Our Team </a>
+  <a href="/news"> Blog </a>
   <a href="/contact"> Contact </a>
  </nav>
 
 
-      <section class="banner overlay" style="background-image:url('/uploads/Northbank_05.jpg');">
+      <!-- <section class="banner overlay" style="background-image:url('/uploads/northbank-place-01.jpg');">
   <div class="banner-inner">
       <h1> About SBE </h1>
-      <p> Innovative Ideas / Collaborative Design / Practical Solutions </p>
+      <p> Innovative Ideas / Collaborative Design / Practical Solutions. </p>
   </div>
   <a href="#section2" class="down-arrow">
       <img src="/images/down-icon.png" />
   </a>
-</section>
-<section class="padded center" id="section2">
-  <h2 class="editable"> Our Philosophy</h2>
-  <hr class="center" />
-  <div class="columns left editable"><p>Sustainable Built Environments (SBE) was formed in 2001 by a multi-disciplinary team of industry leaders passionate about the role that the built environment can have in shaping thriving communities and cities.</p><p>Since the first project we completed, our holistic and integrative approach to design has become our philosophy. As architects and engineers we understand the importance of inter-disciplinary collaboration to the successful delivery of a performing building. As dedicated ESD consultants our aim is to work with and support design teams navigate the sustainable building landscape &ndash; from meeting Town Planning and statutory energy efficiency requirements to designing high performing and innovative buildings, and achieving best practice voluntary certifications.</p><p>In a period characterised by increasing global, national and local energy efficiency and sustainability objectives our knowledge and understanding of policies and regulations, building physics, and resource efficiency strategies allows us to translate a project&rsquo;s requirements into functional and integrated design outcomes.</p></div>
+</section> -->
+<section class="padded center grid-middle" id="section2">
+  <div class="col-3_sm-5_xs-12">
+    <h2 class="editable">
+      Our Philosophy
+    </h2>
+    <hr class="center" />
+  </div>
+  <div class="left editable col-9_sm-7_xs-12 padded">
+    <p>To unlock the full potential of a building one needs to consider every stage of a project and explore the opportunities that lie between the disciplines.</p>
+    <p>Sustainable Built Environments (SBE) was <strong>formed in 2001 </strong>by a multi-disciplinary team of industry professionals passionate about the role that the built environment could have in shaping thriving communities and cities. Over these years our team has delivered an enormous portfolio of work, locally, nationally and internationally.</p>
+    <p>The founding father and leader of SBE was <em><strong><a href="https://architectureau.com/articles/obituary-4/">David Oppenheim</a></strong></em>, still recognised today as an influential thought leader in the field of ESD and after whom the National Architecture Award for Sustainable Architecture is named. Sadly, David passed away in 2007.</p>
+    <p>David's holistic and integrated approach to design has become our philosophy. As architects and engineers we understand the importance of inter-disciplinary collaboration to the successful delivery of a performing building. As dedicated ESD consultants our aim is to work with and support design teams to navigate the sustainable building landscape &ndash; from meeting Town Planning and statutory energy efficiency requirements through to designing and constructing high performing and innovative buildings, and achieving recognition for best practice and excellence along the way.</p>
+  </div>
 
 </section>
 
-<section class="padded center">
-  <h2 class="editable"> Our Team </h2>
+
+<section class="banner second short overlay grid" style="background-image:url('/uploads/northbank-place-01.jpg');">
+  <div class="banner-inner editable light col-6_sm-10_xs-12 left">
+    <h3>
+      An independent ESD Consultancy
+    </h3>
+    <p>
+      SBE is an independent ESD Consultancy firm with over 16 years of experience working for clients, architects, engineering firms, educational institutions, local Councils and State and National Government bodies.
+    </p>
+  </div>
+</section>
+
+<!-- <section class="padded center">
+  <h2 class="editable">
+    Leadership Team
+  </h2>
   <hr class="center" />
 
 <div class="grid">
 
   
-    <div class="col-3_sm-6 image about" style="background-image:url('/images/SeanMcardle_Portrait.jpg');">
-    <div class="hover-overlay">
-      <div class="text-overlay">
-        <span class="name">Sean McArdle</span>
-        <span class="title">Associate Director</span>
+    <div class="col-3_sm-6 image about" style="background-image:url('/images/Sean McArdle_ELOH6_BW.jpg');">
+      <div class="hover-overlay  team-member" data-target="pop1">
+        <div class="text-overlay">
+          <span class="name">Sean McArdle</span>
+          <span class="title">Associate Director</span>
+        </div>
       </div>
-      </div>
+
+  <section class="popup grid" data-pop="pop1">
+    <div class="col-4">
+      <img src="/images/Sean McArdle_ELOH6_BW.jpg" alt="Sean McArdle Associate Director">
     </div>
-  
-    <div class="col-3_sm-6 image about" style="background-image:url('/images/RobertoPetruzzi_Portrait.jpg');">
-    <div class="hover-overlay">
-      <div class="text-overlay">
-        <span class="name">Roberto Petruzzi</span>
-        <span class="title">ESD Engineer</span>
-      </div>
-      </div>
+    <div class="col-8 left">
+      <h2 class="name center">Sean McArdle</h2>
+      <h3 class="title">Associate Director</h3>
+      <ul class="cleanList">
+        
+          <li>Bachelor or Architecture (Hon), Deakin University</li>
+        
+      </ul>
+      <p>
+        Sean is an architect with twenty years of experience, most spent in providing ESD consultancy advice. Prior to working at SBE, Sean contributed to a significant body of work in education facility design and construction at the Deakin University Burwood Campus, Melbourne, as the client architect.
+At SBE, Sean has built on this experience advising to innovative education projects including: Dandenong Education Precinct; the University of Tasmania’s School of Furniture Design in Launceston; Automotive Centre of Excellence (Stage 2) for Kangan Batman TAFE and Mt Clear Secondary College Earth Science Centre, Ballarat.
+Understanding that indoor environment quality has direct influence on learning outcomes, Sean is passionate about optimising passive design solutions to enhance thermal comfort, daylight and access to fresh air in his education projects. His expertise has informed the development of the Green Star Education Tool v1 where he was on the Technical working Committee.
+      </p>
     </div>
-  
+    <div class="popupX">
+      <svg viewBox="0 0 100 100">
+        <path d="M 0,0 L100,100" />
+        <path d="M 100,0 L0,100" />
+      </svg>
+    </div>
+
+  </section>
 </div>
 
-</section>
 
-<section class="text-banner light-bg">
-  <h2 class="editable"> testimonials</h2>
+  
+    <div class="col-3_sm-6 image about" style="background-image:url('/images/staff-roberto-petruzzi-portrait.jpg');">
+      <div class="hover-overlay  team-member" data-target="pop2">
+        <div class="text-overlay">
+          <span class="name">Roberto Petruzzi</span>
+          <span class="title">Associate</span>
+        </div>
+      </div>
+
+  <section class="popup grid" data-pop="pop2">
+    <div class="col-4">
+      <img src="/images/staff-roberto-petruzzi-portrait.jpg" alt="Roberto Petruzzi Associate">
+    </div>
+    <div class="col-8 left">
+      <h2 class="name center">Roberto Petruzzi</h2>
+      <h3 class="title">Associate</h3>
+      <ul class="cleanList">
+        
+          <li>Bachelor of Social Science (Environment), RMIT</li>
+        
+          <li>Master of Environment (Energy Efficiency Modelling and Implementation), University of Melbourne</li>
+        
+          <li>Cert IV in NatHERS Assessment</li>
+        
+          <li>Green Star Accredited Professional</li>
+        
+          <li>Certified Passive House Consultant</li>
+        
+          <li>WUFI Professional</li>
+        
+      </ul>
+      <p>
+        Rob is an ESD Engineer with extensive experience in complex building simulation, thermal performance assessments, and indoor environmental quality. Since 2011, he has been involved in the implementation of building energy and water efficiency measures in the residential, commercial, education, industrial, healthcare and public sectors.
+Rob has an interdisciplinary approach to ESD that focuses on well-integrated and evidence-based practical solutions. He aims to collaborate with all stakeholders throughout the design and construction process in order to ensure a successful outcome. Rob has extensive knowledge of the economic, social and environmental benefits that ESD measures bring to projects, as well as the technical implications and coordination requirements necessary during building design, construction and operation.
+Rob’s extensive knowledge of energy and water efficiency in design and practice has also contributed to a number of Local and State Governments policies and academic research.
+      </p>
+    </div>
+    <div class="popupX">
+      <svg viewBox="0 0 100 100">
+        <path d="M 0,0 L100,100" />
+        <path d="M 100,0 L0,100" />
+      </svg>
+    </div>
+
+  </section>
+</div>
+
+
+  
+
+  <div class="popUpOverlay"></div>
+
+</div>
+
+</section> -->
+
+<section class="padded-10 center light-bg">
+  <h2 class="editable">
+    Testimonials
+  </h2>
   <hr class="center" />
-  <p class="editable"> "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+  
+    <div class=" slideshow-container testimonials">
+
+      <!-- Full-width images with number and caption text -->
+      
+      <div class="mySlides fade">
+        <p class="editable">
+          <em>"We work closely with SBE on the design and development of all of our projects. Roberto and the team are very skilled at balancing architectural intent with ESD solutions to achieve maximum thermal performance and sustainability outcomes."</em><br /><br />David Gibson, Principal Architect, PTX Architects<br /><br />&nbsp;
+        </p>
+      </div>
+    
+      <div class="mySlides fade">
+        <p class="editable">
+          <em>"We work closely with SBE on the design and development of all of our projects. Roberto and the team are very skilled at balancing architectural intent with ESD solutions to achieve maximum thermal performance and sustainability outcomes."</em><br /><br />David Gibson, Principal Architect, PTX Architects<br /><br />&nbsp;
+        </p>
+      </div>
+    
+    </div>
+  <!-- <p class="editable">
+    <em>"We work closely with SBE on the design and development of all of our projects. Roberto and the team are very skilled at balancing architectural intent with ESD solutions to achieve maximum thermal performance and sustainability outcomes."</em><br /><br />David Gibson, Principal Architect, PTX Architects<br /><br />&nbsp;
+  </p> -->
 </section>
 
 <section class="padded">
@@ -184,24 +333,35 @@
   <div class="border-left">
     <!-- <h2 class="rotate"> Recognition </h2> -->
     
-    <h4> Organisation - This is an award title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <h4> Planning Institute of Australia – 2010 </h4>
+    <p> Award for Planning Excellence, Environment category, in collaboration with Hansen Partnership</p>
     
-    <h4> Organisation - This is an award title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <h4> Australian Institute of Architects (Tasmanian Chapter) 2010 </h4>
+    <p> Sustainable Architecture Award for the design of University of Tasmania School of Furniture Design as Architects, in collaboration with Six Degrees.</p>
     
-    <h4> Organisation - This is an award title </h4>
-    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <h4> Australian Institute of Architects (South Australian Chapter) 2010 </h4>
+    <p> Sustainable Architecture Award. Provision of ESD Advice and Green Star Professional Services for UniSA Mawson Institute Building V, designed by Guida Moseley Brown Architects and Russell & Yelland Architects in Association.</p>
     
 
   </div>
 </section>
-  <!-- <div class="border-left">
-    <h2 class="rotate"> 2016 </h2>
 
-    
-
+<section class="banner second short overlay grid" style="background-image:url('/uploads/SBE_Banner.jpg');">
+  <div class="banner-inner editable light col-6_sm-10_xs-12 left">
+    <h3 class="fakeH2">
+      An independent ESD Consultancy
+    </h3>
+    <p>
+      SBE is an independent ESD Consultancy firm with over 16 years of experience working for clients, architects, engineering firms, educational institutions, local Councils and State and National Government bodies.
+    </p>
   </div>
+</section>
+<!-- <div class="border-left">
+  <h2 class="rotate"> 2016 </h2>
+
+  
+
+
   <div class="border-left">
     <h2 class="rotate"> 2015 </h2>
 
@@ -210,42 +370,45 @@
   </div> -->
 
 
+
       <footer class="grid">
-    <div class="col-3_sm-12 padded-2">
+    <!-- <div class="col-3_sm-12 padded-2">
         <h3> Sustainable Built Environment</h3>
-        <p class="editable">As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.</p>
-    </div>
-    <div class="col-3_sm-12 padded-2">
+        <p class="editable">
+          As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.
+        </p>
+    </div> -->
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR SERVICES </h4>
       <nav>
           
-          <a href="/services-extended#building-permit"> Building Permit</a>
+          <a href="/services/building-permit.html"> Building Permit</a>
           
-          <a href="/services-extended#building-physics"> Building Physics</a>
+          <a href="/services/building-physics.html"> Building Physics</a>
           
-          <a href="/services-extended#building-simulation"> Building Simulation</a>
+          <a href="/services/building-simulation.html"> Building Simulation</a>
           
-          <a href="/services-extended#energy-audits"> Energy Audits</a>
+          <a href="/services/energy-audits.html"> Energy Audits</a>
           
-          <a href="/services-extended#research"> Research</a>
+          <a href="/services/passivehaus.html"> Passivehaus</a>
           
-          <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
+          <a href="/services/research.html"> Research</a>
           
-          <a href="/services-extended#town-planning"> Town Planning</a>
+          <a href="/services/s-master-planning.html"> Sustainable Master Planning</a>
           
-          <a href="/services-extended#voluntary-certification"> Voluntary Certification</a>
+          <a href="/services/town-planning.html"> Town Planning</a>
+          
+          <a href="/services/voluntary-certification.html"> Voluntary Certification</a>
           
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR PROJECTS </h4>
       <nav>
         
-        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure </a>
+        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure </a>
         
         <a href="/project-categories/commercial.html"> Commercial </a>
-        
-        <a href="/project-categories/eco-tourism.html"> Eco Tourism </a>
         
         <a href="/project-categories/education.html"> Education </a>
         
@@ -255,22 +418,30 @@
         
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OTHER LINKS </h4>
         <nav>
-          <a href="#"> Home </a>
-          <a href="#"> About </a>
-          <a href="#"> Blog </a>
-          <a href="#"> Contact </a>
+          <a href="/index.html"> Home </a>
+          <a href="/about"> About </a>
+          <a href="/news"> News </a>
+          <a href="/contact"> Contact </a>
         </nav>
     </div>
 </footer>
 <div class="sub-footer">
-  (c) 2017 | Website Designed & Built by Tina May at <a href="http://www.instituteofcode.com"> The Institute of Code</a>
+  (c) 2021 | Website Designed & Built by Tina May at <a href="http://www.instituteofcode.com"> The Institute of Code</a>
 </div>
 
       
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+
+
+
+<!-- about page -->
+
+<!-- for slide show -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
+
 
 <script>
 
@@ -279,8 +450,28 @@ $('.mobile-menu-button').click(function() {
   $('.mobile-nav').slideToggle(200, function() {
     // Animation complete.
   });
-
 });
+
+
+
+
+  
+// index
+
+// about
+
+  console.log("bob");
+  $('.slideshow-container').slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: false,
+    arrows: true,
+    speed: 1500,
+    autoplaySpeed: 4000,
+    prevArrow: '<button type="button" class="slick-prev">&#10141;</button>',
+    nextArrow: '<button type="button" class="slick-next">&#10141;</button>'
+  });
+
 
 </script>
 
@@ -323,17 +514,17 @@ $('.mobile-menu-button').click(function() {
     });
 </script>
 
+
+
+
 <!-- Sticky state scripts -->
 
-<script src="/js/sticky-state.js"></script>
 
-<script>
 
-var StickyState = require('sticky-state');
-new StickyState(document.querySelectorAll('.sticky'));
-//  all elements with class .sticky will have sticky state:
 
-</script>
+
+
+
 
 
   </body>

@@ -5,7 +5,7 @@ blurb: >-
   The proposed Japara Healthcare development in Newport intends to provide a
   modern aged care facility for 120 bedrooms.
 architect: Crosier Scott Architects
-category: other
+category: healthcare
 client: JBA Consulting Engineers
 date: 2017-02-08 00:00:00
 images:

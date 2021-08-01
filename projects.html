@@ -3,7 +3,7 @@ layout: default
 title: SBE Projects
 banner-image_path: /uploads/one-flintoff-01.jpg
 ---
-
+<!--
 <section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
   <div class="banner-inner editable"><h1>Projects</h1><p>From small residential to large commercial developments, design guidelines to third party certification, SBE has a wealth of projects to demonstrate their capacity and capability.</p></div>
   <a href="#section2" class="down-arrow">
@@ -12,7 +12,6 @@ banner-image_path: /uploads/one-flintoff-01.jpg
 </section>
 
 <section class="services-loop" id="section2">
-
   {% for category in site.project-categories limit:4 %}
   <div class="grid">
       <div class="col-7_xs-12 padded">
@@ -22,12 +21,12 @@ banner-image_path: /uploads/one-flintoff-01.jpg
          <a href="{{category.url}}" class="button"> READ MORE </a>
       </div>
       <div class="col-5_xs-12 image" style="background-image:url('{{category.banner-image_path}}');">
-          <!-- <p class="text-overlay">{{category.number}}<p></p> -->
+          <p class="text-overlay">{{category.number}}<p></p>
       </div>
   </div>
   {% endfor %}
-
 </section>
+
 
 <section class="text-banner">
   <h2 class="editable">Holistic and inter-disciplinary collaboration</h2>
@@ -51,4 +50,68 @@ banner-image_path: /uploads/one-flintoff-01.jpg
   </div>
   {% endfor %}
 
+</section> -->
+
+<section class="padded">
+<div class="center">
+  <h2 class="editable">Projects.</h2>
+  <hr class="center">
+  <p class="editable">Take a look at some of our projects.</p>
+</div>
+  <nav class="port-nav grid-center-middle" id="portfolio-filter">
+    <div class="padded-1">
+      <a class="button filter">all</a>
+    </div>
+
+    {% for cat in site.project-categories %}
+      <a class="button filter">{{cat.category | replace:"-"," "}}</a>
+    {% endfor %}
+  </nav>
+  <div class="grid padded" id="portfolio-grid">
+    {% for project in site.projects %}
+
+    <div class="col-3_md-4_sm-6_xs-12 image about port-item {{project.category}}" style="background-image:url('  {% for img in project.images limit:1 %}{{img.image_path}}"{% endfor %}');">
+      <a href="{{project.url}}" class="hover-overlay" data-target="pop{{ forloop.index }}">
+        <div class="text-overlay">
+          <span class="name">{{project.name}}</span>
+          <span class="title">{{project.title}}</span>
+        </div>
+      </a>
+      </div>
+
+
+
+
+<!--
+    <div class="col-3 port-item {{project.category}}">
+      {% for img in project.images limit:1 %}
+      <div class="img-square">
+        <img src="{{img.image_path}}" alt="{{img.title}}">
+      </div>
+      {% endfor %}
+
+      <h3>{{project.name}}</h3>
+
+    </div> -->
+
+    {% endfor %}
+  </div>
 </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

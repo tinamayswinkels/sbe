@@ -3,6 +3,7 @@ title: Week 2 Down to business
 subtitle: week 2
 image_path: /uploads/Week 2 lakshmee.jpg
 layout: post
+category: news
 banner-image_path: /uploads/week 2 Brod.jpg
 ---
 

@@ -3,6 +3,7 @@ layout: default
 title: About SBE
 subtitle: Innovative Ideas / Collaborative Design / Practical Solutions.
 banner-image_path: /uploads/northbank-place-01.jpg
+second-banner-image_path: /uploads/SBE_Banner.jpg
 awards:
   - title: Planning Institute of Australia – 2010
     description: >-
@@ -19,11 +20,14 @@ awards:
       Professional Services for UniSA Mawson Institute Building V, designed by
       Guida Moseley Brown Architects and Russell & Yelland Architects in
       Association.
-  - title:
-    description:
+testimonials:
+  - textarea: We work closely with SBE on the design and development of all of our projects. Roberto and the team are very skilled at balancing architectural intent with ESD solutions to achieve maximum thermal performance and sustainability outcomes.
+    individual: David Gibson, Principal Architect, PTX Architects
+  - textarea: We work closely with SBE on the design and development of all of our projects. Roberto and the team are very skilled at balancing architectural intent with ESD solutions to achieve maximum thermal performance and sustainability outcomes.
+    individual: David Gibson, Principal Architect, PTX Architects
 ---
 
-<section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
+<!-- <section class="banner overlay" style="background-image:url('{{page.banner-image_path}}');">
   <div class="banner-inner">
       <h1> {{page.title}} </h1>
       <p> {{page.subtitle}} </p>
@@ -31,13 +35,15 @@ awards:
   <a href="#section2" class="down-arrow">
       <img src="/images/down-icon.png" />
   </a>
-</section>
-<section class="padded center" id="section2">
-  <h2 class="editable">
-    Our Philosophy
-  </h2>
-  <hr class="center" />
-  <div class="columns left editable">
+</section> -->
+<section class="padded center grid-middle" id="section2">
+  <div class="col-3_sm-5_xs-12">
+    <h2 class="editable">
+      Our Philosophy
+    </h2>
+    <hr class="center" />
+  </div>
+  <div class="left editable col-9_sm-7_xs-12 padded">
     <p>To unlock the full potential of a building one needs to consider every stage of a project and explore the opportunities that lie between the disciplines.</p>
     <p>Sustainable Built Environments (SBE) was <strong>formed in 2001 </strong>by a multi-disciplinary team of industry professionals passionate about the role that the built environment could have in shaping thriving communities and cities. Over these years our team has delivered an enormous portfolio of work, locally, nationally and internationally.</p>
     <p>The founding father and leader of SBE was <em><strong><a href="https://architectureau.com/articles/obituary-4/">David Oppenheim</a></strong></em>, still recognised today as an influential thought leader in the field of ESD and after whom the National Architecture Award for Sustainable Architecture is named. Sadly, David passed away in 2007.</p>
@@ -46,9 +52,21 @@ awards:
 
 </section>
 
-<section class="padded center">
+
+<section class="banner second short overlay grid" style="background-image:url('{{page.banner-image_path}}');">
+  <div class="banner-inner editable light col-6_sm-10_xs-12 left">
+    <h3>
+      An independent ESD Consultancy
+    </h3>
+    <p>
+      SBE is an independent ESD Consultancy firm with over 16 years of experience working for clients, architects, engineering firms, educational institutions, local Councils and State and National Government bodies.
+    </p>
+  </div>
+</section>
+
+<!-- <section class="padded center">
   <h2 class="editable">
-    Our Team
+    Leadership Team
   </h2>
   <hr class="center" />
 
@@ -56,26 +74,70 @@ awards:
 
   {% for person in site.data.team %}
     <div class="col-3_sm-6 image about" style="background-image:url('{{person.image_path}}');">
-    <div class="hover-overlay">
-      <div class="text-overlay">
-        <span class="name">{{person.name}}</span>
-        <span class="title">{{person.title}}</span>
+      <div class="hover-overlay  team-member" data-target="pop{{ forloop.index }}">
+        <div class="text-overlay">
+          <span class="name">{{person.name}}</span>
+          <span class="title">{{person.title}}</span>
+        </div>
       </div>
-      </div>
+
+  <section class="popup grid" data-pop="pop{{ forloop.index }}">
+    <div class="col-4">
+      <img src="{{person.image_path}}" alt="{{person.name}} {{person.title}}">
     </div>
-  {% endfor %}
+    <div class="col-8 left">
+      <h2 class="name center">{{person.name}}</h2>
+      <h3 class="title">{{person.title}}</h3>
+      <ul class="cleanList">
+        {% for ed in person.education %}
+          <li>{{ed}}</li>
+        {% endfor %}
+      </ul>
+      <p>
+        {{person.description}}
+      </p>
+    </div>
+    <div class="popupX">
+      <svg viewBox="0 0 100 100">
+        <path d="M 0,0 L100,100" />
+        <path d="M 100,0 L0,100" />
+      </svg>
+    </div>
+
+  </section>
 </div>
 
-</section>
 
-<section class="text-banner light-bg">
+  {% endfor %}
+
+  <div class="popUpOverlay"></div>
+
+</div>
+
+</section> -->
+
+<section class="padded-10 center light-bg">
   <h2 class="editable">
     Testimonials
   </h2>
   <hr class="center" />
-  <p class="editable">
+  {% for testimonials in page.testimonials %}
+  {% assign testCount = forloop.index %}
+  {% endfor %}
+    <div class="{% if testCount > 1 %} slideshow-container{% endif %} testimonials">
+
+      <!-- Full-width images with number and caption text -->
+      {% for test in page.testimonials %}
+      <div class="mySlides fade">
+        <p class="editable">
+          <em>"{{test.textarea}}"</em><br /><br />{{test.individual}}<br /><br />&nbsp;
+        </p>
+      </div>
+    {% endfor %}
+    </div>
+  <!-- <p class="editable">
     <em>"We work closely with SBE on the design and development of all of our projects. Roberto and the team are very skilled at balancing architectural intent with ESD solutions to achieve maximum thermal performance and sustainability outcomes."</em><br /><br />David Gibson, Principal Architect, PTX Architects<br /><br />&nbsp;
-  </p>
+  </p> -->
 </section>
 
 <section class="padded">
@@ -92,15 +154,26 @@ awards:
 
   </div>
 </section>
-  <!-- <div class="border-left">
-    <h2 class="rotate"> 2016 </h2>
 
-    {% for award in page.awards_2016 %}
-    <h4> {{award.title}} </h4>
-    <p> {{award.description}}</p>
-    {% endfor %}
+<section class="banner second short overlay grid" style="background-image:url('{{page.second-banner-image_path}}');">
+  <div class="banner-inner editable light col-6_sm-10_xs-12 left">
+    <h3 class="fakeH2">
+      An independent ESD Consultancy
+    </h3>
+    <p>
+      SBE is an independent ESD Consultancy firm with over 16 years of experience working for clients, architects, engineering firms, educational institutions, local Councils and State and National Government bodies.
+    </p>
+  </div>
+</section>
+<!-- <div class="border-left">
+  <h2 class="rotate"> 2016 </h2>
 
-  
+  {% for award in page.awards_2016 %}
+  <h4> {{award.title}} </h4>
+  <p> {{award.description}}</p>
+  {% endfor %}
+
+
   <div class="border-left">
     <h2 class="rotate"> 2015 </h2>
 
@@ -110,3 +183,4 @@ awards:
     {% endfor %}
 
   </div> -->
+

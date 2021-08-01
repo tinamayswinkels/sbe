@@ -3,6 +3,7 @@ title: SBE's Interns
 subtitle: 'An Architect, an Engineer and an ESD Consultant walk into a bar...'
 image_path: /uploads/interns.jpg
 layout: post
+category: interns
 banner-image_path: /uploads/interns.jpg
 ---
 

@@ -3,6 +3,7 @@ title: The First Rate week
 subtitle: An exciting first week of our internship at SBE
 image_path: /uploads/int toyota 1.jpg
 layout: post
+category: interns
 banner-image_path: /uploads/int toyota 2.jpg
 ---
 

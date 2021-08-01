@@ -3,6 +3,7 @@ title: SBE Interns 15Feb19
 subtitle: 3 projects in Collins Street this week
 image_path: /uploads/271 collins.jpg
 layout: post
+category: interns
 banner-image_path: /uploads/271-collins.jpg
 ---
 

@@ -3,6 +3,7 @@ title: SBE Interns update 11 January 2018
 subtitle: Designing a house? Less is really more.
 image_path: /uploads/intern model early jan.jpg
 layout: post
+category: interns
 banner-image_path: /uploads/interns jan 18.jpg
 ---
 

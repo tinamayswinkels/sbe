@@ -3,6 +3,7 @@ title: Millie's last week
 subtitle: last hurrah
 image_path: /uploads/interns 22feb19.jpg
 layout: post
+category: interns
 banner-image_path: /uploads/271-collins.jpg
 ---
 

@@ -3,6 +3,7 @@ title: SBE interns final day
 subtitle: Stars
 image_path: /uploads/grasshopper-capture1.jpg
 layout: post
+category: interns
 banner-image_path: /uploads/kareoke.JPG
 ---
 

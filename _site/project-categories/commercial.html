@@ -8,8 +8,20 @@
 
 <!--  Links to stylesheets -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css" rel="stylesheet" >
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+<!-- font-family:"acumin-pro"; for headings -->
+<link rel="stylesheet" href="https://use.typekit.net/ggr7ema.css">
+
+<!-- font-family: 'Poppins', sans-serif; for P -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap" rel="stylesheet">
+<!-- index -->
+
+<!-- about -->
+
+ 
+<!-- old font -->
+<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet"> -->
 <link href="/css/main.css" rel="stylesheet">
 
 <!-- this links to a favicon in the images folder -->
@@ -29,10 +41,13 @@
   <body>
 
       <header class="grid">
-   <div class="col-4-middle logo padded">
-      <img src="/images/logo.jpg" alt="SBE Sustainable Built Environments"/>
+   <div class="col-2_xs-8-middle logo">
+     <div class="padded logo">
+       <img src="/images/logoMk2.jpg" alt="SBE Sustainable Built Environments" />
+     </div>
    </div>
-   <div class="col-8-middle right">
+
+   <div class="col-10_xs-4-middle right">
      <nav class="menu mob-hide">
        <li> <a href="/index.html"> Home </a> </li>
       <li> <a href="/about"> About </a> </li>
@@ -41,29 +56,33 @@
          <div class="sub-menu grid left padded">
            <div class="col-3">
              <h3> OUR SERVICES </h3>
-             <p class="editable">We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.</p>
+             <p class="editable">
+               We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.
+             </p>
            </div>
            <div class="col-3"> <!-- empty div --> </div>
            <div class="col-3">
                 
-                <a href="/services-extended#building-permit"> Building Permit</a>
+                <a href="/services/building-permit.html"> Building Permit</a>
                 
-                <a href="/services-extended#building-physics"> Building Physics</a>
+                <a href="/services/building-physics.html"> Building Physics</a>
                 
-                <a href="/services-extended#building-simulation"> Building Simulation</a>
+                <a href="/services/building-simulation.html"> Building Simulation</a>
                 
-                <a href="/services-extended#energy-audits"> Energy Audits</a>
+                <a href="/services/energy-audits.html"> Energy Audits</a>
                 
-                <a href="/services-extended#research"> Research</a>
+                <a href="/services/passivehaus.html"> Passivehaus</a>
                 
-                <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
+                <a href="/services/research.html"> Research</a>
                 
             </div>
             <div class="col-3">
               
-              <a href="/services-extended#town-planning"> Town Planning</a>
+              <a href="/services/s-master-planning.html"> Sustainable Master Planning</a>
               
-              <a href="/services-extended#voluntary-certification"> Voluntary Certification</a>
+              <a href="/services/town-planning.html"> Town Planning</a>
+              
+              <a href="/services/voluntary-certification.html"> Voluntary Certification</a>
               
             </div>
          </div>
@@ -73,16 +92,16 @@
         <div class="sub-menu grid left padded">
           <div class="col-3">
             <h3> OUR PROJECTS </h3>
-            <p class="editable">We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.</p>
+            <p class="editable">
+              We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.
+            </p>
           </div>
           <div class="col-3"> <!-- empty div --> </div>
           <div class="col-3">
               
-              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure</a>
+              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure</a>
               
               <a href="/project-categories/commercial.html"> Commercial</a>
-              
-              <a href="/project-categories/eco-tourism.html"> Eco Tourism</a>
               
               <a href="/project-categories/education.html"> Education</a>
               
@@ -97,11 +116,21 @@
         </div>
       </li>
       <li>
-          <a href="/blog"> Blog </a>
+          <a href="/our-team"> Our Team </a>
+      </li>
+      <li>
+          <a href="/news"> News </a>
       </li>
       <li>
           <a href="/contact"> Contact </a>
       </li>
+      <!-- <li>
+        <form action="/search" method="get">
+          <i class="fas fa-search"></i>
+          <input type="text" class="button" id="search-box" placeholder='find me news about...' name="query">
+          <input type="submit" class="button" value="search">
+        </form>
+      </li> -->
      </nav>
 
 
@@ -120,7 +149,8 @@
   <a href="/about"> About </a>
   <a href="/services"> Services </a>
   <a href="/projects"> Projects </a>
-  <a href="/blog"> Blog </a>
+  <a href="/our-team"> Our Team </a>
+  <a href="/news"> Blog </a>
   <a href="/contact"> Contact </a>
  </nav>
 
@@ -129,16 +159,7 @@
   <p class="breadcrumb"> <a href="/projects.html"> < Back To Projects </a></p>
   <h1> Commercial Projects </h1>
   <hr />
- <p>This is a commercial project Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<ul>
-  <li>Lorem ipsum dolor sit amet</li>
-  <li>consectetur adipisicing elit</li>
-  <li>sed do eiusmod tempor incididunt</li>
-  <li>ut labore et dolore magna aliqua</li>
-</ul>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+ <p>With commercial buildings dominating the skylines of most cities and town centres, they have come to represent one of the most notable indicators of economic, social, technological, and financial progress. Over the last decade, through the increasing uptake of sustainability initiatives in the built environment, a new generation of high-performance commercial buildings has emerged. These offer owners and users increased worker satisfaction and productivity, improved health, greater flexibility, and enhanced energy and environmental performance.</p>
 
 </section>
 <section class="light-bg padded">
@@ -151,101 +172,149 @@
 
 
  
-     <div class="col-4_sm-12 padded-2">
-       <div class="tall-image" style="background-image:url('/uploads/costco4.JPG');">
-       </div>
-       <a href="/projects/costco.html" class="offset-top padded">
-            <h3>Costco Docklands</h3>
-            <p>Supermarkets benefit greatly from good daylighting, good insulation and on site renewable energy generation.</p>
-       </a>
-     </div>
- 
-     <div class="col-4_sm-12 padded-2">
-       <div class="tall-image" style="background-image:url('/uploads/4.JPG');">
-       </div>
-       <a href="/projects/goods-shed-north.html" class="offset-top padded">
-            <h3>Goods Shed North</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-       </a>
-     </div>
- 
-     <div class="col-4_sm-12 padded-2">
-       <div class="tall-image" style="background-image:url('/uploads/commons-1.JPG');">
-       </div>
-       <a href="/projects/anz-headquarters.html" class="offset-top padded">
-            <h3>ANZ Headquarters</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-       </a>
-     </div>
- 
-     <div class="col-4_sm-12 padded-2">
-       <div class="tall-image" style="background-image:url('/uploads/Bosch_30.jpg');">
-       </div>
-       <a href="/projects/bosch-headquarters-clayton.html" class="offset-top padded">
-            <h3>Bosch Headquarters Clayton</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-       </a>
-     </div>
- 
-     <div class="col-4_sm-12 padded-2">
-       <div class="tall-image" style="background-image:url('/uploads/One_Flintoff_01.jpg');">
-       </div>
-       <a href="/projects/flintoff.html" class="offset-top padded">
-            <h3>One Flintoff</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-       </a>
-     </div>
- 
-     <div class="col-4_sm-12 padded-2">
-       <div class="tall-image" style="background-image:url('/uploads/1.jpg');">
-       </div>
-       <a href="/projects/melton-library-and-learning-hub.html" class="offset-top padded">
-            <h3>Melton Library and Learning Hub</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-       </a>
-     </div>
- 
+     
+<div class="col-3_md-4_sm-6_xs-12 image about port-item commercial"
+  style="background-image:url('  /uploads/northbank-place-01.jpg" ');">
+  <a href="/projects/northbank-place.html" class="hover-overlay" data-target="pop1">
+    <div class="text-overlay">
+      <span class="name">Northbank Place</span>
+      <span class="title">Northbank Place</span>
+    </div>
+  </a>
+</div>
+     
+<div class="col-3_md-4_sm-6_xs-12 image about port-item commercial"
+  style="background-image:url('  /uploads/costco-01.JPG" ');">
+  <a href="/projects/costco.html" class="hover-overlay" data-target="pop2">
+    <div class="text-overlay">
+      <span class="name">Costco Docklands</span>
+      <span class="title">Costco</span>
+    </div>
+  </a>
+</div>
+     
+<div class="col-3_md-4_sm-6_xs-12 image about port-item commercial"
+  style="background-image:url('  /uploads/goods-shed-north-01.JPG" ');">
+  <a href="/projects/goods-shed-north.html" class="hover-overlay" data-target="pop3">
+    <div class="text-overlay">
+      <span class="name">Goods Shed North</span>
+      <span class="title">Goods Shed North</span>
+    </div>
+  </a>
+</div>
+     
+<div class="col-3_md-4_sm-6_xs-12 image about port-item commercial"
+  style="background-image:url('  /uploads/melton-library-&-learning-hub-01.jpg" ');">
+  <a href="/projects/melton-library-and-learning-hub.html" class="hover-overlay" data-target="pop4">
+    <div class="text-overlay">
+      <span class="name">Melton Library and Learning Hub</span>
+      <span class="title">Melton Library And Learning Hub</span>
+    </div>
+  </a>
+</div>
+     
+<div class="col-3_md-4_sm-6_xs-12 image about port-item commercial"
+  style="background-image:url('  /uploads/western-business-accelerator-centre-of-excellence-01.jpg" ');">
+  <a href="/projects/western-business-accelartor-centrree.html" class="hover-overlay" data-target="pop5">
+    <div class="text-overlay">
+      <span class="name">Western Business Accelerator Centre of Excellence (WBACE)</span>
+      <span class="title">Western Business Accelartor Centrree</span>
+    </div>
+  </a>
+</div>
+     
+<div class="col-3_md-4_sm-6_xs-12 image about port-item commercial"
+  style="background-image:url('  /uploads/one-flintoff-01.jpg" ');">
+  <a href="/projects/flintoff.html" class="hover-overlay" data-target="pop6">
+    <div class="text-overlay">
+      <span class="name">One Flintoff</span>
+      <span class="title">Flintoff</span>
+    </div>
+  </a>
+</div>
+     
+<div class="col-3_md-4_sm-6_xs-12 image about port-item commercial"
+  style="background-image:url('  /uploads/bosch-01.jpg" ');">
+  <a href="/projects/bosch-headquarters-clayton.html" class="hover-overlay" data-target="pop7">
+    <div class="text-overlay">
+      <span class="name">Bosch Headquarters Clayton</span>
+      <span class="title">Bosch Headquarters Clayton</span>
+    </div>
+  </a>
+</div>
+     
+<div class="col-3_md-4_sm-6_xs-12 image about port-item commercial"
+  style="background-image:url('  /uploads/LevantineHill.JPG" ');">
+  <a href="/projects/levantine-hill-winery.html" class="hover-overlay" data-target="pop8">
+    <div class="text-overlay">
+      <span class="name">Levantine Hill Winery</span>
+      <span class="title">Levantine Hill Winery</span>
+    </div>
+  </a>
+</div>
+     
+<div class="col-3_md-4_sm-6_xs-12 image about port-item commercial"
+  style="background-image:url('  /uploads/StrawberryHill02.JPG" ');">
+  <a href="/projects/strawberry-hill-workers-quarters-addition.html" class="hover-overlay" data-target="pop9">
+    <div class="text-overlay">
+      <span class="name">Strawberry Hill Workers Quarters Addition</span>
+      <span class="title">Strawberry Hill Workers Quarters Addition</span>
+    </div>
+  </a>
+</div>
+     
+<div class="col-3_md-4_sm-6_xs-12 image about port-item commercial"
+  style="background-image:url('  /uploads/LeakesPalmerHospitalityVenue.JPG" ');">
+  <a href="/projects/leakes-palmer-mixed-use-development.html" class="hover-overlay" data-target="pop10">
+    <div class="text-overlay">
+      <span class="name">Leakes Palmer Mixed-Use Development</span>
+      <span class="title">Leakes Palmer Mixed Use Development</span>
+    </div>
+  </a>
+</div>
 
  </div>
 </section>
 
 
       <footer class="grid">
-    <div class="col-3_sm-12 padded-2">
+    <!-- <div class="col-3_sm-12 padded-2">
         <h3> Sustainable Built Environment</h3>
-        <p class="editable">As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.</p>
-    </div>
-    <div class="col-3_sm-12 padded-2">
+        <p class="editable">
+          As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.
+        </p>
+    </div> -->
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR SERVICES </h4>
       <nav>
           
-          <a href="/services-extended#building-permit"> Building Permit</a>
+          <a href="/services/building-permit.html"> Building Permit</a>
           
-          <a href="/services-extended#building-physics"> Building Physics</a>
+          <a href="/services/building-physics.html"> Building Physics</a>
           
-          <a href="/services-extended#building-simulation"> Building Simulation</a>
+          <a href="/services/building-simulation.html"> Building Simulation</a>
           
-          <a href="/services-extended#energy-audits"> Energy Audits</a>
+          <a href="/services/energy-audits.html"> Energy Audits</a>
           
-          <a href="/services-extended#research"> Research</a>
+          <a href="/services/passivehaus.html"> Passivehaus</a>
           
-          <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
+          <a href="/services/research.html"> Research</a>
           
-          <a href="/services-extended#town-planning"> Town Planning</a>
+          <a href="/services/s-master-planning.html"> Sustainable Master Planning</a>
           
-          <a href="/services-extended#voluntary-certification"> Voluntary Certification</a>
+          <a href="/services/town-planning.html"> Town Planning</a>
+          
+          <a href="/services/voluntary-certification.html"> Voluntary Certification</a>
           
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR PROJECTS </h4>
       <nav>
         
-        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure </a>
+        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure </a>
         
         <a href="/project-categories/commercial.html"> Commercial </a>
-        
-        <a href="/project-categories/eco-tourism.html"> Eco Tourism </a>
         
         <a href="/project-categories/education.html"> Education </a>
         
@@ -255,22 +324,27 @@
         
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OTHER LINKS </h4>
         <nav>
-          <a href="#"> Home </a>
-          <a href="#"> About </a>
-          <a href="#"> Blog </a>
-          <a href="#"> Contact </a>
+          <a href="/index.html"> Home </a>
+          <a href="/about"> About </a>
+          <a href="/news"> News </a>
+          <a href="/contact"> Contact </a>
         </nav>
     </div>
 </footer>
 <div class="sub-footer">
-  (c) 2017 | Website Designed & Built by Tina May at <a href="http://www.instituteofcode.com"> The Institute of Code</a>
+  (c) 2021 | Website Designed & Built by Tina May at <a href="http://www.instituteofcode.com"> The Institute of Code</a>
 </div>
 
       
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+
+
+
+<!-- about page -->
+
 
 <script>
 
@@ -279,8 +353,16 @@ $('.mobile-menu-button').click(function() {
   $('.mobile-nav').slideToggle(200, function() {
     // Animation complete.
   });
-
 });
+
+
+
+
+  
+// index
+
+// about
+
 
 </script>
 
@@ -323,17 +405,17 @@ $('.mobile-menu-button').click(function() {
     });
 </script>
 
+
+
+
 <!-- Sticky state scripts -->
 
-<script src="/js/sticky-state.js"></script>
 
-<script>
 
-var StickyState = require('sticky-state');
-new StickyState(document.querySelectorAll('.sticky'));
-//  all elements with class .sticky will have sticky state:
 
-</script>
+
+
+
 
 
   </body>

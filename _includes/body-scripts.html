@@ -1,6 +1,17 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
 
+
+{% if page.url == "/" %}
+<!-- for slide show -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
+{% endif %}
+<!-- about page -->
+{% if page.url == "/about.html" %}
+<!-- for slide show -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous"></script>
+{% endif %}
+
 <script>
 
 $('.mobile-menu-button').click(function() {
@@ -8,9 +19,108 @@ $('.mobile-menu-button').click(function() {
   $('.mobile-nav').slideToggle(200, function() {
     // Animation complete.
   });
+});
+
+{% if page.url == "/our-team.html" %}
+  $(".team-member").click(function(){
+    console.log("bob");
+       var target = $(this).attr("data-target");
+       console.log(target);
+      $(".popup").each(function(){
+        if($(this).attr("data-pop") == target){
+          $(this).addClass("onscreen");
+        }else{
+          $(this).removeClass("onscreen")
+        }
+
+      });
+     $(".popUpOverlay").addClass("onscreen");
+   });
+
+  $(".popUpOverlay").click(function(){
+    $(".popup").removeClass("onscreen");
+    $(".popUpOverlay").removeClass("onscreen");
+   });
+
+
+  $(".popupX").click(function(){
+    $(".popup").removeClass("onscreen");
+    $(".popUpOverlay").removeClass("onscreen");
+  })
+  {% endif %}
+
+
+  {% if page.url == "/projects.html" %}
+/* filtering */
+
+  $('nav#portfolio-filter a').click(function(e){
+    e.preventDefault();
+
+    console.log("bob");
+    /* make this <li> class active and remove class 'active' from any other <li>s */
+    $('nav#portfolio-filter .active').removeClass('active');
+    $(this).addClass('active');
+    /* get the name of the cateory from this link */
+    var filterVal = $(this).text().replace(' ','-').replace(' ','-').replace(' ','-').replace(' ','-').toLowerCase();
+
+    $('#portfolio-grid .port-item').each(function() {
+        if(filterVal == 'all'){
+          $(this).removeClass('hidden');
+        }else{
+          if(!$(this).hasClass(filterVal)) {
+            $(this).addClass('hidden'); // hide those that don't have the filter
+          }else{
+            $(this).removeClass('hidden'); // show those that do have the filter
+          }
+};
+        });
+
+
 
 });
 
+{% endif %}
+// index
+{% if page.url == "/" %}
+  console.log("bob");
+  $('.slideshow-container').slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    infinite: true,
+    arrows: true,
+    speed: 1500,
+    autoplaySpeed: 4000,
+    prevArrow: '<button type="button" class="slick-prev">&#10141;</button>',
+    nextArrow: '<button type="button" class="slick-next">&#10141;</button>'
+
+  });
+{% endif %}
+// about
+{% if page.url == "/about.html" %}
+  console.log("bob");
+  $('.slideshow-container').slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: false,
+    arrows: true,
+    speed: 1500,
+    autoplaySpeed: 4000,
+    prevArrow: '<button type="button" class="slick-prev">&#10141;</button>',
+    nextArrow: '<button type="button" class="slick-next">&#10141;</button>'
+  });
+{% endif %}
+{% if page.layout == "service" %}
+  console.log("bob");
+  $('.slideshow-container').slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: false,
+    arrows: true,
+    speed: 1500,
+    autoplaySpeed: 4000,
+  });
+{% endif %}
 </script>
 
 <script>
@@ -52,7 +162,68 @@ $('.mobile-menu-button').click(function() {
     });
 </script>
 
+
+{% if page.url == "/news.html" %}
+
+
+<script src="/js/masonry.js"></script>
+  <script type="text/javascript">
+    $('.masnory-layout').masonry({
+      // options
+      itemSelector: ".masnory-item",
+      columnWidth: '.item-sizer',
+      gutter: 20
+    });
+
+     $(document).ready(function () {
+        $('.masnory-layout').masonry({
+          // options
+          itemSelector: ".masnory-item",
+          columnWidth: '.item-sizer',
+          gutter: 20
+  
+        });
+      });
+    
+    let refresh;
+    
+    function repeatEverySecond() {
+      refresh = setInterval(resizeMasonry, 1000);
+    }
+   
+    function resizeMasonry() {
+      console.log("tick");
+
+        $('.masnory-layout').masonry({
+        // options
+        itemSelector: ".masnory-item",
+        columnWidth: '.item-sizer',
+        gutter: 20
+      });
+    };
+
+    repeatEverySecond();
+
+
+    // let intervalID;
+
+    //   function repeatEverySecond() {
+    //     intervalID = setInterval(sendMessage, 1000);
+    //   }
+
+    //   function sendMessage() {
+    //     console.log("One second elapsed.");
+    //   }
+
+  </script>
+
+{% endif %}
+
 <!-- Sticky state scripts -->
+
+
+
+{% if page.url == "/search.html" %}
 
 <script src="/js/sticky-state.js"></script>
 
@@ -63,3 +234,7 @@ new StickyState(document.querySelectorAll('.sticky'));
 //  all elements with class .sticky will have sticky state:
 
 </script>
+{% endif %}
+
+
+{{layout.scripts}}

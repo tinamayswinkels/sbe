@@ -8,8 +8,20 @@
 
 <!--  Links to stylesheets -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/gridlex/2.4.1/gridlex.min.css" rel="stylesheet" >
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" />
+<!-- font-family:"acumin-pro"; for headings -->
+<link rel="stylesheet" href="https://use.typekit.net/ggr7ema.css">
+
+<!-- font-family: 'Poppins', sans-serif; for P -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;600&display=swap" rel="stylesheet">
+<!-- index -->
+
+<!-- about -->
+
+ 
+<!-- old font -->
+<!-- <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet"> -->
 <link href="/css/main.css" rel="stylesheet">
 
 <!-- this links to a favicon in the images folder -->
@@ -29,10 +41,13 @@
   <body>
 
       <header class="grid">
-   <div class="col-4-middle logo padded">
-      <img src="/images/logo.jpg" alt="SBE Sustainable Built Environments"/>
+   <div class="col-2_xs-8-middle logo">
+     <div class="padded logo">
+       <img src="/images/logoMk2.jpg" alt="SBE Sustainable Built Environments" />
+     </div>
    </div>
-   <div class="col-8-middle right">
+
+   <div class="col-10_xs-4-middle right">
      <nav class="menu mob-hide">
        <li> <a href="/index.html"> Home </a> </li>
       <li> <a href="/about"> About </a> </li>
@@ -41,29 +56,33 @@
          <div class="sub-menu grid left padded">
            <div class="col-3">
              <h3> OUR SERVICES </h3>
-             <p class="editable">We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.</p>
+             <p class="editable">
+               We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.
+             </p>
            </div>
            <div class="col-3"> <!-- empty div --> </div>
            <div class="col-3">
                 
-                <a href="/services-extended#building-permit"> Building Permit</a>
+                <a href="/services/building-permit.html"> Building Permit</a>
                 
-                <a href="/services-extended#building-physics"> Building Physics</a>
+                <a href="/services/building-physics.html"> Building Physics</a>
                 
-                <a href="/services-extended#building-simulation"> Building Simulation</a>
+                <a href="/services/building-simulation.html"> Building Simulation</a>
                 
-                <a href="/services-extended#energy-audits"> Energy Audits</a>
+                <a href="/services/energy-audits.html"> Energy Audits</a>
                 
-                <a href="/services-extended#research"> Research</a>
+                <a href="/services/passivehaus.html"> Passivehaus</a>
                 
-                <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
+                <a href="/services/research.html"> Research</a>
                 
             </div>
             <div class="col-3">
               
-              <a href="/services-extended#town-planning"> Town Planning</a>
+              <a href="/services/s-master-planning.html"> Sustainable Master Planning</a>
               
-              <a href="/services-extended#voluntary-certification"> Voluntary Certification</a>
+              <a href="/services/town-planning.html"> Town Planning</a>
+              
+              <a href="/services/voluntary-certification.html"> Voluntary Certification</a>
               
             </div>
          </div>
@@ -73,16 +92,16 @@
         <div class="sub-menu grid left padded">
           <div class="col-3">
             <h3> OUR PROJECTS </h3>
-            <p class="editable">We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.</p>
+            <p class="editable">
+              We believe in the importance of adopting a holistic and integrative approach to design based on&nbsp; inter-disciplinary collaboration and focused on achieving our clients' goals. Over the years SBE has successfully delivered hundreds of projects. Here we have selected a few.
+            </p>
           </div>
           <div class="col-3"> <!-- empty div --> </div>
           <div class="col-3">
               
-              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure</a>
+              <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure</a>
               
               <a href="/project-categories/commercial.html"> Commercial</a>
-              
-              <a href="/project-categories/eco-tourism.html"> Eco Tourism</a>
               
               <a href="/project-categories/education.html"> Education</a>
               
@@ -97,11 +116,21 @@
         </div>
       </li>
       <li>
-          <a href="/blog"> Blog </a>
+          <a href="/our-team"> Our Team </a>
+      </li>
+      <li>
+          <a href="/news"> News </a>
       </li>
       <li>
           <a href="/contact"> Contact </a>
       </li>
+      <!-- <li>
+        <form action="/search" method="get">
+          <i class="fas fa-search"></i>
+          <input type="text" class="button" id="search-box" placeholder='find me news about...' name="query">
+          <input type="submit" class="button" value="search">
+        </form>
+      </li> -->
      </nav>
 
 
@@ -120,12 +149,13 @@
   <a href="/about"> About </a>
   <a href="/services"> Services </a>
   <a href="/projects"> Projects </a>
-  <a href="/blog"> Blog </a>
+  <a href="/our-team"> Our Team </a>
+  <a href="/news"> Blog </a>
   <a href="/contact"> Contact </a>
  </nav>
 
 
-      <section class="banner overlay" style="background-image:url('/images/One_Flintoff_Render_04.jpg');">
+      <section class="banner overlay" style="background-image:url('/uploads/northbank-place-exterior-02.jpeg');">
   <div class="banner-inner">
       <h1 class="editable">Services</h1>
       <p class="editable">An inter-disciplinary approach to assist you through all phases of your project&nbsp;&nbsp;</p>
@@ -138,7 +168,7 @@
 <section id="section2">
     <div class="padded">
           <h2 class="editable"> Services We Offer</h2>
-          <p class="editable"> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+          <p class="editable">We bring together architecture, engineering and building physics to assist you through all phases of a building project - from meeting Town Planning requirements to achieving best practice voluntary certification.</p>
           <nav class="margin-top">
             
               
@@ -158,6 +188,8 @@
               
               <a href="#research" class="tag"> Research</a>
               
+              <a href="#passivehaus" class="tag"> Passivehaus</a>
+              
           </nav>
     </div>
 </section>
@@ -165,10 +197,10 @@
 
   
     
-    <section id="sustainable-master-planning" class="banner short overlay" style="background-image:url('/images/SMasterPlanning.jpg');">
+    <section id="sustainable-master-planning" class="banner short overlay" style="background-image:url('/images/services-sustainable-masterplanning.jpg');">
       <div class="banner-inner">
-          <h2 class="editable">Sustainable Master Planning</h1>
-      </div>
+          <h2 class="editable">Sustainable Master Planning
+      </h2></div>
       <p class="text-overlay">1</p>
     </section>
 
@@ -182,10 +214,10 @@
 
     </section>
     
-    <section id="town-planning" class="banner short overlay" style="background-image:url('/images/ESDPlanningReports.jpg');">
+    <section id="town-planning" class="banner short overlay" style="background-image:url('/images/services-esd-planningReports.jpg');">
       <div class="banner-inner">
-          <h2 class="editable">Town Planning</h1>
-      </div>
+          <h2 class="editable">Town Planning
+      </h2></div>
       <p class="text-overlay">2</p>
     </section>
 
@@ -197,10 +229,10 @@
 
     </section>
     
-    <section id="building-permit" class="banner short overlay" style="background-image:url('/images/Building Permit.jpg');">
+    <section id="building-permit" class="banner short overlay" style="background-image:url('/images/NCC2019.jpg');">
       <div class="banner-inner">
-          <h2 class="editable">Building Permit</h1>
-      </div>
+          <h2 class="editable">Building Permit
+      </h2></div>
       <p class="text-overlay">3</p>
     </section>
 
@@ -224,10 +256,10 @@
 
     </section>
     
-    <section id="voluntary-certification" class="banner short overlay" style="background-image:url('/images/Voluntary Certification1.jpg');">
+    <section id="voluntary-certification" class="banner short overlay" style="background-image:url('/uploads/automative-centre-of-excellence-exterior.JPG');">
       <div class="banner-inner">
-          <h2 class="editable">Voluntary Certification</h1>
-      </div>
+          <h2 class="editable">Voluntary Certification
+      </h2></div>
       <p class="text-overlay">4</p>
     </section>
 
@@ -241,10 +273,10 @@
 
     </section>
     
-    <section id="building-simulation" class="banner short overlay" style="background-image:url('/images/Building Simulation.jpg');">
+    <section id="building-simulation" class="banner short overlay" style="background-image:url('/images/services-building-simulation.jpg');">
       <div class="banner-inner">
-          <h2 class="editable">Building Simulation</h1>
-      </div>
+          <h2 class="editable">Building Simulation
+      </h2></div>
       <p class="text-overlay">5</p>
     </section>
 
@@ -265,18 +297,16 @@
 
     </section>
     
-    <section id="building-physics" class="banner short overlay" style="background-image:url('/images/Building Physics.jpg');">
+    <section id="building-physics" class="banner short overlay" style="background-image:url('/images/services-building-physics.jpg');">
       <div class="banner-inner">
-          <h2 class="editable">Building Physics</h1>
-      </div>
+          <h2 class="editable">Building Physics
+      </h2></div>
       <p class="text-overlay">6</p>
     </section>
 
     <section class="padded">
        <h3> Building Physics</h3>
-       <h3> </h3>
-
-<p>Building physics analyses the physical behaviour of buildings in their particular geographical contexts and how this impacts resource efficiency, comfort, indoor environmental quality and durability.</p>
+       <p>Building physics analyses the physical behaviour of buildings in their particular geographical contexts and how this impacts resource efficiency, comfort, indoor environmental quality and durability. </p>
 
 <p>SBE starts by evaluating the climatic conditions of a proposed site and then uses analytical tools and building simulation software to optimise building orientation, layout and form. As part of this process we adopt the building as a system concept which recognises the interactions between the building enclosure, the building services, its inhabitants, the site and the external environment.</p>
 
@@ -284,10 +314,10 @@
 
     </section>
     
-    <section id="energy-audits" class="banner short overlay" style="background-image:url('/images/Energy Audits.jpg');">
+    <section id="energy-audits" class="banner short overlay" style="background-image:url('/images/services-energy-audits.jpg');">
       <div class="banner-inner">
-          <h2 class="editable">Energy Audits</h1>
-      </div>
+          <h2 class="editable">Energy Audits
+      </h2></div>
       <p class="text-overlay">7</p>
     </section>
 
@@ -299,10 +329,10 @@
 
     </section>
     
-    <section id="research" class="banner short overlay" style="background-image:url('/images/Slide1.JPG');">
+    <section id="research" class="banner short overlay" style="background-image:url('/images/services-research.JPG');">
       <div class="banner-inner">
-          <h2 class="editable">Research</h1>
-      </div>
+          <h2 class="editable">Research
+      </h2></div>
       <p class="text-overlay">8</p>
     </section>
 
@@ -324,48 +354,67 @@
   <li>Doncaster Hill Precinct Energy Plan</li>
   <li>ESD Guidelines and thermal comfort studies for the Victorian Department of Education and Training</li>
   <li>International Comparison of House Energy Rating tools</li>
+  <li>Green Star Education Tool</li>
+  <li>Daylight and Natural Ventilation guidelines for the City of Moreland.</li>
 </ul>
+
+    </section>
+    
+    <section id="passivehaus" class="banner short overlay" style="background-image:url('/images/Passivehaus-DesignPH.JPG');">
+      <div class="banner-inner">
+          <h2 class="editable">Passivehaus
+      </h2></div>
+      <p class="text-overlay">9</p>
+    </section>
+
+    <section class="padded">
+       <h3> Passivehaus</h3>
+       <p>At SBE we use the Passive House approach and tools to support the delivery of high-performing buildings. Whether a project aims at Passive House certification, or at maximising thermal and comfort performance, or simply understanding the impacts of particular design decisions or product selection we can assist clients achieve their goals.</p>
+
+<p> </p>
 
     </section>
     
 
 
       <footer class="grid">
-    <div class="col-3_sm-12 padded-2">
+    <!-- <div class="col-3_sm-12 padded-2">
         <h3> Sustainable Built Environment</h3>
-        <p class="editable">As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.</p>
-    </div>
-    <div class="col-3_sm-12 padded-2">
+        <p class="editable">
+          As a multi-disciplinary ESD consulting firm our aim is to work closely with clients and design teams to help them navigate the sustainable building landscape - from Town Planning to statutory and voluntary certifications.
+        </p>
+    </div> -->
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR SERVICES </h4>
       <nav>
           
-          <a href="/services-extended#building-permit"> Building Permit</a>
+          <a href="/services/building-permit.html"> Building Permit</a>
           
-          <a href="/services-extended#building-physics"> Building Physics</a>
+          <a href="/services/building-physics.html"> Building Physics</a>
           
-          <a href="/services-extended#building-simulation"> Building Simulation</a>
+          <a href="/services/building-simulation.html"> Building Simulation</a>
           
-          <a href="/services-extended#energy-audits"> Energy Audits</a>
+          <a href="/services/energy-audits.html"> Energy Audits</a>
           
-          <a href="/services-extended#research"> Research</a>
+          <a href="/services/passivehaus.html"> Passivehaus</a>
           
-          <a href="/services-extended#sustainable-master-planning"> Sustainable Master Planning</a>
+          <a href="/services/research.html"> Research</a>
           
-          <a href="/services-extended#town-planning"> Town Planning</a>
+          <a href="/services/s-master-planning.html"> Sustainable Master Planning</a>
           
-          <a href="/services-extended#voluntary-certification"> Voluntary Certification</a>
+          <a href="/services/town-planning.html"> Town Planning</a>
+          
+          <a href="/services/voluntary-certification.html"> Voluntary Certification</a>
           
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OUR PROJECTS </h4>
       <nav>
         
-        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic Sports And Leisure </a>
+        <a href="/project-categories/aquatic-sports-and-leisure.html"> Aquatic, Sports And Leisure </a>
         
         <a href="/project-categories/commercial.html"> Commercial </a>
-        
-        <a href="/project-categories/eco-tourism.html"> Eco Tourism </a>
         
         <a href="/project-categories/education.html"> Education </a>
         
@@ -375,22 +424,27 @@
         
       </nav>
     </div>
-    <div class="col-3_sm-12 padded-2">
+    <div class="col-4_sm-12 padded-2">
       <h4> OTHER LINKS </h4>
         <nav>
-          <a href="#"> Home </a>
-          <a href="#"> About </a>
-          <a href="#"> Blog </a>
-          <a href="#"> Contact </a>
+          <a href="/index.html"> Home </a>
+          <a href="/about"> About </a>
+          <a href="/news"> News </a>
+          <a href="/contact"> Contact </a>
         </nav>
     </div>
 </footer>
 <div class="sub-footer">
-  (c) 2017 | Website Designed & Built by Tina May at <a href="http://www.instituteofcode.com"> The Institute of Code</a>
+  (c) 2021 | Website Designed & Built by Tina May at <a href="http://www.instituteofcode.com"> The Institute of Code</a>
 </div>
 
       
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.js"></script>
+
+
+
+<!-- about page -->
+
 
 <script>
 
@@ -399,8 +453,16 @@ $('.mobile-menu-button').click(function() {
   $('.mobile-nav').slideToggle(200, function() {
     // Animation complete.
   });
-
 });
+
+
+
+
+  
+// index
+
+// about
+
 
 </script>
 
@@ -443,17 +505,17 @@ $('.mobile-menu-button').click(function() {
     });
 </script>
 
+
+
+
 <!-- Sticky state scripts -->
 
-<script src="/js/sticky-state.js"></script>
 
-<script>
 
-var StickyState = require('sticky-state');
-new StickyState(document.querySelectorAll('.sticky'));
-//  all elements with class .sticky will have sticky state:
 
-</script>
+
+
+
 
 
   </body>

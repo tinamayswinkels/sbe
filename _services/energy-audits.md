@@ -1,8 +1,10 @@
 ---
 name: Energy Audits
+layout: service
 blurb: Analysing buildings during operation to improve performance
 image_path: /images/services-energy-audits.jpg
 number: 7
+sbe_passiv: false
 ---
 
 

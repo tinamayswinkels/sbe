@@ -3,6 +3,7 @@ layout: post
 title: Our First week
 subtitle: On the job
 description:
+category: interns
 image_path: /uploads/intrerns-learn.jpg
 banner-image_path: /uploads/intrerns-learn2.jpg
 ---

@@ -3,6 +3,7 @@ title: Fresh air in schools
 subtitle: Delivering tempered fresh air to classrooms despite air temperatures outside
 image_path: /uploads/mt-clear-earth-education-centre-exterior.jpg
 layout: post
+category: news
 banner-image_path: /uploads/mt-clear-earth-education-centre-graph-01.jpg
 ---
 

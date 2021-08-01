@@ -1,21 +1,26 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300
 }
 
 h1,h2,h3,h4,h5, p {
   margin:1em 0 0.5em;
+}
+h1,h2,h3,h4,h5,h6{
+  font-family:"acumin-pro", sans-serif;
 }
 h2:first-child,
 h3:first-child {
   margin-top:0;
 }
 
-h1, h2 {
+h1, h2,.fakeH2 {
   font-weight: 300;
   font-size: 2.3rem;
 }
 p, li {
     line-height:1.6;
+    font-weight: 300;
 }
 
 a {
@@ -60,11 +65,18 @@ hr.center {
   color: $color-featured;
   text-decoration: none;
   transition: all 0.5s;
+  background-color: white;
+  cursor: pointer;
 }
 
 .button:hover {
   border-color: $color-dark;
   color: $color-dark;
+}
+
+.button.filter {
+    margin: 0.5rem;
+    text-transform: capitalize;
 }
 
 .tag {
@@ -96,4 +108,13 @@ hr.center {
   h1, h2 {
     font-size: 2rem;
   }
+}
+
+.social .fab{
+  font-size: 2rem;
+}
+
+
+.logo{
+  max-width:10rem;
 }

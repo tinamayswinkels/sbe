@@ -3,6 +3,7 @@ title: The implications of Clause 58 to NatHERS ratings
 subtitle: Improving performance by design rather than by over-specify
 image_path: /uploads/blog-apartment-design-guidelines.JPG
 layout: post
+category: news
 banner-image_path: /uploads/blog-apartment-design-guidelines.JPG
 ---
 

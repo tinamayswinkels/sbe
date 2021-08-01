@@ -4,24 +4,39 @@ title: SBE Blog Page
 banner-image_path: /uploads/craigieburn-regional-aquatic-&-leisure-centre-01.JPG
 ---
 
+
 <section class="posts padded">
   <div class="center">
       <h2> Recent Posts </h2>
       <hr class="center" />
       <p class="editable"> Thoughts and insights from the SBE team </p>
+      <form action="/search" method="get">
+        <i class="fas fa-search"></i>
+        <input type="text" class="button" id="search-box" placeholder='find me news about...' name="query">
+        <input type="submit" class="button" value="search">
+      </form>
   </div>
 
 
-  {% for post in site.posts %}
-  <div class="grid padded-2">
-      <div class="post-image col-6_xs-12" style="background-image:url('{{post.image_path}}')"></div>
-      <div class="col-6_xs-12 padded-2 offset-left">
-          <h3> {{post.title}}</h3>
-          <p> {{post.description}} </p>
-          <a href="{{post.url}}" class="button"> Read More </a>
-      </div>
+  {% assign newsPost = site.posts | where:"category", "news" %}
+
+  <div class="masnory-layout padded-2">
+   
+  {% for post in newsPost %}
+  <a href="{{post.url}}" class="masnory-item 
+    ">
+    <img src="{{post.image_path}}" alt="{{post.title}}">
+    <div class="padded-5">
+      <span class="masonry-light-text">{{post.date | date_to_string}}</span>
+      <h3> {{post.title}}</h3>
+      <p class=""> {{post.content | strip_html | truncate: 80}} </p>
+      <hr>
+      <span class="masonry-light-text">Read More</span>
     </div>
+  </a>
   {% endfor %}
+  <div class="item-sizer"></div>
+</div>
 
 
 </section>

@@ -1,8 +1,11 @@
 <header class="grid">
-   <div class="col-4_xs-8-middle logo padded">
-      <img src="/images/logo.jpg" alt="SBE Sustainable Built Environments" />
+   <div class="col-2_xs-8-middle logo">
+     <div class="padded logo">
+       <img src="/images/logoMk2.jpg" alt="SBE Sustainable Built Environments" />
+     </div>
    </div>
-   <div class="col-8_xs-4-middle right">
+
+   <div class="col-10_xs-4-middle right">
      <nav class="menu mob-hide">
        <li> <a href="/index.html"> Home </a> </li>
       <li> <a href="/about"> About </a> </li>
@@ -18,12 +21,12 @@
            <div class="col-3"> <!-- empty div --> </div>
            <div class="col-3">
                 {% for service in site.services limit:6 %}
-                <a href="/services-extended#{{service.name | slugify}}"> {{service.name}}</a>
+                <a href="{{service.url}}"> {{service.name}}</a>
                 {% endfor %}
             </div>
             <div class="col-3">
               {% for service in site.services offset:6 %}
-              <a href="/services-extended#{{service.name | slugify}}"> {{service.name}}</a>
+              <a href="{{service.url}}"> {{service.name}}</a>
               {% endfor %}
             </div>
          </div>
@@ -51,11 +54,21 @@
         </div>
       </li>
       <li>
+          <a href="/our-team"> Our Team </a>
+      </li>
+      <li>
           <a href="/news"> News </a>
       </li>
       <li>
           <a href="/contact"> Contact </a>
       </li>
+      <!-- <li>
+        <form action="/search" method="get">
+          <i class="fas fa-search"></i>
+          <input type="text" class="button" id="search-box" placeholder='find me news about...' name="query">
+          <input type="submit" class="button" value="search">
+        </form>
+      </li> -->
      </nav>
 
 
@@ -74,6 +87,7 @@
   <a href="/about"> About </a>
   <a href="/services"> Services </a>
   <a href="/projects"> Projects </a>
-  <a href="/blog"> Blog </a>
+  <a href="/our-team"> Our Team </a>
+  <a href="/news"> Blog </a>
   <a href="/contact"> Contact </a>
  </nav>
