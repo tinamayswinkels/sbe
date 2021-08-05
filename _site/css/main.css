@@ -268,7 +268,7 @@ hr.center { margin-left: auto; margin-right: auto; }
 
 .popup { position: fixed; left: 103vw; z-index: 5; padding: 2rem; background-color: white; }
 
-.popup img { min-height: 100%; object-fit: cover; object-position: center; }
+.popup img { object-fit: cover; object-position: center; }
 
 .popup.onscreen { left: 10%; right: 10%; top: 10%; max-height: 80vh; overflow: scroll; scrollbar-width: none; /* Firefox */ -ms-overflow-style: none; /* IE 10+ */ }
 
