@@ -188,21 +188,29 @@ $('.mobile-menu-button').click(function() {
       let initRefresh;
 
         function initRefreshFunction() {
-          initRefresh = setTimeout(resizeMasonry, 1500);
+          initRefresh = setTimeout(resizeMasonry, 500);
         }
 
-        function resizeMasonry() {
-          console.log("tick");
-
-          $('.masnory-layout').masonry({
-            // options
-            itemSelector: ".masnory-item",
-            columnWidth: '.item-sizer',
-            gutter: 20
-          });
-        };
-
+        
         initRefreshFunction();
+
+        let initRefresh2;
+
+        function initRefreshFunction2() {
+          initRefresh2 = setTimeout(resizeMasonry, 1000);
+        }
+
+
+        initRefreshFunction2();
+
+        let initRefresh3;
+
+        function initRefreshFunction3() {
+          initRefresh3 = setTimeout(resizeMasonry, 1500);
+        }
+
+
+        initRefreshFunction3();
 
     
     let refresh;
