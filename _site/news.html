@@ -670,6 +670,26 @@ $('.mobile-menu-button').click(function() {
   
         });
       });
+
+      let initRefresh;
+
+        function initRefreshFunction() {
+          initRefresh = setTimeout(resizeMasonry, 2000);
+        }
+
+        function resizeMasonry() {
+          console.log("tick");
+
+          $('.masnory-layout').masonry({
+            // options
+            itemSelector: ".masnory-item",
+            columnWidth: '.item-sizer',
+            gutter: 20
+          });
+        };
+
+        initRefreshFunction();
+
     
     let refresh;
     
@@ -689,6 +709,7 @@ $('.mobile-menu-button').click(function() {
     };
 
     repeatEverySecond();
+
 
 
     // let intervalID;
