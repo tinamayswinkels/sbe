@@ -6,6 +6,10 @@ description:
 category: interns
 image_path: /uploads/intrerns-learn.jpg
 banner-image_path: /uploads/intrerns-learn2.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 As we move out of lockdown and the way Victoria is tackling the pandemic situation we are now back in business\!&nbsp;
 

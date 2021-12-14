@@ -11,6 +11,10 @@ images:
     image_path: /uploads/GlenIrisEarlyLearning.JPG
   - title: Glen Iris Early Learning Centre
     image_path: /uploads/GlenIrisEarlyLearning1.JPG
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 SBE was engaged to provide a town planning ESD report for this proposed early learning centre. As part of the report, SBE conducted daylight and thermal modelling as well as a stormwater assessment.

@@ -5,6 +5,10 @@ image_path: /uploads/int toyota 1.jpg
 layout: post
 category: interns
 banner-image_path: /uploads/int toyota 2.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 The First Rate week

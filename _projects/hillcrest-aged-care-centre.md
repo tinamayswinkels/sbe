@@ -19,6 +19,10 @@ images:
     image_path: /uploads/regis-hillcrest-aged-care-centre-exterior-02.jpg
   - title: Hillcrest Aged Care Centre Interior
     image_path: /uploads/regis-hillcrest-aged-care-centre-interior.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

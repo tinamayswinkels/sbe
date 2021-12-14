@@ -22,6 +22,10 @@ images:
     image_path: /uploads/dandenong-education-precinct-exterior.JPG
   - title: Dandenong Education Precinct Render
     image_path: /uploads/dandenong-education-precinct-render.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

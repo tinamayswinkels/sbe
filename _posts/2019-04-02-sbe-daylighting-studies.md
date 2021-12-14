@@ -5,6 +5,10 @@ image_path: /uploads/albion combo.jpg
 layout: post
 category: news
 banner-image_path: /uploads/gipps combo.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 SBE has a very successful track record with Daylight simulation studies, consulting and advice.

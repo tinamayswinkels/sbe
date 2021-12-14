@@ -17,6 +17,10 @@ images:
     image_path: /uploads/StrawberryHill04.JPG
   - title: Strawberry Hill 04
     image_path: /uploads/StrawberryHill03.JPG
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 The new multi-purpose room addition adjacent to the historic Strawberry Hill Workers Quarters was proposed to be a fully naturally ventilated building filled with natural light and with large glazed areas connecting the indoor and outdoor environment.

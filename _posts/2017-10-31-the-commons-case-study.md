@@ -5,6 +5,10 @@ image_path: /uploads/the-commons-01.jpg
 layout: post
 category: news
 banner-image_path: /uploads/the-commons-roof-garden-01.JPG
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

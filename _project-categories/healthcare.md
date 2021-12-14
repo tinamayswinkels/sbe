@@ -7,6 +7,10 @@ blurb: >-
   operational efficiency.  We have a number of successful aged care, hospital
   and other medical care facilities within our portfolio.
 banner-image_path: /uploads/regis-hillcrest-aged-care-centre-01.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

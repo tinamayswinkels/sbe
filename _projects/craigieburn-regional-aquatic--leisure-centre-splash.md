@@ -20,6 +20,10 @@ images:
       /uploads/craigieburn-regional-aquatic-&-leisure-centre-interior-construction.jpg
   - title: Craigieburn Regional Aquatic & Leisure Centre Interior
     image_path: /uploads/craigieburn-regional-aquatic-&-leisure-centre-interior.jpeg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

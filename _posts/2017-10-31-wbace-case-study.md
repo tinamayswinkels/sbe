@@ -5,6 +5,10 @@ image_path: /uploads/western-business-accelerator-centre-of-excellence-site.jpg
 layout: post
 category: news
 banner-image_path: /uploads/western-business-accelerator-centre-of-excellence-model.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

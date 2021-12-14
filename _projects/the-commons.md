@@ -18,6 +18,10 @@ images:
     image_path: /uploads/the-commons-interior.jpg
   - title: The Commons Roof Garden 02
     image_path: /uploads/the-commons-roof-garden-02.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

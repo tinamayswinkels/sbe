@@ -34,11 +34,11 @@
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
 <!-- SEO and social metadata -->
-<title>{{page.seo.title}} </title>
+<title>{{page.seo.title | default: "SBE" }} </title>
 <meta name="description" content="{{page.seo.description}}">
 <meta property="og:image" content="{{page.seo.social-image_path}}">
-<meta property="og:description" content="{{page.seo.title}}">
-<meta property="og:title" content="{{page.seo.title}}">
-<meta name="twitter:title" content="{{page.seo.title}}">
+<meta property="og:description" content="{{page.seo.title | default: 'SBE'}}">
+<meta property="og:title" content="{{page.seo.title | default: 'SBE'}}}">
+<meta name="twitter:title" content="{{page.seo.title | default: 'SBE'}}}">
 
 <!-- Paste google analytics code here -->

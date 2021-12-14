@@ -15,6 +15,10 @@ images:
     image_path: /uploads/LeakesPalmerServicedApartments.JPG
   - title: Leakes Palmer Mixed-use
     image_path: /uploads/LeakesPalmer.JPG
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 SBE completed a town planning ESD report including preliminary thermal and daylight assessment of the development.

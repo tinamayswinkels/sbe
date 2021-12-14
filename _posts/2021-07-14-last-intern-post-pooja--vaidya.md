@@ -7,6 +7,10 @@ description: >-
   it. 
 image_path: /uploads/20210630_140022.jpg
 banner-image_path: /uploads/20210630_140022.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 **ADIOS AMIGOS**\!
 

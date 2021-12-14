@@ -5,6 +5,10 @@ image_path: /uploads/blog-apartment-design-guidelines.JPG
 layout: post
 category: news
 banner-image_path: /uploads/blog-apartment-design-guidelines.JPG
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

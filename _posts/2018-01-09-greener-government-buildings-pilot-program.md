@@ -5,6 +5,10 @@ image_path: /uploads/TC.JPG
 layout: post
 category: news
 banner-image_path: /uploads/TC2.JPG
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

@@ -17,6 +17,10 @@ images:
     image_path: /uploads/western-sydney-wanderers-FC-gymnasium-exterior.jpg
   - title: Western Sydney Wanderers FC Gymnasium Model
     image_path: /uploads/western-sydney-wanderers-FC-gymnasium-model.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

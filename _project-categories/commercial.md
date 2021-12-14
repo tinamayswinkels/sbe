@@ -8,6 +8,10 @@ blurb: >-
   Star certification and we continue to build on our body of knowledge and
   innovation with each new project.
 banner-image_path: /uploads/bosch-01.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

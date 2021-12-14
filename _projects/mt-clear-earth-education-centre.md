@@ -18,7 +18,12 @@ images:
     image_path: /uploads/mt-clear-earth-education-centre-site.JPG
   - title: Mt Clear Earth Education Centre Exterior
     image_path: /uploads/mt-clear-earth-education-centre-exterior.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
+
 
 
 The Mt Clear Earth and Science Centre is a school building for the Mt Clear Secondary School housing classrooms, laboratories and specialist support spaces. The floor area is approximately 900m&sup2;. The client was keen for the building to represent the school’s commitment to the environment and to become a 3D textbook in its own right.

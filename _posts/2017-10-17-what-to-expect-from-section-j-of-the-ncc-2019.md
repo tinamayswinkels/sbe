@@ -5,6 +5,10 @@ image_path: /uploads/blog-what-to-expect-from-section-j-ncc-2019.jpg
 layout: post
 category: news
 banner-image_path: /uploads/blog-what-to-expect-from-section-j-ncc-2019.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

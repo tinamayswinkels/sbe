@@ -21,6 +21,10 @@ images:
     image_path: /uploads/oasis 1.jpg
   - title: OASIS 4
     image_path: /uploads/Oasis_Hospital_18.JPG
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

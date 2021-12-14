@@ -17,6 +17,10 @@ images:
     image_path: /uploads/supply-co-david-st-exterior-02.jpg
   - title: Supply Co David Street Exterior 03
     image_path: /uploads/supply-co-david-st-exterior-03.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

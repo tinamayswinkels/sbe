@@ -5,6 +5,10 @@ image_path: /uploads/northbank-place-exterior-01.jpg
 layout: post
 category: news
 banner-image_path: /uploads/northbank-place-exterior-02.jpeg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

@@ -20,6 +20,10 @@ images:
     image_path: /uploads/the-libertine-site.JPG
   - title:
     image_path:
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

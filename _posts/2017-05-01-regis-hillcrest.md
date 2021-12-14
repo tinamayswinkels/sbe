@@ -5,6 +5,10 @@ image_path: /uploads/regis-hillcrest-aged-care-centre-01.jpg
 layout: post
 category: news
 banner-image_path: /uploads/regis-hillcrest-aged-care-centre-render.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

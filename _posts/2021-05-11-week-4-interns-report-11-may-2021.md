@@ -7,6 +7,10 @@ description: >-
   Wine Party time
 image_path: /uploads/wk4-1.jpg
 banner-image_path: /uploads/wk4-2.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 Week 4
 

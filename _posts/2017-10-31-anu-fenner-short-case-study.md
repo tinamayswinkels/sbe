@@ -5,6 +5,10 @@ image_path: /uploads/anu-fenner-01.JPG
 layout: post
 category: news
 banner-image_path: /uploads/anu-fenner-exterior-01.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

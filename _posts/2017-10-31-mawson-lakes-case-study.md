@@ -5,6 +5,10 @@ image_path: /uploads/mawson-institute-of-advanced-manufacturing-exterior.jpg
 layout: post
 category: news
 banner-image_path: /uploads/mawson-institute-of-advanced-manufacturing-render.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

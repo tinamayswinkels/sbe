@@ -7,6 +7,10 @@ blurb: >-
   acclaimed sports and recreation facilities, locally, interstate and even
   internationally.
 banner-image_path: /uploads/bendigo-stadium-01.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

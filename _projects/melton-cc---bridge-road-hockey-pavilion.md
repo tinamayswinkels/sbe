@@ -17,6 +17,10 @@ images:
     image_path: /uploads/bridge-rd-hockey-pavilion-site.jpg
   - title: Bridge Road Hockey Pavilion Operation
     image_path: /uploads/bridge-rd-hockey-pavilion-open.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

@@ -18,6 +18,11 @@ images:
     image_path: /uploads/bendigo-stadium-indoor-02.jpg
   - title: Bendigo Staium Graph
     image_path: /uploads/bendigo-stadium-graph.JPG
+
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

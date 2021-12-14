@@ -15,6 +15,10 @@ images:
     image_path: /uploads/mossfield-sports-pavilion-site.JPG
   - title: Mossfield Sports Pavilion Undercover Area
     image_path: /uploads/mossfield-sports-pavilion-undercover-area.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

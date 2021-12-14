@@ -15,6 +15,10 @@ images:
     image_path: /uploads/woodleight-junior-campus-5-6-centre-interior.JPG
   - title: Woodleigh Junior Campus 5-6 Centre Graph
     image_path: /uploads/woodleigh-junior-campus-5-6-centre-graph.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

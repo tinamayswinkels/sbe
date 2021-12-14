@@ -18,6 +18,10 @@ images:
     image_path: /uploads/holmesglen-vocational-greenwall-05.jpg
   - title:
     image_path: /uploads/model-1.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

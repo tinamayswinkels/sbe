@@ -18,6 +18,10 @@ images:
     image_path: /uploads/western-business-accelerator-centre-of-excellence-graph.jpg
   - title: Western Business Accelerator Centre of Excellence Model
     image_path: /uploads/western-business-accelerator-centre-of-excellence-model.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

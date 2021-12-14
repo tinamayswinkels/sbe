@@ -11,6 +11,10 @@ images:
     image_path: /uploads/LaneCoveAquaticLeisureCentre.png
   - title: Grand Stand
     image_path: /uploads/GrandStandPerspective.JPG
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 SBE was commissioned to provide an Environmentally Sustainable Design (ESD) opportunities report for the proposed outdoor pool and grandstand redevelopment with the aim to provide an overview of the key sustainable design initiatives that could be integrated together with their predicted environmental sustainability outcomes (e.g. costs, savings, GHG emissions reductions, etc.).

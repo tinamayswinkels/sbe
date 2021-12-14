@@ -21,6 +21,10 @@ images:
     image_path: /uploads/mawson-institute-of-advanced-manufacturing-plan.jpg
   - title: Mawson Institute of Advanced Manufacturing Render
     image_path: /uploads/mawson-institute-of-advanced-manufacturing-render.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

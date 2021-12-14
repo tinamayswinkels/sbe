@@ -5,6 +5,10 @@ image_path: /uploads/grasshopper-capture1.jpg
 layout: post
 category: interns
 banner-image_path: /uploads/kareoke.JPG
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 <font color="#000000">

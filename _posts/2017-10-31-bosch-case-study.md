@@ -5,6 +5,10 @@ image_path: /uploads/bosch-01.jpg
 layout: post
 category: news
 banner-image_path: /uploads/bosch-exterior.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

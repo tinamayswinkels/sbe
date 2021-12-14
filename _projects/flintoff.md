@@ -18,6 +18,10 @@ images:
     image_path: /uploads/one-flintoff-exterior.jpg
   - title: One Flintoff Interior 02
     image_path: /uploads/one-flintoff-interior-02.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

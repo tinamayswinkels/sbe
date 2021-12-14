@@ -7,6 +7,10 @@ image_path: /uploads/20180515_102024.jpg
 layout: post
 category: news
 banner-image_path: /uploads/20180514_110818.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 Between May and June 2018, SBE, in collaboration with Ironbark Sustainability, completed Type 2 Energy Audits at five local government’s facilities including two office buildings, one aquatic and leisure centres, one operational depot centre, and one mixed-use facility incorporating library, art gallery, performing art and office spaces.

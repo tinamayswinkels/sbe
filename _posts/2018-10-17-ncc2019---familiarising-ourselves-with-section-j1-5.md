@@ -7,6 +7,10 @@ image_path: /uploads/NCC2019SectionJ1.5-Graph1.jpg
 layout: post
 category: news
 banner-image_path: /uploads/NCC2019-Development-Progress.JPG
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 With the release of the [NCC 2019](https://www.abcb.gov.au/Resources/Publications/NCC-2019-Public-Comment-Draft/NCC-2019-Volume-One){: target="_blank"} approaching (expected for May 2019) we have taken some time to familiarise ourselves with the proposed changes to Section J. In particular, we focused on the Deemed-to-Satisfy (DTS) Section J1.5 Wall-Glazing Construction which proposes a new approach in which wall and glazing performance is calculated as a system value and different orientations and levels can be assessed together.

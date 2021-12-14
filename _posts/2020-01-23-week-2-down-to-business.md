@@ -5,6 +5,10 @@ image_path: /uploads/Week 2 lakshmee.jpg
 layout: post
 category: news
 banner-image_path: /uploads/week 2 Brod.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 Week 2 Down to business

@@ -19,6 +19,10 @@ images:
     image_path: /uploads/LTS Interior Perspective.jpg
   - title:
     image_path:
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

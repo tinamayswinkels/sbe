@@ -17,6 +17,10 @@ images:
     image_path:
   - title:
     image_path:
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

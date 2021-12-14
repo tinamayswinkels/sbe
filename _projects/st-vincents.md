@@ -17,6 +17,10 @@ images:
     image_path: /uploads/st vincent 3.jpg
   - title: st vinc 4
     image_path: /uploads/st vincent 4.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

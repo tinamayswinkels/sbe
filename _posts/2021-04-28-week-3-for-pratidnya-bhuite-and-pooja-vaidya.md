@@ -8,6 +8,10 @@ description: |-
 category: news
 image_path: /uploads/modelimage3.PNG
 banner-image_path: /uploads/modelimage2.PNG
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 Week 3:&nbsp; A week of information overload, here it goes… &nbsp;
 

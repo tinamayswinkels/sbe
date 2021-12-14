@@ -5,6 +5,10 @@ image_path: /uploads/Epping Private Hospital.JPG
 layout: post
 category: interns
 banner-image_path: /uploads/oscar tank calc.JPG
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 Getting into the thick of things:

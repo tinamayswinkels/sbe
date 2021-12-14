@@ -5,6 +5,10 @@ blurb: Achieving leadership in the built environment with third-party certificat
 image_path: /uploads/automative-centre-of-excellence-exterior.JPG
 number: 4
 sbe_passiv: false
+seo:
+  title: Services  | SBE
+  description:
+  keywords:
 ---
 
 Achieving third party sustainable building certification is an excellent way to demonstrate a project’s robust sustainability credentials. Certified sustainable buildings regularly outperform other non-certified buildings in social, economic and environmental indicators, and can benefit building owners by allowing them to market their assets as industry leading facilities.

@@ -5,6 +5,10 @@ blurb: Optimising performance with integrated dynamic building analysis
 image_path: /images/services-building-simulation.jpg
 number: 5
 sbe_passiv: false
+seo:
+  title: Services  | SBE
+  description:
+  keywords:
 ---
 
 

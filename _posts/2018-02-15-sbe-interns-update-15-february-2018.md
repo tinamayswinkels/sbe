@@ -5,6 +5,10 @@ image_path: /uploads/intern office.PNG
 layout: post
 category: interns
 banner-image_path: /uploads/office model Daylight.PNG
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 A quick update about what we have been up to...

@@ -17,6 +17,10 @@ images:
     image_path: /uploads/costco-exterior-01.jpg
   - title: Costco Exterior 02
     image_path: /uploads/costco-exterior-02.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

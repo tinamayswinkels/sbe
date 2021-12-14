@@ -7,6 +7,10 @@ image_path: /uploads/blog-daylighting.jpg
 layout: post
 category: news
 banner-image_path: /uploads/blog-daylighting.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

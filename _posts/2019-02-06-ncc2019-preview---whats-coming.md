@@ -5,6 +5,10 @@ image_path: /uploads/NCC2019keyreleasedates.jpg
 layout: post
 category: news
 banner-image_path: /uploads/NCC2019.JPG
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 &nbsp;

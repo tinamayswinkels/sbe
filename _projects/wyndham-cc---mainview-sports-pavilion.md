@@ -15,6 +15,10 @@ images:
     image_path: /uploads/mainview-sports-pavilion-undercover-area.JPG
   - title: Mainview Sports Pavilion Solar PV
     image_path: /uploads/mainview-sports-pavilion-solar-PV.JPG
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

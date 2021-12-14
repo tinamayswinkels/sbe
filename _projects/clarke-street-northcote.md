@@ -15,6 +15,10 @@ images:
     image_path: /uploads/348-clarke-st-exterior-02.jpg
   - title: 348 Clarke Street Exterior 03
     image_path: /uploads/348-clarke-st-exterior-03.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

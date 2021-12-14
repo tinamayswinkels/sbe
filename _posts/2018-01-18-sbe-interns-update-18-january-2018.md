@@ -5,6 +5,10 @@ image_path: /uploads/interns on site.jpg
 layout: post
 category: interns
 banner-image_path: /uploads/design progress week 4.png
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

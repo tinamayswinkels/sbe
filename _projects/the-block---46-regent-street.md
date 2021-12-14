@@ -20,6 +20,10 @@ images:
     image_path: /uploads/the-block-46-regent-st-model.bmp
   - title: The Block - 46 Regent Street Pre-development
     image_path: /uploads/the-block-46-regent-st-predevelopment.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

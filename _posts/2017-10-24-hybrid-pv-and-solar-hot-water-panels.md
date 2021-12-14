@@ -5,6 +5,10 @@ image_path: /uploads/blog-hybrid-PV-&-solar-hot-water-panels.JPG
 layout: post
 category: news
 banner-image_path: /uploads/blog-hybrid-PV-&-solar-hot-water-panels-section.JPG
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

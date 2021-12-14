@@ -5,6 +5,10 @@ image_path: /uploads/271 collins.jpg
 layout: post
 category: interns
 banner-image_path: /uploads/271-collins.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 SBE Intern Blog

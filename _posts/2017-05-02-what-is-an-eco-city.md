@@ -5,6 +5,10 @@ image_path: /uploads/blog-eco-city-01.jpg
 layout: post
 category: news
 banner-image_path: /uploads/blog-eco-city-02.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

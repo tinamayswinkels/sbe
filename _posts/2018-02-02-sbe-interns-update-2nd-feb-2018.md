@@ -5,6 +5,10 @@ image_path: /uploads/outside 10 stra house.jpg
 layout: post
 category: interns
 banner-image_path: /uploads/inside 10 stra house.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 <font color="#000000"><font face="Calibri"><font size="3">Our BDAV 10 Star Challenge design is complete</font></font></font>

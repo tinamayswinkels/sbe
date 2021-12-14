@@ -18,6 +18,10 @@ images:
     image_path: /uploads/northbank-place-exterior-01.jpg
   - title: Northbank Place Exterior 02
     image_path: /uploads/northbank-place-exterior-02.jpeg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

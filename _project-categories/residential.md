@@ -8,6 +8,10 @@ blurb: >-
   entities in the development of ESD evaluation tools and design guidelines
   including the City of Moreland, CASBE, MAV and DELWP.
 banner-image_path: /uploads/supply-co-david-st-01.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

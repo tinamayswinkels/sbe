@@ -15,6 +15,10 @@ images:
     image_path: /uploads/bosch-interior-01.jpg
   - title: Bosch Interior 02
     image_path: /uploads/bosch-interior-02.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

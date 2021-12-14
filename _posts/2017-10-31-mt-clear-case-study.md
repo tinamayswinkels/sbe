@@ -5,6 +5,10 @@ image_path: /uploads/mt-clear-earth-education-centre-01.JPG
 layout: post
 category: news
 banner-image_path: /uploads/mt-clear-earth-education-centre-exterior.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

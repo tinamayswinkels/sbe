@@ -5,6 +5,10 @@ image_path: /uploads/automative-centre-of-excellence-roof.JPG
 layout: post
 category: news
 banner-image_path: /uploads/automative-centre-of-excellence-exterior.JPG
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 

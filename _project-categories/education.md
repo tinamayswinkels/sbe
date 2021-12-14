@@ -9,6 +9,10 @@ blurb: >-
   interest in the dialgoue revolving around pedagogy, indoor environment quality
   and learning outcomes.
 banner-image_path: /uploads/automative-centre-of-excellence-01.JPG
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

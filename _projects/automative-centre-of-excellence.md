@@ -15,6 +15,10 @@ images:
     image_path: /uploads/automative-centre-of-excellence-roof.JPG
   - title: Automative Centre of Excellence Model
     image_path: /uploads/automative-centre-of-excellence-model.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

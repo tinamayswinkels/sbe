@@ -7,6 +7,10 @@ subtitle: >-
 description: A final meal to celebrate our efforts and achievements
 image_path: /uploads/20210630_140022.jpg
 banner-image_path: /uploads/20210630_140022.jpg
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 Firstly, I would like to thank Sean and Rob for giving me the opportunity to work with them even during these difficult times.&nbsp;
 

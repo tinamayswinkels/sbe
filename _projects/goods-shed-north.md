@@ -18,6 +18,10 @@ images:
     image_path: /uploads/goods-shed-north-interior-postdevelopment-01.jpg
   - title: Goods Shed North Interior Post-Development 02
     image_path: /uploads/goods-shed-north-interior-postdevelopment-02.jpg
+seo:
+  title: Projects | SBE
+  description:
+  keywords:
 ---
 
 

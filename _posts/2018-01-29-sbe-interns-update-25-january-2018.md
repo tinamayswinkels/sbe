@@ -5,6 +5,10 @@ image_path: /uploads/sbe-interns-25-january.jpg
 layout: post
 category: interns
 banner-image_path: /uploads/interns-house-25-january.png
+seo:
+  title: News | SBE
+  description:
+  keywords:
 ---
 
 
