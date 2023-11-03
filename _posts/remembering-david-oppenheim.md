@@ -7,7 +7,7 @@ description: >-
   Extracts from an interview with David about the MBAV award winning green home,
   1993.  Contact SBE for a full copy.
 
-  info@sbe.com.au 
+  info@sbe.com.au  
 image_path: /uploads/231103-the-green-home-david-oppenheim-page-001.jpg
 banner-image_path: /uploads/231103-the-green-home-david-oppenheim-page-002.jpg
 seo:
