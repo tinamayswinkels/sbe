@@ -4,7 +4,7 @@ category: other
 title: Remembering David Oppenheim
 subtitle: An Interview with David - The Green Home 1993
 description: >-
-  Extracts from an interview with David about the MBAV award winng green home,
+  Extracts from an interview with David about the MBAV award winning green home,
   1993.  Contact SBE for a full copy.
 
   info@sbe.com.au 
