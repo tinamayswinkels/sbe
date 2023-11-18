@@ -15,10 +15,8 @@ seo:
   description:
   keywords:
 ---
-![](/uploads/231103-the-green-home-david-oppenheim-page-003.jpg){: width="1800" height="1800"}
+Extracts from an interview with David about the MBAV award winning green home, 1993. &nbsp;Contact SBE for a full copy.<br>info@sbe.com.au &nbsp;
 
-​​​
+​​​[(9824) Remembering David John Oppenheim - 'The Green Home' Interview, 1993 - YouTube](https://www.youtube.com/watch?v=WnEo5KipJ9k&amp;t=2s)&nbsp;
 
-![](/uploads/231103-the-green-home-david-oppenheim-page-004.jpg){: width="1800" height="1800"}
-
-&nbsp;Contact SBE for a full copy.<br>info@sbe.com.au&nbsp;
+Contact SBE for a full copy of the transcript.<br>info@sbe.com.au&nbsp;
