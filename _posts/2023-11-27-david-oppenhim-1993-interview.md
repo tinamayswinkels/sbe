@@ -13,4 +13,4 @@ seo:
   description:
   keywords:
 ---
-A full interview with David about his award winning home deisgn, posted on you tube at https://youtu.be/tJdCBky409E as well as some background extracts from the SBE diary of 2006-7
+A full interview with David about his award winning home design, posted on you tube at https://youtu.be/tJdCBky409E as well as some background extracts from the SBE diary of 2006-7
