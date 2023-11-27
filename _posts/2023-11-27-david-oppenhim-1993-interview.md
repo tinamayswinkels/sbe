@@ -1,7 +1,7 @@
 ---
 layout: post
 category: other
-title: David Oppenhim 1993 interview
+title: David Oppenheim 1993 interview
 subtitle: Green Home award 1993
 description: >-
   A full interview with David, posted on you tube at
