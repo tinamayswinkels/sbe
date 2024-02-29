@@ -1,6 +1,6 @@
 ---
 layout: post
-category: other
+category:
 title: Remembering David Oppenheim
 subtitle: An Interview with David - The Green Home 1993
 description: >-
