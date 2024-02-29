@@ -1,6 +1,6 @@
 ---
 layout: post
-category: other
+category: news
 title: David Oppenheim 1993 interview
 subtitle: Green Home award 1993
 description: >-
