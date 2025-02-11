@@ -1,6 +1,6 @@
 ---
 layout: post
-category: news
+category: other
 title: '15th Successful Green Star project '
 subtitle: 6 Stars Interiors Rating (World’s Best Practice) for Aware Super
 description: >-
