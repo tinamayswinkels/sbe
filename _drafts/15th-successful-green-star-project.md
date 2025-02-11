@@ -8,8 +8,8 @@ description: >-
   Council of Australia for a multi-level Fitout (7,820m2) at 555 Collins Street
   in Melbourne, Australia.  The client and occupants are the Superannuation firm
   Aware Super.
-image_path:
-banner-image_path:
+image_path: /uploads/20250131-143358.jpg
+banner-image_path: /uploads/futurespace-aware-super.png
 seo:
   title: News | SBE
   description:
@@ -25,4 +25,4 @@ We are confident that the staff will continue to benefit from these new, healthy
 
 Contact SBE for more information or for assistance with your next project. sean.mcardle@sbe.com.au
 
-&nbsp;
+Interior&nbsp;Image courtesy of FutureSpace [https://www.futurespace.com.au/project/workplace-commercial-offices/aware-super](https://www.futurespace.com.au/project/workplace-commercial-offices/aware-super)
