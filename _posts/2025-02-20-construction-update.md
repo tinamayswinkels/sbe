@@ -19,7 +19,7 @@ SBE provided ESD and NCC Section J compliance services for these three exciting 
 
 Stage 1 of the Surf Coast Aquatic and Recreational Centre in Torquay has commenced on site in Torquay, Victoria. Designed by Peddle Thorp and now commencing Construction by Kane Construction. The building features a 25m indoor pool, program pool, health and well-being support spaces and café.
 
-![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image002.jpg){: width="602" height="203"}
+![](/uploads/scac-1.png){: width="602" height="203"}
 
 *Concept render by PTA Architects.*
 
@@ -33,11 +33,11 @@ Stage 1 of the Surf Coast Aquatic and Recreational Centre in Torquay has commenc
 
 Work is well underway for this multi residential project with 20 luxury apartments designed by CHT (now LIFE Architecure) and being constructed by Krongold Construction Group. The building features a roof top pool, a shared boutique garden and library and even a dog wash!
 
-![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image004.jpg){: width="444" height="169"} ![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image006.jpg){: width="141" height="172"}
+&nbsp;
 
 *Concept renders by LIFE Architetcure.*
 
-![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image008.jpg){: width="538" height="371"}
+![](/uploads/wattle-2-1.png){: width="538" height="371"}
 
 *Construction Site Progress Photo.*
 
@@ -51,15 +51,15 @@ Work is well underway for this multi residential project with 20 luxury apartmen
 
 Soon to be completed the Kinross Pub in Thurgoona NSW will provide food, entertainment (including a bowling alley and gaming room) as well as pleasant indoor and outdoor spaces for socialising. This project was an interesting challenge as it retains much of its original structure and claddings – some of which have a long history. Designed by Techne Architects and being constructed by Fugen Constructions.
 
-![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image010.jpg){: width="602" height="173"}
+![](/uploads/kin-3.png){: width="602" height="172"}
 
 *Early concept render by Techne Architects.*
 
-![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image012.jpg){: width="299" height="181"} ![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image014.png){: width="258" height="156"}
+![](/uploads/kin-1-1.png){: width="590" height="358"}
 
 *Compliance models by SBE.*
 
-![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image016.jpg){: width="542" height="373"}
+![](/uploads/kin-2.png){: width="542" height="373"}
 
 *Site progress photo*
 
