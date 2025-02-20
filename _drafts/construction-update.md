@@ -1,6 +1,6 @@
 ---
 layout: post
-category: news
+category: other
 title: Construction Update
 subtitle: Some projects at various stages of construction.
 description: >-
