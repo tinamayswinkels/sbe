@@ -6,7 +6,7 @@ subtitle: Some projects at various stages of construction.
 description: >-
   SBE provided ESD and NCC Section J compliance services for these three
   exciting projects currently under construction.  
-image_path: /uploads/kin-1.png
+image_path: /uploads/wattle-1.png
 banner-image_path: /uploads/wattle-2.png
 seo:
   title: News | SBE
