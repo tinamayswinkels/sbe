@@ -35,7 +35,7 @@ Work is well underway for this multi residential project with 20 luxury apartmen
 
 &nbsp;![](/uploads/wattle-1-3.png){: width="444" height="169"}
 
-*Concept renders by LIFE Architetcure.*
+*Concept renders by LIFE Architecture.*
 
 ![](/uploads/wattle-2-1.png){: width="538" height="371"}
 
