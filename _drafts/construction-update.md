@@ -1,0 +1,68 @@
+---
+layout: post
+category: news
+title: Construction Update
+subtitle: Some projects at various stages of construction.
+description: >-
+  SBE provided ESD and NCC Section J compliance services for these three
+  exciting projects currently under construction.  
+image_path:
+banner-image_path:
+seo:
+  title: News | SBE
+  description:
+  keywords:
+---
+SBE provided ESD and NCC Section J compliance services for these three exciting projects currently under construction.
+
+**1: Surf Coast Aquatic and Recreational Centre in Torquay**
+
+Stage 1 of the Surf Coast Aquatic and Recreational Centre in Torquay has commenced on site in Torquay, Victoria. Designed by Peddle Thorp and now commencing Construction by Kane Construction. The building features a 25m indoor pool, program pool, health and well-being support spaces and café.
+
+![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image002.jpg){: width="602" height="203"}
+
+*Concept render by PTA Architects.*
+
+· Peddle link – https://www.pta.com.au/projects/surf-coast-aquatic-health-centre
+
+· Kane link - https://www.kane.com.au/project/surf-coast-aquatic-and-health-centre
+
+&nbsp;
+
+**2: Society Armadale**
+
+Work is well underway for this multi residential project with 20 luxury apartments designed by CHT (now LIFE Architecure) and being constructed by Krongold Construction Group. The building features a roof top pool, a shared boutique garden and library and even a dog wash!
+
+![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image004.jpg){: width="444" height="169"} ![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image006.jpg){: width="141" height="172"}
+
+*Concept renders by LIFE Architetcure.*
+
+![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image008.jpg){: width="538" height="371"}
+
+*Construction Site Progress Photo.*
+
+· LIFE Architects link - [https://lifearchitecture.com.au/project/society-armadale/](https://lifearchitecture.com.au/project/society-armadale/)
+
+· Krongold Construction Group link - [https://www.krongoldgroup.com.au/about-us.php](https://www.krongoldgroup.com.au/about-us.php)
+
+&nbsp;
+
+**3: Kinross Woolshed Pub**
+
+Soon to be completed the Kinross Pub in Thurgoona NSW will provide food, entertainment (including a bowling alley and gaming room) as well as pleasant indoor and outdoor spaces for socialising. This project was an interesting challenge as it retains much of its original structure and claddings – some of which have a long history. Designed by Techne Architects and being constructed by Fugen Constructions.
+
+![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image010.jpg){: width="602" height="173"}
+
+*Early concept render by Techne Architects.*
+
+![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image012.jpg){: width="299" height="181"} ![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image014.png){: width="258" height="156"}
+
+*Compliance models by SBE.*
+
+![](file:///C:/Users/sean/AppData/Local/Packages/oice_16_974fa576_32c1d314_313f/AC/Temp/msohtmlclip1/01/clip_image016.jpg){: width="542" height="373"}
+
+*Site progress photo*
+
+Techne link - [https://www.instagram.com/technearchitects/p/C\_nRe3HS99N/?img\_index=1](https://www.instagram.com/technearchitects/p/C_nRe3HS99N/?img_index=1)
+
+Fugen Constructions link to site construction video - [https://fugenconstructions.com.au/project/kinross-woolshed-hotel-refurbishment/](https://fugenconstructions.com.au/project/kinross-woolshed-hotel-refurbishment/)
