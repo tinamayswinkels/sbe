@@ -23,9 +23,9 @@ Stage 1 of the Surf Coast Aquatic and Recreational Centre in Torquay has commenc
 
 *Concept render by PTA Architects.*
 
-· Peddle link – https://www.pta.com.au/projects/surf-coast-aquatic-health-centre
+· Peddle link – [Surf Coast Aquatic & Health Centre - Projects - Peddle Thorp Melbourne](https://www.pta.com.au/projects/surf-coast-aquatic-health-centre)
 
-· Kane link - https://www.kane.com.au/project/surf-coast-aquatic-and-health-centre
+· Kane link - [Surf Coast Aquatic and Health Centre - Kane Constructions](https://www.kane.com.au/project/surf-coast-aquatic-and-health-centre)
 
 &nbsp;
 
