@@ -13,7 +13,7 @@ seo:
   description:
   keywords:
 ---
-SBE provided ESD and NCC Section J compliance services for these three exciting projects currently under construction.
+![](/uploads/wattle-1-2.png){: width="444" height="169"}SBE provided ESD and NCC Section J compliance services for these three exciting projects currently under construction.
 
 **1: Surf Coast Aquatic and Recreational Centre in Torquay**
 
