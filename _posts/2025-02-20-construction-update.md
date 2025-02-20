@@ -13,7 +13,7 @@ seo:
   description:
   keywords:
 ---
-![](/uploads/wattle-1-2.png){: width="444" height="169"}SBE provided ESD and NCC Section J compliance services for these three exciting projects currently under construction.
+SBE provided ESD and NCC Section J compliance services for these three exciting projects currently under construction.
 
 **1: Surf Coast Aquatic and Recreational Centre in Torquay**
 
@@ -33,7 +33,7 @@ Stage 1 of the Surf Coast Aquatic and Recreational Centre in Torquay has commenc
 
 Work is well underway for this multi residential project with 20 luxury apartments designed by CHT (now LIFE Architecure) and being constructed by Krongold Construction Group. The building features a roof top pool, a shared boutique garden and library and even a dog wash!
 
-&nbsp;
+&nbsp;![](/uploads/wattle-1-3.png){: width="444" height="169"}
 
 *Concept renders by LIFE Architetcure.*
 
