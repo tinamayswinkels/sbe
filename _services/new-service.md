@@ -39,3 +39,5 @@ SBE will provide the modelling to evaluate design outcomes in the following 8 cr
 As PTA-HSPC have stated “The architect must take responsibility for the passive performance of the building”.
 
 If your office would like some assistance with developing your Sustainability Action Plan or measuring your design outcomes please contact us at sean.mcardle @sbe.com.au. ph 03 9923 2345.
+
+![](/images/example-project-evaluation.PNG "project metrics evaluation"){: width="1154" height="795"}
