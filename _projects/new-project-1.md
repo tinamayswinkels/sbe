@@ -6,9 +6,9 @@ blurb: >-
   which archived a 6 star Green Star Office Design Rating. The design aimed to
   integrate with existing site conditions, and to be an example of sustainable
   design, balancing innovation with common design and construction practices.
-architect: Williams Ross
-category: educational
-client: ANU
+architect: PTA-HSPC
+category: other
+client: PTA-HSPC
 date: 2012-02-15 00:00:00
 images:
   - title: SAP - 8 measures
