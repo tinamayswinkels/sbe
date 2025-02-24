@@ -11,6 +11,8 @@ date: 2012-02-15 00:00:00
 images:
   - title: SAP - 8 measures
     image_path: /uploads/circle-1.png
+  - title: Sample Early Design Assessment George Town Aquatic & Wellness Centre
+    image_path: /uploads/example-score.png
 seo:
   title: Sustainability Action Plan
   description: |-
