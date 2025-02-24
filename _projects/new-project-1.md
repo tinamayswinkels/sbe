@@ -11,13 +11,19 @@ category: educational
 client: ANU
 date: 2012-02-15 00:00:00
 images:
-  - title: ANU Fenner
-    image_path:
   - title: SAP - 8 measures
     image_path: /uploads/circle-1.png
 seo:
-  title: Projects | SBE
-  description:
-  keywords:
+  title: Sustainability Action Plan
+  description: |-
+    We have nominated 8 criteria against 
+    which our architecture will be tested 
+    and benchmarked.  We will use these 
+    criteria to evolve and report upon 
+    design outcomes.  We will publish these 
+    outcomes. 
+  keywords: >-
+    ESG carbon net zero energy stormwater SAP Architects declare HSPC PTA Peddle
+    Thorp
 ---
 Our Sustainability Action Plan outlines a comprehensive framework for enhancing indoor environmental quality, health, and well-being. This initiative will mitigate environmental impacts and lower operating costs for our clients, aligning seamlessly with our practice’s ESG guidelines.
