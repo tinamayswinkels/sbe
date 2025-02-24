@@ -30,7 +30,7 @@ seo:
     ESG carbon net zero energy stormwater SAP Architects declare HSPC PTA Peddle
     Thorp
 ---
-SBE has developed a Sustainaility Action Plan for PTA-HSPC in support of the ESG aspirations of their businesses and in alignment with their comittment to Architect’s Declare.
+SBE has developed a Sustainaility Action Plan for PTA-HSPC in alignment with their ESG aspirations and in support of their comittment to Architect’s Declare.
 
 The Sustainability Action Plan outlines a comprehensive framework for enhancing indoor environmental quality, health, and well-being.  They have nominated 8 criteria against which their architecture will be tested and benchmarked.  They will use these criteria to evolve and report upon design outcomes.  They will publish these outcomes.
 
@@ -49,4 +49,4 @@ SBE will provide the modelling to evalute design outcomes in the following 8 cri
 
 The architect must take responsibility for the passive performance of the building
 
-If
+If your office would like some assistance with develpong their Sustainability Action Plan or measuirng their deisgn outcomes please contact us at sean.mcardle @sbe.com.au.  ph 03 9923 2345
