@@ -33,6 +33,8 @@ SBE will provide the modelling to evalute design outcomes in the following 8 cri
 7. Thermal Comfort
 8. Ventilation
 
+![](/uploads/example-score.png "Sample Assessment"){: width="623" height="653"}
+
 As PTA-HSPC have stated “The architect must take responsibility for the passive performance of the building”.
 
 If your office would like some assistance with develpoing your Sustainability Action Plan or measuring your deisgn outcomes please contact us at sean.mcardle @sbe.com.au. ph 03 9923 2345.
