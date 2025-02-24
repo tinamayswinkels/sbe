@@ -15,6 +15,8 @@ images:
     image_path: /uploads/example-score.png
   - title: Sample Assessmentr Maroochydore Private Hospital
     image_path: /uploads/example-score2.png
+  - title: Sample Project Evaluation metrics
+    image_path: /uploads/example-project-evaluation.png
 seo:
   title: Sustainability Action Plan
   description: |-
