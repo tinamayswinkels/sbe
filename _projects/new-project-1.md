@@ -13,8 +13,11 @@ date: 2012-02-15 00:00:00
 images:
   - title: ANU Fenner
     image_path:
+  - title: SAP - 8 measures
+    image_path: /uploads/circle-1.png
 seo:
   title: Projects | SBE
   description:
   keywords:
 ---
+Our Sustainability Action Plan outlines a comprehensive framework for enhancing indoor environmental quality, health, and well-being. This initiative will mitigate environmental impacts and lower operating costs for our clients, aligning seamlessly with our practice’s ESG guidelines.
