@@ -47,4 +47,6 @@ SBE will provide the modelling to evalute design outcomes in the following 8 cri
 7. Thermal Comfort
 8. Ventilation
 
-The architect must take responsibility for the passive performance of the building.
+The architect must take responsibility for the passive performance of the building
+
+If
