@@ -1,6 +1,6 @@
 ---
 layout: post
-category: news
+category: other
 title: Sustainaility Action Plan for PTA-HSPC
 subtitle: SBE has developed a Sustainaility Action Plan for PTA-HSPC
 description: >-
