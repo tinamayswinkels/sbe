@@ -1,7 +1,7 @@
 ---
 layout: post
 category: other
-title: Sustainaility Action Plan for PTA-HSPC
+title: Sustainability Action Plan for PTA-HSPC
 subtitle: SBE has developed a Sustainaility Action Plan for PTA-HSPC
 description: >-
   As PTA-HSPC have stated “The architect must take responsibility for the
