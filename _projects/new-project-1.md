@@ -26,4 +26,12 @@ seo:
     ESG carbon net zero energy stormwater SAP Architects declare HSPC PTA Peddle
     Thorp
 ---
-Our Sustainability Action Plan outlines a comprehensive framework for enhancing indoor environmental quality, health, and well-being. This initiative will mitigate environmental impacts and lower operating costs for our clients, aligning seamlessly with our practice’s ESG guidelines.
+SBE has developed a Sustainaility Action Plan for PTA-HSPC in support of the ESG aspirations of their businesses and in alignment with their comittment to Architect's Declare.
+
+The Sustainability Action Plan outlines a comprehensive framework for enhancing indoor environmental quality, health, and well-being.  They have nominated 8 criteria against which their architecture will be tested and benchmarked.  They will use these criteria to evolve and report upon design outcomes.  They will publish these outcomes.
+
+The two distinguishing features of these criteria are that they are related to the passive performance the buildings (something within the architect’s direct control) and they are measurable. Thus, the evaluations of their (ESD) Accountabilities will be objective.
+
+&nbsp;
+
+&nbsp;
