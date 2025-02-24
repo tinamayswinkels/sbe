@@ -5,7 +5,7 @@ blurb: >-
   The architect must take responsibility for the passive performance of the
   building.
 architect: PTA-HSPC
-category: news
+category: other
 client: PTA-HSPC
 date: 2012-02-15 00:00:00
 images:
