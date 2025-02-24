@@ -2,10 +2,8 @@
 layout: project
 name: PTA-HSPC Sustainability Action Plan
 blurb: >-
-  The Frank Fenner building is a small scale institutional faculty building
-  which archived a 6 star Green Star Office Design Rating. The design aimed to
-  integrate with existing site conditions, and to be an example of sustainable
-  design, balancing innovation with common design and construction practices.
+  The architect must take responsibility for the passive performance of the
+  building.
 architect: PTA-HSPC
 category: other
 client: PTA-HSPC
@@ -26,12 +24,21 @@ seo:
     ESG carbon net zero energy stormwater SAP Architects declare HSPC PTA Peddle
     Thorp
 ---
-SBE has developed a Sustainaility Action Plan for PTA-HSPC in support of the ESG aspirations of their businesses and in alignment with their comittment to Architect's Declare.
+SBE has developed a Sustainaility Action Plan for PTA-HSPC in support of the ESG aspirations of their businesses and in alignment with their comittment to Architect’s Declare.
 
 The Sustainability Action Plan outlines a comprehensive framework for enhancing indoor environmental quality, health, and well-being.  They have nominated 8 criteria against which their architecture will be tested and benchmarked.  They will use these criteria to evolve and report upon design outcomes.  They will publish these outcomes.
 
-The two distinguishing features of these criteria are that they are related to the passive performance the buildings (something within the architect’s direct control) and they are measurable. Thus, the evaluations of their (ESD) Accountabilities will be objective.
+The two distinguishing features of these criteria are that they are related to the passive performance the buildings (something within the architect’s direct control) and they are measurable. Thus, the evaluations of their (ESD) Accountabilities will be objective.&nbsp;
 
-&nbsp;
+SBE will provide the modelling to evalute design outcomes in the following 8 criteria.
 
-&nbsp;
+1. Passive energy (Orienitation, Planning, Building Fabric and Shading)
+2. Energy Net zero (total operational consumption, genertaion and offsets)
+3. Embodied Carbon (Materials)
+4. Potable Water
+5. Stormwater
+6. Daylight
+7. Thermal Comfort
+8. Ventilation
+
+The architect must take responsibility for the passive performance of the building.
