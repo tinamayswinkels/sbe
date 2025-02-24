@@ -13,6 +13,8 @@ images:
     image_path: /uploads/circle-1.png
   - title: Sample Early Design Assessment George Town Aquatic & Wellness Centre
     image_path: /uploads/example-score.png
+  - title: Sample Assessmentr Maroochydore Private Hospital
+    image_path: /uploads/example-score2.png
 seo:
   title: Sustainability Action Plan
   description: |-
