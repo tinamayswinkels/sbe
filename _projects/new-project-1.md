@@ -12,7 +12,7 @@ client: ANU
 date: 2012-02-15 00:00:00
 images:
   - title: ANU Fenner
-    image_path: /uploads/anu-fenner-01.JPG
+    image_path:
 seo:
   title: Projects | SBE
   description:
