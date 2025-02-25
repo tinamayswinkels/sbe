@@ -6,7 +6,7 @@ subtitle: SBE has developed a Sustainaility Action Plan for PTA-HSPC
 description: >-
   As PTA-HSPC have stated “The architect must take responsibility for the
   passive performance of the building”.
-image_path: /images/example-project-evaluation.PNG
+image_path: /images/example-score.PNG
 banner-image_path: /images/circle-1.png
 seo:
   title: News | SBE
@@ -35,6 +35,6 @@ SBE will provide the modelling to evaluate design outcomes in the following 8 cr
 
 As PTA-HSPC have stated “The architect must take responsibility for the passive performance of the building”.
 
-![](/uploads/example-score.png "Sample Assessment"){: width="623" height="653"}
+![](/images/example-project-evaluation.PNG)![](/uploads/example-score.png "Sample Assessment"){: width="623" height="653"}
 
 If your office would like some assistance with developing your Sustainability Action Plan or measuring your design outcomes please contact us at sean.mcardle @sbe.com.au. ph 03 9923 2345.
