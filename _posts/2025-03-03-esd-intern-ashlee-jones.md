@@ -1,6 +1,6 @@
 ---
 layout: post
-category: other
+category: news
 title: ESD Intern Ashlee Jones
 subtitle: Introducing Ashlee Jones BD Architecture. ESD Intern at SBE
 description: Today I am beginning an internship in ESD at SBE and Peddle Thorp.
