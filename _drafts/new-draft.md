@@ -3,13 +3,15 @@ layout: post
 category:
 title: Ashlee Jones ESD Intern Week 1  Update
 subtitle: Week 1  Update
-description: An update on the week and experiences
+description: A report on my first week at SBE and my learnings.
 image_path:
 banner-image_path: /uploads/week-1-internship-image.jpg
 seo:
   title: News | SBE
   description: ESD Intern Update
-  keywords: ESD Intern Update section J BESS town planning ESD sustainability
+  keywords: >-
+    ESD Intern Update section J BESS town planning ESD sustainability SBE Peddle
+    Thorp HSPC   Erin Judkins Alicia Ding
 ---
 # SBE Week 1 Blog
 
