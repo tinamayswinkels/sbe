@@ -1,6 +1,6 @@
 ---
 layout: post
-category:
+category: other
 title: Ashlee Jones ESD Intern Week 1  Update
 subtitle: Week 1  Update
 description: A report on my first week at SBE and my learnings.
