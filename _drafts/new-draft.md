@@ -1,13 +1,13 @@
 ---
 layout: post
-category: null
-title: null
-subtitle: null
-description: null
-image_path: null
-banner-image_path: null
+category:
+title:
+subtitle:
+description:
+image_path:
+banner-image_path:
 seo:
   title: News | SBE
-  description: null
-  keywords: null
+  description: ESD Intern Update
+  keywords: ESD Intern Update section J BESS town planning ESD sustainability
 ---
