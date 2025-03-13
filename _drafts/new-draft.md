@@ -1,9 +1,9 @@
 ---
 layout: post
-category:
-title:
-subtitle:
-description:
+category: other
+title: Ashlee Jones ESD Intern 2025
+subtitle: Week 2 Blog
+description: Week 2 of the internship - What I've been up to.
 image_path:
 banner-image_path:
 seo:
