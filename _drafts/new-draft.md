@@ -17,7 +17,7 @@ Week 2 Blog
 
 &nbsp;
 
-It is Week 2 of the internship and I am starting to get the hang of things. This week we focused on creating a sustainability action plan for a Qld Class 3 project that assesses the design against ESD outcomes.
+It is Week 2 of the internship and I am starting to get the hang of things, including energy simulations. This week we focused on creating a sustainability action plan for a Qld Class 3 project that assesses the design against ESD outcomes.
 
 It’s fascinating to understand how changing elements and building operations can improve the building performance. It was interesting to play with thermal barriers in wall types, adding more openable windows, changing material choices and occupancy comfort and seeing how the results changed.
 
