@@ -1,7 +1,7 @@
 ---
 layout: post
 category: other
-title: Ashlee Jones ESD Intern 2025
+title: Ashlee Jones ESD Intern 2025 Week 2 Blog
 subtitle: Week 2 Blog
 description: Week 2 of the internship - What I've been up to.
 image_path: /uploads/week-2-3d-building-model.png
