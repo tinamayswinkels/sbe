@@ -4,8 +4,8 @@ category: news
 title: New Commercial Office 168 Chapel Street
 subtitle: New office Windsor
 description: >-
-  SBE provided full ESD Consultancy Servcies from town planning through to
-  construction completion for this new 4 stroey ofcie in Windsor.
+  SBE provided full ESD Consultancy Services from town planning through to
+  construction completion for this new 4 storey office in Windsor.
 image_path: /uploads/158-chapel.png
 banner-image_path: /uploads/168-model.png
 seo:
