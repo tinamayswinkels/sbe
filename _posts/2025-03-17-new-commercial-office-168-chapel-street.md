@@ -10,8 +10,10 @@ image_path: /uploads/158-chapel.png
 banner-image_path: /uploads/168-model.png
 seo:
   title: News | SBE
-  description:
-  keywords:
+  description: >-
+    SBE provided full ESD Consultancy Servcies from town planning through to
+    construction completion for this new commercial office space
+  keywords: 'sbe esd section J cobuild mcildowie commercial office '
 ---
 ### A luxury mix-use development in the heart of vibrant Windsor.
 
