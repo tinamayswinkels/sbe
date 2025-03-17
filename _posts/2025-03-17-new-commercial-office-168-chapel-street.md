@@ -6,8 +6,8 @@ subtitle: New office Windsor
 description: >-
   SBE provided full ESD Consultancy Servcies from town planning through to
   construction completion for this new 4 stroey ofcie in Windsor.
-image_path:
-banner-image_path:
+image_path: /uploads/158-chapel.png
+banner-image_path: /uploads/168-model.png
 seo:
   title: News | SBE
   description:
@@ -24,3 +24,5 @@ By maximising the storey heights through the use of post-tensioned concrete slab
 The fourth floor was then set back from the street, ensuring the massing respected the precinct’s height requirements.
 
 SBE provided full ESD Consultancy Servcies from town planning through to construction completion.
+
+![](/uploads/168-floor-plan.png)
