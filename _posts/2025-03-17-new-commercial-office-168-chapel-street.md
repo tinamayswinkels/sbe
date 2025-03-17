@@ -1,6 +1,6 @@
 ---
 layout: post
-category: other
+category: news
 title: New Commercial Office 168 Chapel Street
 subtitle: New office Windsor
 description: >-
