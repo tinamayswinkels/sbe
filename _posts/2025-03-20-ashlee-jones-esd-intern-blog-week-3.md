@@ -1,6 +1,6 @@
 ---
 layout: post
-category: other
+category: news
 title: Ashlee Jones, ESD Intern Blog week 3
 subtitle: ESD Intern Blog week 3
 description: |2-
