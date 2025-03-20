@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: Ashlee Jones, ESD Intern Blog week 3
+title: Ashlee Jones, ESD Intern, Blog week 3
 subtitle: ESD Intern Blog week 3
 description: |2-
    A big week of learnings this week.
