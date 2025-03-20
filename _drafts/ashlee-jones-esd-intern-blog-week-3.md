@@ -3,13 +3,17 @@ layout: post
 category: other
 title: Ashlee Jones, ESD Intern Blog week 3
 subtitle: ESD Intern Blog week 3
-description:
+description: |2-
+   A big week of learnings this week.
+  SAP, Etool, LCA, Embooded Carbon and Design charettes
 image_path:
 banner-image_path:
 seo:
   title: News | SBE
   description:
-  keywords: ESD Intern Blog week 3 Ashlee Jones SAP ESD SBE Intern
+  keywords: >-
+    ESD Intern Blog week 3 Ashlee Jones SAP ESD SBE Intern SAP, Etool, LCA,
+    Embooded Carbon and Design charettes
 ---
 Week 3 Blog
 
