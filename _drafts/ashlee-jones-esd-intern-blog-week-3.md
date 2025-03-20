@@ -6,8 +6,8 @@ subtitle: ESD Intern Blog week 3
 description: |2-
    A big week of learnings this week.
   SAP, Etool, LCA, Embooded Carbon and Design charettes
-image_path:
-banner-image_path:
+image_path: /uploads/charette.jpg
+banner-image_path: /uploads/etool-studio-apartment-visual.png
 seo:
   title: News | SBE
   description:
