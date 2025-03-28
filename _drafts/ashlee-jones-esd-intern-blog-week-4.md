@@ -2,8 +2,8 @@
 layout: post
 category:
 title: Ashlee Jones, ESD Intern, Blog week 4
-subtitle: Update on adventures in ESD
-description: Site Visit to 18-22 Hopkins Street and Life Cycle Assessments
+subtitle: Update on adventures in ESD and Architecture
+description: Site Visit to 18-22 Hopkins Street Footscray and Life Cycle Assessments
 image_path: /uploads/hopkins-street-site-visit-image.jpg
 banner-image_path: >-
   /uploads/12-storey-commercial-trial-building-lca-report-global-warming-reference-images.png
