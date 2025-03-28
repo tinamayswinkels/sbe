@@ -12,7 +12,7 @@ seo:
   description:
   keywords: >-
     SBE ESD Peddle Thorp Anthony Radl site visit construction LCA Etool Life
-    Cycle assessment Ashlee Jones 18-22 Hopkins Street Footscray
+    Cycle assessment Ashlee Jones 18-22 Hopkins Street Footscray eTool
 ---
 This week, I tried to become a sponge and absorb as much information as I could during a site visit and learning eTool.
 
