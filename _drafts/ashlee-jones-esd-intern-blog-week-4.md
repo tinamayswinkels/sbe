@@ -9,7 +9,7 @@ banner-image_path: >-
   /uploads/12-storey-commercial-trial-building-lca-report-global-warming-reference-images.png
 seo:
   title: site visits and LCA
-  description:
+  description: ESD site visits and LCA
   keywords: >-
     SBE ESD Revit Peddle Thorp Anthony Radl site visit construction LCA Etool
     Life Cycle assessment Ashlee Jones 18-22 Hopkins Street Footscray eTool
