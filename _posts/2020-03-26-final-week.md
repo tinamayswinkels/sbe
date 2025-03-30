@@ -9,13 +9,12 @@ banner-image_path: /uploads/20200213-142021.jpg
 seo:
   title: News | SBE
   description:
-  keywords:
+  keywords: ESD intern Brod Broderick Millie
 ---
+Our final week began with continuing our NCC study, combing through both the 2016 and 2019 NCC documents looking for changes to section J. The model was remade countless times in IES and extensive time was spent on glazing and façade calculators. The current results of the study indicate that the 2019 NCC criteria are stricter in some aspects, however allows greater flexibility in design. Here are some key points we have discovered thus far:
 
-Our final week began with continuing our NCC study, combing through both the 2016 and 2019 NCC documents looking for changes to section J. The model was remade countless times in IES and extensive time was spent on glazing and fa&ccedil;ade calculators. The current results of the study indicate that the 2019 NCC criteria are stricter in some aspects, however allows greater flexibility in design. Here are some key points we have discovered thus far:
-
-* The new fa&ccedil;ade calculator allows for more flexible design through trading off window and wall performance. Performance can also be traded off between different fa&ccedil;ade orientations/ levels. In general the 2019 calculator requires higher performing materials to meet minimum criteria.
-* The new fa&ccedil;ade calculator now assesses all levels of a building and has only 4 orientations compared to the previous 8. While these changes make the calculator easier to use, this reduction in complexity may result in less optimized solutions.
+* The new façade calculator allows for more flexible design through trading off window and wall performance. Performance can also be traded off between different façade orientations/ levels. In general the 2019 calculator requires higher performing materials to meet minimum criteria.
+* The new façade calculator now assesses all levels of a building and has only 4 orientations compared to the previous 8. While these changes make the calculator easier to use, this reduction in complexity may result in less optimized solutions.
 * There are some minor changes to insulation values in areas such as roof and walls. These changes however did not affect our project.
 * Energy usage is now required to be measured in greenhouse gas emission equivalent.
 * The new code also introduces a thermal comfort requirement.
