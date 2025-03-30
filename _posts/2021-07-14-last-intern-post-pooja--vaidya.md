@@ -10,7 +10,7 @@ banner-image_path: /uploads/20210630_140022.jpg
 seo:
   title: News | SBE
   description: ESD Interns
-  keywords: ESD Interns SBE
+  keywords: ESD Interns SBE Pooja Vaidya Pratidnya Bhuite
 ---
 **ADIOS AMIGOS**!
 
