@@ -14,7 +14,7 @@ seo:
   title: News | SBE
   description: 6 stars Green Star Intreriors rating for Aware Super Melbourne
   keywords: >-
-    6 stars Green Star Intreriors rating Aware Super superannuation FutureSpace 
+    6 stars Green Star Interiors rating Aware Super superannuation FutureSpace 
     Generate Aston Builcorp
 ---
 SBE is celebrating its 15th Successful Green Star project with the awarding of a 6 Stars Interiors Rating (World’s Best Practice) from the Green Building Council of Australia for a multi-level Fitout (7,820m2) at 555 Collins Street in Melbourne, Australia.  The client and occupants are the Superannuation firm Aware Super.
