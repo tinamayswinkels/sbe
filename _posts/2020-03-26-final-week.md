@@ -8,8 +8,8 @@ image_path: /uploads/eastland site visit.jpg
 banner-image_path: /uploads/20200213-142021.jpg
 seo:
   title: News | SBE
-  description:
-  keywords: ESD intern Brod Broderick JAcobs Lakshmee Rajpati
+  description: progress update report
+  keywords: ESD intern Brod Broderick Jacobs Lakshmee Rajpati
 ---
 Our final week began with continuing our NCC study, combing through both the 2016 and 2019 NCC documents looking for changes to section J. The model was remade countless times in IES and extensive time was spent on glazing and façade calculators. The current results of the study indicate that the 2019 NCC criteria are stricter in some aspects, however allows greater flexibility in design. Here are some key points we have discovered thus far:
 
