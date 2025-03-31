@@ -34,4 +34,6 @@ In particular SBE conducted the necessary modelling for Green Star and Section J
 
 This project achieved a 6 star design rating and a 5 star as-built Green Star rating and achieved maximum greenhouse gas reduction targets (base building carbon neutral).
 
+AWARDS 2016 AIA (Vic) Sustainable Architecture Allan and Beth Coldicutt Award 2015 Architecture and Design Sustainability Award for Large Commercial.
+
 [***For more information click here.***](/2017/10/31/wbace-case-study.html)
