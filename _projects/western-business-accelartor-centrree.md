@@ -20,11 +20,14 @@ images:
     image_path: /uploads/western-business-accelerator-centre-of-excellence-model.jpg
 seo:
   title: Projects | SBE
-  description:
-  keywords:
+  description: >-
+    AWARDS 2016 AIA (Vic) Sustainable Architecture Allan and Beth Coldicutt
+    Award 2015 Architecture and Design Sustainability Award for Large Commercial
+  keywords: >-
+    AWARDS 2016 AIA (Vic) Sustainable Architecture Allan and Beth Coldicutt
+    Award 2015 Architecture and Design Sustainability Award for Large
+    Commercial 
 ---
-
-
 SBE provided full ESD and Green Star Consultancy services for the Western BACE development.
 
 In particular SBE conducted the necessary modelling for Green Star and Section J compliance, &nbsp;assisted the design team with the integration of Green Star and compiled the Green Star Design and As-Built Submissions.
