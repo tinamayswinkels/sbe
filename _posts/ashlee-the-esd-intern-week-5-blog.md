@@ -21,4 +21,4 @@ Big learnings and reflections from learning ETool over the last couple of weeks.
 
 &nbsp;
 
-![](/uploads/image-1-1.png)
+&nbsp;
