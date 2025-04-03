@@ -1,7 +1,7 @@
 ---
 layout: post
 category: other
-title: 'Ashlee the ESD Intern week 5 '
+title: Ashlee the ESD Intern week 5 Report
 subtitle: ESD Intern week 5 blog report
 description: Ashlee Jones ESD Intern blog - week 5.  LCA
 image_path: /uploads/bowling-image-1.jpg
