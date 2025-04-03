@@ -7,10 +7,10 @@ category: news
 banner-image_path: /uploads/mt-clear-earth-education-centre-graph-01.jpg
 seo:
   title: News | SBE
-  description:
+  description: SBE schools and fresh air in the classroom
   keywords: >-
     fresh air schools tempered fresh air labyrinth CO2 learning outcomes Mt
-    clear SBE ESD
+    clear SBE ESD classroom
 ---
 It has long been acknowledged that access to fresh air is critical for peak performance and health, whether a person is working in office or learning in a classroom. Whilst operable windows and cross flow ventilation can offer good levels of fresh air and natural cooling there will be times when ambient conditions are unfavourable. At such times occupants will want to and should be able to close windows.
 
