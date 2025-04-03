@@ -1,6 +1,6 @@
 ---
 layout: post
-category: other
+category: news
 title: Ashlee the ESD Intern week 5 blog
 subtitle: ESD Intern week 5 blog
 description: Ashlee Jones ESD Intern blog - week 5.  LCA
@@ -9,7 +9,7 @@ banner-image_path: /uploads/image-1.png
 seo:
   title: News | SBE
   description: Ashlee the ESD Intern week 5 blog
-  keywords: Ashlee the ESD Intern week 5 blog LCA life cycle analysis
+  keywords: Ashlee the ESD Intern week 5 blog LCA life cycle analysis Etool
 ---
 I have knuckled down this week on lifecycle assessments and embodied carbon for material analysis of a design the office is currently working on.
 
