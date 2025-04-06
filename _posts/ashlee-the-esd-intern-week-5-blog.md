@@ -4,7 +4,7 @@ category: news
 title: Ashlee the ESD Intern week 5 Report
 subtitle: ESD Intern week 5 blog report
 description: Ashlee Jones ESD Intern blog - week 5.  LCA
-image_path: /uploads/bowling-image-1.jpg
+image_path: /uploads/bowling-image-r.jpg
 banner-image_path: /uploads/lifecycle-assessment-breakdown-image.png
 seo:
   title: News | SBE
