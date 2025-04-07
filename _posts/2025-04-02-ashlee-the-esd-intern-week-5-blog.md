@@ -19,6 +19,10 @@ Operational energy is the main producer of GWP for a building. The second bigges
 
 Big learnings and reflections from learning ETool over the last couple of weeks. It was satisfying to reach this outcome this week.
 
+![](/uploads/image-1-2.png)
+
+&nbsp;
+
 &nbsp;
 
 &nbsp;
