@@ -8,7 +8,7 @@ image_path: /uploads/image-1-3.png
 banner-image_path: /uploads/image-2.png
 seo:
   title: News | SBE
-  description:
+  description: 3d animation studies
   keywords: >-
     Alex Davies PTA peddle thorp Ivanhoe Grammar Aquatic Centre plenty campus 
     revit rhino lumien enscape 3d animation
