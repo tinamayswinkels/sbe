@@ -21,4 +21,4 @@ I started with using Revit and exporting model versions to Lumion. This was okay
 
 Some things to fix next week is transition speed and smoothness, quality of the rendering with materiality and adding in the structural frameworks that was slowing up the program lots. Learning this animation made me appreciate BIM processes and efficient workflows. I wasn’t very happy with my end product but a good snapshot of my learnings. I look forward to improving on this skill again!
 
-I’m working with the Revit model created by Alex Davies from Peddle Thorp Architects. The project is the Ivanhoe Grammar Aquatic Centre which was recently constructed on their Plenty campus.
+I’m working with the Revit model created by Alex Davies from Peddle Thorp Architects. The project is their Ivanhoe Grammar Aquatic Centre which was recently constructed on the Plenty campus.
