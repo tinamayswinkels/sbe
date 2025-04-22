@@ -6,8 +6,8 @@ subtitle: Blog week 7 - Revit and Enscape
 description: >-
   Working on Devonport sporting complex with Revit and Ivanhoe Grammar Sports
   Aquatic Facility with Enscape
-image_path:
-banner-image_path:
+image_path: /uploads/render-image.png
+banner-image_path: /uploads/window-elevations.png
 seo:
   title: News | SBE
   description: ESD and Architectural tools
