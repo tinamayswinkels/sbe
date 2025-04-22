@@ -1,6 +1,6 @@
 ---
 layout: post
-category: news
+category: other
 title: Ashlee Jones ESD Intern Blog week 7
 subtitle: Blog week 7 - Revit and Enscape
 description: >-
