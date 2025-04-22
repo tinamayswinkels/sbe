@@ -21,6 +21,6 @@ One part of the process I found especially valuable was re-familiarizing myself 
 
 Big thanks to Stephen Kasinksi from Peddle Thorp this week for his patience and great teaching—it made a huge difference, especially while I was finding my feet again in Revit.
 
-On a different note, the animation side of things continues to be a bit of a challenge. The positive news is that I was able to successfully incorporate the structural model of the Ivanhoe Grammar Aqutic Facility (Plenty Campus) into the rendered video, which helped the visuals feel more complete. I also started breaking down and refining the materials more.
+On a different note, the animation side of things continues to be a bit of a challenge. The positive news is that I was able to successfully incorporate the structural model of the Ivanhoe Grammar Aquatic Facility (Plenty Campus) into the rendered video, which helped the visuals feel more complete. I also started breaking down and refining the materials more.
 
 That said, I’m still running into issues with the smoothness of the video output. The file size is quite large, and it’s been tough to record the animation cleanly in Enscape. My goal for next week is to reach out to a few people around the office and get some advice or tips on how to streamline the animation process and hopefully improve the playback quality. I’m sure someone’s cracked this problem before, so it’s time to tap into the collective wisdom here!
