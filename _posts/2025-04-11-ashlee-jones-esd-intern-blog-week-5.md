@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: Ashlee Jones ESD Intern Blog week 5
+title: Ashlee Jones ESD Intern Blog week 6
 subtitle: Using Revit, Rhino, Lumien and Enscape
 description: Working on a 3d animation of a revit model
 image_path: /uploads/image-1-3.png
@@ -13,7 +13,7 @@ seo:
     Alex Davies PTA peddle thorp Ivanhoe Grammar Aquatic Centre plenty campus 
     revit rhino lumien enscape 3d animation
 ---
-Blog Week 5
+Blog Week 6
 
 This week’s skillset grew with animation creation. The task was to create a fly through animation that incorporated stages of a building progressing to a complete product. It was rough and required a lot of trial and error. I watched many different videos to get an understanding of how the process to create it.
 
