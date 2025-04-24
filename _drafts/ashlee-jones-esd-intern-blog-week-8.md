@@ -8,7 +8,7 @@ image_path:
 banner-image_path:
 seo:
   title: News | SBE
-  description:
+  description: the architecutral grind - documenting
   keywords: >-
     Devonport Stadium, Glenroy Private School, Animation sofware, Rob Alessi
     Peddle Thorp Stephen KAsinski Mcildowie  architects
