@@ -2,7 +2,7 @@
 layout: post
 category: other
 title: Ashlee Jones SBE ESD and Peddle Thorp Intern Blog week 9
-subtitle: Wrapping up Devonport Stadium Documentation
+subtitle: Wrapping up Devonport Stadium Documentation and using Lumion
 description: Refining Revit skills and starting to work with Lumion animation phasing
 image_path: /uploads/img-1007.jpeg
 banner-image_path: /uploads/devonport-drawings.jpg
