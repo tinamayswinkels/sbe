@@ -9,7 +9,7 @@ banner-image_path: /uploads/devonport-drawings.jpg
 seo:
   title: News | SBE
   description:
-  keywords: 'Stephen Kasinski Peddle Thorp SBE ESD Intern '
+  keywords: Stephen Kasinski Peddle Thorp SBE ESD Intern  Lumion animation phasing
 ---
 We had all hands-on deck this week to wrap up the Design Documentation Drawings for the Devonport Stadium. Stephen reviewed and marked up the elevation drawings I worked on last week, giving me valuable feedback to help refine and finalise them for today’s package submission.
 
