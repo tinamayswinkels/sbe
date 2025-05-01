@@ -1,7 +1,7 @@
 ---
 layout: post
 category: other
-title: Ashlee Jones ESD Intern Blog week 9
+title: Ashlee Jones SBE ESD Intern Blog week 9
 subtitle: Wrapping up Devonport Stadium Documentation
 description: Refining Revit skills and starting to work with Lumion animation phasing
 image_path: /uploads/img-1007.jpeg
