@@ -11,7 +11,7 @@ seo:
   description:
   keywords: Stephen Kasinski Peddle Thorp SBE ESD Intern  Lumion animation phasing
 ---
-We had all hands-on deck this week to wrap up the Design Documentation Drawings for the Devonport Stadium. Stephen reviewed and marked up the elevation drawings I worked on last week, giving me valuable feedback to help refine and finalise them for today’s package submission.
+We had all hands-on deck this week to wrap up the Design Documentation Drawings for the Devonport Stadium in Tasmania. Stephen reviewed and marked up the elevation drawings I worked on last week, giving me valuable feedback to help refine and finalise them for today’s package submission.
 
 Some of the key improvements I made included adjusting and repositioning wall mullions, editing component families like mirrors, cubicles, doors, and carcass joinery, as well as refining material tagging and annotations. I really appreciate the guidance and time Stephen Kasinski (Peddle Thorp) has spent to teach me about revit and drawing skills. It’s been great to see both my technical detailing and speed to produce the drawings improve over the past few weeks.
 
