@@ -11,7 +11,7 @@ seo:
   description:
   keywords: >-
     Stephen Kasinski Peddle Thorp SBE ESD Intern  Lumion animation phasing
-    velodrome Erin Judkins and Alisha Ding
+    velodrome Erin Judkins Alisha Ding
 ---
 We had all hands-on deck this week to wrap up the Design Documentation Drawings for the Devonport Stadium in Tasmania. Stephen reviewed and marked up the elevation drawings I worked on last week, giving me valuable feedback to help refine and finalise them for today’s package submission.
 
