@@ -8,7 +8,7 @@ image_path: /uploads/animation-collage-blog-image.png
 banner-image_path: /uploads/blog-image-2-cabrini-concept.png
 seo:
   title: News | SBE
-  description:
+  description: Blog Week 10
   keywords: >-
     Tower B Cabrini Hospital Melbourne. SBE ESD intern architect Peddle Thorp
     SBE Intern Gabrielle Buckley Stephen Sinclair HSPC Health Science 
