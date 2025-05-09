@@ -4,8 +4,8 @@ category: news
 title: Ashlee Jones ESD Internal week 10 report
 subtitle: Week 10
 description: Health Architecture with HSPC - Cabrini
-image_path: /uploads/animation-collage-blog-image.png
-banner-image_path: /uploads/blog-image-2-cabrini-concept.png
+image_path: /uploads/animation-collage-blog-image-1.png
+banner-image_path: /uploads/blog-image-2-cabrini-concept-1.png
 seo:
   title: News | SBE
   description: Blog Week 10
