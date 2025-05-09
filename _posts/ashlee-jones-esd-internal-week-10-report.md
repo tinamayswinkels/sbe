@@ -26,3 +26,5 @@ On the digital front, I’ve made significant progress with my Lumion animation.
 Reflecting on my initial goals for this internship, it’s rewarding to see how much I’ve learned and accomplished. Some things I have really struggled with but persisted and I am improving!! A special thanks to Sean for his continuous support and for connecting me into diverse architectural areas within the Peddle Thorp group.
 
 &nbsp;![](/uploads/blog-image-4-cabrini.png)
+
+&nbsp;
