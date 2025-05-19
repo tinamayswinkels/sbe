@@ -10,8 +10,8 @@ seo:
   title: News | SBE
   description: esd intern update
   keywords: >-
-    Socrati Seretis and Alex Davies Peddle Thorp Architects Ivanhoe Grammar
-    School Aquatic and Recreational Centre Plenty Campus ESD SBE Intern
+    Ashlee Jones Socrati Seretis and Alex Davies Peddle Thorp Architects Ivanhoe
+    Grammar School Aquatic and Recreational Centre Plenty Campus ESD SBE Intern
 ---
 Blog Post Week 11
 
