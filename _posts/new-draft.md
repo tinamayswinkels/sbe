@@ -8,7 +8,7 @@ image_path: /uploads/girls-banh-mi-lunch-small.jpg
 banner-image_path: /uploads/igs-competition-drawings.png
 seo:
   title: News | SBE
-  description:
+  description: esd intern update
   keywords: >-
     Socrati Seretis and Alex Davies Peddle Thorp Architects Ivanhoe Grammar
     School Aquatic and Recreational Centre Plenty Campus ESD SBE Intern
