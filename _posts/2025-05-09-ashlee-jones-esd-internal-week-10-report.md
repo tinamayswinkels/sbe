@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: Ashlee Jones ESD Internal week 10 report
+title: Ashlee Jones ESD Intern week 10 report
 subtitle: Week 10
 description: Health Architecture with HSPC - Cabrini
 image_path: /uploads/animation-collage-blog-image-1.png
