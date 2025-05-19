@@ -1,6 +1,6 @@
 ---
 layout: post
-category:
+category: news
 title: Ashlee Jones Architectural Intern (and ESD)  Blog Post Week 11
 subtitle: Week 11 report
 description: Competition and publication drawings
