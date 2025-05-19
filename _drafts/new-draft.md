@@ -1,19 +1,21 @@
 ---
 layout: post
 category:
-title:
-subtitle:
-description:
+title: Ashlee Jones Architectural Intern (and ESD)  Blog Post Week 11
+subtitle: Week 11 report
+description: Competition and publication drawings
 image_path:
 banner-image_path:
 seo:
   title: News | SBE
   description:
-  keywords:
+  keywords: >-
+    Socrati Seretis and Alex Davies Peddle Thorp Architects Ivanhoe Grammar
+    School Aquatic and Recreational Centre Plenty Campus ESD SBE Intern
 ---
 Blog Post Week 11
 
-This week, I had the opportunity to work on the Ivanhoe Girls’ School Aquatic and Recreational Centre. My main task was to simplify complex schematic drawings into artistic representations for a competition submission. I was fortunate to work under the guidance of Socrati Seretis and Alex Davies from Peddle Thorp Architects, whose insights were incredibly valuable.
+This week, I had the opportunity to work on the Ivanhoe Grammar School Aquatic and Recreational Centre (on the Plenty Campus). My main task was to simplify complex schematic drawings into artistic representations for a competition submission. I was fortunate to work under the guidance of Socrati Seretis and Alex Davies from Peddle Thorp Architects, whose insights were incredibly valuable.
 
 The workflow involved exporting drawings from Revit, simplifying the linework in Rhino, and then creatively enhancing them in Illustrator—making extensive use of grouping and layers to manage complexity and visual clarity.
 
