@@ -13,7 +13,7 @@ seo:
     Ashlee Jones Socrati Seretis and Alex Davies Peddle Thorp Architects Ivanhoe
     Grammar School Aquatic and Recreational Centre Plenty Campus ESD SBE Intern
 ---
-Blog Post Week 11
+Blog Post Week 11.
 
 This week, I had the opportunity to work on the Ivanhoe Grammar School Aquatic and Recreational Centre (on the Plenty Campus). My main task was to simplify complex schematic drawings into artistic representations for a competition submission. I was fortunate to work under the guidance of Socrati Seretis and Alex Davies from Peddle Thorp Architects, whose insights were incredibly valuable.
 
