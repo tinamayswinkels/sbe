@@ -1,6 +1,6 @@
 ---
 layout: post
-category:
+category: news
 title: Final Blog Post for Week 12
 subtitle:
 description: That’s a wrap of my ESD internship at Peddle Thorp, HSPC and SBE.
@@ -22,9 +22,11 @@ That’s a wrap of my ESD internship at Peddle Thorp, HSPC and SBE. Reflecting o
 
 I began with energy consumption, town planning and daylight studies. I then progressed with carbon assessments and lifecycle analyses. I mastered new programs like Speckel, Lumion, and ETool, and enhanced my Revit skills. My work also included creating a detailed construction animation which you can find linked in my Linked In post. I have completed design documentation and construction packages, crafted competition design drawings, and prepared Section J DTS reports. Not to mention, some extensive site visits! The list goes on….
 
-![](/uploads/site-image.jpg){: width="1119" height="1201"}&nbsp;
+![](/uploads/site-image.jpg){: width="1119" height="1201"}
 
 A heartfelt thanks to Sean for his time and patience. Working under his guidance has extended my understanding of ESD’s role within architecture. I have particularly enjoyed the analysis side of things with evaluating how a building performs sustainably, and then provide enhancements for the design to improve. His mentorship has been invaluable, and I have felt part of the team!
+
+![](/uploads/animation-image-1.png){: width="1525" height="857"}
 
 This experience has influenced my future career direction. I’ve found my groove in ESD and also developed a passion for sports facilities, drawn from my personal athletic background and the intersection of architecture with elite-level sports.
 
