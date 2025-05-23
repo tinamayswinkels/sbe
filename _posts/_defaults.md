@@ -7,7 +7,7 @@ description:
 image_path:
 banner-image_path:
 seo:
-  title: News | SBE
+  title: 
   description:
   keywords:
 ---

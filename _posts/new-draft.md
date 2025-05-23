@@ -1,17 +1,15 @@
 ---
 layout: post
 category: news
-title: Ashlee Jones Architectural Intern (and ESD)  Blog Post Week 11
-subtitle: Week 11 report
-description: Competition and publication drawings
-image_path: /uploads/girls-banh-mi-lunch-small.jpg
-banner-image_path: /uploads/igs-competition-drawings.png
+title:
+subtitle: 
+description: 
+image_path: 
+banner-image_path: 
 seo:
-  title: News | SBE
-  description: esd intern update
-  keywords: >-
-    Ashlee Jones Socrati Seretis and Alex Davies Peddle Thorp Architects Ivanhoe
-    Grammar School Aquatic and Recreational Centre Plenty Campus ESD SBE Intern
+  title: 
+  description: 
+  keywords: 
 ---
 Blog Post Week 11
 
