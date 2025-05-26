@@ -32,7 +32,7 @@ This experience has influenced my future career direction. I’ve found my groov
 
 Thanks to the Peddle Thorp, HSPC and SBE team for there support and guidance through the experience.
 
-To see where I head in the future feel free to follow me on Linked In.
+To see where I head in the future feel free to follow me on Linked In.  [Ashlee Jones - Architect Intern - SBE & Peddle Thorp \| LinkedIn](https://au.linkedin.com/in/ashlee-jones-55748a263)
 
 Best wishes,
 
