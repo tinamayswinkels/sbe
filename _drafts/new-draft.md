@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: test
+title: test 2
 subtitle:
 description: test
 image_path:
