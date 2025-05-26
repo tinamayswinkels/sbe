@@ -14,7 +14,9 @@ seo:
     projects—from healthcare facilities to sports, recreation, and aquatic
     centres; from multi-residential complexes to schools, religious buildings,
     and retail/service centres. 
-  keywords:
+  keywords: >-
+    ESD intern week 12 Linkedin Ashlee Jones SBE peddle thorp hawthorn HSPC
+    Revit daylighht ivanhoe aquatic
 ---
 Final Blog Post for Week 12
 
