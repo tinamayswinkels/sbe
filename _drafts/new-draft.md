@@ -1,9 +1,9 @@
 ---
 layout: post
-category:
-title:
+category: news
+title: test
 subtitle:
-description:
+description: test
 image_path:
 banner-image_path:
 seo:
@@ -11,3 +11,4 @@ seo:
   description:
   keywords:
 ---
+test
