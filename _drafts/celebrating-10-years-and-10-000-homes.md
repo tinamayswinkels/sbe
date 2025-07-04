@@ -6,8 +6,8 @@ subtitle: Collaboration Celebration
 description: >-
   SBE recently celebrated more than 10 years of collaboration with ‘Energy Smart
   Housing’ and the delivery of ESD Services to more than 10,000 homes.
-image_path: /uploads/20250703-134423-1.jpg
-banner-image_path:
+image_path: /uploads/20250703-134423-2.jpg
+banner-image_path: /uploads/tower-westbourne.jpg
 seo:
   title:
   description:
