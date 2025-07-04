@@ -1,6 +1,6 @@
 ---
 layout: post
-category: other
+category: news
 title: Celebrating 10+years and 10,000+ homes
 subtitle: Collaboration Celebration
 description: >-
