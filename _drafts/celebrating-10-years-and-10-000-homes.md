@@ -11,7 +11,7 @@ banner-image_path:
 seo:
   title:
   description:
-  keywords:
+  keywords: energy smart housing sbe collaboration 10,000 homes 10+ years NatHERS ESD
 ---
 Celebrating 10+years and 10,000+ homes
 
