@@ -6,7 +6,7 @@ subtitle: Collaboration Celebration
 description: >-
   SBE recently celebrated more than 10 years of collaboration with ‘Energy Smart
   Housing’ and the delivery of ESD Services to more than 10,000 homes.
-image_path: /uploads/20250703-134423.jpg
+image_path: /uploads/20250703-134423-1.jpg
 banner-image_path:
 seo:
   title:
@@ -17,7 +17,7 @@ Celebrating 10+years and 10,000+ homes
 
 SBE recently celebrated more than 10 years of collaboration with ‘Energy Smart Housing’ and the delivery of ESD Services to more than 10,000 homes.
 
-Janos Toris from Energy Smart Housing is an expert accredited NatHERS energy rater and he provides NatHERS rating assessments on projects ranging from single dwellings through to multi residential towers and penthouses.
+Janos Toris from Energy Smart Housing is an expert accredited NatHERS energy rater and he provides NatHERS rating assessments on projects ranging from single dwellings through to multi residential towers, penthouses and entire housing developments.
 
 Janos’s work has contributes to SBE’s total ESD Service delivery and has helped to establish SBE’s reputation for efficient and effective ESD Consulting.
 
