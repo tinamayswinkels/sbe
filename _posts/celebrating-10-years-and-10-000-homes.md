@@ -19,7 +19,7 @@ SBE recently celebrated more than 10 years of collaboration with ‘Energy Smart
 
 Janos Toris from Energy Smart Housing is an expert accredited NatHERS energy rater and he provides NatHERS rating assessments on projects ranging from single dwellings through to multi residential towers, penthouses and entire housing developments.
 
-Janos’s work has contributes to SBE’s total ESD Service delivery and has helped to establish SBE’s reputation for efficient and effective ESD Consulting.
+Janos’s work  contributes to SBE’s total ESD Service delivery and has helped to establish SBE’s reputation for efficient and effective ESD Consulting.
 
 We thank Janos for all his good work and look forward to many more years of fruitful collaboration.
 
