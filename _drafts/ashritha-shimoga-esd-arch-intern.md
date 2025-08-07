@@ -5,7 +5,7 @@ title: Ashritha Shimoga ESD/Arch Intern
 subtitle: week 1
 description: introduction to Ash
 image_path: /uploads/img-9123.jpeg
-banner-image_path:
+banner-image_path: /uploads/img-9135.jpeg
 seo:
   title:
   description:
