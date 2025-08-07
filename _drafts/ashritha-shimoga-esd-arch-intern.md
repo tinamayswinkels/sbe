@@ -4,12 +4,12 @@ category: news
 title: Ashritha Shimoga ESD/Arch Intern
 subtitle: week 1
 description: introduction to Ash
-image_path: /uploads/img-9123.jpeg
-banner-image_path: /uploads/img-9135.jpeg
+image_path: /uploads/img-9123-1.jpeg
+banner-image_path: /uploads/img-9135-1.jpeg
 seo:
-  title:
-  description:
-  keywords:
+  title: Ashritha Shimoga week 1 blog
+  description: introduction
+  keywords: Ashritha Shimoga ESD Intern week one 1 blog
 ---
 Hello, my name is Ashritha Shimoga, and I am currently in my final year of the Master of Architecture program at the University of Melbourne, with a specialisation in Environmental Design. I am a Green Star Accredited Professional (GSAP), and an active student member of both the Australian Passivhaus Association (APA) and the Australian Building Sustainability Association (ABSA).
 
