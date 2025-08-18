@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: week 2 intern update
+title: week 2 ESD intern update
 subtitle: intern week 2 report from Ash
 description: >-
   Resolving the building envelope details and successfully completed the
@@ -10,9 +10,11 @@ description: >-
 image_path: /uploads/view-1.png
 banner-image_path: /uploads/view-3.png
 seo:
-  title:
-  description:
-  keywords: ash esd intern week 2 blog
+  title: Blog update
+  description: ' Simulations under the J1V3 Building Assessment, in accordance with Section J of the NCC 2022 Building Code'
+  keywords: >-
+    ash esd intern week 2 blog  simulations under the J1V3 Building Assessment,
+    in accordance with Section J of the NCC 2022 Building Code
 ---
 **Week 2 Internship Blog – Peddle Thorp and SBE**
 
