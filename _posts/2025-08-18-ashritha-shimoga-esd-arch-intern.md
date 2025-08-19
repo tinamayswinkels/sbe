@@ -17,7 +17,7 @@ I joined Peddle Thorp Architects and SBE as an Intern this week, where I’m exc
 
 Currently, I am working on a sustainable design platform called Better Building. This tool analyses various environmental performance factors such as daylight, carbon, energy, and moisture to support the design of more sustainable and energy-efficient buildings.
 
-In my first week, I began working on the Cabrini Health project, which is located on Wattletree Road in Malvern. I assisted in creating a 3D model that supports sustainable design assessments and compliance analysis, providing valuable insights into early-stage design evaluation.
+In my first week, I began working on a propsoed Hospital project. I assisted in creating a 3D model that supports sustainable design assessments and compliance analysis, providing valuable insights into early-stage design evaluation.
 
 Overall, I’m incredibly grateful for the opportunity to contribute to meaningful projects at Peddle Thorp and SBE, and I look forward to building on my passion for environmentally sustainable architecture.
 
