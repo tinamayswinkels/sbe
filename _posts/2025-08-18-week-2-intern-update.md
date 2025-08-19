@@ -7,8 +7,8 @@ description: >-
   Resolving the building envelope details and successfully completed the
   modelling component of the Cabrini Health project using the Better Building
   tool.
-image_path: /uploads/interior-1-1.png
-banner-image_path: /uploads/interior-1.png
+image_path: /uploads/interior-1-2.png
+banner-image_path: /uploads/view-3a.png
 seo:
   title: Blog update
   description: ' Simulations under the J1V3 Building Assessment, in accordance with Section J of the NCC 2022 Building Code'
