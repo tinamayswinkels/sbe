@@ -5,8 +5,8 @@ title: week 2 ESD intern update
 subtitle: intern week 2 report from Ash
 description: >-
   Resolving the building envelope details and successfully completed the
-  modelling component of the Cabrini Health project using the Better Building
-  tool.
+  modelling component of the proposed hospital using the Better Building tool
+  (Speckel).
 image_path: /uploads/interior-1-2.png
 banner-image_path: /uploads/view-3a.png
 seo:
