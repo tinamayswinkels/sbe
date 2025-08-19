@@ -20,7 +20,7 @@ seo:
 
 &nbsp;
 
-During week two of my internship at Peddle Thorp and SBE, I focused on resolving the building envelope details and successfully completed the modelling component of a propsoed Hospital project using the Better Building tool. This phase of the project provided me with a valuable opportunity to understand the complexities of thermal performance modelling and the impact of envelope detailing on energy efficiency.
+During week two of my internship at Peddle Thorp and SBE, I focused on resolving the building envelope details and successfully completed the modelling component of a proposed Hospital project using the Better Building tool. This phase of the project provided me with a valuable opportunity to understand the complexities of thermal performance modelling and the impact of envelope detailing on energy efficiency.
 
 I was also given the opportunity to conduct simulations under the J1V3 Building Assessment, in accordance with Section J of the NCC 2022 Building Code. Engaging with this regulatory framework enhanced my understanding of compliance requirements related to building sustainability and performance.
 
