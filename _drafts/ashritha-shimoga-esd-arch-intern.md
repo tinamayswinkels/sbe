@@ -26,3 +26,5 @@ I then resumed working on the proposed hospital project in Melbourne, where I co
 Following the simulation, I was asked to draft my first Green Star Daylight Modelling Report by Sean. This involved compiling all relevant data and visuals from the simulation into a structured Spatial Daylight Autonomy (SDA) report. It was rewarding to collate and communicate the final performance outcomes after several days of modelling and refinement.
 
 Looking ahead to next week, I am particularly excited about attending upcoming site visits and contributing to new projects that will further expand my understanding of sustainable architectural design in practice.
+
+![](/uploads/259-whitehorse-rd.png)
