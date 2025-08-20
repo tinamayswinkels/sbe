@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: Ashritha Shimoga ESD/Arch Intern Blog
+title: Ashritha Shimoga ESD/Arch Intern Blog week 3
 subtitle: Week 3 Internship Blog - Peddle Thorp and SBE
 description: Week 3 Report - Daylight Modelling
 image_path: /uploads/sda-model-1.png
