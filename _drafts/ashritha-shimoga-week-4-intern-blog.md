@@ -7,9 +7,9 @@ description: Week 4 Internship Blog - Peddle Thorp and SBE
 image_path: /uploads/gft-webpage.png
 banner-image_path: /uploads/scoresby-apt-proposed-final.png
 seo:
-  title:
-  description:
-  keywords:
+  title: Ashritha Shimoga - SBE week 4 intern blog
+  description: Ashritha Shimoga - SBE week 4 intern blog
+  keywords: 'Ashritha Shimoga - SBE week 4 intern blog site visit PTA '
 ---
 **Week 4 Internship Blog - Peddle Thorp and SBE**
 
