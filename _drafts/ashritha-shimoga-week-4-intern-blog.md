@@ -4,8 +4,8 @@ category: news
 title: Ashritha Shimoga week 4 intern blog
 subtitle: Week 4 and a great site visit
 description: Week 4 Internship Blog - Peddle Thorp and SBE
-image_path:
-banner-image_path:
+image_path: /uploads/gft-webpage.png
+banner-image_path: /uploads/scoresby-apt-proposed-final.png
 seo:
   title:
   description:
