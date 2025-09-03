@@ -22,3 +22,5 @@ Later in the week, I explored Specification 44 through the of the Better Buildin
 The model is a work in progress - I will test it using constructions as originally proposed and then enhance these to see how well we can get it to perform.  How well will it rate?  Stay tuned.
 
 I look forward to continuing to explore further ESD-related challenges and solutions in the weeks ahead.
+
+&nbsp;
