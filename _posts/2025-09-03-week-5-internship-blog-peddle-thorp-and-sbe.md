@@ -19,6 +19,8 @@ During week five of my internship at Peddle Thorp and SBE, I had the opportunity
 
 Later in the week, I explored Specification 44 through the of the Better Building tool, which outlines the methodology for calculating heating, cooling, and thermal energy load limits to ensure compliance with J1P2 and H6P1 building regulations. To better understand how historical architectural design aligns or conflicts with modern performance standards, I used Le Corbusier’s Villa Savoye as a case study. The scenario was framed as a hypothetical client in Victoria wanting a home inspired by Corbusier’s iconic modernist design.
 
+&nbsp;![](/uploads/villa-savoye.png)
+
 The model is a work in progress - I will test it using constructions as originally proposed and then enhance these to see how well we can get it to perform.  How well will it rate?  Stay tuned.
 
 I look forward to continuing to explore further ESD-related challenges and solutions in the weeks ahead.
