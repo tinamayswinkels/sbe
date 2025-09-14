@@ -6,8 +6,8 @@ subtitle: Week 6 Internship Blog - Peddle Thorp and SBE
 description: >-
   I had the opportunity to attend another site visit this time to the Wurdi
   Baierr Aquatic & Recreation Centre located in Torquay.
-image_path: /uploads/image-1.heic
-banner-image_path: /uploads/image-2.heic
+image_path: /uploads/image-5.jpeg
+banner-image_path: /uploads/image-2.jpeg
 seo:
   title: esd intern blog
   description: >-
