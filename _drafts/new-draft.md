@@ -5,13 +5,15 @@ title: Week 7 Internship Blog
 subtitle: >-
   I have officially reached the halfway point of my internship with Peddle Thorp
   Architects and Sustainable Built Environments (SBE)!
-description:
+description: blog update
 image_path: /uploads/case-study-bd-model.png
 banner-image_path: /uploads/img-9579.jpeg
 seo:
   title:
   description:
-  keywords:
+  keywords: >-
+    Le Corbusier's Villa Savoye ESD Intern H6P1 (Thermal Performance) and H6P2
+    (Whole-of-Home)  Ashritha Shimoga - SBE Peddle thorp
 ---
 I have officially reached the halfway point of my internship with Peddle Thorp Architects and Sustainable Built Environments (SBE)!
 
@@ -23,7 +25,7 @@ Representing the Peddle Thorp and SBE both was a rewarding experience. I had the
 
 Back in the office, I continued to deepen my technical skills by reviewing the Specification 44 course in the Better Building tool. This course is essential for conducting H6P1 (Thermal Performance) and H6P2 (Whole-of-Home) simulations, both of which rely heavily on correctly configuring the “Building” settings.
 
-I then applied these learnings to a case study of Le Corbusier's Villa Savoye, using the Better Building tool to explore its performance characteristics.
+I then applied these learnings to a case study of Le Corbusier’s Villa Savoye, using the Better Building tool to explore its performance characteristics.
 
 ![](/uploads/villa-savoye-exploded-iso.jpg)
 
