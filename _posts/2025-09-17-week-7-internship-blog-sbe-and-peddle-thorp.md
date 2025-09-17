@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: Week 7 Internship Blog
+title: Week 7 Internship Blog SBE and Peddle thorp
 subtitle: >-
   I have officially reached the halfway point of my internship with Peddle Thorp
   Architects and Sustainable Built Environments (SBE)!
