@@ -9,8 +9,8 @@ description: blog update
 image_path: /uploads/case-study-bd-model.png
 banner-image_path: /uploads/img-9579.jpeg
 seo:
-  title:
-  description:
+  title: esd intern blog update
+  description: esd intern blog update
   keywords: >-
     Le Corbusier's Villa Savoye ESD Intern H6P1 (Thermal Performance) and H6P2
     (Whole-of-Home)  Ashritha Shimoga - SBE Peddle thorp
