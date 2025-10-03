@@ -19,11 +19,13 @@ I have now completed my eighth week at Peddle Thorp Architects and Sustainable B
 
 This week, I resumed work on finalising my Villa Savoye Case Study. A key focus was correcting discrepancies in element heights and material selections, as various architectural drawings showed differing dimensions. Additionally, some inconsistencies were due to software settings. Once these adjustments were completed, I proceeded to run initial thermal performance simulations.
 
+![](/uploads/updated-results-initial.png)
+
 During this stage, I also learned how to extract and evaluate information related to existing construction materials, both prior to and after making modifications. For the Villa Savoye model, I used the following key materials based on its original construction: reinforced concrete, plastered masonry, and iron handrails. These materials were assigned assumed thermal properties appropriate for the simulation.
 
 Using the Better Building tool, I entered these material values and completed the thermal model of the Villa Savoye. I then ran an initial simulation for H6P1 Thermal Performance. The results significantly exceeded the maximum allowable thresholds, indicating that further design improvements were necessary.
 
-To better understand the thermal performance outcomes, I conducted a series of focused studies to examine how different environmental and design factors influence the building's energy performance. Two key variables were explored:
+To better understand the thermal performance outcomes, I conducted a series of focused studies to examine how different environmental and design factors influence the building’s energy performance. Two key variables were explored:
 
 **1\. Orientation**
 
