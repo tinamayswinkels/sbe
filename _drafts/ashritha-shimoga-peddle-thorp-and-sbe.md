@@ -9,9 +9,11 @@ description: >-
 image_path: /uploads/adjustments-view-2.png
 banner-image_path: /uploads/villa-savoye-1.png
 seo:
-  title:
-  description:
-  keywords:
+  title: Week 8 Blog ESD Intern Ashritha Shimoga - SBE
+  description: Week 8 Blog ESD Intern Ashritha Shimoga - SBE
+  keywords: >-
+    Week 8 Blog ESD Intern Ashritha Shimoga - SBE Peddle thorp  Villa Savoye
+    Case Study Le Corbusier 
 ---
 **Week 8 Internship Blog – Peddle Thorp and SBE**
 
