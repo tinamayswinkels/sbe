@@ -9,9 +9,13 @@ description: >-
 image_path: /uploads/screenshot-2025-10-13-at-1-04-45-pm.png
 banner-image_path: /uploads/ash-1.png
 seo:
-  title:
-  description:
-  keywords:
+  title: esd intern blog
+  description: >-
+    Week 9 Completed – 2 Weeks to Go at Peddle Thorp Architects and Sustainable
+    Built Environments!
+  keywords: >-
+    ashimoga@sbe.com.au, Ashritha Shimoga, ESD intern  blog SBE Peddle thorp,
+    WSUD, STORM
 ---
 **<u>Week 9 Internship Blog - Peddle Thorp and SBE</u>**
 
