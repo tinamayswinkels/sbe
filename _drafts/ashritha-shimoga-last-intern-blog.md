@@ -33,4 +33,6 @@ As I now resume my university studies and work towards completing my Master of A
 
 **Ashritha Shimoga**<br>*Student of Architecture \| Green Star Accredited Professional*<br>*Green Building Council of Australia \| University of Melbourne*
 
+![](/uploads/processed-599fdc4f-3dcf-4d9d-8999-754cc88cb5ee.jpeg)
+
 &nbsp;
