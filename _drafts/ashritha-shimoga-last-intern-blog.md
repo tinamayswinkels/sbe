@@ -11,7 +11,7 @@ seo:
   description: weekly blog
   keywords: >-
     SBE Peddle Thorp intern ESD architect experience melbourne uni mentor last
-    day report blog
+    day report blog Ashritha Shimoga
 ---
 **Final Reflections with a note of thanks – Concluding My Internship at Peddle Thorp Architects and Sustainable Built Environments (SBE)**
 
