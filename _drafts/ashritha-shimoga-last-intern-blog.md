@@ -4,12 +4,14 @@ category: news
 title: Ashritha Shimoga last Intern blog
 subtitle: ESD Intern SBE and Peddle Thorp
 description: final weekly update
-image_path:
-banner-image_path:
+image_path: /uploads/img-0151.jpeg
+banner-image_path: /uploads/img-0160.jpeg
 seo:
-  title:
-  description:
-  keywords:
+  title: ESD Intern
+  description: weekly blog
+  keywords: >-
+    SBE Peddle Thorp intern ESD architect experience melbourne uni mentor last
+    day report blog
 ---
 **Final Reflections with a note of thanks – Concluding My Internship at Peddle Thorp Architects and Sustainable Built Environments (SBE)**
 
