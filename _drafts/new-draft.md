@@ -12,9 +12,11 @@ description: >
 image_path: /uploads/1779364719645-1.jpg
 banner-image_path: /uploads/1779364702310-1.jpg
 seo:
-  title:
-  description:
-  keywords:
+  title: ESD Academic–Industry Collaboration Project (Pro Bono)
+  description: >-
+    I was honoured to share the ESD Retrofit Strategies Report with Tony Mordini
+    and Lachlan Gilbert at Melbourne High School last week.
+  keywords: 'Tracy Huang ESD Tony Mordini and Lachlan Gilbert Art Building SBE ESD '
 ---
 I was honoured to share the ESD Retrofit Strategies Report with Tony Mordini and Lachlan Gilbert at Melbourne High School last week.
 
