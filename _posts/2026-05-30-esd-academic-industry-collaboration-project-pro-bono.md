@@ -1,7 +1,7 @@
 ---
 layout: post
 category:
-title: ESD Academic–Industry Collaboration Project (Pro Bono)
+title: ESD Academic–Industry Collaboration Project Pro Bono
 subtitle: >-
   I was honoured to share the ESD Retrofit Strategies Report with Melbourne High
   School
