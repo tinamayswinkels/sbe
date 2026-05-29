@@ -2,7 +2,7 @@
 layout: post
 category: other
 title: '[ESD Academic-Industry Collaboration Project (Pro Bono)]'
-subtitle:
+subtitle: ESD retrofit project
 description: >-
   I’ve started working on a real retrofit project for an 18-year-old Art
   Building at Melbourne High School, with mindset guidance and tech support from
