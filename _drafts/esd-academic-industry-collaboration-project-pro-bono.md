@@ -5,7 +5,10 @@ title: ESD Academic–Industry Collaboration Project (Pro Bono)
 subtitle: >-
   I was honoured to share the ESD Retrofit Strategies Report with Tony Mordini
   and Lachlan Gilbert at Melbourne High School last week.
-description:
+description: >-
+  I’m delighted for the opportunity to collaborate with Melbourne High School
+  and SBE through this ESD Academic–Industry Collaboration Project (Pro Bono),
+  developed over the past two months with support from SBE.
 image_path: /uploads/1779364719645.jpg
 banner-image_path: /uploads/1779364702310.jpg
 seo:
