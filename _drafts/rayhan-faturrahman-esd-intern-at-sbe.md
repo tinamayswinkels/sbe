@@ -10,9 +10,14 @@ description: >-
 image_path: /uploads/picture1.jpg
 banner-image_path: /uploads/picture1-1.jpg
 seo:
-  title:
-  description:
-  keywords:
+  title: Rayhan Faturrahman ESD Intern at SBE
+  description: >-
+    ESD intern at SBE starting from July up until September 2026. This is my
+    very first internship log.
+  keywords: >-
+    Rayhan Faturrahman ESD Intern SBE Melbourne Master of Environment, Energy
+    Efficiency Modelling and Implementation, University of Melbourne, Better
+    Buildings, Speckel.
 ---
 Good evening to all SBE blog readers, my name is Rayhan and I will be starting as an ESD intern at SBE starting from July up until September 2026. This is my very first internship log.
 
