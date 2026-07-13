@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: Rayhan  Faturrahman ESD intern at SBE
+title: Rayhan Faturrahman ESD intern at SBE
 subtitle: an ESD intern in SBE starting from July up until September 2026
 description: >-
   Good evening to all SBE blog readers, my name is Rayhan and I will be starting
