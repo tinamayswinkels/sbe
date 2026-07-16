@@ -35,7 +35,7 @@ A Few things that became my lesson learnt for this first week:
 
 2\. The same principle goes for the HVAC system, set up simple connections, and as the project goes, adjust the COP or other variables
 
-I will continue to assess the building using the BESS tool (and perhaps exoplore ways to further optimise its performance and then learning to operate the bluefactor tool for stormwater management. Excited to learn more at SBE.
+I will continue to assess the building using the BESS tool (and perhaps explore ways to further optimise its performance and then learning to operate the bluefactor tool for stormwater management. Excited to learn more at SBE.
 
 &nbsp;
 
