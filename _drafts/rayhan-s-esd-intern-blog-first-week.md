@@ -6,7 +6,7 @@ subtitle: Muhammad Rayhan Faturrahman ESD Intern week 1
 description: |
   First Week ESD Intern Blog
 image_path: /uploads/model-image.png
-banner-image_path:
+banner-image_path: /uploads/figs.png
 seo:
   title:
   description:
