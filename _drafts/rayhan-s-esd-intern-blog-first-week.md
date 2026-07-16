@@ -8,9 +8,12 @@ description: |
 image_path: /uploads/model-image.png
 banner-image_path: /uploads/figs.png
 seo:
-  title:
-  description:
-  keywords: "  Few things that became my lesson learnt for this first week: 1.\tFor building fabric, always start with simple model, assign typical U or R-value first (for each building element) for different scenarios. Then later iterate using real world product catalogue after the result show compliance  2.\tThe same principle goes for the HVAC system, set up simple connections, and as the project goes, adjust the COP or other variables I am now halfway into finalising this project and the rest of the workflows are to continue to assess the building using BESS and then learning to operate blue factor for stormwater management. Excited to learn more at SBE. ESD Rayhan Benalla FJC "
+  title: ESD intern blog week 1 SBE
+  description: >-
+    My first week interning in SBE was filled with hands-on learning of Better
+    Building (previously known as ‘Speckel’) software operations, and using this
+    application.
+  keywords: SBE. ESD Rayhan Benalla FJC  Muhammad Rayhan Faturrahman
 ---
 My first week interning in SBE was filled with hands-on learning of Better Building (previously known as ‘Speckel’) software operations, and using this application, I have to be able to produce a J1V3 and daylight factor simulation. Both of these parameters are simulated so I can input them for a Built Environment Sustainability Scorecard (BESS) Assessment. For this week’s hands-on, I was given an art school assessment project. This is an exciting opportunity for me to be able to assess class 9b building’s sustainability principle from the start of the project.
 
