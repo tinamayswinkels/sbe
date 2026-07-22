@@ -1,7 +1,7 @@
 ---
 layout: post
 category: news
-title: ESD Intern site visit and a Benalla school deep dive
+title: ESD Intern site visit to a Torquay pool under construction
 subtitle: 'Week 2 Internship Log '
 description: >-
   During Week 2, I continued developing the ESD of FCJ College Benalla (the art
