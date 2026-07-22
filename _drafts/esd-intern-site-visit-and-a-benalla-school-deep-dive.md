@@ -11,9 +11,14 @@ description: >-
 image_path: /uploads/old-sda.png
 banner-image_path: /uploads/20260513-150534.jpg
 seo:
-  title:
-  description:
-  keywords:
+  title: Week 2 ESD intern blog
+  description: >-
+    Week 2 ESD intern blog reporting on a school in Benalla and a pool in
+    Torquay
+  keywords: >-
+    muhammadrayhan.faturrahman@student.unimelb.edu.au,  Muhammad Rayhan
+    Faturrahman <muhammadrayhan.faturrahman, ESD intern, SBE, Torquay pool,
+    benalla school, ESD, Peddle thorpe, Chaulk Architects
 ---
 During Week 2, I continued developing the ESD of FCJ College Benalla (the art college I mentioned last week), progressing into a deeper level of detail within the Better Building model.
 
