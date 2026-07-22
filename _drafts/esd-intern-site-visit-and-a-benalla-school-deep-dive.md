@@ -8,8 +8,8 @@ description: >-
   college I mentioned last week) and I also had an opportunity to do a site
   visit to one of the ongoing aquatic centre projects that Peddle Thorpe
   handled.
-image_path:
-banner-image_path:
+image_path: /uploads/old-sda.png
+banner-image_path: /uploads/20260513-150534.jpg
 seo:
   title:
   description:
