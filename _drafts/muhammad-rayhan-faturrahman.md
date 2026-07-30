@@ -1,11 +1,14 @@
 ---
 layout: post
 category:
-title: Muhammad Rayhan Faturrahman
-subtitle:
-description:
-image_path:
-banner-image_path:
+title: Muhammad Rayhan Faturrahman ESD Intern blog week 3
+subtitle: site visists, school investigations and condensation modelling.
+description: >-
+  site visist, school modleling investigations (trying to improve the building
+  efficiencies to achieve deisgn excellence) and started dabblling in
+  condensation modelling - a new tool to learn.
+image_path: /uploads/processed-e0a56fdf-c7ac-4774-bb72-45994805f424.jpeg
+banner-image_path: /uploads/processed-1678696d-c0b7-4b09-824f-a323ed33900a.jpeg
 seo:
   title: Muhammad Rayhan Faturrahman ESD Intern blog week 3
   description: Muhammad Rayhan Faturrahman ESD Intern blog week 3
@@ -24,3 +27,5 @@ On the modelling side, I continued working on the proposed FCJ Benalla project, 
 From the updated drawings, I found that the architect has already specified a good building fabric, with external wall R‑values better than the minimum NCC Part J4 requirements. Because of that, I decided to focus on other metrics to improve overall energy performance.
 
 Before changing the HVAC system efficiency, I first explored passive strategies. The component that interested me the most was the canopy design. The initial idea was that extending the canopy and adding vertical shading devices to some windows that receive harsh direct sunlight would reduce the cooling energy demand. I tested three scenarios: the original design with the base case canopy, a scenario without any canopy, and a scenario with an extended canopy plus vertical shading devices.
+
+Also started dabbling with condensation modelling. More to follow.
