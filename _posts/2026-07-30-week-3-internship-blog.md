@@ -2,7 +2,7 @@
 layout: post
 category: news
 title: Week 3 Internship Blog
-subtitle: Muhammad Rayhan Faturrahman ESD Interna blog week 3
+subtitle: Muhammad Rayhan Faturrahman ESD Intern blog week 3
 description: 'Muhammad Rayhan Faturrahman '
 image_path: /uploads/processed-e0a56fdf-c7ac-4774-bb72-45994805f424-1.jpeg
 banner-image_path: /uploads/processed-1678696d-c0b7-4b09-824f-a323ed33900a-2.jpeg
