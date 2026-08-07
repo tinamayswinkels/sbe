@@ -44,4 +44,4 @@ For the innovation section, I claimed 3 points. Notably, one innovation score wa
 
 To reach 70% BESS, I also recommended skylights and additional side windows for better lighting. The building's daylight factor was already a decent 39%; with these additions, the daylight factor score reaches 60%.
 
-Overall, the base development sits at 55% which already satisfied best practice in the BESS scorecard. Using Better Building and Blue Factor modelling, the project reached 70% BESS ("Excellence"). Looking forward to deliver the final project to the architect next week :D
+Overall, the base development sits at 55% which already satisfied best practice in the BESS scorecard. Using Better Building and Blue Factor modelling, the project reached 70% BESS ("Excellence"). Looking forward to delivering the assessment to the architect next week :D
