@@ -15,8 +15,8 @@ seo:
   title: week 4 esd intern blog
   description: week 4 esd intern blog
   keywords: >-
-    hygrothermal esd internen SBE ESD Peddle thorp Muhammad Rayhan Faturrahman
-    internship
+    hygrothermal esd intern SBE ESD Peddle thorp Muhammad Rayhan Faturrahman
+    internship FCJ Benalla Chaulk architects
 ---
 Continuing FCJ Benalla modelling. My focus in week 3 was refining the base case model, which still had mismatches against the architectural drawings, particularly the wall assembly. I then cross-checked the mechanical drawings to confirm which rooms are conditioned, replacing last week's assumption-based assignment (done before I had these drawings) with actual specifications. The updated drawings showed the architect had already specified external wall R-values above the NCC Part J4 minimum, so I shifted focus to other performance metrics.
 
