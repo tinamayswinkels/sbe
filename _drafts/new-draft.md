@@ -1,9 +1,9 @@
 ---
 layout: post
 category:
-title:
-subtitle:
-description:
+title: 'Week 5 Internship Log '
+subtitle: 'Week 5 Internship Log '
+description: Rayhan Faturrahman
 image_path:
 banner-image_path:
 seo:
@@ -27,6 +27,4 @@ While this particular project covers a lot of technical skills that ESD consulta
 
 &nbsp;
 
-&nbsp;
-
-[https://www.linkedin.com/in/mrayhanfatur](https://www.linkedin.com/in/mrayhanfatur)
+Rayhan Faturrahman  [https://www.linkedin.com/in/mrayhanfatur](https://www.linkedin.com/in/mrayhanfatur)
