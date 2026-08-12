@@ -7,9 +7,9 @@ description: Rayhan Faturrahman
 image_path:
 banner-image_path:
 seo:
-  title:
-  description:
-  keywords:
+  title: week 5 Blog
+  description: FCJ Benalla ESD Benchmarking Study
+  keywords: Rayhan Faturrahman Week 5 Internship Log FCJ Benalla ESD Benchmarking Study
 ---
 **Week 5 Internship Log**
 
