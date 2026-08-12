@@ -13,7 +13,7 @@ seo:
     ESD Intern Blog week 5
   keywords: >-
     FCJ Benalla ESD Benchmarking Study Rayhan Faturrahman <rayhan@sbe.com.au>
-    ESD Intern Chaulk Architects
+    ESD Intern Chaulk Architects https://www.linkedin.com/in/mrayhanfatur
 ---
 **Week 5 Internship Log**
 
@@ -29,6 +29,6 @@ This project has been a valuable first introduction to professional ESD consulti
 
 While this particular project covers a lot of technical skills that ESD consultant needs to be equipped, such as BESS reporting, energy modelling, Section J compliance checking, daylighting, and blue factor assessment. I still have so much to learn in the coming weeks, and next week will be on moisture modelling on building envelope and upfront carbon assessment. This is an area that I am particularly looking forward as I have never had any hands-on industry case study that requires both skillsets.
 
-Rayhan Faturrahman
+Rayhan Faturrahman [https://www.linkedin.com/in/mrayhanfatur](https://www.linkedin.com/in/mrayhanfatur)
 
 &nbsp;
