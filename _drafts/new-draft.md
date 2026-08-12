@@ -4,8 +4,8 @@ category:
 title: 'Week 5 Internship Log '
 subtitle: 'Week 5 Internship Log '
 description: Rayhan Faturrahman
-image_path:
-banner-image_path:
+image_path: /uploads/screenshot-2026-08-12-164107-1.png
+banner-image_path: /uploads/screenshot-2026-08-12-164148-1.png
 seo:
   title: week 5 Blog
   description: FCJ Benalla ESD Benchmarking Study
