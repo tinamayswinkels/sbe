@@ -7,8 +7,8 @@ description: >-
   This week, I transitioned from the school building ESD improvement project to
   a new project tackling preliminary thermal performance assessment for an
   aquatic centre. 
-image_path:
-banner-image_path:
+image_path: /uploads/image-3-1.png
+banner-image_path: /uploads/image-4.png
 seo:
   title:
   description:
