@@ -10,9 +10,14 @@ description: >-
 image_path: /uploads/image-3-1.png
 banner-image_path: /uploads/image-4.png
 seo:
-  title:
-  description:
-  keywords:
+  title: 'Week 6 ESD Internship Log: Envelope Thermal Performance Assessment'
+  description: >-
+    This week, I transitioned from the school building ESD improvement project
+    to a new project tackling preliminary thermal performance assessment for an
+    aquatic centre
+  keywords: >-
+    HAMT, better building, Rayhan, esd intern, week 6 blog, aquatic cnetre wall
+    constructions
 ---
 **Week 6 Internship Log: Envelope Thermal Performance Assessment**
 
