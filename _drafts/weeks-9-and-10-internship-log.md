@@ -14,9 +14,9 @@ seo:
   keywords: ESD intern blong week 9 and 10 upfront carbon ESD SBE Peddle thorp
     aquatoc centre steel concrete SAP ESD review
 ---
-Week 10 Internship Log <br />Initial Carbon Assessment and Embodied Emissions
+Weeks 8-9 Internship Log <br />Initial Carbon Assessment and Embodied Emissions
 
-I had the chance to handle a new task in weeks 9 and 10 of my internship.  The objective of this exercise was to conduct and upfront carbon assessment for an aquatic and recreation center in Bacchus Marsh.
+I had the chance to handle a new task in weeks 8 and 9 of my internship.  The objective of this exercise was to conduct and upfront carbon assessment for an aquatic and recreation center in Bacchus Marsh.
 
 To tackle this project, I utilised the upfront carbon analysis tool in Better Building as I had already specified all the envelope materials previously, so, I just needed to tag (or label) which envelope belonged to which group of already specified materials. Honestly, I thought this would be the easy part of the task, as the Better Building already automated the quantity calculations and thus, the emissions calculation, but it was not that simple!.
 
