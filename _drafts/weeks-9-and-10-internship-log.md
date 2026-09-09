@@ -6,8 +6,8 @@ subtitle: Initial Upfront Carbon Assessment and Embodied Emissions
 description: I had the chance to handle a new project in this weeks 9 and 10 of
   my internship, the objective was is to conduct an upfront carbon assessment
   for an aquatic and recreation centre.
-image_path:
-banner-image_path:
+image_path: /uploads/image-5.png
+banner-image_path: /uploads/image-6.png
 seo:
   title:
   description:
