@@ -10,8 +10,9 @@ image_path: /uploads/image-5.png
 banner-image_path: /uploads/image-6.png
 seo:
   title:
-  description:
-  keywords:
+  description: ESD Intern blog week 9-10
+  keywords: ESD intern blong week 9 and 10 upfront carbon ESD SBE Peddle thorp
+    aquatoc centre steel concrete SAP ESD review
 ---
 Week 10 Internship Log <br />Initial Carbon Assessment and Embodied Emissions
 
