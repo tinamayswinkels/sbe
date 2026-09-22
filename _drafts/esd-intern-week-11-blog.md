@@ -36,4 +36,4 @@ As a parting gift, I vibe-coded this sustainability wheel generator based on the
 
 Signing out 22/06/2026, see you on other opportunities.
 
-Rayhan Faturrahman
+Rayhan Faturrahman  [Muhammad Rayhan Faturrahman \| LinkedIn](https://www.linkedin.com/in/mrayhanfatur/)
