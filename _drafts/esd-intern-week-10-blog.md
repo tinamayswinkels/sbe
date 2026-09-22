@@ -12,6 +12,7 @@ seo:
   title: ESD Intern Blog week 10
   description: ESD Intern Blog week 10.  update on progress
   keywords: Rayhan Faturrahman ESD intern SBE Peddle thorp melbourne university
+    carbon EE SDA embodied carbon upfornt carbon
 ---
 **Week 10 Log**
 
