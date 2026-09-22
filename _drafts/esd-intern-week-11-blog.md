@@ -6,12 +6,13 @@ subtitle: Rayhan Faturrahman ESD intern blog
 description: This was my final week of internship at SBE, and it was a valuable
   end to a placement filled with exposure to real built environment ESD projects
   that I would not normally have the chance to experience in academia
-image_path:
-banner-image_path:
+image_path: /uploads/day-1.png
+banner-image_path: /uploads/wheel-2.png
 seo:
-  title:
-  description:
-  keywords:
+  title: ESD intern blog final week
+  description: This was my final week of internship at SBE
+  keywords: Rayhan Faturrahman ESD intern blog carbon daylight SDA peddle thorp
+    melbourne university SBE ESD intern
 ---
 **Week 11**
 
