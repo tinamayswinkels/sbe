@@ -6,8 +6,8 @@ subtitle: ESD intern Rayhan Faturrahman ESD blog week 10
 description: This week marked another transition in my internship placement at
   SBE. On the first day, I revised my embodied emissions report for the aquatic
   centre project
-image_path:
-banner-image_path:
+image_path: /uploads/ee-graph.png
+banner-image_path: /uploads/ee-graph-2.png
 seo:
   title: ESD Intern Blog week 10
   description: ESD Intern Blog week 10.  update on progress
